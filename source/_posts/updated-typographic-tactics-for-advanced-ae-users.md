@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Typographic Tactics for Advanced AE Users"
-date: 2024-05-30 17:23:21
-updated: 2024-06-02 12:13:22
+date: 2024-06-04T10:42:09.235Z
+updated: 2024-06-05T10:42:09.235Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Typographic Tactics for Advanced AE Users"
 excerpt: "This Article Describes [Updated] Typographic Tactics for Advanced AE Users"
 keywords: "Typography Mastery (AE),Design Strategies (Advanced),Font Techniques AE,AE Type Practices,Layout Innovations AE,Advanced Typographic Skills,Visual Hierarchy Tactics"
-thumbnail: https://www.lifewire.com/thmb/4isEQKIP0BBLbseoVfsufDPeK90=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/MGigsEvent-00211-2b5de5ae028e447aad969c50f63a9b5f.jpg
+thumbnail: https://thmb.techidaily.com/9b9110ec4a61375e331a8801ee2c3323c1b29e5d640a76c9d9df4c625ff11a27.jpg
 ---
 
 ## Typographic Tactics for Advanced AE Users
@@ -88,26 +88,6 @@ These features also include adding texts and changing the fonts of those texts o
 
 The article discussed the detailed process of **how to add font to Adobe After Effects** application. The descriptive process of adding texts to video projects using After Effects have also been discussed throughout the article and the available alternatives that can help users with the same feature. I also discussed the various types of fonts that are available to the users in the application interface. These fonts are very easy to access and use. I hope this article will help in easing up the whole process of video editing using After Effects.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-These features also include adding texts and changing the fonts of those texts on your video. And for users who want to edit texts or fonts in their videos using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), here is how you can do it:
-
-![use filmora to edit device](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
-
-* First open that video that you want to edit in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and then you will be available with a tab called "Titles" on the top. Select that and select any style of title that you want to edit. There is a preview window available to look at the text fonts and designs.
-
-![open wanted video to edit in filmora](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
-
-* Select the text style you want to add for your title and then drag it from the title's library to your timeline. An alternate way to add texts or such title font is to right-click on it and select the "Apply" option.
-* Here you can also set a particular font or style for the title as your favorite by right-clicking on the library and then selecting "Add to favorites" for easy access.
-* If you want to add any opener (Intro) or end credits (outro) to your video, then there are plenty of options available in the "Title" tab. You can apply them by clicking on the "apply" button.
-* You can drag the edges of the text effect on the timeline to edit the duration of text on your video. The text effect can also be composed in the video frame by dragging anywhere you wish.
-* When you double click on the text effect, you get more text editing tools such as "font, size, alignment, color, etc." for the text. This also provides an animation tab where you can animate your texts.
-* After you are done, click "save" and the text effects will be added to your videos successfully.
-
-## Conclusion
-
-The article discussed the detailed process of **how to add font to Adobe After Effects** application. The descriptive process of adding texts to video projects using After Effects have also been discussed throughout the article and the available alternatives that can help users with the same feature. I also discussed the various types of fonts that are available to the users in the application interface. These fonts are very easy to access and use. I hope this article will help in easing up the whole process of video editing using After Effects.
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -130,3 +110,53 @@ The article discussed the detailed process of **how to add font to Adobe After E
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-audio-experience-budget-friendly-asmr-mics-reviewed/"><u>[Updated] Ultimate Audio Experience  Budget-Friendly ASMR Mics Reviewed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tech-triumphs-cutting-edge-vr-devices-reviewed/"><u>In 2024, Tech Triumphs  Cutting-Edge VR Devices Reviewed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-deficit-dilemma-lacking-inventiveness-in-vr/"><u>In 2024, The Deficit Dilemma  Lacking Inventiveness in VR</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/twilight-tones-adobe-premiere-blackouts-for-2024/"><u>Twilight Tones  Adobe Premiere Blackouts for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-hidden-potential-boost-productivity-essential-activities-during-podcast-sessions/"><u>[Updated] Unlock Hidden Potential, Boost Productivity  Essential Activities During Podcast Sessions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unprecedented-engagement-reaching-for-a-million-audience/"><u>In 2024, Unprecedented Engagement  Reaching for a Million Audience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-must-knows-before-elevating-systems/"><u>2024 Approved  Top 10 Must-Knows Before Elevating Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleashing-creativity-in-drone-video-post-production-for-2024/"><u>Unleashing Creativity in Drone Video Post-Production for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-8-vr-gaming-accessories-for-2024/"><u>Top 8 VR Gaming Accessories for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-techniques-to-increase-periscope-stream-velocity/"><u>[New] Techniques to Increase Periscope Stream Velocity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-hidden-history-in-your-browser-how-to-tackle-for-2024/"><u>The Hidden History in Your Browser  How to Tackle for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-comprehensive-guide-to-changing-console-voice-for-2024/"><u>The Comprehensive Guide to Changing Console Voice for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleashing-creativity-with-magix-video-pro-x/"><u>In 2024, Unleashing Creativity with Magix Video Pro X</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-virtual-quest-evaluating-current-progress-and-potential-hurdles/"><u>In 2024, The Virtual Quest  Evaluating Current Progress & Potential Hurdles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tailored-audio-connector-for-podcasting-pros/"><u>[Updated] Tailored Audio Connector for Podcasting Pros</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-quick-route-to-joy-embracing-the-ifunny-meme-app-for-2024/"><u>The Quick Route to Joy  Embracing the iFunny Meme App for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-eight-collections-for-graffiti-letters/"><u>[New] Top Eight Collections for Graffiti Letters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-how-to-use-zoom-to-stream-facebook-live/"><u>In 2024, How to Use Zoom to Stream Facebook Live</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transforming-views-into-brand-loyalty/"><u>In 2024, Transforming Views Into Brand Loyalty</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-quick-view-windows-photos/"><u>[Updated] Ultimate Quick View - Windows Photos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-zen-of-broadcasting-perfecting-zooms-techniques-for-youtube/"><u>In 2024, The Zen of Broadcasting  Perfecting Zoom's Techniques for YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-simple-art-of-capturing-breathtaking-slow-motion-shots-with-android/"><u>In 2024, The Simple Art of Capturing Breathtaking Slow-Motion Shots with Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-complete-manual-on-deleting-a-defunct-linkedin-profile/"><u>[New] The Complete Manual on Deleting a Defunct LinkedIn Profile</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/thrifty-cloud-haven-budget-storage-bulk-files-handling-for-2024/"><u>Thrifty Cloud Haven  Budget Storage, Bulk Files Handling for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamlining-cd-manipulation-with-wmp/"><u>[New] Streamlining Cd Manipulation with WMP</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tech-trends-spotlight-5-cutting-edge-camcorders-for-slow-motion/"><u>In 2024, Tech Trends Spotlight  5 Cutting-Edge Camcorders for Slow Motion</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-handling-haters-strategies-for-content-creators/"><u>In 2024, Handling Haters  Strategies for Content Creators</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/making-impeccable-square-videos-in-imovie-for-instagram-for-2024/"><u>Making Impeccable Square Videos in iMovie for Instagram for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-reset-earphone-adaptive-sound-management-system-in-ios-for-2024/"><u>New Reset Earphone Adaptive Sound Management System in iOS for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-top-tiers-of-treasured-valheim-trees-for-2024/"><u>[Updated] The Top Tiers of Treasured Valheim Trees for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/steps-to-remove-background-noise-from-video-sony-vegas-for-2024/"><u>Steps to Remove Background Noise From Video Sony Vegas for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/prime-zero-price-point-video-capturer-for-2024/"><u>Prime Zero-Price Point Video Capturer for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-initiating-a-join-in-google-meet-through-computermobile/"><u>In 2024, Initiating a Join in Google Meet Through Computer/Mobile</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-make-a-cool-intro-for-youtube-plusfree-templates/"><u>In 2024, How to Make a Cool Intro for YouTube? [+Free Templates]</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-live-broadcasting-uncovered-master-platform-selection/"><u>2024 Approved  Live Broadcasting Uncovered  Master Platform Selection</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-eradicating-faux-pals-from-your-instagram-map/"><u>[Updated] Eradicating Faux Pals From Your Instagram Map</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/mindful-moments-easy-engrossing-phone-games-for-2024/"><u>Mindful Moments  Easy, Engrossing Phone Games for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-mastering-time-in-fcpx-freeze-frames-slow-mo-and-more/"><u>New 2024 Approved Mastering Time in FCPX Freeze Frames, Slow-Mo, and More</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-journey-beyond-top-10-global-explorer-channels/"><u>2024 Approved  A Journey Beyond  Top 10 Global Explorer Channels</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-oneplus-open-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change OnePlus Open IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-top-10plus-instagram-content-downloaders-reviewed/"><u>2024 Approved  Top 10+ Instagram Content Downloaders Reviewed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-webcam-video-pros-fast-effective-filming-steps/"><u>[Updated] In 2024, Webcam Video Pros  Fast, Effective Filming Steps</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-motorola-moto-g13-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Motorola Moto G13 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/unlocking-the-door-to-joining-a-tiktok-gathering-for-2024/"><u>Unlocking the Door to Joining a TikTok Gathering for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-full-spectrum-analysis-of-lgs-high-definition-screen/"><u>The Full Spectrum Analysis of LG’s High-Definition Screen</u></a></li>
+</ul></div>

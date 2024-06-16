@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Transform Viewing Experience  Adding Subtitles on Windows Media Player\""
-date: 2024-06-01 13:19:26
-updated: 2024-06-02 10:27:21
+date: 2024-06-04T13:10:01.846Z
+updated: 2024-06-05T13:10:01.846Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Transform Viewing Experience: Adding Subtitles on Windows Media Player\""
 excerpt: "\"This Article Describes In 2024, Transform Viewing Experience: Adding Subtitles on Windows Media Player\""
 keywords: "\"WMP Subtitle Add-On,Enhanced Video Playback,WMP Subtitles Enable,Video Caption Integration,Improved Media Experience,Subtitles for Windows Media Player,Captions in WMP Viewing\""
-thumbnail: https://www.lifewire.com/thmb/0FZf3k28kLauMvGO0aGhDI7aaYY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sb10069770n-003-56a104403df78cafdaa7dd48-ba41d70c51114343aaa38409d9cdfc3f.jpg
+thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad25662873342662329d5363509351a52f0.jpg
 ---
 
 ## Transform Viewing Experience: Adding Subtitles on Windows Media Player
@@ -138,121 +138,6 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
-Windows Media Player is still maintaining its wide popularity among users from every corner of world. There is no doubt to say that it hold impressive feature set with user friendly platform so people stay always curious to do adventurous things over it. The article below will help you to understand the trick to add subtitles into video clips using Window Media Player. By following few simple steps as discussed below, soon you will be able to gain access to your desired subtitles and then they can be merged with videos so easily. Keep reading:
-
-## Step by Step Guide
-
-The process of adding subtitles to video clips is quite simple; you need to follow these steps: First of all, you need to install Windows media player on your Personal Computer. Prefer to get the latest version, it is easily available over internet and can be downloaded and installed by beginners too. Once your software tool is ready on your system then proceed ahead.
-
-**Step 1:** First of all you need to save your video and subtitle file with same name. It is not possible to manually add subtitles using Window Media Player but it can easily detect all subtitles when both files are saved with same name.
-
-![ ](https://images.wondershare.com/filmora/article-images/subtitle-wmp-1.jpg)
-
-**Step 2:** Once you are done with the first step then simply open your Window Media Player and move to the Library Mode. Now switch to play, then Lyrics, captions and finally you will reach at subtitles. Hit this option and choose “On if Available”. The same option is also available in the Now Playing Mode where you simply need to right click and this option will appear in drop down menu.
-
-![ ](https://images.wondershare.com/filmora/article-images/subtitle-wmp-2.jpg)
-
-**Step 3:** Now, it is time to download DirectVobSub codec and get it installed on your PC. This software is easily available in 32, 64 bit versions so you can easily access any of these. Simply install codec from this source; no need to work on configuration settings. Note that these codecs must be installed from a trusted source so that malware or virus attacks can be avoided.
-
-**Step 4:** Once you are done with step 3 then download Sharkoo7’s Advanced Codec from internet. Get it installed for Window Media Player and then open with 64 bit settings or 32 bit as per your device specifications. To open it, simply right click on icon and from drop down menu choose “Run as administrator”.
-
-![ ](https://images.wondershare.com/filmora/article-images/subtitle-wmp-3.jpg)
-
-**Step 5:** Within very less time application will get opened with a fresh window on your system. Now move to tabs of different video file types then search for the option that says: “Disable Media Foundation for MP4/MKV and AVI etc”. Further, go to the swap tab and then disable window media foundation.
-
-![ ](https://images.wondershare.com/filmora/article-images/subtitle-wmp-4.jpg)
-
-As soon as you will finish all these settings, your subtitles will appear perfectly over video and you can enjoy great synchronism for all content. Window Media player tool is capable enough to make effective adjustments for subtitle placements and it will take just a few minutes to complete all these steps.
-
-## Websites for Downloading Subtitles
-
-If you are searching for websites that can help you to download subtitles for your videos then this list can be useful for you:
-
-### [1. Moviesubtitles.com:](http://www.moviesubtitles.org/movies.html)
-
-You will be glad to know that this website offers subtitles in wide range of languages. Users can simply initiate search for latest subtitle files, most popular movies or most download subtitles. All these subtitles packs are available for free and they are usually packed in WinZip file formats.
-
-### [2. Subscene.com:](https://subscene.com/browse/latest/film/1)
-
-This website stays one of the top preferences lists of all professionals as well as beginners. It serves with easy to access search function so that users can easily navigate for their desired subtitle file. It also allows users to upload movie subtitle files and they can be rated.
-
-### [3\. TVsubtitles.net:](http://www.tvsubtitles.net/tvshow-1568-3.html)
-
-There is no doubt to say that TVSubtitles.com is well known as best site for TV show subtitle download needs. This platform contains largest collection of popular TV show subtitles from every corner of world and they are available in multiple languages. Some of the most commonly downloaded subtitle files use to be in Korean, Russian, German, Greek, French and English language.
-
-### [4. Tvsubs.net:](http://www.tvsubs.net/)
-
-One more online platform for downloading wide range of subtitles and the best thing to know about this website is that it possesses user friendly platform that has super cool appearance. As soon as you will open your website you will notice that well placed search box. Yeah! This is your biggest need when you need to search for subtitles. Enter your details inside this search box and it will soon bring all desired results to your computer screen. One can also access this site for uploading movie subtitles.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
-Windows Media Player is still maintaining its wide popularity among users from every corner of world. There is no doubt to say that it hold impressive feature set with user friendly platform so people stay always curious to do adventurous things over it. The article below will help you to understand the trick to add subtitles into video clips using Window Media Player. By following few simple steps as discussed below, soon you will be able to gain access to your desired subtitles and then they can be merged with videos so easily. Keep reading:
-
-## Step by Step Guide
-
-The process of adding subtitles to video clips is quite simple; you need to follow these steps: First of all, you need to install Windows media player on your Personal Computer. Prefer to get the latest version, it is easily available over internet and can be downloaded and installed by beginners too. Once your software tool is ready on your system then proceed ahead.
-
-**Step 1:** First of all you need to save your video and subtitle file with same name. It is not possible to manually add subtitles using Window Media Player but it can easily detect all subtitles when both files are saved with same name.
-
-![ ](https://images.wondershare.com/filmora/article-images/subtitle-wmp-1.jpg)
-
-**Step 2:** Once you are done with the first step then simply open your Window Media Player and move to the Library Mode. Now switch to play, then Lyrics, captions and finally you will reach at subtitles. Hit this option and choose “On if Available”. The same option is also available in the Now Playing Mode where you simply need to right click and this option will appear in drop down menu.
-
-![ ](https://images.wondershare.com/filmora/article-images/subtitle-wmp-2.jpg)
-
-**Step 3:** Now, it is time to download DirectVobSub codec and get it installed on your PC. This software is easily available in 32, 64 bit versions so you can easily access any of these. Simply install codec from this source; no need to work on configuration settings. Note that these codecs must be installed from a trusted source so that malware or virus attacks can be avoided.
-
-**Step 4:** Once you are done with step 3 then download Sharkoo7’s Advanced Codec from internet. Get it installed for Window Media Player and then open with 64 bit settings or 32 bit as per your device specifications. To open it, simply right click on icon and from drop down menu choose “Run as administrator”.
-
-![ ](https://images.wondershare.com/filmora/article-images/subtitle-wmp-3.jpg)
-
-**Step 5:** Within very less time application will get opened with a fresh window on your system. Now move to tabs of different video file types then search for the option that says: “Disable Media Foundation for MP4/MKV and AVI etc”. Further, go to the swap tab and then disable window media foundation.
-
-![ ](https://images.wondershare.com/filmora/article-images/subtitle-wmp-4.jpg)
-
-As soon as you will finish all these settings, your subtitles will appear perfectly over video and you can enjoy great synchronism for all content. Window Media player tool is capable enough to make effective adjustments for subtitle placements and it will take just a few minutes to complete all these steps.
-
-## Websites for Downloading Subtitles
-
-If you are searching for websites that can help you to download subtitles for your videos then this list can be useful for you:
-
-### [1. Moviesubtitles.com:](http://www.moviesubtitles.org/movies.html)
-
-You will be glad to know that this website offers subtitles in wide range of languages. Users can simply initiate search for latest subtitle files, most popular movies or most download subtitles. All these subtitles packs are available for free and they are usually packed in WinZip file formats.
-
-### [2. Subscene.com:](https://subscene.com/browse/latest/film/1)
-
-This website stays one of the top preferences lists of all professionals as well as beginners. It serves with easy to access search function so that users can easily navigate for their desired subtitle file. It also allows users to upload movie subtitle files and they can be rated.
-
-### [3\. TVsubtitles.net:](http://www.tvsubtitles.net/tvshow-1568-3.html)
-
-There is no doubt to say that TVSubtitles.com is well known as best site for TV show subtitle download needs. This platform contains largest collection of popular TV show subtitles from every corner of world and they are available in multiple languages. Some of the most commonly downloaded subtitle files use to be in Korean, Russian, German, Greek, French and English language.
-
-### [4. Tvsubs.net:](http://www.tvsubs.net/)
-
-One more online platform for downloading wide range of subtitles and the best thing to know about this website is that it possesses user friendly platform that has super cool appearance. As soon as you will open your website you will notice that well placed search box. Yeah! This is your biggest need when you need to search for subtitles. Enter your details inside this search box and it will soon bring all desired results to your computer screen. One can also access this site for uploading movie subtitles.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -275,3 +160,67 @@ Follow @Ollie Mattison
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-stream-undoing-simplified-15-actionable-insights-to-retrace-your-broadcast-trail/"><u>[New] Stream Undoing Simplified  15 Actionable Insights to Retrace Your Broadcast Trail</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-design-and-build-your-own-4k-editing-system-for-2024/"><u>The Ultimate Guide to Design and Build Your Own 4K Editing System for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-all-you-need-to-know-about-upgrading-to-macos-11-big-sur/"><u>[Updated] All You Need to Know About Upgrading to macOS 11 Big Sur</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/picture-perfect-with-soundtracked-clips-for-2024/"><u>Picture Perfect with Soundtracked Clips for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-list-low-cost-high-definition-cameras/"><u>[Updated] Ultimate List  Low-Cost, High Definition Cameras</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-top-30-for-timeless-telephone-chimes/"><u>[New] The Top 30 for Timeless Telephone Chimes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-deep-sleep-with-asmr-strategies/"><u>[New] Unlocking Deep Sleep with ASMR Strategies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamline-your-audio-experience-with-apods/"><u>[New] Streamline Your Audio Experience with APods</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-turn-photos-inside-out-with-ease-using-photoshop/"><u>In 2024, Turn Photos Inside Out with Ease Using Photoshop</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-cost-effective-clouds-for-the-budget-conscious-for-2024/"><u>Unlocking Cost-Effective Clouds for the Budget-Conscious for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-youtubes-srt-files-three-easy-methods-for-2024/"><u>Unlocking YouTube’s SRT Files  Three Easy Methods for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-subscriber-youtube-connection-maximizing-engagement/"><u>In 2024, The Subscriber-YouTube Connection  Maximizing Engagement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-creative-potential-downloading-free-luts-for-ar-development/"><u>[New] Unlocking Creative Potential  Downloading Free LUTs for AR Development</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-figmas-bg-elimination-mastery/"><u>[New] Unveiling Figma's BG Elimination Mastery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-speed-instant-signature-background-cleanup/"><u>2024 Approved  Unlocking Speed  Instant Signature Background Cleanup</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-audio-visual-storytelling-with-iphone/"><u>[New] The Art of Audio-Visual Storytelling with iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-techniques-for-youtube-video-format-switching-for-2024/"><u>Ultimate Techniques for YouTube Video Format Switching for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-windows-11s-core-enhancements/"><u>[New] Unveiling Windows 11'S Core Enhancements</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-ten-frame-enhancers-for-visual-artistry-for-2024/"><u>Top Ten Frame Enhancers for Visual Artistry for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unraveling-the-top-8-premium-free-srt-translation-websites/"><u>[Updated] Unraveling the Top 8 Premium Free SRT Translation Websites</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-obtaining-flawless-visual-content/"><u>[Updated] The Art of Obtaining Flawless Visual Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-role-of-visual-aids-in-pedagogy-for-2024/"><u>The Role of Visual Aids in Pedagogy for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-essential-price-matrix-top-cloud-storage-firms/"><u>2024 Approved  The Essential Price Matrix  Top Cloud Storage Firms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-chrome-browser-vocal-transformers-revealed-for-enthusiast-users/"><u>[New] Top Chrome Browser Vocal Transformers Revealed for Enthusiast Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-creativity-discover-free-tools-for-dynamic-voice-alteration/"><u>2024 Approved  Unleash Creativity  Discover Free Tools for Dynamic Voice Alteration</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleashing-iphones-customization-altering-ringtone-sounds-for-2024/"><u>Unleashing iPhone's Customization  Altering Ringtone Sounds for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-heart-of-video-magic-10-key-edits-in-filmora/"><u>2024 Approved  The Heart of Video Magic  10 Key Edits in Filmora</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tailoring-your-canvas-a-guide-to-erasing-background-elements/"><u>[New] Tailoring Your Canvas  A Guide to Erasing Background Elements</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-comprehensive-guide-to-crafting-effective-reddit-posts/"><u>[New] The Comprehensive Guide to Crafting Effective Reddit Posts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/studio-techniques-decoded-xvideostudio-edition-for-2024/"><u>Studio Techniques Decoded  XVideoStudio Edition for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-setup-guide-for-effective-after-effects-texting/"><u>In 2024, The Ultimate Setup Guide for Effective After Effects Texting</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-perusing-past-facebook-pages-to-review-or-not-to/"><u>In 2024, The Art of Perusing Past Facebook Pages  To Review or Not To?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-swift-upload-of-sizeable-videos-from-iphone-to-mac-desktop/"><u>2024 Approved  Swift Upload of Sizeable Videos From iPhone to Mac Desktop</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-techniques-for-straightening-aerial-video-stability/"><u>2024 Approved  Techniques for Straightening Aerial Video Stability</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-swiftly-get-your-favorite-skype-tones-from-here/"><u>[New] Swiftly Get Your Favorite Skype Tones From Here</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-audiencier-names-with-top-ai-tools/"><u>2024 Approved  Transforming Audiencier Names with Top AI Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-textual-enhancements-in-visual-media/"><u>[Updated] Textual Enhancements in Visual Media</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-economic-blueprint-for-music-video-filming/"><u>[Updated] The Economic Blueprint for Music Video Filming</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-superior-fb-video-tools-save-as-top-quality-mp4s/"><u>[New] In 2024, Superior FB Video Tools – Save as Top Quality MP4s</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-splitting-a-video-into-frames-with-the-ffmpeg-step-by-step/"><u>Updated Splitting a Video Into Frames with the FFmpeg Step by Step</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-best-apps-to-modify-your-voice-on-commute/"><u>[Updated] In 2024, Best Apps to Modify Your Voice on Commute</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bringing-rhythm-to-slides-including-tunes-in-ppt/"><u>Bringing Rhythm to Slides  Including Tunes in PPT</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-steps-to-rotate-videos-in-lightworks/"><u>Updated 2024 Approved Steps to Rotate Videos in Lightworks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-guide-to-fetching-superior-quality-fb-videos/"><u>2024 Approved  Guide to Fetching Superior Quality FB Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-best-5-minute-timelapse-video-maker-top/"><u>2024 Approved  Best 5-Minute Timelapse Video Maker #Top</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-experts-choice-top-green-screen-tools-list/"><u>In 2024, Expert's Choice  Top Green Screen Tools List</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-realme-c33-2023-by-drfone-android/"><u>How to Bypass FRP from Realme C33 2023?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-effortlessly-create-and-manage-cross-platform-communication-channels-with-skype-groups-for-2024/"><u>[New] Effortlessly Create and Manage Cross-Platform Communication Channels with Skype Groups for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-no-copyright-worries-10-top-public-domain-image-sites/"><u>Updated 2024 Approved No Copyright Worries 10 Top Public Domain Image Sites</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-organize-and-share-music-how-to-make-youtube-playlists-easier/"><u>In 2024, Organize and Share Music  How to Make YouTube Playlists Easier</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-acoustic-data-recording-sounds-and-speech/"><u>[New] Acoustic Data Recording  Sounds & Speech</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-infinix-hot-40-pro-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Infinix Hot 40 Pro to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-motorola-moto-g34-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Motorola Moto G34 5G Device</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-poco-x5-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-crucial-techniques-for-documenting-lol-wars/"><u>[New] In 2024, Crucial Techniques for Documenting LOL Wars</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sensory-storytelling-crafting-engaging-food-videos/"><u>[Updated] Sensory Storytelling  Crafting Engaging Food Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-superior-5-digital-capture-devices/"><u>[Updated] 2024 Approved  Superior 5 Digital Capture Devices</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/the-ultimate-guide-to-audio-treasures-for-podcast-production/"><u>The Ultimate Guide to Audio Treasures for Podcast Production</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-metaverse-memetic-wisdom-for-a-laughter-filled-time/"><u>2024 Approved  Metaverse Memetic Wisdom for a Laughter-Filled Time</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-xstudio-complete-video-setup-analysis/"><u>[New] Mastering XStudio  Complete Video Setup Analysis</u></a></li>
+</ul></div>

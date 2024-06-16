@@ -1,7 +1,7 @@
 ---
 title: "[New] Ultimate Guide to Radiowave Plays"
-date: 2024-05-31 12:56:53
-updated: 2024-06-02 11:18:49
+date: 2024-06-04T11:37:16.994Z
+updated: 2024-06-05T11:37:16.994Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Ultimate Guide to Radiowave Plays"
 excerpt: "This Article Describes [New] Ultimate Guide to Radiowave Plays"
 keywords: "Radiowave Gaming Tips,Ultimate Waveplay Strategies,Playing with Radiowaves,Waveguide Gameplay Guide,Essential Waveplay Knowledge,Master Waveplays Techniques,Radiowave Game Fundamentals"
-thumbnail: https://www.lifewire.com/thmb/EVPMwUvvJxpJdiKeU4q7SREScME=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mothersday_NataliaCampbell_Getty-5a4baef6c7822d00371e56cd.jpg
+thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d920b7ae31f5d249d448106c6d.jpg
 ---
 
 ## Ultimate Guide to Radiowave Plays
@@ -187,64 +187,6 @@ This article will teach you everything you need to know about radio and audio dr
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
 </article
-* **We're Alive**
-
-![we are alive](https://images.wondershare.com/filmora/article-images/2022/08/radio-drama-scripts-4.jpg)
-
-We're Alive is one of the most well-known podcast audio dramas on the web right now, with 166 episodes spread across four seasons. The post-apocalyptic audio drama follows a group of survivors as they try to survive a zombie apocalypse.
-
-The drama first aired on iTunes in 2009, and its final season premiered in 2014\. The show's compiled season version is now available from Wayland Productions.
-
-[**No. of episodes**](https://www.google.com/search?sxsrf=ALiCzsZY6NHOpgwh2L%5F93TpL1EoQMpysgQ:1659278023761&q=the+archers+no.+of+episodes&sa=X&ved=2ahUKEwj%5F9MGprKP5AhWpif0HHQslDTMQ6BMoAHoECF0QAg)**:** 143
-
-[**Genre**](https://www.google.com/search?sxsrf=ALiCzsZY6NHOpgwh2L%5F93TpL1EoQMpysgQ:1659278023761&q=the+archers+genre&sa=X&ved=2ahUKEwj%5F9MGprKP5AhWpif0HHQslDTMQ6BMoAHoECFgQAg)**:** Radio drama
-
-[**Created by**](https://www.google.com/search?sxsrf=ALiCzsZY6NHOpgwh2L%5F93TpL1EoQMpysgQ:1659278023761&q=the+archers+created+by&sa=X&ved=2ahUKEwj%5F9MGprKP5AhWpif0HHQslDTMQ6BMoAHoECE4QAg)**:** Kc Wayland, Grayson Stone
-
-**No of Seasons**: 4
-
-[**Original release**](https://www.google.com/search?sxsrf=ALiCzsZY6NHOpgwh2L%5F93TpL1EoQMpysgQ:1659278023761&q=the+archers+original+release&sa=X&ved=2ahUKEwj%5F9MGprKP5AhWpif0HHQslDTMQ6BMoAHoECFkQAg)**:** May 04, 2009 – July 29, 2014
-
-**Awards:** We're Alive was nominated for Best Audio Drama in the Audio Publishing Awards in 2012\. It was named "Best of 2012" in the iTunes Arts category the same year. The series has also won the following awards:
-
-* 4th Annual Dead Letter Award
-* 2009 Gold Ogle Award
-* 2010 Silver Ogle Award
-* [Parsec Award](https://en.wikipedia.org/wiki/Parsec%5FAwards) Winner Best Speculative Fiction Audio Drama Long Form 2014
-* [Parsec Award](https://en.wikipedia.org/wiki/Parsec%5FAwards) Finalist Best Speculative Fiction Audio Drama Long Form 2010 2011, 2012, and 2013
-
-**Watch all we're alive episodes here**:
-
-## Part 4\. Best websites to download radio dramas
-
-If you are looking for good websites to download free radio dramas, then these are the websites you are looking for:
-
-### 1\. [Simply Scripts](https://www.simplyscripts.com/radio%5Fall.html)
-
-Simply Scripts is indeed a database of thousands of downloadable scripts, movie scripts, screenplays, and transcripts from current, classic, and possibly upcoming movies, television shows, anime, unproduced, and radio shows. A resource for screenwriters.
-
-![simply scripts](https://images.wondershare.com/filmora/article-images/2022/08/radio-drama-scripts-5.jpg)
-
-### 2\. [BBC Radio Shows](https://archive.org/details/folksoundomy%5Fbbcradio?&sort=-week&page=2)
-
-Nearly 35 million people listen to BBC Radio each week. The BBC provides a range of services aimed at providing listeners with high-quality programming, regardless of their interests or mood.
-
-**BBC Radio features:**
-
-* Music radio broadcasts on Radio 1, Radio 1Xtra, Radio 2, 6 Music, and Asian Network.
-* Radio 4's speech, drama, analysis, and arts programming
-* 6 national radio services (Radio Scotland, Radio nan Gàidheal, Radio Ulster, Radio Foyle, Radio Wales, Radio Cymru)
-* Radio 4 Extra features comedy, drama, and children's programming.
-
-![bbc radio shows](https://images.wondershare.com/filmora/article-images/2022/08/radio-drama-scripts-6.jpg)
-
-### Conclusion
-
-This article will teach you everything you need to know about radio and audio drama scripts. Continue reading to learn more about radio dramas and to become one of the best radio drama writers. Radio dramas can supplement your radio station's content or lead to independent podcast series. Don't fall into the trap of believing that you'll improve your writing skills. You must devote sufficient time to listening to previous works. Discover what makes an audio drama great.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -267,3 +209,36 @@ This article will teach you everything you need to know about radio and audio dr
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/updated-toolwiz-photos-app-complete-review-2023/"><u>[Updated] Toolwiz Photos App - Complete Review 2023</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-tier-rankings-for-podcasts-a-seo-masterclass-for-2024/"><u>Top-Tier Rankings for Podcasts  A Seo Masterclass for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-guide-to-2023s-top-value-zero-cost-live-broadcasting-tools/"><u>[Updated] Ultimate Guide to 2023'S Top Value, Zero-Cost Live Broadcasting Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-8-best-vr-controllers-to-check-out/"><u>2024 Approved  Top 8 Best VR Controllers to Check Out</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-method-for-adding-high-quality-srt-to-mp4-videos/"><u>[New] The Ultimate Method for Adding High-Quality SRT to MP4 Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-tiktoks-potential-changing-your-profile-number-for-2024/"><u>Unlocking TikTok's Potential  Changing Your Profile Number for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-360-view-camera-analysis/"><u>[Updated] Ultimate 360-View Camera Analysis</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-vida-journey-from-raw-footage-to-cinematic-scene/"><u>2024 Approved  The Vida Journey  From Raw Footage to Cinematic Scene</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-supercharged-productivity-while-flipping-audio-switches/"><u>[New] Supercharged Productivity While Flipping Audio Switches</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-ranked-mobile-cloud-storage-for-android-guidebook/"><u>In 2024, Top Ranked Mobile Cloud Storage for Android Guidebook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-trailblazers-in-vr-eyewear-design/"><u>2024 Approved  Trailblazers in VR Eyewear Design</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-guide-to-affordable-vector-art-websites/"><u>[Updated] Ultimate Guide to Affordable Vector Art Websites</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-edible-entertainment-7-steps-to-perfect-plating-on-camera/"><u>2024 Approved  The Art of Edible Entertainment  7 Steps to Perfect Plating on Camera</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-implementing-windows-11s-automatic-hdr-feature/"><u>In 2024, The Ultimate Guide to Implementing Windows 11'S Automatic HDR Feature</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamline-a-barrage-of-tiktok-drafts-with-editing-skills/"><u>[Updated] Streamline a Barrage of TikTok Drafts with Editing Skills</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-smartphone-selection-for-superior-video-recording/"><u>[Updated] Ultimate Smartphone Selection for Superior Video Recording</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamlining-audio-capture-in-windows-11-for-2024/"><u>Streamlining Audio Capture in Windows 11 for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-dynamic-duo-enhancing-fb-live-with-monitor-sharing-capabilities-for-2024/"><u>[Updated] Dynamic Duo  Enhancing Fb Live with Monitor Sharing Capabilities for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/physical-security-measures-for-2024/"><u>Physical Security Measures for 2024</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-y78plus-t1-edition-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Vivo Y78+ (T1) Edition</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-reverse-a-youtube-playlist/"><u>2024 Approved  How to Reverse a YouTube Playlist</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-a-stepwise-approach-to-youtube-caption-addition/"><u>[New] A Stepwise Approach to YouTube Caption Addition</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pixel-perfect-free-mobile-photography-booster-for-2024/"><u>Pixel Perfect  Free Mobile Photography Booster for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-oppo-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-70-lite-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor 70 Lite 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oneplus-11r-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from OnePlus 11R Devices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twittrek-toolkit-a-comprehensive-approach-to-saving-tweets-visuals/"><u>[Updated] TwitTrek Toolkit  A Comprehensive Approach to Saving Tweets' Visuals</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-optimized-audio-equalization-achieving-consistent-volume-levels/"><u>Updated 2024 Approved Optimized Audio Equalization Achieving Consistent Volume Levels</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastery-in-saving-lesson-content/"><u>[Updated] Mastery in Saving Lesson Content</u></a></li>
+</ul></div>

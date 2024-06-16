@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Streamlining Your Figma Project  Eliminate the Unwanted Background\""
-date: 2024-05-30 14:43:50
-updated: 2024-05-31 11:36:48
+date: 2024-06-04T15:53:47.845Z
+updated: 2024-06-05T15:53:47.845Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Streamlining Your Figma Project: Eliminate the Unwanted Background\""
 excerpt: "\"This Article Describes In 2024, Streamlining Your Figma Project: Eliminate the Unwanted Background\""
 keywords: "BG Viz Procurement,VisViz AccuAcq,Background Img Obty,ImgViz Obt Sys,Acquire VisBkg,Streamlining VisAcc,BkgImg Content Gain"
-thumbnail: https://www.lifewire.com/thmb/ru-jVd0Cvv8tkOSsngOh3taWsHA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/laptop-2443739-5b55bc7c46e0fb00378df55b.jpg
+thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d87088006ba977c8519d5351.jpg
 ---
 
 ## Streamlining Your Figma Project: Eliminate the Unwanted Background
@@ -125,34 +125,6 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
 
 How To Go To The Extension Installation Page From Figma?
 
-Apart from the links provided above, you can also access the plugin installation page from Figma in the following way:
-
-Step1 Visit the **Figma website** and import your image.
-
-Step2 **Right-click** on the image in the editor and click **"Plugins."**
-
-Step3 Select **"Find More Plugins"** and use the search option in the pop-up window to find the plugin you need.
-
-![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
-
-### (3) Using Online Removers
-
-Another alternative is to use any tool that **removes the image background online**. For example, we recommend using the [Remove BG tool](https://www.remove.bg/).
-
-To use the Remove BG tool, visit its website, drop your image file, or click the **"Upload"** option to import your file. Now, wait for the program to process your image and then click **"Download"** to save your picture. Afterward, you can import it to Figma for further editing.
-
-## Video Tutorial - How to remove background from images in Figma in 2minutes
-
-Hopefully, you have found an ideal solution by now. To help you remove the image's background in Figma with more ease, we have prepared a video for you. You can combine the video content with the guidance above:
-
-## Conclusion
-
-In this article, we've explored the step-by-step process of how to remove background in Figma using the PixCut plugin. We've also explained the reasons why you should use this tool.
-
-In the end, we provided three alternatives to remove the background in Figma using images with transparent or solid BG, using another 3 Figma plugins apart from PixCut plugin, or using online background remover tools.
-
-Hopefully, this article helped resolve your queries, and you can now use the Figma program to optimize your image's background quickly.
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -174,3 +146,40 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/the-future-of-titles-an-innovators-playbook-for-videos-for-2024/"><u>The Future of Titles  An Innovator's Playbook for Videos for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-superior-systems-best-of-the-desk-lineup/"><u>2024 Approved  Superior Systems  Best of the Desk Lineup</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unboxing-the-typhoon-h-yuneecs-drone-expertise/"><u>[New] Unboxing the Typhoon H  Yuneec's Drone Expertise</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-elite-list-of-best-online-streaming-hqs-for-2024/"><u>The Elite List of Best Online Streaming HQs for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-drone-racings-secrets-and-surpassing-fpv-drones/"><u>2024 Approved  Unveiling Drone Racing's Secrets & Surpassing FPV Drones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-social-media-sphere-speaking-up-to-fans/"><u>2024 Approved  The Social Media Sphere  Speaking Up to Fans</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-toolwiz-photo-experience-analyzed-2023-for-2024/"><u>The Ultimate Toolwiz Photo Experience, Analyzed 2023 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-zoom-potential-a-comprehensive-configurations-guide/"><u>[New] Unlocking Zoom Potential  A Comprehensive Configurations Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-todays-vr-an-inside-look/"><u>2024 Approved  Today’s VR  An Inside Look</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-blueprint-for-telegram-marketplace-success-for-2024/"><u>The Ultimate Blueprint for Telegram Marketplace Success for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-comprehensive-guide-to-no-cost-meme-magic/"><u>2024 Approved  The Comprehensive Guide to No-Cost Meme Magic</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-smart-technique-for-iphone-videos-reduction-and-scaling/"><u>2024 Approved  The Smart Technique for iPhone Videos Reduction & Scaling</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamline-your-office-work-with-voice-to-text-in-ms-word/"><u>In 2024, Streamline Your Office Work with Voice-to-Text in MS Word</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-beginners-guide-to-canon-time-lapse-shooting-for-2024/"><u>The Beginner's Guide to Canon Time-Lapse Shooting for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-submerge-mastery-top-tips-for-capturing-great-water-videos/"><u>[New] Submerge Mastery  Top Tips for Capturing Great Water Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-step-by-step-to-a-luminous-world-of-android-videos/"><u>[New] Step-by-Step to a Luminous World of Android Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-turn-popular-tiktok-tracks-into-practical-personalized-ringtones/"><u>In 2024, Turn Popular TikTok Tracks Into Practical, Personalized Ringtones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-collection-of-10-inspirational-movies/"><u>[New] The Ultimate Collection of 10 Inspirational Movies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-upside-down-visuals-investigating-insta-video-anomalies/"><u>In 2024, Upside Down Visuals  Investigating Insta Video Anomalies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-potential-of-luminance-for-hdr/"><u>In 2024, Unveiling the Potential of Luminance for HDR</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/time-tagging-in-picture-editing-software-for-2024/"><u>Time Tagging in Picture Editing Software for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-smart-guide-for-spawning-share-worthy-memes-in-9gag/"><u>[New] The Smart Guide for Spawning Share-Worthy Memes in 9GAG</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-essential-guide-to-using-zdsoft-vision/"><u>[New] In 2024, The Essential Guide to Using ZDSoft Vision</u></a></li>
+<li><a href="https://extra-information.techidaily.com/artistic-techniques-for-3d-text-effect/"><u>Artistic Techniques for 3D Text Effect</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-nokia-c12-plus-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Nokia C12 Plus Phone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-8-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 8 Plus without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-maximizing-viewing-experience-in-android/"><u>In 2024, Maximizing Viewing Experience in Android</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-premium-discord-bots-for-optimal-music-listening/"><u>[Updated] In 2024, The Ultimate Guide to Premium Discord Bots for Optimal Music Listening</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-become-an-fcp-virtuoso-with-this-guide/"><u>[New] Become an FCP Virtuoso with This Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/zip-to-srt-transformation-explained-simply/"><u>Zip to Srt Transformation Explained Simply</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-shaky-videos-be-gone-top-video-stabilizer-apps-for-mobile-for-2024/"><u>Updated Shaky Videos Be Gone! Top Video Stabilizer Apps for Mobile for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-essential-fixes-for-disruptive-tiktok-activity/"><u>[Updated] In 2024, Essential Fixes for Disruptive TikTok Activity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimal-viewing-experience-selecting-between-ultrawide-and-uhd-4k/"><u>[New] Optimal Viewing Experience  Selecting Between UltraWide and UHD 4K</u></a></li>
+</ul></div>

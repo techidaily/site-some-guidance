@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ultimate Auditory Playscripts Collection"
-date: 2024-05-31 10:25:40
-updated: 2024-06-02 12:14:42
+date: 2024-06-04T15:11:05.774Z
+updated: 2024-06-05T15:11:05.774Z
 tags: 
   - screen-recording
   - ai video
@@ -187,64 +187,6 @@ This article will teach you everything you need to know about radio and audio dr
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
 </article
-* **We're Alive**
-
-![we are alive](https://images.wondershare.com/filmora/article-images/2022/08/radio-drama-scripts-4.jpg)
-
-We're Alive is one of the most well-known podcast audio dramas on the web right now, with 166 episodes spread across four seasons. The post-apocalyptic audio drama follows a group of survivors as they try to survive a zombie apocalypse.
-
-The drama first aired on iTunes in 2009, and its final season premiered in 2014\. The show's compiled season version is now available from Wayland Productions.
-
-[**No. of episodes**](https://www.google.com/search?sxsrf=ALiCzsZY6NHOpgwh2L%5F93TpL1EoQMpysgQ:1659278023761&q=the+archers+no.+of+episodes&sa=X&ved=2ahUKEwj%5F9MGprKP5AhWpif0HHQslDTMQ6BMoAHoECF0QAg)**:** 143
-
-[**Genre**](https://www.google.com/search?sxsrf=ALiCzsZY6NHOpgwh2L%5F93TpL1EoQMpysgQ:1659278023761&q=the+archers+genre&sa=X&ved=2ahUKEwj%5F9MGprKP5AhWpif0HHQslDTMQ6BMoAHoECFgQAg)**:** Radio drama
-
-[**Created by**](https://www.google.com/search?sxsrf=ALiCzsZY6NHOpgwh2L%5F93TpL1EoQMpysgQ:1659278023761&q=the+archers+created+by&sa=X&ved=2ahUKEwj%5F9MGprKP5AhWpif0HHQslDTMQ6BMoAHoECE4QAg)**:** Kc Wayland, Grayson Stone
-
-**No of Seasons**: 4
-
-[**Original release**](https://www.google.com/search?sxsrf=ALiCzsZY6NHOpgwh2L%5F93TpL1EoQMpysgQ:1659278023761&q=the+archers+original+release&sa=X&ved=2ahUKEwj%5F9MGprKP5AhWpif0HHQslDTMQ6BMoAHoECFkQAg)**:** May 04, 2009 – July 29, 2014
-
-**Awards:** We're Alive was nominated for Best Audio Drama in the Audio Publishing Awards in 2012\. It was named "Best of 2012" in the iTunes Arts category the same year. The series has also won the following awards:
-
-* 4th Annual Dead Letter Award
-* 2009 Gold Ogle Award
-* 2010 Silver Ogle Award
-* [Parsec Award](https://en.wikipedia.org/wiki/Parsec%5FAwards) Winner Best Speculative Fiction Audio Drama Long Form 2014
-* [Parsec Award](https://en.wikipedia.org/wiki/Parsec%5FAwards) Finalist Best Speculative Fiction Audio Drama Long Form 2010 2011, 2012, and 2013
-
-**Watch all we're alive episodes here**:
-
-## Part 4\. Best websites to download radio dramas
-
-If you are looking for good websites to download free radio dramas, then these are the websites you are looking for:
-
-### 1\. [Simply Scripts](https://www.simplyscripts.com/radio%5Fall.html)
-
-Simply Scripts is indeed a database of thousands of downloadable scripts, movie scripts, screenplays, and transcripts from current, classic, and possibly upcoming movies, television shows, anime, unproduced, and radio shows. A resource for screenwriters.
-
-![simply scripts](https://images.wondershare.com/filmora/article-images/2022/08/radio-drama-scripts-5.jpg)
-
-### 2\. [BBC Radio Shows](https://archive.org/details/folksoundomy%5Fbbcradio?&sort=-week&page=2)
-
-Nearly 35 million people listen to BBC Radio each week. The BBC provides a range of services aimed at providing listeners with high-quality programming, regardless of their interests or mood.
-
-**BBC Radio features:**
-
-* Music radio broadcasts on Radio 1, Radio 1Xtra, Radio 2, 6 Music, and Asian Network.
-* Radio 4's speech, drama, analysis, and arts programming
-* 6 national radio services (Radio Scotland, Radio nan Gàidheal, Radio Ulster, Radio Foyle, Radio Wales, Radio Cymru)
-* Radio 4 Extra features comedy, drama, and children's programming.
-
-![bbc radio shows](https://images.wondershare.com/filmora/article-images/2022/08/radio-drama-scripts-6.jpg)
-
-### Conclusion
-
-This article will teach you everything you need to know about radio and audio drama scripts. Continue reading to learn more about radio dramas and to become one of the best radio drama writers. Radio dramas can supplement your radio station's content or lead to independent podcast series. Don't fall into the trap of believing that you'll improve your writing skills. You must devote sufficient time to listening to previous works. Discover what makes an audio drama great.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -267,3 +209,36 @@ This article will teach you everything you need to know about radio and audio dr
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superior-online-emporiums-where-boxes-reflect-your-style/"><u>In 2024, Superior Online Emporiums  Where Boxes Reflect Your Style</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-android-video-brilliance-easy-procedures/"><u>[New] Unlocking Android Video Brilliance - Easy Procedures</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-clearing-out-the-unwanted-space-around-images-with-affinity/"><u>2024 Approved  The Ultimate Guide  Clearing Out the Unwanted Space Around Images with Affinity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforming-traditional-markets-with-virtual-engineering-for-2024/"><u>Transforming Traditional Markets with Virtual Engineering for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-30-metaverse-meme-creation-guide-for-fun-enthusiasts/"><u>2024 Approved  Top 30 Metaverse Meme Creation Guide for Fun Enthusiasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-photo-browser-with-lightning-speed/"><u>2024 Approved  Top Photo Browser with Lightning Speed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-todays-virtual-realty-hardware-exploration/"><u>2024 Approved  Today’s Virtual Realty  Hardware Exploration</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleash-creativity-harnessing-gs-power-in-kinemaster-for-2024/"><u>Unleash Creativity  Harnessing GS Power in KineMaster for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-shoppers-quick-guide-to-choosing-top-notch-360cams-for-2024/"><u>The Shopper’s Quick Guide to Choosing Top-Notch 360Cams for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-quest-for-visual-excellence-can-pickup-be-the-top-photo-editor-on-android-in-2024/"><u>The Quest for Visual Excellence – Can PickUp Be the Top Photo Editor on Android, In 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-thorough-review-easy-approach-to-hdr-enhancement/"><u>[New] Thorough Review  Easy Approach to HDR Enhancement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-youtube-spots-for-video-marketing-success/"><u>In 2024, Top YouTube Spots for Video Marketing Success</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-essential-checklist-archiving-internet-music-with-ease-for-2024/"><u>The Essential Checklist  Archiving Internet Music with Ease for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-superior-selections-high-capacity-cloud-options/"><u>[Updated] Superior Selections  High-Capacity Cloud Options</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-superior-webcams-for-professional-podcasting/"><u>[Updated] Superior Webcams for Professional Podcasting</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/twitch-reversion-made-simple-top-ten-instructions-at-hand-for-2024/"><u>Twitch Reversion Made Simple  Top Ten Instructions at Hand for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-plating-palette-techniques-for-food-cinematography-for-2024/"><u>The Plating Palette  Techniques for Food Cinematography for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamline-your-windows-10-experience-crash-free-photos-viewing/"><u>[Updated] Streamline Your Windows 10 Experience  Crash-Free Photos Viewing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ten-practical-ways-to-prevent-vr-sickness/"><u>[Updated] Ten Practical Ways to Prevent VR Sickness</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-nokia-c12-plus-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Nokia C12 Plus Fingerprint Lock</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-exploring-cricket-auditory-signatures/"><u>Updated Exploring Cricket Auditory Signatures</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-bold-and-creative-pfp-options-for-a-unique-tiktok-look/"><u>[New] 2024 Approved  Bold & Creative PFP Options for a Unique TikTok Look</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-mp3-magic-converting-soundcloud-tracks-with-ease/"><u>New 2024 Approved MP3 Magic Converting Soundcloud Tracks with Ease</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-design-your-signature-discord-pfp-for-standout-presence/"><u>[Updated] In 2024, Design Your Signature Discord PFP for Standout Presence</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-tecno-spark-10-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Tecno Spark 10 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/awesome-mac-mkv-decode-options/"><u>Awesome Mac MKV Decode Options</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-honor-play-8t-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Honor Play 8T to iPod | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-best-mkv-cutting-software-for-mac/"><u>Updated 2024 Approved Best MKV Cutting Software for Mac</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionize-replies-enhancing-interaction-on-telegram-platforms/"><u>2024 Approved  Revolutionize Replies  Enhancing Interaction on Telegram Platforms</u></a></li>
+</ul></div>
