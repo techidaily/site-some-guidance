@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top Mic Lists Tailored for High-Definition 4K Cameras\""
-date: 2024-06-04T15:45:12.121Z
-updated: 2024-06-05T15:45:12.121Z
+date: 2024-07-06T12:48:07.249Z
+updated: 2024-07-07T12:48:07.249Z
 tags: 
   - screen-recording
   - ai video
@@ -129,7 +129,7 @@ thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f
 
 **Price: $1699.95**
 
-![neumann-kmr-82i ](https://images.wondershare.com/filmora/article-images/neumann-kmr-82i.jpg)
+![neumann-kmr-82i](https://images.wondershare.com/filmora/article-images/neumann-kmr-82i.jpg)
 
  This brand is well known for wide range of incredible mic designs that suits to video production needs. This directional mic is capable enough to pick details with crystal clear quality and it can kill the background noise effectively.
 
@@ -260,7 +260,7 @@ Follow @Max Wales
 
 **Price: $1699.95**
 
-![neumann-kmr-82i ](https://images.wondershare.com/filmora/article-images/neumann-kmr-82i.jpg)
+![neumann-kmr-82i](https://images.wondershare.com/filmora/article-images/neumann-kmr-82i.jpg)
 
  This brand is well known for wide range of incredible mic designs that suits to video production needs. This directional mic is capable enough to pick details with crystal clear quality and it can kill the background noise effectively.
 

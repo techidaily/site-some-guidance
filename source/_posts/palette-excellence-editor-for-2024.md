@@ -1,7 +1,7 @@
 ---
 title: "Palette Excellence Editor for 2024"
-date: 2024-06-04T13:37:15.848Z
-updated: 2024-06-05T13:37:15.848Z
+date: 2024-07-06T12:48:12.237Z
+updated: 2024-07-07T12:48:12.237Z
 tags: 
   - screen-recording
   - ai video
@@ -257,9 +257,9 @@ Most color correction programs also include additional fundamental functions. Yo
 
 With apps like Filmora, color correcting is simple and quick to do on mobile devices. Download Filmora for free right now on iPhone and Android if you want to utilize it to make your video clips stand out.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 2\. Movavi Clips
 

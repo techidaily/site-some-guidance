@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Uncovering Key Differences in Panoramic & VR Filmmaking\""
-date: 2024-06-04T10:52:12.104Z
-updated: 2024-06-05T10:52:12.104Z
+date: 2024-07-06T12:48:07.376Z
+updated: 2024-07-07T12:48:07.376Z
 tags: 
   - screen-recording
   - ai video
@@ -58,11 +58,11 @@ thumbnail: https://www.lifewire.com/thmb/5cO1LUQFfX4NVuc9n02cqmWn5XU=/540x405/fi
 
  Overall, both technologies are interesting and have shaped the way that we view content on a regular basis. Virtual reality seems to be a more in-depth technology that allows players to explore a brand new universe, whereas 360° video is great for real-life applications.
 
-## What is [Virtual Reality video]( https://filmora.wondershare.com/virtual-reality/what-is-vr-video.html)?
+## What is Virtual Reality video
 
  Virtual Reality videois something that has been discussed everywhere from sci-fi films to video games all over the world. With VR video you are given the ability to immerse yourself in a specific scene that has been created by an animator. It is essentially a way to allow the user to explore a virtual environment in real-time. In comparison to a 360° video, virtual reality is like it name suggests, a reality that has been virtually created for your exploration.
 
-## What is [360° Video]( https://filmora.wondershare.com/virtual-reality/what-is-360-video.html)?
+## What is 360° Video
 
  If you’re a fan of major YouTube personalities, you’ve undoubtedly seen 360° video before as companies have been developing innovations that allow people to record their daily lives with a 360° view. With a 360° you’re given the opportunity to watch a video from all angles of recording. Meaning that although a person might be recording their face, you can use controls on your device to see to the left, to the right, and even behind the camera. It’s a great way to make the viewer feel like they are actually in the same room as the filming personality.
 
@@ -110,11 +110,11 @@ Follow @Benjamin Arango
 
  Overall, both technologies are interesting and have shaped the way that we view content on a regular basis. Virtual reality seems to be a more in-depth technology that allows players to explore a brand new universe, whereas 360° video is great for real-life applications.
 
-## What is [Virtual Reality video]( https://filmora.wondershare.com/virtual-reality/what-is-vr-video.html)?
+## What is Virtual Reality video
 
  Virtual Reality videois something that has been discussed everywhere from sci-fi films to video games all over the world. With VR video you are given the ability to immerse yourself in a specific scene that has been created by an animator. It is essentially a way to allow the user to explore a virtual environment in real-time. In comparison to a 360° video, virtual reality is like it name suggests, a reality that has been virtually created for your exploration.
 
-## What is [360° Video]( https://filmora.wondershare.com/virtual-reality/what-is-360-video.html)?
+## What is 360° Video
 
  If you’re a fan of major YouTube personalities, you’ve undoubtedly seen 360° video before as companies have been developing innovations that allow people to record their daily lives with a 360° view. With a 360° you’re given the opportunity to watch a video from all angles of recording. Meaning that although a person might be recording their face, you can use controls on your device to see to the left, to the right, and even behind the camera. It’s a great way to make the viewer feel like they are actually in the same room as the filming personality.
 
