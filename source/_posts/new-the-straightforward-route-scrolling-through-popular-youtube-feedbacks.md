@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Straightforward Route  Scrolling Through Popular YouTube Feedbacks\""
-date: 2024-06-04T16:03:36.893Z
-updated: 2024-06-05T16:03:36.893Z
+date: 2024-07-23T09:26:29.147Z
+updated: 2024-07-24T09:26:29.147Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,9 @@ People can watch, like, share, comment on, and upload videos using the YouTube s
 * Users can follow or subscribe to other YouTube channels.
 * To arrange videos and combine them together, make playlists.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Why Use YouTube?
 
 YouTube is the second-largest web browser after Google. Every minute, YouTube receives more than 100 hours of video. Whether you're disseminating information to students or marketing activities, it's among the most significant ways to reach a large audience. Some of the benefits of YouTube are listed below.
@@ -65,6 +68,9 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to See Liked Comments on YouTube?
 
 YouTube is a service that is available for free, and it may be a terrific place for teenagers to find interest. Many young people use YouTube to watch comedy shows, how-to videos, recipes, hacks, and music videos. Teenagers also use the video-sharing platform to subscribe to other YouTubers and famous personalities and to follow their favorite vloggers (video bloggers).
@@ -89,16 +95,34 @@ Step2 Scroll down a little bit and click the **More** button.
 
 Step3 Click the **Comments** section.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![your youtube comments date](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-comments-date.jpg)
 
 To see videos/comments you liked or disliked, please follow these steps as continuation:
 
 Step4 In the **Google My Activity** tab, click **Other activity**.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![other activity youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/other-activity-youtube-comments.jpg)
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
@@ -115,6 +139,9 @@ This article tells you that you can't see who liked or disliked a comment, but y
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -147,6 +174,9 @@ Because understanding how to comment is only one aspect of the issue; very impor
 
 Try making a joke, pointing out something amusing, providing helpful information, or expressing sympathy or concern for a fan. Additionally, a simple thumbs-up or heart can go a long way to demonstrate that you are paying attention even if you aren't feeling very friendly (we all have bad days, it's OK!).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Did you know what a Highlighted comment is?
 
 A highlighted comment on YouTube aims to draw the content creator's attention with an automated feature.
@@ -185,3 +215,48 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-beginners-guide-to-av1-codec/"><u>[New] Beginner's Guide to AV1 Codec</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-perfect-game-video-edits-made-easy-for-newcomers/"><u>[New] In 2024, Perfect Game Video Edits Made Easy for Newcomers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-potential-while-unwinding-top-tasks-for-podcast-lovers/"><u>[New] Unlock Potential While Unwinding  Top Tasks for Podcast Lovers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-mp4-file-capture-comparative-study-and-reviews/"><u>[Updated] 2024 Approved  MP4 File Capture  Comparative Study & Reviews</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-backdrop-beats-curating-cinematic-tunes/"><u>[Updated] Backdrop Beats  Curating Cinematic Tunes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-embark-on-your-video-vision-start-your-youtube-channel/"><u>[Updated] In 2024, Embark on Your Video Vision  Start Your YouTube Channel</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-saga-scholars-society-premier-picks/"><u>[Updated] Saga Scholars Society - Premier Picks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-strategic-steps-for-pinpointing-a-list-film-creators/"><u>[Updated] Strategic Steps for Pinpointing A-List Film Creators</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-supreme-comedic-picture-maker/"><u>[Updated] Supreme Comedic Picture Maker</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tackling-blurred-images-in-online-meetings-with-zoom-techniques/"><u>[Updated] Tackling Blurred Images in Online Meetings with Zoom Techniques</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-compact-powerhouse-in-flight-dji-sparks-guide-to-aerial-selfies/"><u>[Updated] The Compact Powerhouse in Flight  DJI Spark's Guide to Aerial Selfies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-pinnacle-of-zooid-creations-guide/"><u>[Updated] The Pinnacle of Zooid Creations Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transforming-education-with-instructional-videos/"><u>[Updated] Transforming Education with Instructional Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-list-10-top-ae-text-ideas/"><u>[Updated] Ultimate List  10 Top AE Text Ideas</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-eye-catching-4k-experience-dell-p2715q-in-focus/"><u>2024 Approved  The Eye Catching 4K Experience  Dell P2715Q in Focus</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-future-of-presentations-text-conversion-powered-by-speech/"><u>2024 Approved  The Future of Presentations  Text Conversion Powered by Speech</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-musical-enhancements-for-powerpoint/"><u>2024 Approved  The Ultimate Guide to Musical Enhancements for PowerPoint</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-journey-in-sky-high-4k-clarity/"><u>2024 Approved  The Ultimate Journey in Sky High 4K Clarity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-no-money-photo-enhancers-for-web-users/"><u>2024 Approved  Top 10 No-Money Photo Enhancers for Web Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transformative-tinsel-a-journey-from-box-to-joy/"><u>2024 Approved  Transformative Tinsel  A Journey From Box to Joy</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-engaging-sound-stories-podcast-scriptwriting-demystified/"><u>2024 Approved  Unlocking Engaging Sound Stories  Podcast Scriptwriting Demystified</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/70-years-of-europes-lexicon-diverse-dialects-unite/"><u>70 Years of Europe's Lexicon: Diverse Dialects Unite</u></a></li>
+<li><a href="https://facebook.techidaily.com/explore-new-horizons-using-spotify-features-in-facebook-app/"><u>Explore New Horizons: Using Spotify Features in Facebook App</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/free-video-openers-to-increase-views/"><u>Free Video Openers to Increase Views</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-oppo-find-n3-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Oppo Find N3 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-boosting-your-instagram-game-with-collage-tips/"><u>In 2024, Boosting Your Instagram Game with Collage Tips</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-channel-transformation-via-musical-additions/"><u>In 2024, Channel Transformation via Musical Additions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-top-5-non-twitter-social-sites/"><u>In 2024, Top 5 Non-Twitter Social Sites</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-visual-virtuosity-top-6-video-editing-software-for-big-sur-os/"><u>In 2024, Visual Virtuosity  Top 6 Video Editing Software for Big Sur OS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/latest-idevice-screenshots-capture-hacks/"><u>Latest iDevice Screenshots Capture Hacks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-diving-into-splice-video-editor-a-full-evaluation-and-recommendation/"><u>New 2024 Approved Diving Into Splice Video Editor A Full Evaluation and Recommendation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/perfect-pictures-quick-pixlr-tricks-for-beginners-for-2024/"><u>Perfect Pictures  Quick Pixlr Tricks for Beginners for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-itel-p40plus-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Itel P40+</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-1-live-music-broadcasts-for-2024/"><u>Top 1 Live Music Broadcasts for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-net-finds-high-quality-alarm-tones-for-2024/"><u>Top Net Finds  High-Quality Alarm Tones for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-video-editor-battle-is-inshot-reigning-supreme-in-2024/"><u>Top Video Editor Battle  Is InShot Reigning Supreme, In 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforming-mundane-interviews-into-memorable-experienrances-for-2024/"><u>Transforming Mundane Interviews Into Memorable Experienrances for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-powerdirector-mastery-a-comprehensive-guide-for-2024/"><u>Ultimate PowerDirector Mastery  A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-cloud-pricing-models-and-savings-strategies-for-2024/"><u>Understanding Cloud Pricing Models & Savings Strategies for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-smooth-video-flow-from-your-photobooth-app-for-2024/"><u>Unlock Smooth Video Flow From Your Photobooth App for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-second-shuffle-solved/"><u>Windows Second Shuffle Solved</u></a></li>
+</ul></div>

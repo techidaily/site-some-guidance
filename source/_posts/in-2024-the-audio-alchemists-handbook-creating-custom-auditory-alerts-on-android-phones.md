@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Audio Alchemist's Handbook  Creating Custom Auditory Alerts on Android Phones\""
-date: 2024-06-04T13:11:21.007Z
-updated: 2024-06-05T13:11:21.007Z
+date: 2024-07-23T07:38:22.201Z
+updated: 2024-07-24T07:38:22.201Z
 tags: 
   - screen-recording
   - ai video
@@ -55,18 +55,31 @@ Step1 **Download** the software. Now launch the software on your PC.
 
 Step2 Click on the **"Import"** option to add an MP3 file.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![adding an mp3 file in filmora](https://images.wondershare.com/filmora/article-images/2023/03/adding-an-mp3-file-in-filmora.png)
 
 Step3 Drag the MP3 file and drop it into the **"Timeline Panel"** present at the bottom.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adding an mp3 file to the timeline](https://images.wondershare.com/filmora/article-images/2023/03/adding-an-mp3-file-to-the-timeline.png)
 
 Step4 Click the MP3 file, and a double arrow will appear. Drag the double arrow on the MP3 file to select a part that you want to trim. Now, click the **"Split"** option to delete the selected part.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select and trim the mp3 file](https://images.wondershare.com/filmora/article-images/2023/03/select-and-trim-the-mp3-file.png)
 
 Step5 Click the **"Export"** option and export the newly created MP3 file in MP3 format.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![export the mp3 file in mp3 format](https://images.wondershare.com/filmora/article-images/2023/03/export-the-mp3-file-in-mp3-format.png)
 
 ## How to Set an MP3 File as a Ringtone on Android?
@@ -79,6 +92,14 @@ Step1 Transfer the trimmed MP3 file from your PC to your Android phone's **"File
 
 Step2 Open **"Settings"** on your Android phone. Scroll below and tap the **"Sound"** option.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open settings and tap sound option](https://images.wondershare.com/filmora/article-images/2023/03/open-settings-and-tap-sound-option.PNG)
 
 Step3 Scroll below and tap the **"Phone Ringtone"** option.
@@ -93,12 +114,18 @@ Step5 Select the customized ringtone from **"Sound Picker"** and tap **"Done,"**
 
 ![select customized mp3 file from sound pickerr](https://images.wondershare.com/filmora/article-images/2023/03/select-customized-mp3-file-from-sound-pickerr.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## How to Set an MP3 File as a Notification Sound?
 
 Apart from setting ringtone, you are also supported to set customized notification sound. If you want to use an MP3 file as a notification sound on Android, follow the below-mentioned steps:
 
 Step1 Launch **"Settings"** on your phone and tap the **"Sound"** option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![open settings and tap sound option](https://images.wondershare.com/filmora/article-images/2023/03/open-settings-and-tap-sound-option.PNG)
 
 Step2 Now scroll below and tap the **"Notification Sound"** option.
@@ -111,14 +138,23 @@ Step3 A list of default notification sounds will open up. To select the trimmed 
 
 Step4 Select the customized sound and tap **"Save."** Now you have successfully set a customized MP3 file as a notification sound.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![select customized sound and tap save](https://images.wondershare.com/filmora/article-images/2023/03/select-customized-sound-and-tap-save.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## How to Set MP3 Ringtones for Specific Contacts?
 
 If you want to set an MP3 ringtone for specific contacts on Android, do these steps:
 
 Step1 Open **"Contacts"** on your Android phone and select the contact number you are looking to assign an MP3 ringtone.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open contacts and select](https://images.wondershare.com/filmora/article-images/2023/03/open-contacts-and-select.PNG)
 
 Step2 Tap the **"Edit"** option available at the bottom.
@@ -127,10 +163,17 @@ Step2 Tap the **"Edit"** option available at the bottom.
 
 Step3 Tap the **"Ringtone"** option.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![tap ringtone option](https://images.wondershare.com/filmora/article-images/2023/03/tap-ringtone-option.PNG)
 
 Step4 A list of default ringtones will appear. If you want to add a customized ringtone, tap the **"+"** button on top.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap + button to add trimmed mp3 file](https://images.wondershare.com/filmora/article-images/2023/03/tap-button-to-add-trimmed-mp3-fille.PNG)
 
 Step5 Select the customized MP3 file from **"Sound Picker,"** and you are done.
@@ -171,3 +214,44 @@ Hopefully, you will find our article helpful, and you can now add customized rin
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-delving-into-magix-photo-editors-features/"><u>[New] 2024 Approved  Delving Into MAGIX Photo Editor's Features</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-x-mix-master-pro-for-computer-users/"><u>[New] 2024 Approved  X-Mix Master Pro for Computer Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-revolutionize-your-streaming-game-with-these-5-pro-tips/"><u>[New] In 2024, Revolutionize Your Streaming Game with These 5 Pro Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-5-android-photo-enhancers/"><u>[New] Top 5 Android Photo Enhancers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-oculus-vr-ultimate-player-reviews/"><u>[New] Top Oculus VR  Ultimate Player Reviews</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-tips-lipo-power-sources-for-aerial-vehicles/"><u>[New] Top Tips  LiPo Power Sources for Aerial Vehicles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-photos-with-ease-using-basic-adobe-tools/"><u>[New] Transform Photos with Ease Using Basic Adobe Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-shots-to-boost-circular-vignette-features/"><u>[New] Transform Shots to Boost Circular Vignette Features</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-your-airborran-viewing-20-free-dji-drone-luts-offer/"><u>[New] Transform Your Airborran Viewing - 20 FREE DJI Drone LUTS Offer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-your-drive-must-have-accessories-for-sj4000-owners/"><u>[New] Transform Your Drive  Must-Have Accessories for SJ4000 Owners</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-your-screen-pip-tutorials-for-macos-enthusiasts/"><u>[New] Transform Your Screen  PIP Tutorials for macOS Enthusiasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transformative-podcast-branding-through-logo-artistry/"><u>[New] Transformative Podcast Branding Through Logo Artistry</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transformative-visuals-unleash-the-power-of-6-video-types/"><u>[New] Transformative Visuals  Unleash the Power of 6 Video Types</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transforming-images-the-art-of-applying-luts-in-pro/"><u>[New] Transforming Images  The Art of Applying LUTs in Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transforming-slow-motion-into-fast-action/"><u>[New] Transforming Slow Motion Into Fast Action</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-collection-top-rated-gratuitous-gags/"><u>[New] Ultimate Collection  Top-Rated Gratuitous Gags</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-guide-best-zero-cost-image-editors-online/"><u>[New] Ultimate Guide  Best Zero-Cost Image Editors Online</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-guide-to-iphones-video-length-tailoring/"><u>[New] Ultimate Guide to iPhone's Video Length Tailoring</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-guide-to-using-retro-effects-on-edits/"><u>[New] Ultimate Guide to Using Retro Effects on Edits</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-list-7-mac-focused-vids/"><u>[New] Ultimate List  7 Mac-Focused Vids</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-screen-selections-for-immersive-xbox-series-x-gaming/"><u>[New] Ultimate Screen Selections for Immersive Xbox Series X Gaming</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-top-5-low-weight-action-recorders-list/"><u>[New] Ultimate Top 5 Low-Weight Action Recorders List</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-uncover-the-best-10-online-vectors-collections/"><u>[New] Uncover the Best 10 Online Vectors Collections</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-understanding-the-essentials-of-burst-in-action-shots/"><u>[New] Understanding the Essentials of Burst in Action Shots</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-understanding-the-periscope-experience-free-access-and-user-account-creation/"><u>[New] Understanding the Periscope Experience  Free Access & User Account Creation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unityflip-blend-ios-and-macos-media-artfully/"><u>[New] UnityFlip  Blend iOS & macOS Media Artfully</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleash-creative-potential-effortless-backdrop-elimination-on-canvas/"><u>[New] Unleash Creative Potential  Effortless Backdrop Elimination on Canvas</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleash-the-power-of-digital-beats-with-our-free-tools/"><u>[New] Unleash the Power of Digital Beats with Our Free Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlimited-sky-storage-solutions-for-your-visual-chronicles-free-and-premium/"><u>[New] Unlimited Sky Storage Solutions for Your Visual Chronicles, Free & Premium</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-youtube-craft-your-ultimate-music-collection/"><u>[Updated] Mastering YouTube  Craft Your Ultimate Music Collection</u></a></li>
+<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-infinix-hot-40i-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Infinix Hot 40i</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-perfect-timing-for-instagram-loops-key-strategies-revealed/"><u>In 2024, Perfect Timing for Instagram Loops  Key Strategies Revealed</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/rise-of-the-gaming-titans-top-10-on-tiktok-for-2024/"><u>Rise of the Gaming Titans  Top 10 on TikTok for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-motorola-moto-g23-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Motorola Moto G23 Android SIM Unlock APK</u></a></li>
+</ul></div>

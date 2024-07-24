@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Blur Pictures on iPhone for Free\""
-date: 2024-06-04T13:47:14.797Z
-updated: 2024-06-05T13:47:14.797Z
+date: 2024-07-23T08:00:55.808Z
+updated: 2024-07-24T08:00:55.808Z
 tags: 
   - screen-recording
   - ai video
@@ -54,8 +54,15 @@ Swipe-drag the modes present above the **Shutter** button to switch to the **POR
 
 Tap the **Capture** icon from the bottom-center to capture the image. To access, you can either tap the **Preview** icon from the bottom-left corner, or get to the **Photos** app from the Home screen, go to **Albums**, and access the captured photo from the **Recents** album.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![blur photo background iphone portrait mode](https://images.wondershare.com/filmora/article-images/blur-photo-background-iphone-portrait-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Part 2: Take a Photo with a Blurred Background on Older iPhones by Getting Closer to the Subject
 
 If you are using an older model of iPhone that doesn’t have ‘Portrait’ mode, you can still capture the images with the blurred background by getting closer to the subject, and enabling ‘Auto Focus’ before tapping the ‘Capture’ button. You can learn how to do this by following the steps given below:
@@ -68,6 +75,9 @@ Use the method explained above to launch the **Camera** app on your iPhone. Beca
 
 Tap and hold the main subject on the screen until the **AE/AF Lock** message shows up at the top to confirm that the **Auto Focus** feature has been turned on.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone auto focus blur photo background](https://images.wondershare.com/filmora/article-images/iphone-auto-focus-blur-photo-background.jpg)
 
 **Step 3: Capture and Access the Image**
@@ -102,12 +112,18 @@ There is a plethora of apps available on the App Store that can help you get the
 
 After [installing Snapseed from the App Store](https://apps.apple.com/us/app/snapseed/id439438619), launch the program, and tap anywhere on the main screen. On the accessibility allowance box, tap **Select Photos**, tap to select the target photo from your iPhone, and tap **Done** from the top-right corner. Next, tap anywhere on the screen to import the selected picture to Snapseed.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![open photo to blur snapseed](https://images.wondershare.com/filmora/article-images/open-photo-to-blur-snapseed.jpg)
 
 **Step 2: Pick the Blur Tool**
 
 Tap **TOOLS** from the bottom of the interface, and from the options available in the box that pops up, tap **Lens Blur**.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pick blur tool snapseed](https://images.wondershare.com/filmora/article-images/pick-blur-tool-snapseed.jpg)
 
 **Step 3: Adjust the Blur Shape and Size**
@@ -118,10 +134,16 @@ Tap the **Shape** icon from the bottom to switch between the **Linear** and **El
 
 From the top, ensure that the **Blur Strength** option is selected, tap anywhere on the screen, and drag to the right to increase the intensity of the blurriness. Optionally, you can tap the Effect Types icon from the bottom, and tap to choose **Vignette Strength** from the box that comes up.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![snapseed blur photo background](https://images.wondershare.com/filmora/article-images/snapseed-blur-photo-background.jpg)
 
 Then, as earlier, drag your finger to the right or left anywhere on the screen to increase or decrease the intensity of the effect respectively. Once done, tap the **OK** button (with the tick mark) from the bottom-right corner. Back on the main screen, tap **EXPORT** from the bottom-right, you tap your preferred option for exporting.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![save blurred photo snapseed](https://images.wondershare.com/filmora/article-images/save-blurred-photo-snapseed.jpg)
 
 **Conclusion**
@@ -168,6 +190,9 @@ Use the method explained above to launch the **Camera** app on your iPhone. Beca
 
 Tap and hold the main subject on the screen until the **AE/AF Lock** message shows up at the top to confirm that the **Auto Focus** feature has been turned on.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![iphone auto focus blur photo background](https://images.wondershare.com/filmora/article-images/iphone-auto-focus-blur-photo-background.jpg)
 
 **Step 3: Capture and Access the Image**
@@ -186,6 +211,9 @@ Launch the **Photos** app on your iPhone, go to the album with the target photo,
 
 Tap the Effects icon from the bottom, swipe left to horizontally scroll through the available effects to get to **VIGNETTE**, and use the slider under it to manage the intensity to **blur picture iPhone** has.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![blur picture on iphone with vignette effect](https://images.wondershare.com/filmora/article-images/blur-picture-on-iphone-with-vignette-effect.jpg)
 
 **Step 3: Save and Access the Photo**
@@ -202,6 +230,9 @@ There is a plethora of apps available on the App Store that can help you get the
 
 After [installing Snapseed from the App Store](https://apps.apple.com/us/app/snapseed/id439438619), launch the program, and tap anywhere on the main screen. On the accessibility allowance box, tap **Select Photos**, tap to select the target photo from your iPhone, and tap **Done** from the top-right corner. Next, tap anywhere on the screen to import the selected picture to Snapseed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![open photo to blur snapseed](https://images.wondershare.com/filmora/article-images/open-photo-to-blur-snapseed.jpg)
 
 **Step 2: Pick the Blur Tool**
@@ -218,6 +249,9 @@ Tap the **Shape** icon from the bottom to switch between the **Linear** and **El
 
 From the top, ensure that the **Blur Strength** option is selected, tap anywhere on the screen, and drag to the right to increase the intensity of the blurriness. Optionally, you can tap the Effect Types icon from the bottom, and tap to choose **Vignette Strength** from the box that comes up.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![snapseed blur photo background](https://images.wondershare.com/filmora/article-images/snapseed-blur-photo-background.jpg)
 
 Then, as earlier, drag your finger to the right or left anywhere on the screen to increase or decrease the intensity of the effect respectively. Once done, tap the **OK** button (with the tick mark) from the bottom-right corner. Back on the main screen, tap **EXPORT** from the bottom-right, you tap your preferred option for exporting.
@@ -252,3 +286,51 @@ Blurring the background in a photo ensures that the main subject remains in the 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-script-to-screen-methods-of-inserting-dialogue-into-online-videos/"><u>[New] 2024 Approved  From Script to Screen  Methods of Inserting Dialogue Into Online Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-expert-advice-how-to-leverage-snapchat-effectively/"><u>[New] Expert Advice  How to Leverage Snapchat Effectively</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-essential-youtube-movie-binge-guides/"><u>[New] In 2024, Essential YouTube Movie Binge Guides</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-immersive-worlds-vrs-impact-on-entertainment/"><u>[New] In 2024, Immersive Worlds  VR's Impact on Entertainment</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-premium-free-fb-media-designer-toolkit-for-2024/"><u>[New] Premium Free FB Media Designer Toolkit for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-perfect-blur-techniques-for-smoother-photo-edits/"><u>[New] The Perfect Blur  Techniques for Smoother Photo Edits</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-visual-journey-samsungs-ue590-reviewed/"><u>[New] The Ultimate Visual Journey - Samsung's UE590 Reviewed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-professional-results-with-these-key-pixlr-techniques/"><u>[New] Unlock Professional Results with These Key Pixlr Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unpacking-the-features-of-androids-lightroom-app/"><u>[New] Unpacking the Features of Android's Lightroom App</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-optimal-sites-for-pixel-sounds/"><u>[New] Unveiling Optimal Sites for Pixel Sounds</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-latest-in-sony-blu-ray-s6700/"><u>[New] Unveiling the Latest in Sony Blu-Ray S6700</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-optimal-airdate-for-podcasts-timing-matters-most/"><u>[Updated] Optimal Airdate for Podcasts  Timing Matters Most</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-tips-for-troubled-feed-viewers-reveal-hidden-fb-videos-for-2024/"><u>[Updated] Tips for Troubled Feed Viewers  Reveal Hidden FB Videos for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-mastering-tinder-profiles-top-tricks-for-quick-likes/"><u>2024 Approved  Mastering Tinder Profiles  Top Tricks for Quick Likes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-most-innovative-voice-altering-mobile-apps/"><u>2024 Approved  Most Innovative Voice-Altering Mobile Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-images-the-art-of-applying-luts-in-pro/"><u>2024 Approved  Transforming Images  The Art of Applying LUTs in Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unbeatable-upvotes-reddits-hottest-threads-from-history/"><u>2024 Approved  Unbeatable Upvotes  Reddit's Hottest Threads From History</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-spotifys-potential-for-brands-a-comprehensive-guide/"><u>2024 Approved  Unlocking Spotify's Potential for Brands  A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-secrets-of-successful-voiceover-integration/"><u>2024 Approved  Unveiling the Secrets of Successful Voiceover Integration</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-motorola-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Motorola</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y36-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/getting-past-dxgkrnlsys-bsod-on-pc/"><u>Getting Past dxgkrnl.sys BSOD on PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-infinix-zero-5g-2023-turbo-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Infinix Zero 5G 2023 Turbo Location by Number | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tis-the-season-for-laughs-the-goofy-vhs-special/"><u>In 2024, 'Tis the Season for Laughs  'The Goofy' VHS Special</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-synthesizing-best-canon-sequential-videos/"><u>In 2024, Synthesizing Best Canon Sequential Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-blending-work-and-virtual-realitiescape/"><u>In 2024, The Art of Blending Work and Virtual Realitiescape</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essential-list-of-religious-ringing-sounds/"><u>In 2024, The Essential List of Religious Ringing Sounds</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-science-of-sensor-based-hands-monitoring/"><u>In 2024, The Science of Sensor-Based Hands Monitoring</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-secrets-to-customizing-your-storys-pace-in-instagram/"><u>In 2024, The Secrets to Customizing Your Story's Pace in Instagram</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-personalizing-whatsapp-ringtone-on-all-devices/"><u>In 2024, The Ultimate Guide to Personalizing WhatsApp Ringtone on All Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-video-editing-inshots-place/"><u>In 2024, The Ultimate Guide to Video Editing - InShot's Place</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transforming-photos-with-simple-bg-removal-in-picsart/"><u>In 2024, Transforming Photos with Simple Bg Removal in Picsart</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-twitch-live-reset-guide/"><u>In 2024, Twitch Live Reset Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-hdr-photography-selecting-superior-models/"><u>In 2024, Unlocking HDR Photography  Selecting Superior Models</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-peaceful-slumber-top-notch-asmr-artists-for-rest/"><u>In 2024, Unlocking Peaceful Slumber  Top-Notch ASMR Artists for Rest</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-quickest-method-to-construct-google-image-mosaics/"><u>In 2024, Unveiling the Quickest Method to Construct Google Image Mosaics</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-vn-video-editor-pro-review-does-it-live-up-to-the-hype/"><u>In 2024, VN Video Editor Pro Review Does It Live Up to the Hype?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/stunning-iphone-portraits-through-water-imagery-techniques-for-2024/"><u>Stunning iPhone Portraits Through Water Imagery Techniques for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/superior-choices-elite-webcam-holders-for-2024/"><u>Superior Choices  Elite Webcam Holders for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/swift-and-simple-acquiring-itunes-radio-episodes-for-2024/"><u>Swift and Simple  Acquiring iTunes Radio Episodes for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-best-action-hats-motorcycle-cameras-reviewed-and-ranked-for-2024/"><u>The Best Action Hats  Motorcycle Cameras Reviewed and Ranked for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/thrifty-cloud-haven-budget-storage-bulk-files-handling-for-2024/"><u>Thrifty Cloud Haven  Budget Storage, Bulk Files Handling for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/total-motion-audit-2023-for-2024/"><u>Total Motion Audit 2023 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-5-vr-sets-elevating-uav-experience-for-2024/"><u>Ultimate 5 VR Sets Elevating UAV Experience for 2024</u></a></li>
+</ul></div>

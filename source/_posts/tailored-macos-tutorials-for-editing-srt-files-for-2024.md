@@ -1,7 +1,7 @@
 ---
 title: "Tailored macOS Tutorials for Editing SRT Files for 2024"
-date: 2024-06-04T12:53:45.788Z
-updated: 2024-06-05T12:53:45.788Z
+date: 2024-07-23T07:27:37.607Z
+updated: 2024-07-24T07:27:37.607Z
 tags: 
   - screen-recording
   - ai video
@@ -29,6 +29,9 @@ In this article, we will walk you through some best tools to show you how to adj
 
 * [The Best Way to Edit .SRT Files for Videos on Mac](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Does the SRT file work on a Mac?
 
 The SRT file is typically a plain text-based file with time markers, sequence numbers, and captions. Most third-party media players do showcase the SRT-based format easily. So, you can also use Preview apps or any other software to access and read the basic text documents on Mac.
@@ -39,6 +42,9 @@ However, the QuickTime player on Mac does not always support SRT in videos. You 
 
 Indeed, you have to install specific types of software on your Mac device if you want to **SRT edit Mac-**based videos. Specific programs support the SRT file in media files on Mac devices. You must use these tools separately to open and edit the SRT file.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 1: Open SRT files on Mac using TextEdit
 
 It is possible to use NotePad for viewing the **SRT Mac-based** files if they are planning to open the basic text-based SRT files. However, the alternative for Mac is called TextEdit, and it works similarly as the NotePad word-processing program.
@@ -66,6 +72,13 @@ Step1 Go to the Mac homepage and access the TextEdit app.
 
 Step2 Open a new file and type 1 in the editor timeline to indicate the caption sequence you are starting with. Hit Enter.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![type in the editor timeline](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-1.jpg)
 
 Step3 Add the starting and ending time codes with the following command. Press Enter again.
@@ -116,6 +129,9 @@ Keep both the video you are adding the SRT into and the downloaded SRT file in o
 
 Step3 Open your video file on the VLC player by double-clicking on the movie and choosing the “Open with VLC media player” option. Or, drag and drop it into the media player. Another way is to tap on the File tab in the software and press the “Open File” option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![tap on the file tab](https://images.wondershare.com/videoconverter/en/subtitles/add-subtitles-in-vlc-mac-4.jpg)
 
 Step4 The video will begin playing. Go to the menu bar and click on the Subtitles tab > choose the “Add Subtitle File…” button.
@@ -124,6 +140,9 @@ Step4 The video will begin playing. Go to the menu bar and click on the Subtitle
 
 Step5 Choose the SRT file from your device and then load it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ### Method 3: Use a Browser-based Online Tool like HappyScribe on Mac
 
 For opening **SRT for Mac,** you can download the third-party software of [HappyScribe](https://www.happyscribe.com/). This software has automatic transcription features, with multilingual support, i.e., edit SRT files in different languages besides English, like Dutch and Hebrew.
@@ -156,6 +175,9 @@ Step1 Open HappyScribe through your preferred browser. Press the Upload a File o
 
 Step2 Tap the "Autogenerate subtitles" option, or you can browse for suitable SRT files.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![browse for suitable subtitles](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-7.jpg)
 
 Step3 Make changes to the text color, caption, position, and font, as needed.
@@ -178,10 +200,16 @@ Step2 Click on the “Select Caption Files” option and press the “SELECT .SR
 
 Step3 Choose the output format for the file. Choose QT available in the fourth spot.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![choose the output format](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-9.jpg)
 
 Step4 After rechecking that you chose the right format, add your email address; you will receive the translated QT formatted file there. Press the Convert button to activate the conversion process.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![press the convert button](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-10.jpg)
 
 Step5 On your Mac device, launch the QuickTime Pro software (upgrade the software to Pro beforehand if it is not already available).
@@ -192,6 +220,9 @@ Step7 Click on the Windows tab > Properties and make adjustments to the file.
 
 ![make adjustments to the file](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: The Best Way to Edit .SRT Files for Videos on Mac
 
 While all of the solutions given in Part 2 allow you to access SRT files on Mac, the editing benefits are limited. Instead, you can opt for an efficient video editing software like Filmora if you are wondering **how to create SRT file on Mac** and then edit it. The software supports SRT files for viewing, formatting, editing, and more.
@@ -210,6 +241,9 @@ The software comes with various standard-level and advanced editing functions, i
 
 Step1 Launch Filmora on Mac and click on New Project. Add the video file and drag it to the timeline for editing.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![launch filmora on mac](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-12.jpg)
 
 Step2 Click on the Media tab and import the SRT file.
@@ -228,6 +262,9 @@ Step5 Choose the edited SRT file on the editor timeline. Right-click and choose 
 
 ![choose the export subtitle file option](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## Final Words
 
 You can easily try out these methods to effectively open the SRT files in videos on Mac devices, either by converting them for QuickTime Player or using another player. The Filmora software is suitable for the best results if you plan to open and edit the SRT files with further precision. Carry out all of the steps carefully for a good user experience.
@@ -265,3 +302,42 @@ Part 1: Does the SRT file work on a Mac?
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-screen-moments-a-compreenasive-recorder-roundup/"><u>[New] 2024 Approved  Screen Moments  A Compreenasive Recorder Roundup</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-7-ideas-to-improve-the-unboxing-experience/"><u>[New] 7 Ideas to Improve the Unboxing Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-incor-written-by-a-professor-the-article-discusses-the-use-of-metaphors-and-analogies-to-explain-complex-scientific-concepts-how-can-teachers-effectivel/"><u>[New] Incor Written by a Professor, the Article Discusses the Use of Metaphors and Analogies to Explain Complex Scientific Concepts. How Can Teachers Effectively Incorporate These Rhetorical Devices Into Their Teaching Methods?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-step-by-step-how-to-convert-and-download-vids-from-social-media-to-mp3s/"><u>[New] Step-by-Step  How to Convert and Download Vids From Social Media to MP3s</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-synergy-of-content-and-platform-for-peak-performance/"><u>[New] The Synergy of Content and Platform for Peak Performance</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-film-guide-top-15-timeless-stop-motion-classics/"><u>[New] The Ultimate Film Guide - Top 15 Timeless Stop Motion Classics</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-crafting-compelling-and-credible-documentary-scripts/"><u>[New] The Ultimate Guide to Crafting Compelling and Credible Documentary Scripts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-toolkit-powerdirectors-comprehensive-24-analysis/"><u>[New] The Ultimate Toolkit  PowerDirector's Comprehensive '24 Analysis</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-zoom-setup-playbook/"><u>[New] The Ultimate Zoom Setup Playbook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-rated-pc-and-mobile-mkv-reader/"><u>[New] Top-Rated PC & Mobile MKV Reader</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-total-motion-systems-scrutiny-report/"><u>[New] Total Motion Systems Scrutiny Report</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-windows-playback-system/"><u>[New] Ultimate Windows Playback System</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unlocking-the-credentials-your-pathway-to-validated-disco-memberhood/"><u>[New] Unlocking the Credentials  Your Pathway to Validated Disco Memberhood</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveil-windows-xp-professional-for-video-production/"><u>[New] Unveil Windows XP Professional for Video Production</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-animated-magic-with-movie-maker-software/"><u>[New] Unveiling Animated Magic with Movie Maker Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-strategies-for-skyrocketing-youtube-followers/"><u>[Updated] Strategies for Skyrocketing YouTube Followers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-pioneers-making-waves-in-digital-av-creation/"><u>[Updated] Top Pioneers Making Waves in Digital AV Creation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-twenty-techniques-for-rewinding-livestreams-online/"><u>[Updated] Top Twenty Techniques for Rewinding Livestreams Online</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-reaching-new-crowds-simultaneous-youtube-and-twitch-coverage/"><u>2024 Approved  Reaching New Crowds  Simultaneous Youtube & Twitch Coverage</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-take-control-of-time-top-10-free-video-speed-manipulation-apps-for-mobile/"><u>2024 Approved Take Control of Time Top 10 Free Video Speed Manipulation Apps for Mobile</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-nokia-130-music-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-a34-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy A34 5G Fingerprint Lock</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-samsung-galaxy-s24-ultra-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Samsung Galaxy S24 Ultra to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-shortcuts-to-excellent-iphone-time-lapse-videos/"><u>In 2024, Shortcuts to Excellent iPhone Time Lapse Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-tricks-to-faster-periscope-live-feeds/"><u>In 2024, Tricks to Faster Periscope Live Feeds</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-vertex-productions-summary-pinnacle-studio-assessment-2023/"><u>In 2024, Vertex Productions Summary  Pinnacle Studio Assessment, 2023</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-make-your-pictures-speak-online-with-the-best-tools-recommended/"><u>New 2024 Approved Make Your Pictures Speak Online With the Best Tools Recommended</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reactivating-your-dead-asus-webcam/"><u>Reactivating Your Dead ASUS Webcam</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/sculpting-speed-at-winter-olympics-for-2024/"><u>Sculpting Speed at Winter Olympics for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-videos-using-video-enhancer-v22-for-2024/"><u>Transform Your Videos  Using Video Enhancer V2.2 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforming-text-the-illustrator-3d-approach-for-2024/"><u>Transforming Text  The Illustrator 3D Approach for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-vr-immersion-review-series-oculus-edition-for-2024/"><u>Ultimate VR Immersion Review Series – Oculus Edition for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-hidden-world-of-hand-tracking-for-2024/"><u>Unveiling the Hidden World of Hand Tracking for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713954148928-updated-2024-approved-how-to-livestream-zoom-on-facebook/"><u>Updated 2024 Approved | How to Livestream Zoom on Facebook?</u></a></li>
+</ul></div>

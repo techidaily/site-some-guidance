@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Untangling Veiled Feedback Mechanisms in Video Sites\""
-date: 2024-06-04T11:50:46.825Z
-updated: 2024-06-05T11:50:46.825Z
+date: 2024-07-23T06:50:51.013Z
+updated: 2024-07-24T06:50:51.013Z
 tags: 
   - screen-recording
   - ai video
@@ -65,6 +65,10 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## How to See Liked Comments on YouTube?
 
 YouTube is a service that is available for free, and it may be a terrific place for teenagers to find interest. Many young people use YouTube to watch comedy shows, how-to videos, recipes, hacks, and music videos. Teenagers also use the video-sharing platform to subscribe to other YouTubers and famous personalities and to follow their favorite vloggers (video bloggers).
@@ -81,6 +85,23 @@ But, if you want to retrace the videos you commented on and the videos/comments 
 
 Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![find your data in youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-your-data-in-youtube.jpg)
 
 Step2 Scroll down a little bit and click the **More** button.
@@ -89,6 +110,9 @@ Step2 Scroll down a little bit and click the **More** button.
 
 Step3 Click the **Comments** section.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
@@ -99,10 +123,16 @@ To see videos/comments you liked or disliked, please follow these steps as conti
 
 Step4 In the **Google My Activity** tab, click **Other activity**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![other activity youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/other-activity-youtube-comments.jpg)
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![your comment likes and dislikes](https://images.wondershare.com/filmora/article-images/2022/11/your-comment-likes-and-dislikes.jpg)
 
 Now you will see the videos you liked or disliked and also the comments you liked or disliked, including the date when you liked or disliked the video/comment.
@@ -115,6 +145,9 @@ This article tells you that you can't see who liked or disliked a comment, but y
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -147,6 +180,9 @@ Because understanding how to comment is only one aspect of the issue; very impor
 
 Try making a joke, pointing out something amusing, providing helpful information, or expressing sympathy or concern for a fan. Additionally, a simple thumbs-up or heart can go a long way to demonstrate that you are paying attention even if you aren't feeling very friendly (we all have bad days, it's OK!).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## Did you know what a Highlighted comment is?
 
 A highlighted comment on YouTube aims to draw the content creator's attention with an automated feature.
@@ -185,3 +221,60 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ross-platform-streaming-techniques-from-youtube-to-30plus-platforms/"><u>[New] Cross-Platform Streaming Techniques  From YouTube to 30+ Platforms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-complete-voice-change-blueprint-using-morphvox/"><u>[New] The Complete Voice Change Blueprint Using MorphVOX</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-newbies-guide-to-understanding-core-filming-techniques/"><u>[New] The Newbie's Guide to Understanding Core Filming Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-role-of-authenticity-in-client-generated-marketing/"><u>[New] The Role of Authenticity in Client-Generated Marketing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-boosting-views-on-tiktok-unboxings/"><u>[New] The Ultimate Guide to Boosting Views on TikTok Unboxings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-selection-high-quality-zero-price-free-luts/"><u>[New] The Ultimate Selection  High Quality, Zero Price Free LUTs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tracing-the-evolutionary-path-of-windows-movie-maker/"><u>[New] Tracing the Evolutionary Path of Windows Movie Maker</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultra-quick-photo-inspector-app/"><u>[New] Ultra-Quick Photo Inspector App</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unlock-professional-editing-skills-using-gopro-studio-for-2024/"><u>[New] Unlock Professional Editing Skills Using GoPro Studio for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-acid-pro-alternatives-a-comprehensive-guide/"><u>[Updated] 2024 Approved  ACID Pro Alternatives  A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-strategic-use-of-visual-media-in-classroom-teaching/"><u>[Updated] Strategic Use of Visual Media in Classroom Teaching</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamlined-process-for-upgrading-macos-sierra/"><u>[Updated] Streamlined Process for Upgrading macOS Sierra</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-fast-photo-journey-crafting-quick-dynamic-google-collages/"><u>[Updated] The Fast Photo Journey  Crafting Quick, Dynamic Google Collages</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-strategies-for-finding-and-using-a-lost-iphone-x/"><u>[Updated] Top Strategies for Finding & Using a Lost iPhone X</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-voice-logging-made-simple-with-ipad-apps-for-2024/"><u>[Updated] Voice Logging Made Simple with iPad Apps for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-breaking-the-barrier-acquiring-mass-tiktok-videos-easily/"><u>2024 Approved  Breaking the Barrier  Acquiring Mass TikTok Videos Easily</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-engage-enchant-excel-the-quintessential-5-strategies-for-youtube-marketing/"><u>2024 Approved  Engage, Enchant, Excel  The Quintessential 5 Strategies for YouTube Marketing</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-expertise-in-spotify-advertising-a-playbook-guide/"><u>2024 Approved  Expertise in Spotify Advertising  A Playbook Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-free-yourself-from-fringe-a-youtube-video-fix-guide/"><u>2024 Approved  Free Yourself From Fringe  A YouTube Video Fix Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-gamers-delight-selecting-the-top-10-hddsssds/"><u>2024 Approved  Gamer's Delight  Selecting the Top 10 HDDs/SSDs</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-get-free-green-screen-effects-from-4-youtube-channels/"><u>2024 Approved  Get Free Green Screen Effects From 4 YouTube Channels</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlining-windows-photos-experience-with-music-and-aesthetic-filters/"><u>2024 Approved  Streamlining Windows Photos Experience with Music and Aesthetic Filters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-converting-speech-to-text-with-google-docs/"><u>2024 Approved  The Ultimate Guide to Converting Speech to Text with Google Docs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-easytime-timer-solutions-at-zero-cost/"><u>2024 Approved  Top EasyTime Timer Solutions at Zero Cost</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-zooms-potential-by-leveraging-skype/"><u>2024 Approved  Unlocking Zoom's Potential by Leveraging Skype</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-xiaomi-redmi-note-12-proplus-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Xiaomi Redmi Note 12 Pro+ 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/design-cartoon-images-with-the-best-tools/"><u>Design Cartoon Images With the Best Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-meizu-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Meizu Phone? Unlock It Now</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-swift-guide-eliminating-images-backdrops-with-affinity-photo/"><u>In 2024, Swift Guide  Eliminating Images' Backdrops with Affinity Photo</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tailoring-your-iphone-photographs-size-alteration/"><u>In 2024, Tailoring Your iPhone Photographs  Size Alteration</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-next-gen-samsung-gear-360-finding-your-perfect-replacement/"><u>In 2024, The Next Gen Samsung Gear 360 - Finding Your Perfect Replacement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-prodigys-pathway-expert-techniques-for-iphone-podcast-downloads/"><u>In 2024, The Prodigy's Pathway  Expert Techniques for iPhone Podcast Downloads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-checklist-for-starting-a-live-feed/"><u>In 2024, The Ultimate Checklist for Starting a Live Feed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-guide-to-zooid-template-design/"><u>In 2024, Ultimate Guide to Zooid Template Design</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleashing-speed-in-facebook-videos-the-best-tools-and-tips/"><u>In 2024, Unleashing Speed in Facebook Videos  The Best Tools and Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-10-best-free-os-agnostic-video-solutions/"><u>In 2024, Unveiling the 10 Best Free OS-Agnostic Video Solutions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/leading-eight-safe-video-meeting-systems-for-smbs/"><u>Leading Eight Safe Video Meeting Systems for SMBs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-artistic-edge-premium-text-tools-for-adobe-after-effects-for-2024/"><u>The Artistic Edge  Premium Text Tools for Adobe After Effects for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-collection-of-iphone-and-pcs-top-8-converters-for-2024/"><u>The Ultimate Collection of iPhone & PC's Top 8 Converters for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-top-9-tools-for-making-gifs-for-2024/"><u>The Ultimate Guide  Top 9 Tools for Making GIFs for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-photo-framing-on-the-net-for-2024/"><u>The Ultimate Guide to Photo Framing on the Net for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-selection-high-quality-zero-price-free-luts-for-2024/"><u>The Ultimate Selection  High Quality, Zero Price Free LUTs for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/through-the-viewfinder-tips-for-artistic-photo-edits-for-2024/"><u>Through the Viewfinder  Tips for Artistic Photo Edits for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-intro-maker-for-panzoid-for-2024/"><u>Top 10 Intro Maker for Panzoid for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-strategies-for-crafting-engaging-podcast-graphics-for-2024/"><u>Top 10 Strategies for Crafting Engaging Podcast Graphics for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-20-unlimited-cloud-storage-solutions-up-to-1tb-for-2024/"><u>Top 20 Unlimited Cloud Storage Solutions, Up To 1TB for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-2023-no-cost-live-stream-tools-cross-platform-edition-for-2024/"><u>Top 2023 No-Cost Live Stream Tools  Cross-Platform Edition for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleashing-the-potency-of-open-source-video-engines-for-2024/"><u>Unleashing the Potency of Open Source Video Engines for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-your-characters-potential-with-these-essential-sound-changing-techniques-in-free-fire-for-2024/"><u>Unlock Your Character's Potential with These Essential Sound Changing Techniques in Free Fire for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-your-creative-potential-an-overview-of-final-cut-pro-for-2024/"><u>Unlock Your Creative Potential  An Overview of Final Cut Pro for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unparalleled-templates-for-meme-artists-for-2024/"><u>Unparalleled Templates for Meme Artists for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-htc-u23-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your HTC U23 Auto Does Not Work | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tech Showdown  Exploring Facial Detection in iPhones Vs. Samsungs\""
-date: 2024-06-04T14:54:00.402Z
-updated: 2024-06-05T14:54:00.402Z
+date: 2024-07-23T08:42:50.997Z
+updated: 2024-07-24T08:42:50.997Z
 tags: 
   - screen-recording
   - ai video
@@ -49,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 
 ![Samsung](https://images.wondershare.com/filmora/article-images/Samsung-Galaxy-S8-Face-Unlock.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## Part 2: Which one is more Accuracy?
 
  Being accurate is a considerable issue with face recognition technology if you are using a Samsung device. On the other hand, iPhone X shows accuracy than Samsung since it analyzes the whole face instead of iris. For Samsung’s iris scanner, the camera contains a confined and narrowly designed focus where is exactly your iris needed to be for scanning. The camera will able to recognize only when your iris will be in that same place for long where it focuses. And therefore, there are times when you left with holding your device high for better iris detection. Apple has no such accuracy issue for it takes your face to recognize.
@@ -63,8 +66,15 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 
  Both the devices need to be lifted to keep the face’s angle point accurately and it can look awkward when you need to use your device in a crowded place. Hence, both ways are kind of inconvenient to use especially when you wish to use your device secretly.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![face ID incovenience](https://images.wondershare.com/filmora/article-images/face-incovenience.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## Part 4: Safety Issue
 
  Ensuring safety is one of the main concern people have and the face recognition technology in both the devices has done pretty well. Apple uses the TrueDepth camera system which includes flood illuminator, IR camera as well as dot projector to make the face recognized in all possible ways. It has been claimed by the company that the possibility of unlocking the device by a random person’s face is 1 in 1,000,000\. Besides this, Apple had made sure to let people try only 5 face attempts after which they will require to enter the passcode. The probability though doesn’t work same for twins and the family members who resemble you. Also, the children who are less than 13 are able to trick you since they don’t have fully developed facial features.
@@ -79,6 +89,9 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 
  All in all, both the companies have put extra effort in justifying the safety with trending face recognition technology. However, we are not certain for full reliability of them.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
  The technology of facial recognition isn’t new to us and it has made people excited from the time it has come. However, many users have not started using the technology yet. We hope that this functionality will gain the popularity with time and people will start to make use of it.
@@ -102,6 +115,9 @@ Follow @Ollie Mattison
 * [Part 3: The Common Inconvenience](#part3)
 * [Part 4: Safety Issue](#part4)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: How does it work?
 
  This section will cover how the face recognition technology works for both the devices. Check out the process.
@@ -116,12 +132,21 @@ Follow @Ollie Mattison
 
  Samsung also uses almost identical operation and involves two components which are IR LED and Iris camera. The former can be said as similar to the flood illuminator of the newest iPhone. IR LED works same as flood illuminator. It however shows difference only by focusing the infrared light on the eyes unlike flood illuminator which focus on the entire face. The Iris camera is nothing but infrared camera whose job is to take the picture of your iris. The process begins with IR LED which assists Iris camera by illuminating the eyes so that the camera gets the opportunity to capture the iris pattern properly. Samsung has the option to choose between both iris scanning or just one.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![Samsung](https://images.wondershare.com/filmora/article-images/Samsung-Galaxy-S8-Face-Unlock.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: Which one is more Accuracy?
 
  Being accurate is a considerable issue with face recognition technology if you are using a Samsung device. On the other hand, iPhone X shows accuracy than Samsung since it analyzes the whole face instead of iris. For Samsung’s iris scanner, the camera contains a confined and narrowly designed focus where is exactly your iris needed to be for scanning. The camera will able to recognize only when your iris will be in that same place for long where it focuses. And therefore, there are times when you left with holding your device high for better iris detection. Apple has no such accuracy issue for it takes your face to recognize.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iPhone X accuracy](https://images.wondershare.com/filmora/article-images/iphone-x-accuracy.jpg)
 
 ## Part 3: The Common Inconvenience
@@ -142,6 +167,9 @@ Follow @Ollie Mattison
 
  The Face ID by Apple in its iPhone X also makes itself proficient enough to detect the modifications in the appearances such as growing of beard or if a lady has applied makeup. Or if you have shaved your beard fully, the device takes a confirmation with the help of a passcode. What’s more, you don’t have to worry if you are wearing scarf or shades, cap, hat and even contact lenses, Face ID will work properly with the accessories too.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![face ID issue](https://images.wondershare.com/filmora/article-images/face-id-issue.jpg)
 
  On the other hand, Samsung also doesn’t lag behind when it comes to safety and security with face recognition feature. Samsung is the first Android device company to introduce face recognition technology that brought iris scanning technology with its Galaxy Note 7\. The technology does it job by detecting the iris’ pattern of your eyes. As far as security is concerned, the technology gets 10 on 10 since each person possesses unique iris pattern and it becomes difficult to replicate. The devices by Samsung having face recognition technology are designed with infrared diode which is capable
@@ -152,6 +180,9 @@ Follow @Ollie Mattison
 
  The technology of facial recognition isn’t new to us and it has made people excited from the time it has come. However, many users have not started using the technology yet. We hope that this functionality will gain the popularity with time and people will start to make use of it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -184,3 +215,48 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-cutting-edge-approaches-for-iphoneipad-screen-capture/"><u>[New] In 2024, Cutting-Edge Approaches for iPhone/iPad Screen Capture</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-chronos-shifts-using-phantoms-time-reversed-footage/"><u>[New] Mastering Chronos Shifts  Using Phantom's Time-Reversed Footage</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-premier-videochat-services-for-team-meetings-for-2024/"><u>[New] Premier Videochat Services for Team Meetings for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-essential-guide-to-youtube-video-lighting-tips/"><u>[New] The Essential Guide to YouTube Video Lighting Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleashing-full-potential-of-zoom-with-chromebook/"><u>[New] Unleashing Full Potential of Zoom with Chromebook</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-effortless-youtube-file-extraction/"><u>[Updated] 2024 Approved  Effortless YouTube File Extraction</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-mastering-the-art-of-tiktok-elements/"><u>[Updated] 2024 Approved  Mastering the Art of TikTok Elements</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-text-tactics-best-practices-guide/"><u>[Updated] Text Tactics  Best Practices Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-beginners-besties-essential-gopro-upgrades-list/"><u>[Updated] The Beginner's Besties - Essential GoPro Upgrades List</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-sound-of-success-audio-recording-guide/"><u>[Updated] The Sound of Success  Audio Recording Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-nba-experience-top-15-ways-to-watch-games-online/"><u>[Updated] The Ultimate NBA Experience - Top 15 Ways to Watch Games Online</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-gamers-guide-to-live-platforms-1-9/"><u>[Updated] Top Gamer's Guide to Live Platforms #1-#9</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-melodious-mobile-organizer-android-version/"><u>[Updated] Ultimate Melodious Mobile Organizer, Android Version</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-youtubes-srt-files-three-easy-methods/"><u>[Updated] Unlocking YouTube’s SRT Files  Three Easy Methods</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-how-to-find-the-best-videographer/"><u>2024 Approved  How to Find the Best Videographer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-strategy-sketches-plotting-the-market-map/"><u>2024 Approved  Strategy Sketches  Plotting the Market Map</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streaming-stats-how-much-does-pewdiepie-earn/"><u>2024 Approved  Streaming Stats  How Much Does PewDiePie Earn?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamline-multitasking-switch-between-pip-and-normal-screen-mode-ios/"><u>2024 Approved  Streamline Multitasking  Switch Between PIP and Normal Screen Mode (iOS)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-superior-transmitters-and-decoders-for-livestreams/"><u>2024 Approved  Superior Transmitters and Decoders for Livestreams</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-fine-art-of-focusing-enhanced-zoom-on-roblox-games/"><u>2024 Approved  The Fine Art of Focusing  Enhanced Zoom on Roblox Games</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-list-for-google-pixel-tones/"><u>2024 Approved  The Ultimate List for Google Pixel Tones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-timing-duration-for-a-20mb-high-definition-video/"><u>2024 Approved  Timing Duration for a 20Mb High-Definition Video</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-fruition-for-virtual-quests/"><u>2024 Approved  Ultimate Fruition for Virtual Quests</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-tunewizard-pro-expertly-organize-your-music-library-across-windowsmac-platforms/"><u>2024 Approved TuneWizard Pro Expertly Organize Your Music Library Across Windows/Mac Platforms</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-activate-or-deactivate-video-commenting-in-youtube-for-2024/"><u>How To Activate or Deactivate Video Commenting in YouTube for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-11-pro-max-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 11 Pro Max without Password?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-sony-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Sony Phone? Unlock It Now</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superior-ringtones-roundup-elite-download-hubs/"><u>In 2024, Superior Ringtones Roundup  Elite Download Hubs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-supreme-reconciliation-of-vr-realms/"><u>In 2024, Supreme Reconciliation of VR Realms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-aesthetic-edge-crafting-podcast-logos-with-panache/"><u>In 2024, The Aesthetic Edge  Crafting Podcast Logos with Panache</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-4k-aerial-experience-with-xiaomis-drone/"><u>In 2024, The Ultimate 4K Aerial Experience with Xiaomi's Drone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/modernize-win1011-writable-hdmi-connection/"><u>Modernize Win10/11' Writable HDMI Connection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/strategies-for-a-rising-number-of-youtubers-fans-for-2024/"><u>Strategies for a Rising Number of Youtubers' Fans for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/strategies-for-sourcing-a-list-cinematography-experts-for-2024/"><u>Strategies for Sourcing A-List Cinematography Experts for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/stretching-out-youtube-video-quality-for-2024/"><u>Stretching Out YouTube Video Quality for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-experts-pathway-to-purchasing-an-immaculate-4k-display-for-2024/"><u>The Expert's Pathway to Purchasing an Immaculate 4K Display for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-rings-rhythm-versus-screen-time-symphony-for-2024/"><u>The Ring's Rhythm Versus Screen Time Symphony for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-s24-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy S24 Device</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-ranked-reddit-discussions-top-10-edition-for-2024/"><u>The Ultimate Ranked Reddit Discussions – Top 10 Edition for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-manual-the-art-of-digital-sound-note-taking-for-2024/"><u>Ultimate Manual  The Art of Digital Sound Note-Taking for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/unlocking-talkshoplive-pros-and-tips-for-live-shopping-success-for-2024/"><u>Unlocking TalkShopLive Pros and Tips for Live Shopping Success for 2024</u></a></li>
+</ul></div>

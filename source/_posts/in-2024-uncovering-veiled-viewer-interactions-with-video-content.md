@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Uncovering Veiled Viewer Interactions with Video Content"
-date: 2024-06-04T17:52:14.097Z
-updated: 2024-06-05T17:52:14.097Z
+date: 2024-07-23T10:33:50.010Z
+updated: 2024-07-24T10:33:50.010Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,9 @@ People can watch, like, share, comment on, and upload videos using the YouTube s
 * Users can follow or subscribe to other YouTube channels.
 * To arrange videos and combine them together, make playlists.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## Why Use YouTube?
 
 YouTube is the second-largest web browser after Google. Every minute, YouTube receives more than 100 hours of video. Whether you're disseminating information to students or marketing activities, it's among the most significant ways to reach a large audience. Some of the benefits of YouTube are listed below.
@@ -65,6 +68,9 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## How to See Liked Comments on YouTube?
 
 YouTube is a service that is available for free, and it may be a terrific place for teenagers to find interest. Many young people use YouTube to watch comedy shows, how-to videos, recipes, hacks, and music videos. Teenagers also use the video-sharing platform to subscribe to other YouTubers and famous personalities and to follow their favorite vloggers (video bloggers).
@@ -81,6 +87,9 @@ But, if you want to retrace the videos you commented on and the videos/comments 
 
 Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![find your data in youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-your-data-in-youtube.jpg)
 
 Step2 Scroll down a little bit and click the **More** button.
@@ -93,6 +102,9 @@ Step3 Click the **Comments** section.
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![your youtube comments date](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-comments-date.jpg)
 
 To see videos/comments you liked or disliked, please follow these steps as continuation:
@@ -103,14 +115,23 @@ Step4 In the **Google My Activity** tab, click **Other activity**.
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![your comment likes and dislikes](https://images.wondershare.com/filmora/article-images/2022/11/your-comment-likes-and-dislikes.jpg)
 
 Now you will see the videos you liked or disliked and also the comments you liked or disliked, including the date when you liked or disliked the video/comment.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![date likes videos youtube](https://images.wondershare.com/filmora/article-images/2022/11/date-likes-videos-youtube.jpg)
 
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![likes comment received](https://images.wondershare.com/filmora/article-images/2022/11/likes-comment-received.jpg)
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
@@ -185,3 +206,38 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-best-5-social-media-logo-animation/"><u>[New] 2024 Approved  Best 5 Social Media Logo Animation</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-brand-your-channel-innovative-banner-templates-for-gamers/"><u>[Updated] 2024 Approved  Brand Your Channel  Innovative Banner Templates for Gamers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-2023-update-facebooks-new-landscape-explained/"><u>[Updated] 2024 Approved  The 2023 Update  Facebook's New Landscape Explained</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamlined-tactics-for-scrolling-through-popular-youtube-reactions/"><u>[Updated] Streamlined Tactics for Scrolling Through Popular YouTube Reactions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-best-budget-friendly-high-fidelity-webm-players/"><u>[Updated] The Best Budget-Friendly, High-Fidelity WebM Players</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-creme-de-la-creme-of-fps-games-7/"><u>[Updated] The Crème De La Créme of FPS Games (7)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-streaming-services-a-must-know/"><u>[Updated] Top 10 Streaming Services - A Must Know</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-zooms-potential-by-leveraging-skype/"><u>[Updated] Unlocking Zoom's Potential by Leveraging Skype</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-ace-soundtracks-collection-for-cinematography/"><u>2024 Approved  Ace Soundtracks Collection for Cinematography</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-kinemaster-tools-for-cohesive-narrative-flow/"><u>2024 Approved  Kinemaster Tools for Cohesive Narrative Flow</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-pristine-teaser-trailer-trove/"><u>2024 Approved  Pristine Teaser Trailer Trove</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-sea-dwellers-in-focus-tips-for-shooting-stunning-gopro-video-below-water/"><u>2024 Approved  Sea Dwellers in Focus  Tips for Shooting Stunning GoPro Video Below Water</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-step-by-step-for-launching-your-own-livestream-channel/"><u>2024 Approved  Step-by-Step for Launching Your Own Livestream Channel</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-stream-the-best-games-list-9/"><u>2024 Approved  Stream the Best Games  List #9</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tailoring-your-canvas-a-guide-to-erasing-background-elements/"><u>2024 Approved  Tailoring Your Canvas  A Guide to Erasing Background Elements</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-iphone-video-capture-apps/"><u>2024 Approved  Top 10 iPhone Video Capture Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-picks-for-integrating-frame-elements-with-images/"><u>2024 Approved  Top Picks for Integrating Frame Elements with Images</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-your-watching-experience-adding-captions-to-windows-media-player/"><u>2024 Approved  Transform Your Watching Experience  Adding Captions to Windows Media Player</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unite-music-and-imagery-via-auditory-integration-in-premiere-pro/"><u>2024 Approved  Unite Music and Imagery via Auditory Integration in Premiere Pro</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/30plus-best-no-spend-templates-for-after-effects-wizards/"><u>30+ Best No-Spend Templates for After Effects Wizards</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-non-unified-sticky-note-syncing-on-win11/"><u>Addressing Non-Unified Sticky Note Syncing on Win11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-and-where-download-unboxing-video-background-music-for-2024/"><u>How To & Where Download Unboxing Video Background Music for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-vivo-v29-pro-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Vivo V29 Pro Phone Screen?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-poco-m6-pro-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Poco M6 Pro 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essential-guide-to-iphone-reflections-in-landscapes/"><u>In 2024, The Essential Guide to iPhone Reflections in Landscapes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-your-twitter-potential-premium-video-upload-tools/"><u>In 2024, Unleash Your Twitter Potential  Premium Video Upload Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-digital-storytellings-key-concepts/"><u>In 2024, Unveiling Digital Storytelling's Key Concepts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-hidden-accessing-youtube-video-comments/"><u>In 2024, Unveiling the Hidden  Accessing YouTube Video Comments</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-best-10-free-video-translators-to-mitigate-translation-risks-for-2024/"><u>New Best 10 Free Video Translators to Mitigate Translation Risks for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-aspect-ratio-conversion-in-final-cut-pro-tips-and-tricks/"><u>Updated 2024 Approved Aspect Ratio Conversion in Final Cut Pro Tips and Tricks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-free-stock-photos-for-commercial-use-best-websites-to-explore/"><u>Updated In 2024, Free Stock Photos for Commercial Use Best Websites to Explore</u></a></li>
+</ul></div>

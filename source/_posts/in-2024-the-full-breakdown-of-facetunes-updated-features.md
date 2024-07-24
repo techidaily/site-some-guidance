@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Full Breakdown of Facetune's Updated Features"
-date: 2024-06-04T15:06:56.994Z
-updated: 2024-06-05T15:06:56.994Z
+date: 2024-07-23T08:50:55.310Z
+updated: 2024-07-24T08:50:55.310Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ Facetune Photo Editor is a photo modification app that enables you to transform 
 | Facetune boasts of several unique filters                                |                                                                                                                  |
 | To edit on Facetune you don't need any prior knowledge of Photo Editing. |                                                                                                                  |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Part 1\. What Is Facetune Photos Editor App?
 
 Facetune Photos Editor App is a photo editing app on mobile phones that allows you to get to the peak of your creativity with pictures and videos. With numerous exciting features, Facetune is a unique photo editor that aids you in editing photos like a pro.
@@ -39,6 +43,9 @@ Facetune boasts of multiple filters, hair modifications, face reshaping, face sm
 
 **Download:** Facetune Free Download [iOS](https://apps.apple.com/us/app/facetune-editor-by-lightricks/id1149994032) and [Android](https://play.google.com/store/apps/details?id=com.lightricks.facetune.free&hl=en&gl=US)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2\. Key Features of Facetune Photos Editor App
 
 ### **1\. Live Preview**
@@ -49,6 +56,9 @@ This unique app also allows you to try several filters before taking a shot. Thi
 
 This feature is arguably one of Facetune's most unique features. It clearly distinguishes this app from other photo editors.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### **2\. Relight**
 
 The Relight feature is a fascinating feature that allows you to change the direction of the source of light in your photo. It also creates light effects that will brighten up the look of your face in your snaps. The producers of Facetune inputted an AI feature that helps a user to brighten up dark places in their pictures through special effects.
@@ -67,10 +77,16 @@ Another special feature of the Facetune free iOS and Android app is the undo and
 
 The redo option does the opposite of the undo option. If you tap the undo button by mistake, the redo button will easily correct your mistake with just one tap. It is located at the bottom left corner. The undo button is a curve that curves to the left while the redo button is a curve that curves to the right.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### **6\. Sharing**
 
 Facetune Photo Editor also features a share button that users can use to share beautifully edited photos with other people.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## Part 3\. How to use Facetune Photos App?
 
 At this point, you may be thinking of getting started with Facetune Asap. Below are the necessary basic steps you will perform to successfully edit a picture.
@@ -87,24 +103,47 @@ Tapping on the plus sign would take you to your camera roll where you can select
 
 After importing a photo, you will find several effects by scrolling left. Features like smooth, face, reshape, whiten, and other features are displayed on this page. The edit option allows users to add more brightness, glow, and color to a photo. Users have access to numerous filters through the filter option (it also allows users to determine the level of filter effect in a picture). Additionally, the crop option enables users to alter the size of a photo, while the hair option gives users access to changing various aspects of their hair.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edit photo](https://images.wondershare.com/filmora/article-images/2022/09/facetune-photo-app-review-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Save
 
 After editing a picture, you will want to save it. The save button can be found on the top left corner of the edit page. It is represented by an arrow pointing downwards.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### 4\. Share
 
 After saving your photo, you can share it to your social media handles by clicking the share sign at the top left corner of the editing page. When you click the button, it will take you to a page like this. From this page, you can share your modified photos on any social media platform with just one click.
 
 ![share edited picture to social media](https://images.wondershare.com/filmora/article-images/2022/09/facetune-photo-app-review-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 5\. Subscription
 
 Facetune Photo Editor App is not completely free, there are several unique features that can be accessed by only the premium version.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4\. Advantages and Disadvantages of Facetune Photo App
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### Advantages
 
 **1\. Facetune allows intelligent shooting**
@@ -133,6 +172,9 @@ Unlike many photo editors, Facetune does not feature its own social network. It 
 
 The Facetune Photo App isn't entirely free. Only subscribers can access some of its features.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5\. Other Facetune Photos Editor App Alternatives
 
 **1\. YouCam Makeup App**
@@ -223,3 +265,74 @@ Part 1\. What Is Facetune Photos Editor App?
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-exclusive-selection-11-audio-tech-winners/"><u>[New] Exclusive Selection  #11 Audio Tech Winners</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-top-choreographers-for-visual-and-auditory-crafting/"><u>[New] In 2024, Top Choreographers for Visual & Auditory Crafting</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-revamp-srt-to-subc-3-effective-techniques-unpacked/"><u>[New] Revamp SRT to SUBC  3 Effective Techniques Unpacked</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-seamless-screen-effects-3-simple-shifting-methods/"><u>[New] Seamless Screen Effects  3 Simple Shifting Methods</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-playbook-for-attracting-hundred-thousand-on-youtube/"><u>[New] The Ultimate Playbook for Attracting Hundred Thousand on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-roundup-unleashing-the-best-5-online-title-makers/"><u>[New] The Ultimate Roundup  Unleashing the Best 5 Online Title Makers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-drone-vr-integration-guide/"><u>[New] Ultimate Drone-VR Integration Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-the-secrets-of-finding-high-quality-instagram-tones-and-crafting-perfect-chimes/"><u>[New] Unlock the Secrets of Finding High-Quality Instagram Tones and Crafting Perfect Chimes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-your-phones-potential-with-ios-11-camera-tips/"><u>[New] Unlock Your Phone's Potential with iOS 11 Camera Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-latest-in-sony-blu-ray-s6700/"><u>[New] Unveiling the Latest in Sony Blu-Ray S6700</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-upcoming-appraisal-innovative-opinions/"><u>[New] Upcoming Appraisal  Innovative Opinions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-christian-hymnal-options-for-ringtone-customization/"><u>[Updated] 2024 Approved  Christian Hymnal Options for Ringtone Customization</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-directly-infuse-youtube-music-into-any-imovie-project/"><u>[Updated] 2024 Approved  Directly Infuse YouTube Music Into Any iMovie Project</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-fullscreen-imprint-of-site/"><u>[Updated] Fullscreen Imprint of Site</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-instagrams-roadmap-to-fame-unlocking-the-power-of-9-tactics/"><u>[Updated] Instagram's Roadmap to Fame  Unlocking the Power of #9 Tactics</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-optimal-airdate-for-podcasts-timing-matters-most/"><u>[Updated] Optimal Airdate for Podcasts  Timing Matters Most</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-pro-video-cinematography-choosing-the-right-lenses-for-2024/"><u>[Updated] Pro Video Cinematography  Choosing the Right Lenses for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-infallible-technique-for-embedding-profile-urls-in-tiktok/"><u>[Updated] The Infallible Technique for Embedding Profile URLs in TikTok</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-the-secrets-of-alluring-vlog-narratives/"><u>[Updated] Unlocking the Secrets of Alluring Vlog Narratives</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlocking-youtubes-secrets-for-profound-visibility-gains/"><u>[Updated] Unlocking YouTube's Secrets for Profound Visibility Gains</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-mechanism-behind-cross-audio-blending/"><u>[Updated] Unveiling the Mechanism Behind Cross-Audio Blending</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-mastering-the-craft-of-online-title-perfection/"><u>2024 Approved  Mastering the Craft of Online Title Perfection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tamil-trax-download-edit-and-sync-songs-as-mobile-ringtone/"><u>2024 Approved  Tamil Trax  Download, Edit & Sync Songs as Mobile Ringtone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-artisans-approach-to-script-dialogue/"><u>2024 Approved  The Artisan’s Approach to Script Dialogue</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-editors-edge-boost-your-tiktok-impact/"><u>2024 Approved  The Editor's Edge  Boost Your TikTok Impact</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-showdown-of-projectors-and-tvs-in-a-4k-setting/"><u>2024 Approved  The Ultimate Showdown of Projectors & TVs in a 4K Setting</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-your-video-potential-with-free-enhancers/"><u>2024 Approved  Unleash Your Video Potential with Free Enhancers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-art-of-chromatic-enhancement/"><u>2024 Approved  Unlocking the Art of Chromatic Enhancement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unraveling-rtmp-streams-overcoming-premieres-export-hurdle/"><u>2024 Approved  Unraveling RTMP Streams  Overcoming Premiere's Export Hurdle</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-visual-storytelling-101-mastering-the-art-of-posting-images-on-youtube/"><u>2024 Approved  Visual Storytelling 101  Mastering the Art of Posting Images on YouTube</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/3d-ray-traced-settings-in-after-effects-a-comprehensive-guide/"><u>3D Ray Traced Settings In After Effects A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-colours-with-care-top-5-displays-reviewed/"><u>Crafting Colours with Care  Top 5 Displays Reviewed</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/cutting-edge-content-creation-premier-android-editors-for-2024/"><u>Cutting-Edge Content Creation  Premier Android Editors for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-huawei-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Huawei</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/essential-tips-for-win7-intel-gpu-update/"><u>Essential Tips for Win7 Intel GPU Update</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-lava-yuva-2-pro-is-unlocked-by-drfone-android/"><u>How To Check if Your Lava Yuva 2 Pro Is Unlocked</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-itel-p55t-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Itel P55T to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-capturing-live-screens-webcam-setup-on-hp-devices/"><u>In 2024, Capturing Live Screens  Webcam Setup on HP Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-pioneering-digital-expression-with-these-6-best-nft-makers/"><u>In 2024, Pioneering Digital Expression with These 6 Best NFT Makers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On OnePlus Open? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-strategy-sketches-plotting-the-market-map/"><u>In 2024, Strategy Sketches  Plotting the Market Map</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-syncing-songs-safely-with-insta-rules/"><u>In 2024, Syncing Songs Safely with Insta Rules</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-genius-behind-effective-podcast-visual-identity/"><u>In 2024, The Genius Behind Effective Podcast Visual Identity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-editors-guide-to-top-10-fcp-plug-ins/"><u>In 2024, The Ultimate Editor's Guide to Top 10 FCP Plug-Ins</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-7-steps-for-stellar-cooking-films/"><u>In 2024, The Ultimate Guide  7 Steps for Stellar Cooking Films</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-tiktok-transformation-how-to-refresh-your-profile-today/"><u>In 2024, TikTok Transformation  How to Refresh Your Profile Today</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-the-power-of-words-how-to-enchant-tinder-users-with-a-bio/"><u>In 2024, Unleash the Power of Words  How to Enchant Tinder Users with a Bio</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleashing-windows-11s-full-visual-potential-with-automatic-hdr-mode/"><u>In 2024, Unleashing Windows 11'S Full Visual Potential with Automatic HDR Mode</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-a-million-eyes-engaging-content-strategy/"><u>In 2024, Unlock a Million Eyes  Engaging Content Strategy</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-video-calls-with-zoom-in-gmail-platform/"><u>In 2024, Unlocking Video Calls with Zoom in Gmail Platform</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-spotifys-marketplace-for-ultimate-ad-success-for-2024/"><u>Mastering Spotify's Marketplace for Ultimate Ad Success for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-create-chroma-key-written-text-effects-in-filmora/"><u>New 2024 Approved Create Chroma Key Written Text Effects in Filmora</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-rock-solid-videos-best-free-video-stabilization-tools-for-pc-and-mac-for-2024/"><u>New Rock-Solid Videos Best Free Video Stabilization Tools for PC and Mac for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-timecode-made-easy-9-essential-calculators-for-online-iphone-and-android/"><u>New Timecode Made Easy 9 Essential Calculators for Online, iPhone, and Android</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/prestige-choices-top-rated-sites-for-securing-snapalert-music/"><u>Prestige Choices  Top-Rated Sites for Securing SnapAlert Music</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revolutionize-online-sharing-with-these-top-18-webcam-devices-for-2024/"><u>Revolutionize Online Sharing with These Top 18 Webcam Devices for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/sleeper-coupons-in-instagram-the-underrated-tips-and-tricks-for-2024/"><u>Sleeper Coupons in Instagram  The Underrated Tips and Tricks for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/strategies-for-effective-digital-video-photo-alteration-for-2024/"><u>Strategies for Effective Digital Video Photo Alteration for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/stunning-iphone-portraits-through-water-imagery-techniques-for-2024/"><u>Stunning iPhone Portraits Through Water Imagery Techniques for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/superior-choices-elite-webcam-holders-for-2024/"><u>Superior Choices  Elite Webcam Holders for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/swift-and-simple-acquiring-itunes-radio-episodes-for-2024/"><u>Swift and Simple  Acquiring iTunes Radio Episodes for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-best-action-hats-motorcycle-cameras-reviewed-and-ranked-for-2024/"><u>The Best Action Hats  Motorcycle Cameras Reviewed and Ranked for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/thrifty-cloud-haven-budget-storage-bulk-files-handling-for-2024/"><u>Thrifty Cloud Haven  Budget Storage, Bulk Files Handling for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/total-motion-audit-2023-for-2024/"><u>Total Motion Audit 2023 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-5-vr-sets-elevating-uav-experience-for-2024/"><u>Ultimate 5 VR Sets Elevating UAV Experience for 2024</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-2024-approved-a-beginners-guide-to-tell-you-what-3d-animation-is/"><u>Updated 2024 Approved A Beginners Guide to Tell You What 3D Animation Is</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-should-you-buy-videopad-video-editor-our-honest-review-and-verdict/"><u>Updated 2024 Approved Should You Buy Videopad Video Editor? Our Honest Review and Verdict</u></a></li>
+</ul></div>

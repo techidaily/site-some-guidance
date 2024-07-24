@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Trending Picture Tales  History Revealed\""
-date: 2024-06-04T19:29:26.789Z
-updated: 2024-06-05T19:29:26.789Z
+date: 2024-07-23T11:32:53.857Z
+updated: 2024-07-24T11:32:53.857Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,9 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 * It also features on stock image sites such as Imgur, where user “someshitbag” has a gallery post titled Hide-the-pain-Harold. In addition, the page received over 880 thousand views during the first three weeks. Furthermore, it won Imgur's meme of the decade title in 2020 by receiving 10,954 votes (about 20%) of the 54,768 votes cast by Imgurians.
 * The meme appears on social media platforms such as Facebook, 4Chan, and Reddit. For example, a Facebook page titled Maurice has had over 10,000 likes since its creation in January 2014.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![meme appears on social media](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-2.jpg)
 
 * A text-to-speech YouTube video on the meme has over 492,000 views since going live in September 2015.
@@ -43,6 +46,9 @@ According to Andras, Hide the Pain Harold results from his vacation in Turkey. A
 
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part2: Distracted Boyfriend
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
@@ -51,6 +57,9 @@ Another popular stock image meme is Distracted Boyfriend. It features the stock 
 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![original photo](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-5.jpg)
 
 According to Meme Documentation, the first version of the Distracted boyfriend theme dates back to January 2017\. Prog Snob, a Turkish progressive rock group on Facebook, posted the meme on their page to reference Phil Collin's distraction from progressive rock by pop music. However, it was the August 2017 Twitter version referencing the youth's feelings towards capitalism and socialism that went viral.
@@ -64,6 +73,9 @@ Since then, the meme continues to enjoy mass popularity, including:
 
 The latest version of Distracted boyfriend is a compilation of photos featuring the three models, with the last one showing the women hanging out.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![latest version](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-6.jpg)
 
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
@@ -76,12 +88,18 @@ The meme features a couple in bed with the stock photo meme guy in contemplation
 
 However, subsequent memes feature satirical themes. Here are some of the most popular versions and their popularity.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the most popular versions](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-8.jpg)
 
 A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In this version, the man wonders why there are so many Fast and the Furious movies.
 
 * Redditor GallowBoob received 34,700 points and 350 comments within 24 hours of posting it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![points and comments](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-9.jpg)
 
 The post references the Toy Story character Buzz Lightyear, with the man contemplating why Buzz is in denial of being a toy.
@@ -96,6 +114,23 @@ Twitter user @chocos posts the image with Spanish captions, with the woman sure 
 
 ## Part4: Bonjour Bear
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
 
 Unlike the previous stock image memes, Bonjour Bear was not an instant hit among netizens. The stock image was posted online in 2016 by Uryadnikov Sergey and featured a polar bear peeking through its winter den. However, it began causing a buzz in early 2019, following a Reddit post that included hilarious captions.
@@ -113,6 +148,9 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## Part5: FAQs
 
 ### 1\. Can you use stock photos for memes?
@@ -121,10 +159,16 @@ Yes, you can use stock photos for memes. However, you need to obtain them from r
 
 This is because not all stock photo providers offer their images with a creative commons license. For example, the Unsplash license allows you to use their stock images for personal or commercial use after making adjustments to the original.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Does copyright law protect memes?
 
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Can you use watermarked stock photos to create memes?
 
 No. Before using watermarked images to create memes, you must get verifiable permission from the rights holder. This is because it violates copyright law and can result in heavy fines or even prison time in extreme circumstances.
@@ -160,3 +204,45 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-blueprint-for-buzz-elevating-your-profile-on-fb/"><u>[New] Blueprint for Buzz  Elevating Your Profile on FB</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-navigating-the-route-to-social-stardom-a-quick-overview-of-6-key-steps-on-instagram-for-2024/"><u>[New] Navigating the Route to Social Stardom  A Quick Overview of 6 Key Steps on Instagram for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-going-unseen-during-instagram-live-events/"><u>[New] The Art of Going Unseen During Instagram Live Events</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-flood-resistant-cams-reviewed-7-edition/"><u>[New] Top Flood-Resistant Cams Reviewed – #7 Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-usb-c-vision-the-new-standard-in-monitors-hp-envy-27/"><u>[New] USB-C Vision  The New Standard in Monitors - HP Envy 27</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-list-of-8-best-free-and-paid-movie-apps-for-iphone/"><u>[Updated] List of 8 Best Free and Paid Movie Apps for iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-syncing-your-favorite-tunes-moving-playlists-across-platforms/"><u>[Updated] Syncing Your Favorite Tunes  Moving Playlists Across Platforms</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-undo-button-retracing-your-youtube-steps/"><u>2024 Approved  The Undo Button  Retracing Your YouTube Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-time-lapse-magic-animation-through-the-lens-of-movie-maker/"><u>2024 Approved  Time-Lapse Magic  Animation Through the Lens of Movie Maker</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-sony-xperia-1-v-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Sony Xperia 1 V without App | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/best-fcpx-tutorial-collection-channels-and-websites/"><u>Best FCPX Tutorial Collection Channels and Websites</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-pro-tips-creating-dramatic-pauses-and-slow-mo-effects/"><u>FCPX Pro Tips Creating Dramatic Pauses and Slow-Mo Effects</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-fastest-way-to-scan-windows-files/"><u>In 2024, The Fastest Way to Scan Windows Files</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-premier-list-best-android-cloud-saving-options/"><u>In 2024, The Premier List  Best Android Cloud Saving Options</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-meme-creation-with-kinemaster/"><u>In 2024, The Ultimate Meme Creation with KineMaster</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-zen-of-zoom-perfecting-your-video-experience/"><u>In 2024, The Zen of Zoom  Perfecting Your Video Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transformative-color-workflow-with-cg-central-luts/"><u>In 2024, Transformative Color Workflow with CG Central LUTs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-reddit-winners-a-collection-of-best-posts/"><u>In 2024, Ultimate Reddit Winners  A Collection of Best Posts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unseen-pathways-to-friend-finder-excellence/"><u>In 2024, Unseen Pathways to Friend Finder Excellence</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-infinix-note-30-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Infinix Note 30 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-the-best-free-audio-editors-on-android-a-comprehensive-roundup-of-7-titles/"><u>New In 2024, The Best Free Audio Editors on Android A Comprehensive Roundup of 7 Titles</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/e-skills-video-comedy-mastery-tips-for-2024/"><u>Satire Skills  Video Comedy Mastery Tips for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/slow-down-the-action-free-video-editing-with-filmora/"><u>Slow Down the Action Free Video Editing with Filmora</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/techniques-to-create-compelling-vlogger-dialogue-plans-for-2024/"><u>Techniques to Create Compelling Vlogger Dialogue Plans for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-blueprint-for-memetic-virality-for-2024/"><u>The Ultimate Blueprint for Memetic Virality for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-product-revelation-best-15-unboxing-channels-for-2024/"><u>The Ultimate Guide to Product Revelation  Best 15 Unboxing Channels for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-strategies-for-changing-song-pace-on-spotify-app-for-2024/"><u>Top Strategies for Changing Song Pace on Spotify App for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-tunes-prime-sites-for-got-ringtone-downloads-for-2024/"><u>Top Tunes  Prime Sites for GoT Ringtone Downloads for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transfer-secrets-top-5-tactics-to-move-files-onto-your-pc-for-2024/"><u>Transfer Secrets  Top 5 Tactics to Move Files Onto Your PC for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforming-digital-media-expert-advice-for-macs-dvd-creation-for-2024/"><u>Transforming Digital Media  Expert Advice for Mac's DVD Creation for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-creative-potential-with-premium-effects-extensions-for-2024/"><u>Unlock Creative Potential with Premium Effects Extensions for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-google-docs-transcription-your-complete-manual-for-2024/"><u>Unlocking Google Docs Transcription  Your Complete Manual for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-the-realm-of-free-photo-frame-video-downloads-for-2024/"><u>Unlocking the Realm of Free Photo Frame Video Downloads for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unrivaled-narratives-crafted-in-eight-film-fields-for-2024/"><u>Unrivaled Narratives Crafted in Eight Film Fields for 2024</u></a></li>
+</ul></div>

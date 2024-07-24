@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Taming Figma's Backgrounds  A Comprehensive Guide\""
-date: 2024-06-04T12:27:24.436Z
-updated: 2024-06-05T12:27:24.436Z
+date: 2024-07-23T07:12:24.450Z
+updated: 2024-07-24T07:12:24.450Z
 tags: 
   - screen-recording
   - ai video
@@ -26,12 +26,18 @@ To make things easier, we've written a comprehensive step-by-step guide on **rem
 
 So, keep reading to find out about removing an image's background in Figma!
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## The Best Option to Remove Image's Background in Figma
 
 As aforementioned, **Figma** does not offer a **Background Remover** tool but comes with a Plugins menu to help you find the required tool.
 
 Since you want to remove the image's background, there is no better plugin than [Wondershare PixCut](https://pixcut.wondershare.com/), a free tool that helps you erase your picture's BG instantly. With this plugin, you can edit up to files per day, and that too in high-quality resolution.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Why Use The PixCut Tool?
 
 Here's how the PixCut tool stands out from the rest of the image editing tools available in the digital market:
@@ -68,10 +74,31 @@ To get the APPkey, visit **"Wondershare PixCut,"** log in to your account using 
 
 Step3 Paste the Appkey in the pop-up window in Figma and click **"Save."** Now, click the **"Main Menu"** icon and navigate to **"Plugins" > "PixCut Background Remover" > "Run."**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![running the pixcut plugin in figma](https://images.wondershare.com/filmora/article-images/2023/03/running-the-pixcut-plugin-in-figma.png)
 
 The program will start running the plugin, and the background of your image will disappear. Click the **"Export"** option and save your file on your system.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## Other Options To Remove Image's Background In Figma
 
 Apart from using PixCut Plugin in Figma, there are some alternatives that you can use to remove the image's background in Figma:
@@ -83,6 +110,9 @@ Follow these tips to remove the background of images with transparent or solid c
 * When saving your images from programs like Photoshop, make sure to save them with transparent background. This way, when you import it to Figma, the BG will be removed automatically.
 * If your image has a solid background, import it to Figma and use the **"Edit Color"** tool to change the BG to transparent.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### (2) 3 Other Figma Plugins
 
 You can use the following **Figma plugins to remove the image background**:
@@ -105,6 +135,9 @@ Step3 Select **"Find More Plugins"** and use the search option in the pop-up win
 
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### (3) Using Online Removers
 
 Another alternative is to use any tool that **removes the image background online**. For example, we recommend using the [Remove BG tool](https://www.remove.bg/).
@@ -148,3 +181,39 @@ How To Go To The Extension Installation Page From Figma?
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-streamlined-process-altering-video-direction-in-vlc/"><u>[New] 2024 Approved  Streamlined Process  Altering Video Direction in VLC</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unlock-the-secrets-to-social-media-success-with-igtv-hashtag-techniques/"><u>[New] 2024 Approved  Unlock the Secrets to Social Media Success with IGTV Hashtag Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-matchmake-for-maximum-viewership-on-youtube-for-2024/"><u>[New] How to Matchmake for Maximum Viewership on YouTube for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pioneering-online-techniques-for-vhs-image-refinement/"><u>[New] Pioneering Online Techniques for VHS Image Refinement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-strategizing-the-open-door-to-market-success/"><u>[New] Strategizing the Open Door to Market Success</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-text-mastery-cutting-edge-effects-guide/"><u>[New] Text Mastery  Cutting-Edge Effects Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-essential-tutorial-from-gif-art-to-sticky-fun-on-social-media/"><u>[New] The Essential Tutorial  From GIF Art to Sticky Fun on Social Media</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleashing-visual-potential-incorporating-new-fonts-in-ae/"><u>[New] Unleashing Visual Potential  Incorporating New Fonts in AE</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlimited-outro-options-at-no-expense-online/"><u>[New] Unlimited Outro Options at No Expense Online</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-snap-edit-and-share-with-ease-your-4-step-blueprint-for-instagram-gifs/"><u>[Updated] In 2024, Snap, Edit, and Share with Ease  Your 4-Step Blueprint for Instagram GIFs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-audio-skills-using-audacity-professionally/"><u>2024 Approved  Transforming Audio Skills Using Audacity Professionally</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-artistry-a-curated-list-of-premium-3d-animation-software/"><u>2024 Approved  Unleash Artistry  A Curated List of Premium 3D Animation Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-iphone-x-secrets-restoring-face-id-functionality/"><u>2024 Approved  Unlocking iPhone X Secrets  Restoring Face ID Functionality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-power-of-srt-editing-for-mac-users/"><u>2024 Approved  Unlocking the Power of SRT Editing for Mac Users</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-best-free-avi-merger-tools-combine-avi-videos-with-ease/"><u>2024 Approved Best Free AVI Merger Tools Combine AVI Videos with Ease</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/colombias-beacon-of-help-foundation-danny/"><u>Colombia’s Beacon of Help - Foundation Danny</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-nubia-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Nubia</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-how-to-use-luts-from-color-grading-central-to-color-grading-for-movies/"><u>In 2024, How to Use Luts From Color Grading Central to Color Grading for Movies</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1715860501136-in-2024-screen-recording-with-internal-devices-on-huaweis-mate-mate-1020-and-p-p20-p10/"><u>In 2024, Screen Recording with Internal Devices on Huawei’s Mate (Mate 10/20) and P (P20, P10).</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamlined-tactics-for-scrolling-through-popular-youtube-reactions/"><u>In 2024, Streamlined Tactics for Scrolling Through Popular YouTube Reactions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superior-picks-top-rated-webcam-grips/"><u>In 2024, Superior Picks  Top-Rated Webcam Grips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-supreme-suggestions-elite-ios-tone-craftsmen/"><u>In 2024, Supreme Suggestions  Elite iOS Tone Craftsmen</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-future-of-gaming-at-your-fingertips-top-10-vr-headsets-for-pc/"><u>In 2024, The Future of Gaming at Your Fingertips  Top 10 VR Headsets for PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-timing-your-podcasts-impactful-debut/"><u>In 2024, Timing Your Podcast's Impactful Debut</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-digital-collage-creator-8x/"><u>In 2024, Ultimate Digital Collage Creator 8X</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-profit-13-simple-money-making-ideas-on-reddit/"><u>In 2024, Unlocking Profit  13 Simple Money-Making Ideas on Reddit</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-ultimate-hdr-camera-lineup/"><u>In 2024, Unveiling the Ultimate HDR Camera Lineup</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/incor-written-by-a-professor-the-article-discusses-the-use-of-metaphors-and-analogies-to-explain-complex-scientific-concepts-how-can-teachers-effectively-in/"><u>Incor Written by a Professor, the Article Discusses the Use of Metaphors and Analogies to Explain Complex Scientific Concepts. How Can Teachers Effectively Incorporate These Rhetorical Devices Into Their Teaching Methods, In 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ackstage-pass-creating-content-that-works-for-2024/"><u>The Backstage Pass  Creating Content That Works for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/uncomplicated-techniques-for-adding-igtv-to-your-story/"><u>Uncomplicated Techniques for Adding IGTV to Your Story</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-top-10-types-of-video-framing-from-novice-to-master-for-2024/"><u>Updated TOP 10 Types of Video Framing From Novice to Master for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"The Uncomplicated Guide to Shooting Breatomed Time-Lapses with GoPro Hero5 Black for 2024\""
-date: 2024-06-15T03:03:43.951Z
-updated: 2024-06-16T03:03:43.951Z
+date: 2024-07-23T11:42:37.437Z
+updated: 2024-07-24T11:42:37.437Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 
 # How to Shoot a Time-lapse Video with GoPro Hero5 Black
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -35,6 +38,9 @@ Are you an amateur travel photographer who has recently bought a GoPro cam and w
 * [Part 1:Shooting a time lapse video with GoPro Hero5](#part1)
 * [Part 2: Making time lapse videos with Wondershare Filmora](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: Shooting a time lapse video with GoPro Hero5
 
 #### **1. The best time lapse settings in GoPro:**
@@ -78,6 +84,9 @@ Make use of good tripod, a fast and spacious SD card, a suction mount and always
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Making time lapse videos with Wondershare Filmora
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a powerful and easy to use software with which you can edit your time lapse videos. The Filmora action cam version is going to make your job a lot more easy. It comes with 2 new tools-
@@ -91,11 +100,17 @@ The Instant cutter tool on the other hand can be used for trimming and merging v
 * First, launch the Filmora app and then choose the ‘action cam tool’
 * Next, you need to click the ‘Import’ button or the ‘ Import an Action cam video’ button, so as to import your recorded video to Wondershare Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![1-action-cam-tool-fix-entrance](https://images.wondershare.com/filmora/article-images/filmora-splash-screen-0321.jpg)
 
 * Now go to the Speed tab and bring the Playhead to the exact position where the speed effect is to be applied.
 * Click the Add Marker button. Click the speed marker and drag it onto either side of your timeline so as to choose a number of clips on your timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![speed-effect-speed-add-marke](https://images.wondershare.com/filmora/article-images/speed-effect-speed-add-marker.png)
 
 * The speed settings can be adjusted by clicking on the checkbox marked Speed. The speed slider can be moved forward to make it faster up to 20x for the time lapse effect.
@@ -103,6 +118,9 @@ The Instant cutter tool on the other hand can be used for trimming and merging v
 
 [Learn more detailed information about how to make a time lapse video in Filmora Full Feature Mode](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -119,3 +137,42 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-swift-and-smooth-your-ultimate-guide-to-iphone-podcast-downloading/"><u>[New] Swift & Smooth  Your Ultimate Guide to iPhone Podcast Downloading</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-swiftly-upload-to-twitter-premium-video-convertors-guide/"><u>[New] Swiftly Upload to Twitter  Premium Video Convertors Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-best-free-youtube-intro-makers-to-create-awesome-intros/"><u>[Updated] 2024 Approved  Best Free YouTube Intro Makers to Create Awesome Intros</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-leap-into-fitness-a-curated-selection-of-vr-treadmill-pros/"><u>[Updated] 2024 Approved  Leap Into Fitness  A Curated Selection of VR Treadmill Pros</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mastering-camtasia-ken-burns-technique-unveiled/"><u>[Updated] 2024 Approved  Mastering Camtasia  Ken Burns Technique Unveiled</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-how-to-add-captions-on-tiktok/"><u>[Updated] How to Add Captions on TikTok</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-professional-window-capturer-version-11-for-2024/"><u>[Updated] Professional Window Capturer - Version 11 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-digital-humor-handbook-building-a-reputation-with-metaverse-memes/"><u>[Updated] The Digital Humor Handbook  Building a Reputation with Metaverse Memes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-encyclopedia-of-touch-based-gesture-analytics/"><u>[Updated] The Encyclopedia of Touch-Based Gesture Analytics</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-future-of-cloud-storages-top-picks-to-consider/"><u>[Updated] The Future of Cloud Storages  Top Picks to Consider</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-through-a-headsets-lens-a-history-of-vr/"><u>[Updated] Through a Headset's Lens  A History of VR</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-ringtone-bazaar-navigating-online-sound-archives/"><u>[Updated] Ultimate Ringtone Bazaar  Navigating Online Sound Archives</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleashing-your-creative-potential-expert-led-audio-transition-workshops-in-audacity/"><u>[Updated] Unleashing Your Creative Potential  Expert-Led Audio Transition Workshops in Audacity</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlinking-from-youtube-shorts-easy-and-permanent/"><u>[Updated] Unlinking From YouTube Shorts - Easy and Permanent</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-major-modifications-in-windows-movie-maker/"><u>[Updated] Unveiling Major Modifications in Windows Movie Maker</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-updated-sony-s3700-bd-review-2023/"><u>[Updated] Updated Sony S3700 BD REVIEW 2023</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-directory-of-premium-tamil-ringtone-downloads/"><u>2024 Approved  Comprehensive Directory of Premium Tamil Ringtone Downloads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-guide-to-using-eraser-tool-in-photoshop/"><u>2024 Approved  Guide to Using Eraser Tool In Photoshop</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-seamlessly-add-music-to-inshot-on-mobile-devices/"><u>2024 Approved  Seamlessly Add Music to InShot on Mobile Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-premier-list-best-android-cloud-saving-options/"><u>2024 Approved  The Premier List  Best Android Cloud Saving Options</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-guide-to-10-premium-vector-websites/"><u>2024 Approved  Ultimate Guide to 10 Premium Vector Websites</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-introductory-editor-software-devices/"><u>2024 Approved  Ultimate Introductory Editor Software (Devices)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/exploring-advanced-gameplay-with-kinemaster-on-android-for-2024/"><u>Exploring Advanced Gameplay with KineMaster on Android for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-xs-max-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone XS Max</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamline-your-windows-11-photo-videos/"><u>In 2024, Streamline Your Windows 11 Photo Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-swap-periscope-leading-video-apps-for-iphoneandroid-devices/"><u>In 2024, Swap Periscope  Leading Video Apps for iPhone/Android Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-dji-fpv-revolution-a-review-of-eyewear-innovation/"><u>In 2024, The DJI FPV Revolution  A Review of Eyewear Innovation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transforming-imagery-with-quantum-hdr/"><u>In 2024, Transforming Imagery with Quantum HDR</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-potential-with-hero5-black-perfecting-cinematography-skills/"><u>In 2024, Unleash Potential with Hero5 Black  Perfecting Cinematography Skills</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-unmissable-collection-the-ultimate-playlist-of-song-recorders-for-2024/"><u>New Unmissable Collection The Ultimate Playlist of Song Recorders for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Lava Yuva 2? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-essential-guide-to-the-best-7-audio-editors-for-professional-guitarists-for-2024/"><u>The Essential Guide to the Best 7 Audio Editors for Professional Guitarists for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unbeatable-video-splitters-to-match-xplit-for-2024/"><u>Unbeatable Video Splitters to Match Xplit for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-prime-cloud-storage-options-for-2024/"><u>Unveiling Prime Cloud Storage Options for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-most-downloaded-android-apps-of-the-month/"><u>Updated Most-Downloaded Android Apps of the Month</u></a></li>
+</ul></div>

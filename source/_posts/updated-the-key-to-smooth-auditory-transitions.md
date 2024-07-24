@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Key to Smooth Auditory Transitions"
-date: 2024-06-04T15:34:03.871Z
-updated: 2024-06-05T15:34:03.871Z
+date: 2024-07-23T09:08:12.372Z
+updated: 2024-07-24T09:08:12.372Z
 tags: 
   - screen-recording
   - ai video
@@ -29,6 +29,9 @@ A scene or speech transition in which the audio gradually (or abruptly) lowers i
 * [How to Crossfade Audio in Premiere Pro](#part2)
 * [Alternative way to add audio transitions in videos](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Part 1\. Types of Audio Transitions in Premiere Pro
 
 Let's briefly take a look at the most popular audio transitions in Premiere Pro before going through the step-by-step tutorial on making an audio fade out. The audio fade is essentially a visual transition. Crossfading describes the audible transition between two audio samples on the same track. The terms "fade-in" and "fade-out" refer to the two different kinds of crossfade transitions, and Premiere Pro offers its customers three different crossfade effects: constant gain, constant power, and exponential fade. Following are some specifics:
@@ -37,12 +40,18 @@ Let's briefly take a look at the most popular audio transitions in Premiere Pro 
 
 When switching between scenes, audio is constantly increased or decreased. The audio frequently sounds abrupt during this crossfade. Constant gain crossfade is a kind of audio transition where the audio is consistently increased or decreased as you switch between clips. Additionally, it lacks the exponential fade's smoothness. Don't ignore it however; it does have its uses. You'll probably use this sparingly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ### Constant Power
 
 In Premiere, the fade that dilutes the audio volume fluctuations between clips is represented by Constant Power. The second clip begins with a rapid spike and then decelerates at the conclusion of the transition. It produces a fluid, cinematic sequence that is understated yet high in quality. ideal for your next movie.
 
 It is used to gradually reduce audio for the first clip at start, then swiftly when the transition comes to a close. It works by gradually speeding up at the conclusion of the transition before gradually reducing the audio for your initial clip. This crossfades raises audio in the second clip swiftly at initially and then more gradually at the conclusion of the transition.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Exponential Fade
 
 This crossfade operates in an exponential manner, beginning slowly before accelerating till the conclusion of the clip, giving the impression of a moving curve. An audio transition known as an exponential fade begins off slowly before gradually lowering or raising the level until it is finished. It works well for sequences with dialogue switches or for the conclusion. Without the abrupt flip, it provides a considerably shorter fade out that ends fast yet gracefully. Perfect for switching scenes with various atmospheres or for conversation.
@@ -77,6 +86,9 @@ To assign your audio file to the Audio track if you're starting from scratch, ju
 
 You may now shorten or lengthen the time that your audio fades in or out. You may accomplish this by simply clicking the transition's start or finish and dragging it to lengthen or shorten it. In the pop-up box that displays, enter the duration for the fade, then click "OK."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![select duration and save effect](https://images.wondershare.com/filmora/article-images/2022/07/set-transition-duration-premiere.jpg)
 
 ## Part 3\. Alternative way to add audio transitions in videos
@@ -97,6 +109,9 @@ Simply follow the steps below to add audio transitions without any hassle.
 
 This step requires you to launch the software since you have likely already downloaded and installed it. You can do this by clicking on the icon on your desktop or by typing "Filmora" into the desktop search box. Once the software has launched successfully, you must select the Video Editor option. The files on which you wish to use the audio transition must be imported in the next step. So, to achieve so, click the Import button in this software's default layout as seen below:
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![launch filmora and add files to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
 ##### Step2 Split the audio track for Transition
@@ -109,6 +124,9 @@ You may now use the splitting audio approach to clip off the portions of your au
 
 We focus on how you would use the editing feature on your audio that was divided for transitional reasons in this stage. So, to use this option, choose the relevant track, right-click on it to bring up the audio file's settings, and then choose Edit Audio.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make the audio transitions](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 In this main step, you’ll get to know the transitioning technique with the Filmora. To use, follow these instructions in the audio editor, which has just appeared on the right side of the program screen. You can simply create the audio transitions without any hassles by going to the Volume area of the audio editor from there and modifying the volume of the audio track that you had separated for this reason.
@@ -146,3 +164,54 @@ In a nutshell, it's important to use the right program to customize the fade in/
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-ninja-legacy-continuation-game-roundup-like-the-japanese-samurai-epic/"><u>[New] 2024 Approved  Ninja Legacy Continuation  Game Roundup Like the Japanese Samurai Epic</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-reliable-methods-to-elevate-your-youtube-presence-without-breaking-trust/"><u>[New] In 2024, Reliable Methods to Elevate Your YouTube Presence Without Breaking Trust</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-subtle-music-level-decrease-for-pcmac-users/"><u>[New] Subtle Music Level Decrease for PC/Mac Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tailor-your-text-to-voice-top-5-cloud-services-for-chrome-os-sound-transformation/"><u>[New] Tailor Your Text to Voice  Top 5 Cloud Services for Chrome OS Sound Transformation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tailored-brand-symbols-turn-basic-templates-into-logos/"><u>[New] Tailored Brand Symbols  Turn Basic Templates Into Logos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-fabric-of-future-cutting-edge-vr-technology/"><u>[New] The Fabric of Future  Cutting-Edge VR Technology</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-rise-and-fall-of-vegas-pro-a-critical-look/"><u>[New] The Rise and Fall of Vegas Pro   A Critical Look</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-5-free-video-players-vlc-or-mpc-winner/"><u>[New] Top 5 Free Video Players  VLC or MPC Winner?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-your-podcasts-identity-with-ai-name-makers/"><u>[New] Transform Your Podcast's Identity with AI Name Makers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweet-to-tune-video-to-audible-file/"><u>[New] Tweet-to-Tune  Video to Audible File</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-twitch-time-rewind-hacks-unveiled-for-2024/"><u>[New] Twitch Time Rewind Hacks Unveiled for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-exploration-2024s-videoshow-application/"><u>[New] Ultimate Exploration  2024'S VideoShow Application</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-facetune-a-comprehensive-2024-user-manual/"><u>[New] Ultimate Facetune  A Comprehensive 2024 User Manual</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-metaverses-versus-omniverse-unveiled/"><u>[Updated] Metaverses Versus Omniverse Unveiled</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimal-strategies-for-downloading-audio-from-pinterest-videos/"><u>[Updated] Optimal Strategies for Downloading Audio From Pinterest Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-organizing-your-youtube-content-with-ease-for-2024/"><u>[Updated] Organizing Your YouTube Content with Ease for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-picture-perfect-framing-24/"><u>[Updated] The Ultimate Guide to Picture-Perfect Framing '24</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-naming-algorithms-for-podcast-mastery/"><u>[Updated] Top 10 Naming Algorithms for Podcast Mastery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-5-panoramic-capture-models/"><u>[Updated] Top 5 Panoramic Capture Models</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transform-your-footage-techniques-for-outstanding-gopro-edits/"><u>[Updated] Transform Your Footage  Techniques for Outstanding GoPro Edits</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unveiling-simple-sync-obs-plus-zoom-journey/"><u>[Updated] Unveiling Simple Sync  OBS + Zoom Journey</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-effective-ways-to-save-your-ps4-games/"><u>2024 Approved  Effective Ways to Save Your PS4 Games</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-expert-tips-on-finding-optimal-free-srt-translator-services/"><u>2024 Approved  Expert Tips on Finding Optimal Free SRT Translator Services</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-mastering-facebook-broadcasts-via-pc-and-mac-with-obs/"><u>2024 Approved  Mastering Facebook Broadcasts via PC & Mac with OBS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streaming-galore-top-nine-game-portals/"><u>2024 Approved  Streaming Galore  Top Nine Game Portals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-syma-x5c-exploration-top-choice-for-novice-aerial-enthusiasts/"><u>2024 Approved  Syma X5C Exploration  Top Choice for Novice Aerial Enthusiasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-insiders-guide-to-altering-your-iphone-ringtones/"><u>2024 Approved  The Insider's Guide to Altering Your iPhone Ringtones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-role-of-storytelling-in-presenting-market-research-findings/"><u>2024 Approved  The Role of Storytelling in Presenting Market Research Findings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tomorrows-evaluation-creative-pathways/"><u>2024 Approved  Tomorrow’s Evaluation  Creative Pathways</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-full-potential-of-mixer-streaming-on-macos/"><u>2024 Approved  Unlocking Full Potential of Mixer Streaming on macOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-iphone-features-producing-and-modifying-videos-at-a-tranquil-pace/"><u>2024 Approved  Unveiling iPhone Features  Producing and Modifying Videos at a Tranquil Pace</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-guide-to-oculus-rift-setup-for-2024/"><u>Comprehensive Guide to Oculus Rift Setup for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-chase-laughter-and-tears-on-instagram-with-these-10-feeds/"><u>In 2024, Chase Laughter & Tears on Instagram with These 10 Feeds</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-tecno-phantom-v-fold-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Tecno Phantom V Fold Phones with/without a PC</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, List of Pokémon Go Joysticks On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-mastering-srt-file-playback-on-both-oses/"><u>In 2024, Mastering SRT File Playback on Both OSes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-shades-of-success-color-grading-fundamentals/"><u>In 2024, Shades of Success  Color Grading Fundamentals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-photo-edits-a-newcomers-guide-to-lunapic/"><u>In 2024, The Art of Photo Edits  A Newcomer’s Guide to LunaPic</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-picture-text-enhancement/"><u>In 2024, The Ultimate Guide to Picture Text Enhancement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-stunning-pixel-perfect-combinations/"><u>In 2024, The Ultimate Guide to Stunning Pixel-Perfect Combinations</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-samsung-galaxy-s23-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Samsung Galaxy S23</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-utilizing-luts-for-enhanced-color-correction-in-pscc/"><u>In 2024, Utilizing LUTs for Enhanced Color Correction in PSCC</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-top-10-hindi-video-translators-with-step-by-step-guidance-for-2024/"><u>New Top 10 Hindi Video Translators with Step-by-Step Guidance for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/peaceful-presentations-advanced-noise-reduction-methods-in-adobe-premiere-pro-videos/"><u>Peaceful Presentations Advanced Noise Reduction Methods in Adobe Premiere Pro Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/reducing-motion-illusion-in-vr-environments/"><u>Reducing Motion Illusion in VR Environments</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/storage-space-used-daily-extended-video-size-for-2024/"><u>Storage Space Used  Daily Extended Video Size for 2024</u></a></li>
+</ul></div>

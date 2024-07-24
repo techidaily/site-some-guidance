@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Art of iPhone Framing  Finding the Best Camera Positions\""
-date: 2024-06-04T15:18:50.719Z
-updated: 2024-06-05T15:18:50.719Z
+date: 2024-07-23T08:58:28.933Z
+updated: 2024-07-24T08:58:28.933Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/1908e28912e98a1754462ccee93c018243200352c
 
 #### 1\.  Close Ups
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![close-up-angle.](https://images.wondershare.com/filmora/article-images/close-up-angle.jpg)
 
  Image resource: Digital Care Solutions
@@ -56,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/1908e28912e98a1754462ccee93c018243200352c
 
 #### 3\.  Straight Up - Take Pictures of things above you
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![straight-shots-iphone](https://images.wondershare.com/filmora/article-images/straight-shots-iphone.jpg)
 
  Image resource: Digital Photography Review
@@ -72,6 +78,9 @@ thumbnail: https://thmb.techidaily.com/1908e28912e98a1754462ccee93c018243200352c
 
 #### 5\.  Bird's Eye View
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![bird-eye-view-shots](https://images.wondershare.com/filmora/article-images/bird-eye-view-shots.jpg)
 
  Image resource: Google
@@ -92,6 +101,9 @@ thumbnail: https://thmb.techidaily.com/1908e28912e98a1754462ccee93c018243200352c
 
 #### 7\.  Use Transparent Objects as Lens Filters
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![shoot-trought-another-subject](https://images.wondershare.com/filmora/article-images/shoot-trought-another-subject.jpg)
 
  Image resource: Digital Photo Secrets
@@ -142,6 +154,9 @@ Follow @Ollie Mattison
 
 #### 3\.  Straight Up - Take Pictures of things above you
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![straight-shots-iphone](https://images.wondershare.com/filmora/article-images/straight-shots-iphone.jpg)
 
  Image resource: Digital Photography Review
@@ -168,6 +183,9 @@ Follow @Ollie Mattison
 
 #### 6\.  Use a Frame Within a Frame
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use-frame-photography](https://images.wondershare.com/filmora/article-images/use-frame-photography.jpg)
 
  Image resource: Chris Utano Photography
@@ -178,6 +196,9 @@ Follow @Ollie Mattison
 
 #### 7\.  Use Transparent Objects as Lens Filters
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![shoot-trought-another-subject](https://images.wondershare.com/filmora/article-images/shoot-trought-another-subject.jpg)
 
  Image resource: Digital Photo Secrets
@@ -186,6 +207,9 @@ Follow @Ollie Mattison
 
  If you take a photo through a glass of water you'll be able to create a distorted image of the view behind the glass. Taking photos through transparent objects can be a lot of fun, but it is often more complicated than it seems. Controlling aperture, exposure or focus manually from your iPhone may help you get better results because you'll be able to decide where the focal point of the photo will be or fine-tune the amount of light your iPhone camera can pick up.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -218,3 +242,56 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-discover-your-new-favorites-with-our-best-offline-ios-games-list/"><u>[New] 2024 Approved  Discover Your New Favorites with Our Best Offline iOS Games List</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagram-tracking-your-followers-departure/"><u>[New] 2024 Approved  Instagram  Tracking Your Followers' Departure</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-image-repository-roundup-top-10-sites-reviewed/"><u>[New] Free Image Repository Roundup  Top 10 Sites Reviewed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-dynamic-videos-made-easy-with-best-stabilizers/"><u>[New] In 2024, Dynamic Videos Made Easy with Best Stabilizers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-enhance-your-media-with-top-free-android-editing-tools/"><u>[New] In 2024, Enhance Your Media with Top Free Android Editing Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-no-8-visual-artists-choice-for-photo-assembly/"><u>[New] No. 8 Visual Artist's Choice for Photo Assembly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-sj4000-stylish-essentials-a-comprehensive-list/"><u>[New] SJ4000 Stylish Essentials  A Comprehensive List</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-strategy-revealed-a-box-opening-narrative/"><u>[New] Strategy Revealed  A Box-Opening Narrative</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-global-communicators-essential-list-of-top-36-platforms-for-video-conversion/"><u>[New] The Global Communicator’s Essential List of Top 36 Platforms for Video Conversion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-secret-to-stability-overcoming-handheld-videography-challenges/"><u>[New] The Secret to Stability  Overcoming Handheld Videography Challenges</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-youtube-subtitles-srt-3-steps-guide/"><u>[New] Unlocking YouTube Subtitles (SRT) - 3 Steps Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unraveling-the-complexities-of-firefox-split-screen/"><u>[New] Unraveling the Complexities of Firefox Split Screen</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-revolutionize-your-humor-learn-through-kinemaster-for-2024/"><u>[Updated] Revolutionize Your Humor  Learn Through KineMaster for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-techniques-for-reversing-chronological-order/"><u>[Updated] Techniques for Reversing Chronological Order</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-tutorial-adding-whimsy-with-snapchat-cartoons/"><u>[Updated] The Ultimate Tutorial  Adding Whimsy with Snapchat Cartoons</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-quick-access-handbook-for-rapid-srt-to-text-change/"><u>[Updated] The Ultimate, Quick-Access Handbook for Rapid SRT to Text Change</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-top-8-excellent-free-online-srt-translators-for-efficiency/"><u>[Updated] Unveiling Top 8 Excellent Free Online SRT Translators for Efficiency</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-economics-of-video-promotion-platforms/"><u>2024 Approved  The Economics of Video Promotion Platforms</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-unseen-story-access-top-anonymous-tools/"><u>2024 Approved  Unseen Story Access  Top Anonymous Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-using-inshot-for-laptoppc-and-other-video-editing-alternatives/"><u>2024 Approved  Using Inshot for Laptop/PC and Other Video Editing Alternatives</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/7-years-75-million-learners-mondly-leads-the-way/"><u>7 Years, 75 Million Learners, Mondly Leads the Way</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cutting-to-the-beat-making-short-films-on-your-iphone-for-2024/"><u>Cutting to the Beat  Making Short Films on Your iPhone for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exquisite-stop-motion-cinema-top-15-picks/"><u>Exquisite Stop-Motion Cinema - Top 15 Picks</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-tecno-spark-10-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Tecno Spark 10 Pro Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-of-iphone-8-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-14-plus-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 14 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-xiaomi-redmi-13c-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Xiaomi Redmi 13C to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-samsung-galaxy-m54-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Samsung Galaxy M54 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-guide-to-grow-your-follower-base-on-youtube-and-twitch/"><u>In 2024, The Ultimate Guide to Grow Your Follower Base on Youtube & Twitch</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-turbocharge-your-photos-windows-11-edition/"><u>In 2024, Turbocharge Your Photos  Windows 11 Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-selection-best-8-websites-with-striking-3d-and-glamourous-text/"><u>In 2024, Ultimate Selection  Best 8 Websites with Striking 3D & Glamourous Text</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-studio-secrets-extensive-xvideoreview/"><u>In 2024, Unlocking Studio Secrets  Extensive XVideoReview</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-lost-reddit-content-instant-access-techniques/"><u>In 2024, Unveiling Lost Reddit Content  Instant Access Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-strategies-to-stand-out-with-a-great-podcast-name/"><u>In 2024, Unveiling Strategies to Stand Out with a Great Podcast Name</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-how-to-transcribe-voice-to-written-words-for-2024/"><u>New How to Transcribe Voice to Written Words for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamline-your-musical-journey-top-6-music-vids-on-android-for-2024/"><u>Streamline Your Musical Journey - Top 6 Music Vids on Android for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamlining-online-meetings-zoom-for-win10-for-2024/"><u>Streamlining Online Meetings  Zoom for WIN10 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/subtle-shift-top-8-choices-for-transforming-sub-into-easy-to-use-srt-for-2024/"><u>Subtle Shift  Top 8 Choices for Transforming SUB Into Easy-to-Use SRT for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/swift-remedies-for-iphone-unfocused-shots-for-2024/"><u>Swift Remedies for iPhone Unfocused Shots for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-25-secrets-for-effective-win10-use-for-2024/"><u>Top 25 Secrets for Effective Win10 Use for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-8-social-and-adventure-games-for-oculus-users-for-2024/"><u>Top 8 Social & Adventure Games for Oculus Users for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/total-clarification-googles-podcast-application-simplified-for-2024/"><u>Total Clarification  Google's Podcast Application Simplified for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-aquatic-enhancements-for-gopro-footage-for-2024/"><u>Ultimate Aquatic Enhancements for GoPro Footage for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unilateral-earbud-error-how-to-rectify-for-2024/"><u>Unilateral Earbud Error  How to Rectify for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-metaverse-potential-top-7-innovations-to-master-for-2024/"><u>Unlocking Metaverse Potential - Top 7 Innovations to Master for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unraveling-the-secrets-to-captivating-asmr-scenarios-and-effects/"><u>Unraveling the Secrets to Captivating ASMR Scenarios and Effects</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-secrets-of-srt-creation-from-text-formats-for-2024/"><u>Unveiling the Secrets of SRT Creation From Text Formats for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-best-6-online-mp4-croppers-for-2024/"><u>Updated Best 6 Online MP4 Croppers for 2024</u></a></li>
+</ul></div>

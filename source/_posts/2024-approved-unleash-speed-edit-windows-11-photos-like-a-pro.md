@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unleash Speed  Edit Windows 11 Photos Like a Pro\""
-date: 2024-06-04T16:56:13.840Z
-updated: 2024-06-05T16:56:13.840Z
+date: 2024-07-23T09:59:42.718Z
+updated: 2024-07-24T09:59:42.718Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/ff4b473fea2e89c79aee76abe0eab2251a21420b8
 
 # How to Easily and Quickly Draw on Photos App in Windows 10
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -31,6 +35,9 @@ The Photos app in Windows 10 is one of the best and with the addition of the dra
 * [**Part1: How to Draw On Photos App in Windows 10**](#part1)
 * [**Part2: How to Draw on Photos Online**](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Draw On Photos App in Windows 10
 
 When you can add a personal touch to your videos and photos, it becomes all the way more special. Many times, it becomes essential to add a note to explain a video in a better way. Here are the steps to draw on photos in Windows 10 –
@@ -65,10 +72,16 @@ Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lu
 * Select the pen size using the given number scroll option
 * Click on apply if you are all set to draw or click on clear if you wish to make changes
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/editing-drawings-on-windows-10.jpg)
 
 * To save your drawing on the image, you must click on Apply after each action you make with the tool
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 The Photos app has an interface that is restructured with dark theme options and new drawing and editing features making it a great tool. If you want to draw on Photos in Windows 10, follow the above steps and make your actions easier. If you want to have more options to edit videos with drawing in Windows 10, why not choose [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)? You can edit your video with various drawing and text style.
@@ -99,6 +112,10 @@ When you can add a personal touch to your videos and photos, it becomes all the 
 * Firstly, open a video or a photo from your phone gallery
 * Select the **Edit and Create** option and click on Draw
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/draw-on-photos-in-windows-10.jpg)
 
 * You can see a Windows Ink Toolbar, select your preferred pen from the options available
@@ -111,6 +128,9 @@ When you can add a personal touch to your videos and photos, it becomes all the 
 
 When you draw on the image or video, the ink can be attached to a particular object or person within the video. As you move the camera angle or the object, the ink stays or moves along. You just need to select the anchor icon and link it to the object in the video.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Part 2: How to Draw on Photos Online
 
 Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lunapic.com/editor/?action=draw) is one such tool that lets you draw on your photos easily online. It is more of a paint tool that lets you edit, adjust, draw borders, add filters, effects, art, animation, and more. It has more than 200 effects option to choose from. To draw on photos online with LunaPic, follow the below-mentioned steps-
@@ -126,16 +146,25 @@ Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lu
 * Select the pen size using the given number scroll option
 * Click on apply if you are all set to draw or click on clear if you wish to make changes
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/editing-drawings-on-windows-10.jpg)
 
 * To save your drawing on the image, you must click on Apply after each action you make with the tool
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 The Photos app has an interface that is restructured with dark theme options and new drawing and editing features making it a great tool. If you want to draw on Photos in Windows 10, follow the above steps and make your actions easier. If you want to have more options to edit videos with drawing in Windows 10, why not choose [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)? You can edit your video with various drawing and text style.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -168,3 +197,38 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-crafting-captivating-storytelling-with-a-soundtrack-on-instagram-for-2024/"><u>[New] Crafting Captivating Storytelling with a Soundtrack on Instagram for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-youtube-short-content-techniques-unveiled/"><u>[Updated] 2024 Approved  Essential YouTube Short Content Techniques Unveiled</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-exploring-your-digital-trail-a-comprehensive-guide-to-previewing-off-facebook-activities-for-2024/"><u>[Updated] Exploring Your Digital Trail - A Comprehensive Guide to Previewing Off-Facebook Activities for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-photography-with-insights-into-lut-use/"><u>[Updated] Innovative Photography with Insights Into LUT Use</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-revolutionize-sessions-with-pro-zoom-conversion-hacks/"><u>[Updated] Revolutionize Sessions with Pro-Zoom Conversion Hacks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-guide-to-the-best-10-cost-free-photo-hosters/"><u>[Updated] Ultimate Guide to the Best 10 Cost-Free Photo Hosters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-picsart-analysis-and-tutorial/"><u>[Updated] Ultimate PicsArt Analysis & Tutorial</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-understanding-transient-suppression-via-audacity/"><u>[Updated] Understanding Transient Suppression via Audacity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-secrets-the-battle-of-biometric-systems-in-phones/"><u>[Updated] Unlocking Secrets  The Battle of Biometric Systems in Phones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-5-excellent-mac-livestream-software/"><u>[Updated] Unveiling 5 Excellent Mac Livestream Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-ideal-frames-per-second-for-excellent-slow-mo-videos/"><u>[Updated] Unveiling Ideal Frames Per Second For Excellent Slow-Mo Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-masterpiece-makers-discovering-these-6-unmatched-nft-tools/"><u>2024 Approved  Masterpiece Makers  Discovering These 6 Unmatched NFT Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-silent-shifts-mastering-crossfades-efficiently/"><u>2024 Approved  Silent Shifts  Mastering Crossfades Efficiently</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamline-photos-via-iphone-size-adjustment/"><u>2024 Approved  Streamline Photos via iPhone Size Adjustment</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlining-skype-calls-with-advanced-zoom-use/"><u>2024 Approved  Streamlining Skype Calls with Advanced Zoom Use</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-stylish-profiles-easy-downloads/"><u>2024 Approved  Stylish Profiles, Easy Downloads!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tale-bearers-school-distinguished-dothee/"><u>2024 Approved  Tale Bearers School - Distinguished Dothee</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-crossfade-audio-seamless-integration-in-logic-x/"><u>2024 Approved  The Art of Crossfade Audio  Seamless Integration in Logic X</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transcribing-spoken-words-in-minutes-using-auto-transcribe-and-office-suite-tools/"><u>2024 Approved  Transcribing Spoken Words in Minutes Using Auto-Transcribe and Office Suite Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-list-premier-networks-for-live-viewing/"><u>2024 Approved  Ultimate List  Premier Networks for Live Viewing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-uncomplicated-methodology-turning-clownfish-sounds-on-windows-systems/"><u>2024 Approved  Uncomplicated Methodology  Turning Clownfish Sounds on Windows Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-potential-with-latest-windows-10-apps-and-games/"><u>2024 Approved  Unleash Potential with Latest Windows 10 Apps and Games</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719581526060-embrace-romance-saying-i-love-you-in-different-languages/"><u>Embrace Romance: Saying I Love You in Different Languages!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-complete-guide-to-mastering-picsart/"><u>In 2024, Complete Guide to Mastering PicsArt</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-filmmaking-for-the-future-adapting-videos-vertically-for-instagram/"><u>In 2024, Filmmaking for the Future  Adapting Videos Vertically for Instagram</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-from-novice-to-pro-a-comprehensive-reference-on-using-zds-video-capturing-features/"><u>In 2024, From Novice to Pro  A Comprehensive Reference on Using ZD's Video Capturing Features</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-techniques-for-swapping-your-images-tone-spectrum/"><u>In 2024, Techniques for Swapping Your Image's Tone Spectrum</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essentials-understanding-whatsapp-calls/"><u>In 2024, The Essentials  Understanding WhatsApp Calls</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-youtube-to-mp4-blueprint/"><u>In 2024, The Ultimate YouTube to MP4 Blueprint</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-ultimate-guide-to-slow-motion-video-editing-top-10-tools/"><u>New 2024 Approved The Ultimate Guide to Slow Motion Video Editing Top 10 Tools</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/ultimate-guide-the-top-6-no-cost-web-accessible-mp3-from-tiktok-apps-6/"><u>Ultimate Guide  The Top 6 No-Cost, Web Accessible MP3 From TikTok Apps (6)</u></a></li>
+</ul></div>

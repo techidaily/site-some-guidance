@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking the Palette of Possibilities with Downloadable Spark AR LUTs\""
-date: 2024-06-04T14:17:35.858Z
-updated: 2024-06-05T14:17:35.858Z
+date: 2024-07-23T08:19:10.243Z
+updated: 2024-07-24T08:19:10.243Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,9 @@ To develop AR effects for mobile cameras, you can use the Mac and Windows augmen
 
 ![create a color gradient effect](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. How to use LUTs in Spark AR?
 
 **How to apply a color LUT to the whole scene in Spark AR:**
@@ -46,6 +49,9 @@ When you import a color LUT, compression is always set to None, and filtering is
 
 A patch graph is automatically set that applies a color LUT to the entire scene.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![apply to the whole scene](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-2.jpg)
 
 **The color LUT patch graph**
@@ -64,10 +70,22 @@ The patch graph that renders the color gradation effect looks like this:
 
 Here are the best free LUTs resources for Spark AR:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### 1\. [Frost Zombie (Technical Showcase)](https://we.tl/t-1uj4wJKluG)
 
 Client filter pieces occasionally end up on the scrap heap. It was a poor Frost Zombie in this instance. Since this is one of my simpler filters, I felt it was okay to publish the build information. Four objects make up much of the scene: an EyeColor block, a custom canvas segmentation, a face mesh, and an emitter for the breath mist (my personal favorite). To show the layers used in generating the primary zombie texture, I also moved to Substance Painter. This is a demonstration of my methods rather than a step-by-step manual.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![frost zombie](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-4.jpg)
 
 ### 2\. Fur
@@ -81,24 +99,39 @@ Here are the key building principles.
 * Height is generated from a single grayscale channel.
 * No fur is generated in the black areas of the height texture.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fur](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-5.jpg)
 
 ### 3\. Shockwave
 
 Even while using large image sequences is frequently discouraged, you can still use them to make some extremely spectacular effects! I'll explain how the screen tap computation procedure relates to texture position in this walkthrough. If you want to apply this approach and texture sequence in your projects or give it a try.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![shockwave](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-6.jpg)
 
 ### 4\. Transition Curves
 
 There are 11 distinct animation curves included with Spark AR in the Transition patch. Here is a helpful visual aid because it might be challenging to distinguish between a quartic and a quintic when working on a project. With the SDF circle doubled (to sharpen the edge) and inserted into the Patch Pack's alpha channel, the circles are likewise straightforward rectangles. Since RGB values are three times one, the object is white.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transition curves](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ### 5\. Realistic Smoke
 
 By adding smoke to a scene, you can easily add a lot of detail and realism. Nothing revolutionary is happening here. The particle emitter creates flat planes of smoke texture that are forced upward. The force slowly shifts left and right as seen in the patch editor. The Fade particle script (created by Josh Beckwith) enlarges the particles and fades them out at the same time.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![realistic smoke](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-8.jpg)
 
 ### 6\. Rainbow Glitter
@@ -140,3 +173,38 @@ Spark AR is an amazing website for LUTs and color grading. Whether you're a new 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-proven-strategies-for-unveiling-pure-photospace-using-photopea/"><u>[New] 2024 Approved  Proven Strategies for Unveiling Pure Photospace Using Photopea</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-superior-mkv-reader-laptoptablet-edition/"><u>[New] Superior MKV Reader (Laptop/Tablet Edition)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-experts-guide-to-instagrams-licensed-music-posting-policies/"><u>[New] The Expert’s Guide to Instagram's Licensed Music Posting Policies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-gradual-volume-curve-of-audio-reduction-in-fl-studio/"><u>[New] The Gradual Volume Curve of Audio Reduction in FL Studio</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-leading-10-clock-apps-to-time-your-wedding-ceremony/"><u>[New] The Leading 10 Clock Apps to Time Your Wedding Ceremony</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-capturing-internet-radio-with-14-methods/"><u>[New] The Ultimate Guide  Capturing Internet Radio with 14 Methods</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-android-and-ios-leading-titles-mimicking-playstation-games/"><u>[Updated] In 2024, Android & iOS  Leading Titles Mimicking PlayStation Games</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-add-emojis-on-youtube-comments/"><u>[Updated] In 2024, How to Add Emojis on YouTube Comments</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unveiling-the-mystery-of-instagrams-most-trusted-6-techniques-for-building-a-fanbase/"><u>[Updated] In 2024, Unveiling the Mystery of Instagram's Most Trusted  6 Techniques for Building a Fanbase</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-guide-to-consolidating-your-youtube-video-collection/"><u>2024 Approved  Guide to Consolidating Your YouTube Video Collection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-telegram-edge-advanced-tactics-for-effective-promotion/"><u>2024 Approved  The Telegram Edge  Advanced Tactics for Effective Promotion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-non-contact-sensing/"><u>2024 Approved  The Ultimate Guide to Non-Contact Sensing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-5-display-choices-to-enhance-ps5xbox-playtime/"><u>2024 Approved  Top 5 Display Choices to Enhance PS5/Xbox Playtime</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-live-streaming-hardware-encoder-and-equipment-you-should-know/"><u>2024 Approved  Top Live Streaming Hardware Encoder and Equipment You Should Know</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-spots-for-virtual-reality-experiences/"><u>2024 Approved  Top Spots for Virtual Reality Experiences</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-tracks-for-a-professional-unboxing-presentation/"><u>2024 Approved  Top Tracks for a Professional Unboxing Presentation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-iphones-full-potential-4-pro-tips-for-brightening-hdr-in-premiere/"><u>2024 Approved  Unlock iPhone's Full Potential  4 Pro Tips for Brightening HDR in Premiere</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-13-pro-max-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From Apple iPhone 13 Pro Max Online</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-individual-to-institutional-growth-in-youtube-space/"><u>In 2024, From Individual to Institutional Growth in YouTube Space</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-strategies-for-success-in-the-metaverse-space/"><u>In 2024, Strategies for Success in the Metaverse Space</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-supreme-4k-tvs-for-the-ultimate-gaming-experience/"><u>In 2024, Supreme 4K TVs for the Ultimate Gaming Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tailoring-photos-with-photoshops-dynamic-motion-blur-feature/"><u>In 2024, Tailoring Photos with Photoshop's Dynamic Motion Blur Feature</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essential-guide-to-ios-podcast-acquisition/"><u>In 2024, The Essential Guide to iOS Podcast Acquisition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-latest-take-on-the-sony-bd-play-s3700-review/"><u>In 2024, The Latest Take on the Sony BD PLAY S3700 Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-path-to-profitable-product-placements-on-youtube/"><u>In 2024, The Path to Profitable Product Placements on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-of-how-to-use-animoji-on-iphone-x/"><u>In 2024, The Ultimate Guide of How to Use Animoji on iPhone X</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719348868755-is-your-pc-compatible-with-windows-11-see-here/"><u>Is Your PC Compatible with Windows 11? See Here</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-guide-to-converting-webm-to-mp4-10-best-options-for-2024/"><u>New The Ultimate Guide to Converting WebM to MP4 10 Best Options for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionize-your-security-crafting-unique-lock-patterns-for-windows-11/"><u>Revolutionize Your Security: Crafting Unique Lock Patterns for Windows 11</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-bringing-professional-audio-editing-to-chromeos-audacity-setup-and-shutdown-procedures-for-2024/"><u>Updated Bringing Professional Audio Editing to ChromeOS Audacity Setup & Shutdown Procedures for 2024</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-itel-p55-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Itel P55 Hard Reset | Dr.fone</u></a></li>
+</ul></div>

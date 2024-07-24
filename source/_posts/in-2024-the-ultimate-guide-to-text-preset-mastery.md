@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Guide to Text Preset Mastery"
-date: 2024-06-04T17:28:06.378Z
-updated: 2024-06-05T17:28:06.378Z
+date: 2024-07-23T10:19:14.459Z
+updated: 2024-07-24T10:19:14.459Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,9 @@ After Effects comes with certain pre-loaded text effects but you can always impo
 * [Part 2\. How to Add Text Presets in After Effects?](#part2)
 * [Part 3\. Alternative Way to Create Text Effects for Video](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. Best 10 Text Presets for After Effects
 
 There are unlimited text presets available on After Effects and for a beginner, it can be quite time-consuming to go through all of them and get confused about which one to pick. To make things easier for beginners, we are listing down the best 10 text presets After Effects free and paid for instant selection for their video projects.
@@ -56,6 +59,9 @@ You should have simple but effective motion text effects in your video so that c
 
 There are two FFX files in the pack that lets you get a retro text effect along with the popular typewriter animation. Import the files and drop the effect on your text and you can adjust several parameters to create amazing text effects. The retro effect is very similar to watching something on old monitors with very low resolution.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![typominal typewriter effect preset](https://images.wondershare.com/filmora/article-images/2022/09/typominal-typewriter-effect-preset.jpg)
 
 ### 4\. Tapered Stroke Preset
@@ -64,6 +70,9 @@ If the regular stroke feature is not enough, you have tapered stroke preset that
 
 ![tapered stroke preset](https://images.wondershare.com/filmora/article-images/2022/09/tapered-stroke-preset.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ### 5\. Stranger Things Text Preset
 
 This is a simple but highly effective text preset that gets the serious attention of the viewers. When you apply the effect, the text turns white to red with fade in effect and viewers are most likely to read the displayed text. There is no keyframe but you change the color as well as the fade-in time.
@@ -76,18 +85,35 @@ You get 16 amazing text styles that you can use on your texts and titles to make
 
 ![text styles preset](https://images.wondershare.com/filmora/article-images/2022/09/text-styles-preset.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 7\. Text Animation Bundle
 
 You get 80 text presets in this pack that you can customize and make the texts and titles in your video project elegant. All the animations have studio-like quality and you can animate your text uniquely and randomly. Starting from standard text animations to some really cool and creative text animations, you get everything in one pack.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![text animation bundle preset](https://images.wondershare.com/filmora/article-images/2022/09/text-animation-bundle-preset.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### 8\. Kinetic Text Animation
 
 If you are looking for some upbeat text presets, kinetic text animation pack is an essential. There are simple but stunning text animations available that can get the message across easily. You get full HD resolution for these presents and they are unique and creative that will make your video content stand out easily. In total, there are 56 different design presets present to personalize the text part of your video.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![kinetic text animation preset](https://images.wondershare.com/filmora/article-images/2022/09/kinetic-text-animation-preset.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 9\. 30 Universal Text Animation
 
 If you want to keep the text animations simple but you want it to be different than the usual text animations, this is the pack for you. You get 30 standard text animation presets with a geometrical element in each one of them. You can customize the timing, duration, size, and various such parameters to fit them in your video project perfectly.
@@ -106,10 +132,16 @@ Now that you know about the text presets you should have in your possession, it 
 
 Step1From your After Effects project, go to Tool panel and click on Type tool. Click on Composition panel and type in your desired text. Adjust the text styles from Characters tab.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![adjust text styles after effects](https://images.wondershare.com/filmora/article-images/2022/09/adjust-text-styles-after-effects.jpg)
 
 Step2Go to Effects and Presets panel and you will find all the presets including the imported ones. Search for any desired text effect preset and drag and drop it on the text layer.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![search desired text preset after effects](https://images.wondershare.com/filmora/article-images/2022/09/search-desired-text-preset-after-effects.jpg)
 
 Step3Click on the text layer to expand it and you will see different parameters that you can adjust to get the desired text effect. You can also tweak keyframes wherever applicable to adjust the text animation.
@@ -126,18 +158,30 @@ It is a fact that many find After Effects difficult to get used to as the user i
 
 Step1Install Wondershare Filmora and launch the application. Click on New Project option and drop your video clip for the background inside Project Media folder.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![install wondershare filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 Step2Drop the video clip onto timeline if you want to use it as a background to your text. If you want to use any stock background, go to Stock Media> Pexels/Pixabay> Video and drop any background onto the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![drop the video clip onto timeline](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
 
 Step3Go to Titles and you will see different categories of text effects on the left panel. Search for any text effect and select any desired template. Drop it onto the timeline above the background layer.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select any desired template](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
 Step4Double-click on the text layer and edit the text. Place the text layer on the timeline where you want the text to appear. You can also change the text styles and parameters as per your requirements.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edit the text](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
 
 ## Conclusion
@@ -172,3 +216,58 @@ If you decide to use Adobe After Effects to add text effects to your video, we h
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boosting-channel-earnings-the-step-by-step-famebit-guide-to-affiliates/"><u>[New] 2024 Approved  Boosting Channel Earnings  The Step-by-Step FameBit Guide to Affiliates</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-ig-management-made-simple-the-best-tools-reviewed/"><u>[New] 2024 Approved  IG Management Made Simple  The Best Tools Reviewed</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-top-tips-for-winning-fb-videos/"><u>[New] 2024 Approved  Top Tips for Winning FB Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-audio-recording-solutions-for-educators-using-apple-products/"><u>[New] Audio Recording Solutions for Educators Using Apple Products</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-compreranse-google-meets-board-features-for-compelling-remote-collaboration-on-all-platforms/"><u>[New] Compreranse Google Meet's Board Features for Compelling Remote Collaboration on All Platforms</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-content-creation-conundrum-where-to-go-for-2024/"><u>[New] Content Creation Conundrum  Where to Go for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-free-professional-youtuber-backgrounds/"><u>[New] Free Professional YouTuber Backgrounds</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-launch-your-zoom-meeting-in-a-flash-on-your-android-smartphonetablet/"><u>[New] Launch Your Zoom Meeting in a Flash on Your Android Smartphone/Tablet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-first-steps-to-creating-a-successful-online-stream/"><u>[New] The First Steps to Creating a Successful Online Stream</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-launching-hit-online-streams/"><u>[New] The Ultimate Guide to Launching Hit Online Streams</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-mastering-multi-tasking-with-your-favorite-talk-shows/"><u>[New] The Ultimate Guide to Mastering Multi-Tasking With Your Favorite Talk Shows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transforming-viewers-into-active-participants/"><u>[New] Transforming Viewers Into Active Participants</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-list-selecting-excellent-webcams-for-podcasts/"><u>[New] Ultimate List  Selecting Excellent Webcams for Podcasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-understanding-virtual-reality-vernacular/"><u>[New] Understanding Virtual Reality Vernacular</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-earn-on-tiktok-explore-8-effective-money-making-techniques/"><u>[Updated] 2024 Approved  Earn on TikTok  Explore 8 Effective Money-Making Techniques</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-free-to-view-performances-film-cast-permissions-for-2024/"><u>[Updated] Free-to-View Performances  Film Cast Permissions for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-prime-6-bargains-for-your-homes-ultimate-viewing/"><u>[Updated] Prime 6 Bargains for Your Home's Ultimate Viewing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-choices-of-affordable-cameras-with-full-hd/"><u>[Updated] Prime Choices of Affordable Cameras with Full HD</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-taking-photos-and-posting-youtubes-complete-guidebook/"><u>[Updated] Taking Photos and Posting  YouTube's Complete Guidebook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-5-best-tools-to-convert-videos-directly-to-twitter/"><u>[Updated] The 5 Best Tools to Convert Videos Directly to Twitter</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-complete-guide-to-selecting-best-free-srt-translators-online/"><u>[Updated] The Complete Guide to Selecting Best FREE SRT Translators Online</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-minimalists-guide-to-aerial-imagery-with-dji-spark/"><u>[Updated] The Minimalist's Guide to Aerial Imagery with DJI Spark</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/10-best-instagram-meme-accounts-to-make-you-laugh-with-tears/"><u>10 Best Instagram Meme Accounts to Make You Laugh (with Tears)</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-crafting-a-hit-list-youtubes-way-for-fans/"><u>2024 Approved  Crafting a Hit-List  Youtube's Way for Fans</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-discover-ultra-hd-mastering-the-art-of-buying-a-4k-monitor/"><u>2024 Approved  Discover Ultra HD  Mastering the Art of Buying a 4K Monitor</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-expert-strategies-obs-streams-to-facebook-success/"><u>2024 Approved  Expert Strategies  OBS Streams to Facebook Success</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-your-workflow-harnessing-the-power-of-luts-in-adobe-suite/"><u>2024 Approved  Transform Your Workflow  Harnessing the Power of LUTs in Adobe Suite</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-underwater-cinematography-avoiding-blur-and-grain-with-a-gopro/"><u>2024 Approved  Underwater Cinematography  Avoiding Blur and Grain with a GoPro</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/capturepros-a-studio-showdown-for-2024/"><u>CapturePros  A Studio Showdown for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-poco-x6-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Poco X6 Pro Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-masterclass-setting-up-countdowns-in-obs-studio/"><u>In 2024, Masterclass  Setting Up Countdowns in OBS Studio</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-selections-of-maximum-digital-safekeeping/"><u>In 2024, Prime Selections of Maximum Digital Safekeeping</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-6-economical-action-cams-available-for-99-or-below/"><u>In 2024, Top 6 Economical Action Cams Available for $99 or Below</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transferring-media-pc-files-to-your-ios-device/"><u>In 2024, Transferring Media  PC Files To Your iOS Device</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-directory-easy-classics-ringtone-websites/"><u>In 2024, Ultimate Directory  Easy Classics Ringtone Websites</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-uncovering-top-tiktok-backdrops-quickly/"><u>In 2024, Uncovering Top TikTok Backdrops Quickly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unmatched-performance-and-price-select-top-asmr-microphone-picks/"><u>In 2024, Unmatched Performance & Price - Select Top ASMR Microphone Picks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-upside-down-visuals-instagrams-guide-to-flipping-and-sharing-videos/"><u>In 2024, Upside Down Visuals  Instagram's Guide to Flipping & Sharing Videos</u></a></li>
+<li><a href="https://facebook.techidaily.com/incidence-rate-of-cyber-attacks-on-networks/"><u>Incidence Rate of Cyber Attacks on Networks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/intro-to-graphic-motion-artistry-and-usage-for-2024/"><u>Intro to Graphic Motion Artistry and Usage for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/master-the-art-of-cutting-the-ultimate-list-of-youtube-short-editors/"><u>Master the Art of Cutting  The Ultimate List of YouTube Short Editors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/most-innovative-arvr-iphoneandroid-apps/"><u>Most Innovative AR/VR iPhone/Android Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/no-more-keyboard-confusion-30-ways-to-fix/"><u>No More Keyboard Confusion: 30 Ways to Fix</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamlined-savings-for-cloud-storage-costs-analysis-for-2024/"><u>Streamlined Savings for Cloud Storage Costs Analysis for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/techniques-for-transforming-twitter-vids-to-mp3-audios-for-2024/"><u>Techniques for Transforming Twitter Vids to MP3 Audios for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-verdict-on-toolwiz-top-notch-mobile-photo-editor-in-2024/"><u>The Verdict on Toolwiz  Top-Notch Mobile Photo Editor, In 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/through-the-looking-glass-decoding-the-secrets-to-a-superior-windows-11-experience-for-2024/"><u>Through the Looking Glass  Decoding the Secrets to a Superior Windows 11 Experience for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-8-metaverse-headsets-and-glasses-to-dive-into-metaverse-for-2024/"><u>Top 8 Metaverse Headsets and Glasses to Dive Into Metaverse for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultrafine-in-action-an-extended-review-of-lgs-4k-display-for-2024/"><u>UltraFine in Action  An Extended Review of LG’s 4K Display for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/uniting-melodies-and-images-with-youtube-music-for-video-projects-for-2024/"><u>Uniting Melodies & Images with YouTube Music for Video Projects for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-your-fcp-potential-with-these-10-plugs-for-2024/"><u>Unlock Your FCP Potential with These 10 Plugs for 2024</u></a></li>
+</ul></div>

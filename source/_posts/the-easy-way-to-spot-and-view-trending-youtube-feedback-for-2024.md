@@ -1,7 +1,7 @@
 ---
 title: "The Easy Way to Spot and View Trending YouTube Feedback for 2024"
-date: 2024-06-04T13:46:43.897Z
-updated: 2024-06-05T13:46:43.897Z
+date: 2024-07-23T08:00:37.594Z
+updated: 2024-07-24T08:00:37.594Z
 tags: 
   - screen-recording
   - ai video
@@ -63,8 +63,15 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## How to See Liked Comments on YouTube?
 
 YouTube is a service that is available for free, and it may be a terrific place for teenagers to find interest. Many young people use YouTube to watch comedy shows, how-to videos, recipes, hacks, and music videos. Teenagers also use the video-sharing platform to subscribe to other YouTubers and famous personalities and to follow their favorite vloggers (video bloggers).
@@ -81,14 +88,24 @@ But, if you want to retrace the videos you commented on and the videos/comments 
 
 Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![find your data in youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-your-data-in-youtube.jpg)
 
 Step2 Scroll down a little bit and click the **More** button.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
 
 Step3 Click the **Comments** section.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
@@ -115,6 +132,9 @@ This article tells you that you can't see who liked or disliked a comment, but y
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -147,6 +167,9 @@ Because understanding how to comment is only one aspect of the issue; very impor
 
 Try making a joke, pointing out something amusing, providing helpful information, or expressing sympathy or concern for a fan. Additionally, a simple thumbs-up or heart can go a long way to demonstrate that you are paying attention even if you aren't feeling very friendly (we all have bad days, it's OK!).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## Did you know what a Highlighted comment is?
 
 A highlighted comment on YouTube aims to draw the content creator's attention with an automated feature.
@@ -185,3 +208,43 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-perfect-recording-tool-for-exceptional-youtube-videos/"><u>[New] 2024 Approved  Perfect Recording Tool  For Exceptional YouTube Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-camera-essentials-for-adventure-videographers/"><u>[New] Camera Essentials for Adventure Videographers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ack-the-youtube-timeline-increase-or-decrease-sound-for-2024/"><u>[New] Hack the YouTube Timeline  Increase or Decrease Sound for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-jestjungle-your-gateway-to-universal-comedy/"><u>[New] JestJungle  Your Gateway to Universal Comedy</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-techniques-to-identify-proficient-filmmakers/"><u>[New] Techniques to Identify Proficient Filmmakers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-musical-enhancements-for-powerpoint/"><u>[New] The Ultimate Guide to Musical Enhancements for PowerPoint</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-time-saving-strategies-for-srt-to-text-file-changes/"><u>[New] Time-Saving Strategies for SRT to Text File Changes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-ordinary-moments-into-extraordinary-art-creating-slow-motion-video-from-still-images-online/"><u>[New] Transform Ordinary Moments Into Extraordinary Art  Creating Slow Motion Video From Still Images Online</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-minute-methods-for-retrieving-erased-reddit-threads/"><u>[Updated] Minute Methods for Retrieving Erased Reddit Threads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-guide-to-premium-2024-camera-tech/"><u>[Updated] Ultimate Guide to Premium 2024 Camera Tech</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-your-creative-potential-with-inshot-for-pcs-and-laptops/"><u>[Updated] Unlock Your Creative Potential with Inshot for PCs & Laptops</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-clearview-screenshot-perfect-windowsmac-imaging/"><u>2024 Approved  ClearView Screenshot  Perfect Windows/Mac Imaging</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-making-money-with-media-mastery-of-merchandise-musings/"><u>2024 Approved  Making Money with Media Mastery of Merchandise Musings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-navigating-photoplusvideo-integration-with-iphone/"><u>2024 Approved  Navigating Photo+Video Integration with iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-synthesizing-mood-an-ode-to-trailer-tunes/"><u>2024 Approved  Synthesizing Mood  An Ode to Trailer Tunes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-hdr-enhancement-your-lightroom-journey/"><u>2024 Approved  The Art of HDR Enhancement  Your Lightroom Journey</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-path-to-stunning-hdr-portraits/"><u>2024 Approved  The Ultimate Path to Stunning HDR Portraits</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-viewing-experience-adding-subtitles-on-windows-media-player/"><u>2024 Approved  Transform Viewing Experience  Adding Subtitles on Windows Media Player</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-unlock-the-power-of-vocal-performance-in-digital-media-production/"><u>2024 Approved  Unlock the Power of Vocal Performance in Digital Media Production</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advanced-rendering-gpus-for-4k-experience/"><u>Advanced Rendering GPUs for 4K Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bizarre-vertical-reversal-in-insta-videos-a-glitch-in-2024/"><u>Bizarre Vertical Reversal in Insta Videos – A Glitch, In 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/corrective-guide-to-browser-paste-issues-on-windows/"><u>Corrective Guide to Browser Paste Issues on Windows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-y27s-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Y27s</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-motorola-edge-2023-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Edge 2023 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-a14-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy A14 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-maximize-mp4-audio-quality-with-srt-integration-your-comprehensive-guide/"><u>In 2024, Maximize MP4 Audio Quality with SRT Integration - Your Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-enhanced-experience-of-movavi-video-pro/"><u>In 2024, The Enhanced Experience of Movavi Video Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-reverse-trick-in-android-filmmaking/"><u>In 2024, The Reverse Trick in Android Filmmaking</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-for-a-solo-show-that-stands-out/"><u>In 2024, The Ultimate Guide for a Solo Show that Stands Out</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tuning-into-iphones-sound-scenarios/"><u>In 2024, Tuning Into iPhone's Sound Scenarios</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-10-plugins-to-enhance-fcp/"><u>In 2024, Ultimate 10 Plugins to Enhance FCP</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-screenplay-crafting-site/"><u>In 2024, Ultimate Screenplay Crafting Site</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-the-world-of-premium-banners-for-media/"><u>In 2024, Unlocking the World of Premium Banners for Media</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-professional-hdr-magic-in-adobes-photoshop/"><u>In 2024, Unveiling Professional HDR Magic in Adobe's Photoshop</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-in-2024-what-is-ai-generated-text/"><u>New In 2024, What Is AI Generated Text?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-intro-magic-10-best-websites-to-create-engaging-video-openers/"><u>Updated In 2024, Intro Magic 10 Best Websites to Create Engaging Video Openers</u></a></li>
+</ul></div>

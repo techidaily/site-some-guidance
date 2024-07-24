@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top Value Dome Cameras Offering Unique Cinematic Angles"
-date: 2024-06-04T19:15:30.652Z
-updated: 2024-06-05T19:15:30.652Z
+date: 2024-07-23T11:24:07.640Z
+updated: 2024-07-24T11:24:07.640Z
 tags: 
   - screen-recording
   - ai video
@@ -28,10 +28,17 @@ thumbnail: https://www.lifewire.com/thmb/rQ3q4SoJdzdvXlfXUbIk9JHjOFk=/400x300/fi
 
 If you want to try making your own 360-degree videos and pictures, you probably aren't looking for a top of the line camera. You're certainly not looking to drop thousands of dollars on one. Fortunately, there are some affordable options available to you.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 1\. [Ricoh Theta S](https://theta360.com/en/about/theta/s.html)
 
 First, an offering from Ricoh, the Ricoh Theta S. This pocket-sized camera costs around $350 and is super simple to use. It has exactly one button for taking photos or videos. The camera can connect via USB or HDMI, but is also Wi-Fi capable, allowing you to transfer footage to your iPhone. This camera shoots at 14 megapixels, and 30 fps. There are several apps associated with it: one allowing you to edit your videos, as well as one that acts as a live-view feed and remote control to make shooting even easier.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![affordable 360 camera - Ricoh Theta S](https://images.wondershare.com/filmora/article-images/affordable-360-camera-ricoh-theta-s.jpg)
 
 **Related article:** [Full review for Ricoh Theta S >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -42,6 +49,9 @@ The 360fly 4k is a slightly more expensive option, retailing around $500\. Unlik
 
 Check this video to watch the 360fly 4k unboxing review:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## 3\. [Giroptic](https://www.giroptic.com/intl/en/)
 
 Giroptic also makes a 360-degree camera, simply named the Giroptic 360cam, that retails for about $500\. This camera uses 3 fisheye lenses and combines images into a 360-degree whole in real-time. It has three built-in microphones to capture sound and a gyroscope and accelerometer to stabilize images for videos, photo bursts, and other types of footage. It offers slightly less resolution for video, about 2K at 30fps, but 4K for still images. The 360cam app, for iOS, lets you remotely control the camera over Wi-Fi, but also lets you view, edit and share photos and videos.
@@ -50,24 +60,36 @@ Giroptic also makes a 360-degree camera, simply named the Giroptic 360cam, that 
 
 Have a quick review on Giroptic from this video:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. [Kodak PixPro SP360 4K](https://kodakpixpro.com/Americas/cameras/vrcamera/sp3604k/)
 
 Kodak, one of the older names in photography, offers the Kodak PixPro SP360 4K Action Cam. It relies on a dome-shaped, fixed focus 235-degree lens to capture 360-degree video. Starting at $449 from Kodak, this camera isn't excessively expensive, though it's also not the cheapest offering. It shoots 2880x2880 video at 30 fps. It can also shoot stills at resolutions up to 8MP. While not the best image quality among the camera offerings, Kodak's camera is tough – resistant to water, dust, and shocks – making it a good choice if you find yourself on adventures where being careful with your precious camera isn't always your first priority.
 
 A wonderful day with PixPro SP360 4K:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. [LG360 cam](http://www.lg.com/us/mobile-accessories/lg-LGR105.AVRZTS-360-cam)
 
 The LG360 cam retails for around $200, making it one of the cheapest phones on the market, and was designed to work with the company's G5 smartphone, though it also works with an iPhone. It captures 2K, 360-degree video, and 5.1 channel surround sound, as well as allowing you to use only one of its two lenses for 180-degree image capture. It's a small camera with no built-in display, but the companion app acts as a remote control and lets you view your recording in real-time.
 
 Check a detailed review about LG360 Cam from this video
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. [ALLie Camera](https://allie.camera/)
 
 The ALLie Camera retails for $499 and uses two fisheye lenses to take its 4096x2048 video. One interesting feature is the 10 built-in infrared LEDs that allow you to film in dark environments with a full 360-degree view. Its integrated microphone and speaker allows two-way audio so that users can communicate. Its app lets you view the footage from anywhere and, if your mobile device has gyroscopic motion sensors, change your perspective while viewing footage by tilting and moving the screen. In addition to the app, recording and playback is available through the subscription-based ALLieCam Cloud.
 
 Check a detailed review about Allie Camera from this video
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. [Panono](https://www.panono.com/)
 
 Panono, a spherical camera retailing for around $549 is unique in using 36 lenses to take 108 MP photos and videos, avoiding the use of wide-angle lenses. It can be thrown safely, as well as supporting a universal mounting system. Final stitching together of the many images into a coherent photo or video requires sending the files to a cloud device, but the image quality more than makes up for it.
@@ -88,12 +110,18 @@ One of the most expensive cameras in this line-up at around $800, Bublcam uses 4
 
 Bublcam's unboxing review:
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10\. [Nikon Key Mission 360](https://www.nikonusa.com/en/nikon-products/action-cameras/index.page)
 
 Finally, Nikon's upcoming Key Mission 360 camera is built for action. It's a pocket-sized device with dual lenses, and it's meant to be rugged. Nikon advertises that it will be waterproof to 100 feet, and stand up to dust, shock, and cold. The app uses a simple swipe interface to let you get a panoramic view of everything you recorded. The expected retail price is $499.
 
 See more details about Nikon Key Mission 360 camera from this video:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 These 10 options are only some of the 360-degree cameras that are upcoming or already on the consumer market. Most of them cost a bit more than a new phone and shoot a pretty nice video. While the video and images can be enjoyed on your computer screen, VR headsets come highly recommended for getting the full effect. So get out there and try this new way of capturing experiences to share with your friends and family. The world awaits.
@@ -116,6 +144,9 @@ If you want to try making your own 360-degree videos and pictures, you probably 
 
 First, an offering from Ricoh, the Ricoh Theta S. This pocket-sized camera costs around $350 and is super simple to use. It has exactly one button for taking photos or videos. The camera can connect via USB or HDMI, but is also Wi-Fi capable, allowing you to transfer footage to your iPhone. This camera shoots at 14 megapixels, and 30 fps. There are several apps associated with it: one allowing you to edit your videos, as well as one that acts as a live-view feed and remote control to make shooting even easier.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![affordable 360 camera - Ricoh Theta S](https://images.wondershare.com/filmora/article-images/affordable-360-camera-ricoh-theta-s.jpg)
 
 **Related article:** [Full review for Ricoh Theta S >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -164,6 +195,9 @@ Centr, a 360-degree cam funded on Kickstarter, retails for $399 and uses 4 110-d
 
 Check a detailed review about Centr 360 camera:
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9\. [Bublcam](https://www.bublcam.com/)
 
 One of the most expensive cameras in this line-up at around $800, Bublcam uses 4 110-degree lenses to take spherical photos and videos. Taking 14 MP images and 1080p video, it's a hit with photographers for image quality. In addition to this, it has stabilization features activated when the camera is in motion, to keep shaky camera work from ruining your video.
@@ -172,6 +206,9 @@ One of the most expensive cameras in this line-up at around $800, Bublcam uses 4
 
 Bublcam's unboxing review:
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 10\. [Nikon Key Mission 360](https://www.nikonusa.com/en/nikon-products/action-cameras/index.page)
 
 Finally, Nikon's upcoming Key Mission 360 camera is built for action. It's a pocket-sized device with dual lenses, and it's meant to be rugged. Nikon advertises that it will be waterproof to 100 feet, and stand up to dust, shock, and cold. The app uses a simple swipe interface to let you get a panoramic view of everything you recorded. The expected retail price is $499.
@@ -182,6 +219,9 @@ See more details about Nikon Key Mission 360 camera from this video:
 
 These 10 options are only some of the 360-degree cameras that are upcoming or already on the consumer market. Most of them cost a bit more than a new phone and shoot a pretty nice video. While the video and images can be enjoyed on your computer screen, VR headsets come highly recommended for getting the full effect. So get out there and try this new way of capturing experiences to share with your friends and family. The world awaits.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -214,3 +254,41 @@ Follow @Benjamin Arango
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-audience-connection-through-instagram-stories-questions-for-2024/"><u>[New] Audience Connection Through Instagram Stories Questions for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-decoding-the-language-of-likes-master-7-most-trending-tiktok-glyphs/"><u>[New] Decoding the Language of Likes - Master #7 Most Trending TikTok Glyphs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-top-5-techniques-for-capturing-games-and-live-feeds/"><u>[New] In 2024, Top 5 Techniques for Capturing Games & Live Feeds</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimizing-viewing-experience-video-filters-for-all-screens/"><u>[New] Optimizing Viewing Experience  Video Filters for All Screens</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-diy-tips-to-cut-unwanted-sounds-from-your-videos/"><u>[Updated] 2024 Approved  DIY Tips to Cut Unwanted Sounds From Your Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-comprehensive-list-top-screenshot-videography-tools-for-2024/"><u>[Updated] Comprehensive List  Top Screenshot Videography Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-compelling-youtube-profile-definitions-for-2024/"><u>[Updated] Crafting Compelling YouTube Profile Definitions for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-snapshot-into-the-heart-of-video-edits-filmoras-top-10/"><u>[Updated] Snapshot Into the Heart of Video Edits - Filmora’s Top 10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-meme-design-collection/"><u>[Updated] The Ultimate Meme Design Collection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-toolwiz-revolutionizes-camera-use-a-comprehensive-review-for-photographers/"><u>[Updated] Toolwiz Revolutionizes Camera Use - A Comprehensive Review for Photographers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-premier-live-streaming-platforms-a-comparative-guide/"><u>[Updated] Top 10 Premier Live Streaming Platforms  A Comparative Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-guide-to-professional-grade-mobile-screencasting-with-mobizen-for-2024/"><u>[Updated] Ultimate Guide to Professional-Grade Mobile Screencasting with Mobizen for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-uncover-the-ultimate-directory-of-no-cost-vector-art-sites/"><u>[Updated] Uncover the Ultimate Directory of No-Cost Vector Art Sites</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-uncovering-average-earnings-in-podcasting/"><u>[Updated] Uncovering Average Earnings in Podcasting</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-wonders-mastering-firefox-x-pie-mode/"><u>[Updated] Unveiling the Wonders  Mastering Firefox X-Pie Mode</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-harmony-hub-capture-store-and-review-sounds/"><u>2024 Approved  Harmony Hub  Capture, Store & Review Sounds</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-superior-selections-high-capacity-cloud-options/"><u>2024 Approved  Superior Selections  High-Capacity Cloud Options</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tales-of-timeless-togetherness-this-seasons-top-10/"><u>2024 Approved  Tales of Timeless Togetherness  This Season's Top 10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-complete-pacera-free-audio-liberation-handbook/"><u>2024 Approved  The Complete Pacera Free Audio Liberation Handbook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-perfect-blend-of-creativity-and-data-for-title-genius/"><u>2024 Approved  The Perfect Blend of Creativity & Data for Title Genius</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/captivating-cool-names-a-guide-to-popularity-on-discord/"><u>Captivating Cool Names  A Guide to Popularity on Discord</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ious-dynamos-youtubers-for-your-food-journey-for-2024/"><u>Delicious Dynamos  YouTubers for Your Food Journey for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-iphone-6s-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked iPhone 6s</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-mastering-instagrams-green-screen-magic/"><u>In 2024, Mastering Instagram's Green Screen Magic</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-the-art-of-effective-interview-techniques/"><u>In 2024, Mastering The Art Of Effective Interview Techniques</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/pull-mp3-tracks-from-your-fb-video-watchlist/"><u>Pull MP3 Tracks From Your FB Video Watchlist</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/superior-introductory-editors-for-mobile-apps-for-2024/"><u>Superior Introductory Editors for Mobile Apps for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/superior-sonic-aligner-android-version-for-2024/"><u>Superior Sonic Aligner, Android Version for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tech-talk-the-best-ways-to-move-files-between-idevices-for-2024/"><u>Tech Talk  The Best Ways to Move Files Between iDevices for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-best-8-screenshot-and-video-editing-tools-for-phones-for-2024/"><u>The Best 8 Screenshot & Video Editing Tools for Phones for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-essentials-for-effective-free-timer-utilization-for-2024/"><u>The Essentials for Effective Free Timer Utilization for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-7-affordable-4k-mirrorless-cameras-(1000-for-2024/"><u>Top 7 Affordable 4K Mirrorless Cameras <$1,000 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-brain-challenge-top-trivia-networks-for-24-for-2024/"><u>Ultimate Brain Challenge - Top Trivia Networks for '24 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultra-creations-synopsis-studio-25-detailed-analysis-2023-for-2024/"><u>Ultra Creations Synopsis  Studio 25 Detailed Analysis, 2023 for 2024</u></a></li>
+</ul></div>

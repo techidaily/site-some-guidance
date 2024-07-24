@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Adding Audio to Microsoft Presentations for 2024"
-date: 2024-06-04T15:09:21.913Z
-updated: 2024-06-05T15:09:21.913Z
+date: 2024-07-23T08:52:14.780Z
+updated: 2024-07-24T08:52:14.780Z
 tags: 
   - screen-recording
   - ai video
@@ -34,6 +34,9 @@ Without any further ado, let’s read a quick step-by-step tutorial to add music
 
 04 [Add more songs to a PowerPoint presentation](#Part 4)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1 How to add music to PowerPoint?
 
 Before you add music to PowerPoint, note specific points.
@@ -44,8 +47,14 @@ For instance, the size of your presentation will magnify by 17MB if you add a so
 
 So, the solution is that you need to compress your file size accordingly.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![add music to ppt 1](https://images.wondershare.com/filmora/article-images/2022/02/add-music-to-ppt-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps on how to insert music in PowerPoint presentation
 
 ##### Step1 Navigate to your Title slide (or wherever you want your music to start)
@@ -72,6 +81,9 @@ Your song will play within the Click Sequence of your presentation by default.
 
 After inserting music into your presentation, you can then convert your entire presentation into a video and share it with your colleagues.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## Part 2 Can I play music automatically on PowerPoint
 
 Yes, you can start the audio in the click sequence or immediately.
@@ -82,6 +94,9 @@ Yes, you can start the audio in the click sequence or immediately.
 
 ##### Step2 Choose Automatically or In Click Sequence in the Start list within the Audio Options of Audio Tools Playback tab
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![play automatic ppt](https://images.wondershare.com/filmora/article-images/2022/02/play-automatic-ppt.jpg)
 
 ##### Step3 Remember that the In Click Sequence function is only available in PowerPoint 2016 and the latest versions
@@ -96,6 +111,9 @@ You can add music to your PowerPoint and play it across slides in the slide show
 
 If you wish to add audio or music from the web, you have to download it to your computer before using it in a presentation.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to play a song across slides
 
 ##### Step1 Select Audio on the Insert tab and choose Audio on My PC
@@ -104,6 +122,9 @@ If you wish to add audio or music from the web, you have to download it to your 
 
 ##### Step3 Select Play in Background within the audio icon chosen over the slide
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ppt playback](https://images.wondershare.com/filmora/article-images/2022/02/ppt-playback.jpg)
 
 Play in Background helps automatically start the audio file during a slide show and makes the audio play throughout the multiple slides.
@@ -124,6 +145,9 @@ You can import music media to the Media Library and then directly drag and drop 
 
 ##### Step3 Add Transitions
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![add transitions filmora](https://images.wondershare.com/filmora/article-images/filmora9-slideshow-transitions.jpg)
 
 There are multiples of transitions available in Filmora to choose among. You can apply a particular transition between each selected photo or apply random transitions as per your interests.
@@ -156,6 +180,10 @@ Why choose Filmora to add music to the PowerPoint presentation?
 
 ● Here, you can record your voiceover and apply fade-in and fade-out effects.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 So, we're now concluding on how to add music to PowerPoint along with describing the most straightforward yet proficient way of making things simpler. We've discussed a quick yet straightforward to absorb step-by-step guide on how to put music in PowerPoint. If you wish to add a fully edited video directly into the PowerPoint presentation, try using Wondershare Filmora and enjoy your greatest wonders!
@@ -176,6 +204,9 @@ For instance, the size of your presentation will magnify by 17MB if you add a so
 
 So, the solution is that you need to compress your file size accordingly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![add music to ppt 1](https://images.wondershare.com/filmora/article-images/2022/02/add-music-to-ppt-1.jpg)
 
 ### Steps on how to insert music in PowerPoint presentation
@@ -214,6 +245,9 @@ Yes, you can start the audio in the click sequence or immediately.
 
 ##### Step2 Choose Automatically or In Click Sequence in the Start list within the Audio Options of Audio Tools Playback tab
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![play automatic ppt](https://images.wondershare.com/filmora/article-images/2022/02/play-automatic-ppt.jpg)
 
 ##### Step3 Remember that the In Click Sequence function is only available in PowerPoint 2016 and the latest versions
@@ -228,6 +262,9 @@ You can add music to your PowerPoint and play it across slides in the slide show
 
 If you wish to add audio or music from the web, you have to download it to your computer before using it in a presentation.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to play a song across slides
 
 ##### Step1 Select Audio on the Insert tab and choose Audio on My PC
@@ -316,3 +353,60 @@ So, we're now concluding on how to add music to PowerPoint along with describing
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-discover-the-safest-video-call-options-for-your-smartphone-or-tablet/"><u>[New] Discover the Safest Video Call Options for Your Smartphone or Tablet</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-scrutinizing-magix-video-composer/"><u>[New] Scrutinizing MAGIX Video Composer</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-tips-for-snagging-quality-streams-on-facebook-for-2024/"><u>[New] Tips for Snagging Quality Streams on Facebook for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-understanding-virtual-reality-vernacular/"><u>[New] Understanding Virtual Reality Vernacular</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-screen-recording-simplified-unlocking-five-key-techniques-for-minecraft-on-a-mac/"><u>[Updated] 2024 Approved  Screen Recording Simplified  Unlocking Five Key Techniques for Minecraft on a Mac</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-advanced-techniques-for-the-steam-switch-pro-controller/"><u>[Updated] In 2024, Advanced Techniques for the Steam Switch Pro Controller</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-operational-update-troubled-obs-camera/"><u>[Updated] Operational Update  Troubled OBS Camera</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-prime-6-bargains-for-your-homes-ultimate-viewing/"><u>[Updated] Prime 6 Bargains for Your Home's Ultimate Viewing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-taking-photos-and-posting-youtubes-complete-guidebook/"><u>[Updated] Taking Photos and Posting  YouTube's Complete Guidebook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-5-best-tools-to-convert-videos-directly-to-twitter/"><u>[Updated] The 5 Best Tools to Convert Videos Directly to Twitter</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-complete-guide-to-selecting-best-free-srt-translators-online/"><u>[Updated] The Complete Guide to Selecting Best FREE SRT Translators Online</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-minimalists-guide-to-aerial-imagery-with-dji-spark/"><u>[Updated] The Minimalist's Guide to Aerial Imagery with DJI Spark</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transform-your-youtube-views-with-smart-zoom-practices/"><u>[Updated] Transform Your YouTube Views with Smart Zoom Practices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transformative-beauty-practices/"><u>[Updated] Transformative Beauty Practices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-frames-per-second-for-languid-visuals/"><u>[Updated] Ultimate Frames Per Second for Languid Visuals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-online-livestream-technology/"><u>[Updated] Ultimate Online Livestream Technology</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-united-creatives-brands-meet-youtube/"><u>[Updated] United Creatives  Brands Meet YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleash-your-stream-potential-on-youtube-with-just-a-handful-of-followers/"><u>[Updated] Unleash Your Stream Potential on YouTube with Just a Handful of Followers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-secrets-the-best-dronescopic-stabilizers-reviewed/"><u>[Updated] Unveiling Secrets  The Best Dronescopic Stabilizers Reviewed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-path-to-captivating-photographic-alliances/"><u>[Updated] Unveiling the Path to Captivating Photographic Alliances</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-easy-techniques-to-download-gif-images-from-social-media/"><u>2024 Approved  Easy Techniques to Download GIF Images From Social Media</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-skyrocket-to-partner-status-crush-that-critical-10000-view-benchmark/"><u>2024 Approved  Skyrocket to Partner Status  Crush that Critical 10,000-View Benchmark</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-vivo-y78plus-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Vivo Y78+ Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/effortlessly-quieten-video-audios-on-windows-10-without-downloading-tools-for-2024/"><u>Effortlessly Quieten Video Audios on Windows 10 without Downloading Tools for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/essential-guide-recording-video-calls-on-pctablet/"><u>Essential Guide  Recording Video Calls on PC/Tablet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-advanced-audio-softening-techniques-for-the-proficient-user-on-lumafusion/"><u>In 2024, Advanced Audio Softening Techniques for the Proficient User on Lumafusion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-mastering-minute-by-minute-srt-conversion-to-text-txt/"><u>In 2024, Mastering Minute-by-Minute SRT Conversion to Text (TXT)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamlining-your-approach-to-downloading-large-amounts-on-tiktok/"><u>In 2024, Streamlining Your Approach to Downloading Large Amounts on TikTok</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-most-reliable-zero-price-online-photo-editors-guide/"><u>In 2024, The Most Reliable Zero-Price Online Photo Editors Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-role-of-visual-aids-in-pedagogy/"><u>In 2024, The Role of Visual Aids in Pedagogy</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-skys-limit-broken-by-djis-pro-drone-review/"><u>In 2024, The Sky's Limit Broken by DJI’s Pro Drone Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-crypto-conversion-best-generator-list/"><u>In 2024, The Ultimate Guide to Crypto Conversion – Best Generator List</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-list-of-androids-best-music-video-apps/"><u>In 2024, The Ultimate List of Android's Best Music Video Apps</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-unveiling-the-hottest-disco-screen-names-for-fame/"><u>In 2024, Unveiling the Hottest Disco Screen Names for Fame</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/inside-the-world-of-toolwiz-an-in-depth-software-review/"><u>Inside the World of Toolwiz  An In-Depth Software Review</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-best-10-vocal-remover-software-app-and-online-tools/"><u>New 2024 Approved Best 10 Vocal Remover Software, App and Online Tools</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-how-to-create-animated-video-on-canva/"><u>New How to Create Animated Video on Canva?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-leading-software-solutions-for-separating-sound-from-video-for-2024/"><u>New The Leading Software Solutions for Separating Sound From Video for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamlined-savings-for-cloud-storage-costs-analysis-for-2024/"><u>Streamlined Savings for Cloud Storage Costs Analysis for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/techniques-for-transforming-twitter-vids-to-mp3-audios-for-2024/"><u>Techniques for Transforming Twitter Vids to MP3 Audios for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-essential-tactics-for-channel-spotlighting-on-youtube-for-2024/"><u>The Essential Tactics for Channel Spotlighting on Youtube for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-verdict-on-toolwiz-top-notch-mobile-photo-editor-in-2024/"><u>The Verdict on Toolwiz  Top-Notch Mobile Photo Editor, In 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/through-the-looking-glass-decoding-the-secrets-to-a-superior-windows-11-experience-for-2024/"><u>Through the Looking Glass  Decoding the Secrets to a Superior Windows 11 Experience for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-30-trendy-discord-tags-for-instant-fame-for-2024/"><u>Top 30 Trendy Discord Tags for Instant Fame for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-8-metaverse-headsets-and-glasses-to-dive-into-metaverse-for-2024/"><u>Top 8 Metaverse Headsets and Glasses to Dive Into Metaverse for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/top-list-the-best-slow-motion-video-editors-available-for-2024/"><u>Top List The Best Slow Motion Video Editors Available for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultrafine-in-action-an-extended-review-of-lgs-4k-display-for-2024/"><u>UltraFine in Action  An Extended Review of LG’s 4K Display for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/uncover-the-best-8-open-source-video-conferencing-tools-of-now/"><u>Uncover the Best 8 Open-Source Video Conferencing Tools of Now</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/uniting-melodies-and-images-with-youtube-music-for-video-projects-for-2024/"><u>Uniting Melodies & Images with YouTube Music for Video Projects for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-your-fcp-potential-with-these-10-plugs-for-2024/"><u>Unlock Your FCP Potential with These 10 Plugs for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-identifying-replica-soundscapes-for-rusty-fins-whistle/"><u>Updated In 2024, Identifying Replica Soundscapes for Rusty Fins Whistle</u></a></li>
+</ul></div>

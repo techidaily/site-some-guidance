@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Collection of Film Scripts by Genre for 2024"
-date: 2024-06-04T19:10:11.809Z
-updated: 2024-06-05T19:10:11.809Z
+date: 2024-07-23T11:20:50.249Z
+updated: 2024-07-24T11:20:50.249Z
 tags: 
   - screen-recording
   - ai video
@@ -31,16 +31,25 @@ _Be it a blockbuster movie, an indie gem, a play on The Fringe, or the West End 
 
 * [Make your own short movie now](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. Why did we pick these films?
 
 When you look at the top-grossing movies at the box office, it's no surprise that they primarily consist of superhero movies made by big studios with big budgets. Black Widow is the[top-grossing film of 2022](https://www.boxofficemojo.com/chart/top%5Flifetime%5Fgross/?area=XWW) so far, with Shang-Chi and The Legend of the Ten Rings a close second. In third place is F9: The Fast Saga, the ninth installment in the overwhelmingly popular Fast and Furious franchise.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![reason of picking films](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-1.jpg)
 
 Sure, we'd all love to write one of those big blockbusters, but it's going to take a lot of blood, sweat, and writing to earn Marvel's trust. That's why I want to draw attention to the movie that is in fourth place: A Quiet Place Part II. The sequel to 2018's A Quiet Place has grossed over $160 million this year and still has three months to go. Why is this significant? I will explain.
 
 As aspiring screenwriters, it is important for us to focus on markets where we can break through. Some genres don't necessarily require a huge budget or an A-list star to be successful, and that's good news. Making a movie is the beginning of the journey to getting hired to write a superhero movie.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2\. Scripts examples from 8 genre
 
 ### Best horror scripts
@@ -73,6 +82,9 @@ Part of its enduring appeal is the simplicity of its concept: A kid who murdered
 
 **_1\. 21 Jump Street_**
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![21 jump street](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-4.jpg)
 
 **Writer:** [Michael Bacall](https://en.wikipedia.org/wiki/Michael%5FBacall), [Stephen J. Cannell](https://en.wikipedia.org/wiki/Stephen%5FJ.%5FCannell)
@@ -95,6 +107,9 @@ That's exactly what new screenwriter [**Kelly Fremon Craig**](https://en.wikiped
 
 **Download the script here:** <https://www.scriptslug.com/script/the-edge-of-seventeen-2016>
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ### Best Christmas play scripts
 
 _**1\. A Christmas Carol – Large Cast**_Every man has the power to do good.
@@ -117,6 +132,9 @@ Angel, a child fairy, learns a valuable lesson about caring for the sick when sh
 
 **Download the script here:** <https://cf.ltkcdn.net/christmas/files/2502-angels-poinsettia.pdf>
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best promotional video scripts
 
 ![best promotional video scripts](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-8.jpg)
@@ -183,16 +201,26 @@ Set: _A Park. Daytime in the present. It is a bucolic atmosphere in the middle o
 
 Level of difficulty: _6/10 – conversational, easy lines to remember and that also flow easily_
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![a walk in the park](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-10.jpg)
 
 When Jack meets Esther in the park one day, he swears she looks familiar. Although Esther initially denies that she even knows him, she invites him to sit down and they start talking. Jack tells her a story about a girl he knew a long time ago, a girl he called "Essie", who helped him get over another girl who broke his heart a long time ago. A short five-minute game for seniors - one man and one woman.
 
 **Download the script here:** <http://offthewallplays.com/wp-content/uploads/2018/12/WALK-IN-PARK-half-script-1.pdf>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ### Best action scripts
 
 **_1\. 2 Guns_**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![2 guns](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-11.jpg)
 
 **Writers:** Blake Masters (screenplay by) Steven Grant
@@ -203,6 +231,9 @@ This screenplay explores the relationship between two criminals – Denzel Washi
 
 _**2\. Casino Royale**_
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![casino royale](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-12.jpg)
 
 **Writers:** Robert Wade and Paul Haggis
@@ -215,6 +246,9 @@ Secret Agent James Bond sets out on a mission as 007 in a screenplay that can sh
 
 **_1\. PRIMER_**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![primer](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-13.jpg)
 
 **Writer:** Shane Carruth
@@ -229,6 +263,15 @@ Download the script here: <https://www.takarabio.com/documents/User%20Manual/RR0
 
 **_2\. UNBREAKABLE_**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![unbreakable](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-14.jpg)
 
 **Writer:** M. Night Shyamalan
@@ -265,6 +308,10 @@ Like any child of the 90s, I admit to having a soft spot for The Lion King. The 
 
 Have you ever stored various videos and photos on a memory card or on the computer? Why not create a movie to show them off? Once finish making a great movie, you can share it with others in a variety of ways including on YouTube, Facebook, and Instagram. Your followers will be amazed at the extraordinarily delightful works. In fact, making a movie using your own photos, videos and audio is easy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Make a Video with Wondershare Filmora Easy Movie Maker
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a video editing software that enables users to create amazing videos efficiently using a wide range of powerful editing tools. It gives filters, animated elements, and other video effects. The filters and overlays allow transforming of video with a variety of filters and graphic overlays.
@@ -281,6 +328,9 @@ The 4K editing support feature enables users to edit and export videos at a reso
 
 The [color tuning](https://tools.techidaily.com/wondershare/filmora/download/) feature enables users to adjust the white balance and dynamic range of their clips. The audio mixer feature enables changing the audio of each track. The advanced text editor allows editing the color, size, font, and even animation of the text. The screen recording feature enables recording the screen of the computer and webcam efficiently. The video stabilization feature eliminates the effects of camera shake.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![color tuning](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-18.jpg)
 
 ## Conclusion
@@ -312,3 +362,54 @@ Creating video content that can potentially go viral is no longer a complicated 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-10-top-zero-charge-web-tools-to-craft-videos/"><u>[New] 10 Top Zero-Charge Web Tools to Craft Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-dynamic-interactions-key-to-enhancing-page-visibility/"><u>[New] 2024 Approved  Dynamic Interactions  Key to Enhancing Page Visibility</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-turning-snaps-into-cashflow/"><u>[New] 2024 Approved  Turning Snaps Into Cashflow</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamline-audio-podcasts-made-easy-for-iphones/"><u>[New] Streamline Audio  Podcasts Made Easy for iPhones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamlined-sounds-iphones-efficient-podcasting/"><u>[New] Streamlined Sounds  IPhone's Efficient Podcasting</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-superior-lineup-elite-webcam-holders/"><u>[New] Superior Lineup  Elite Webcam Holders</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-10-uplifting-films-for-momentum-and-motivation/"><u>[New] Top 10 Uplifting Films for Momentum & Motivation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-understanding-iphones-nightlight-settings/"><u>[New] Understanding iPhone's Nightlight Settings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-your-complete-breakdown-of-youtube-short-content/"><u>[New] Your Complete Breakdown of YouTube Short Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-gamings-new-leaders-1-ranked-4k-laptops/"><u>[Updated] 2024 Approved  Gaming's New Leaders  #1 Ranked 4K Laptops</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-innovative-windows-10-cameras-unveiled/"><u>[Updated] 2024 Approved  Innovative Windows 10 Cameras Unveiled</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-picking-between-filmora-and-democracy-creator-for-edits-for-2024/"><u>[Updated] Picking Between Filmora and Democracy Creator for Edits for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-primary-footage-document-critique-with-asides/"><u>[Updated] Primary Footage Document Critique with Asides</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-cinematographers-blueprint-for-simple-water-vids/"><u>[Updated] The Cinematographer's Blueprint for Simple Water Vids</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tips-to-trim-down-lag-during-xbox-zoom-sessions/"><u>[Updated] Tips to Trim Down Lag During Xbox-Zoom Sessions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-premier-sound-storylines/"><u>[Updated] Top Premier Sound Storylines</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-list-of-accessibility-8-premium-free-mp3-grabber-apps-android/"><u>[Updated] Ultimate List of Accessibility  8 Premium Free MP3 Grabber Apps (Android)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleash-the-power-of-zoom-with-these-tips/"><u>[Updated] Unleash the Power of Zoom with These Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-hidden-potential-boost-productivity-essential-activities-during-podcast-sessions/"><u>[Updated] Unlock Hidden Potential, Boost Productivity  Essential Activities During Podcast Sessions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unveiling-the-secrets-of-facebook-lives-dual-display/"><u>[Updated] Unveiling the Secrets of Facebook Live's Dual Display</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-elevate-play-button-visuals-vivid-neon-lines-added/"><u>2024 Approved  Elevate Play Button Visuals  Vivid Neon Lines Added</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-film-talents-unleashed-downloadable-content-pass/"><u>2024 Approved  Film Talents Unleashed  Downloadable Content Pass</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamline-your-screen-share-with-enhanced-zoom-on-google-meet/"><u>2024 Approved  Streamline Your Screen Share with Enhanced Zoom on Google Meet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-kid-friendly-drone-guide-for-first-flyers/"><u>2024 Approved  The Ultimate Kid-Friendly Drone Guide for First Flyers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-toolwiz-for-professionals-a-thorough-app-assessment/"><u>2024 Approved  Toolwiz for Professionals  A Thorough App Assessment</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-best-live-stream-tools-for-gamers/"><u>2024 Approved  Unveiling Best Live-Stream Tools for Gamers</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-easy-video-joiner-not-cutting-it-explore-these-10-powerful-alternatives/"><u>2024 Approved Easy Video Joiner Not Cutting It? Explore These 10 Powerful Alternatives</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-a15-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974762276-elevate-graphic-performance-by-updating-intel-graphics-3000-on-windows-10/"><u>Elevate Graphic Performance by Updating Intel Graphics 3000 on Windows 10.</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-samsung-galaxy-a14-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Samsung Galaxy A14 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-f54-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy F54 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-motorola-defy-2-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Motorola Defy 2 Data? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-techniques-for-interpreting-video-reactions-on-youtube/"><u>In 2024, Techniques for Interpreting Video Reactions on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essential-iphones-guide-to-great-night-images/"><u>In 2024, The Essential iPhones Guide to Great Night Images</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-swift-guide-to-validate-your-tiktok-age/"><u>In 2024, The Swift Guide to Validate Your TikTok Age</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-top-five-flying-toys-for-youth/"><u>In 2024, The Top Five Flying Toys for Youth</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-selecting-and-utilizing-top-6-gopro-attachments/"><u>In 2024, The Ultimate Guide to Selecting & Utilizing Top 6 GOPRO Attachments</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-6-choices-in-helmet-integrated-gopro-systems-explained/"><u>In 2024, Top 6 Choices in Helmet-Integrated GoPro Systems Explained</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-unrestricted-data-saver-solutions/"><u>In 2024, Top Unrestricted Data Saver Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transitioning-photos-from-physical-to-digital-storage/"><u>In 2024, Transitioning Photos  From Physical to Digital Storage</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unprecedented-engagement-reaching-for-a-million-audience/"><u>In 2024, Unprecedented Engagement  Reaching for a Million Audience</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/inside-windows-10-a-snapshot-of-its-transformation-for-2024/"><u>Inside Windows 10  A Snapshot of Its Transformation for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/kinemasters-journey-for-seamless-scene-transitions/"><u>Kinemaster's Journey for Seamless Scene Transitions</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-rapid-response-guide-to-smooth-video-audio-incorporation-with-premiere-pro/"><u>New In 2024, Rapid-Response Guide to Smooth Video Audio Incorporation with Premiere Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-itel-a05s-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Itel A05s has been deleted.</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/simplifying-display-images-with-screencapture-techniques-for-2024/"><u>Simplifying Display Images with ScreenCapture Techniques for 2024</u></a></li>
+</ul></div>

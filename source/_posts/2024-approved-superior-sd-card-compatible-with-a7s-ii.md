@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Superior SD Card Compatible with A7S II\""
-date: 2024-06-04T11:34:53.815Z
-updated: 2024-06-05T11:34:53.815Z
+date: 2024-07-23T06:41:47.103Z
+updated: 2024-07-24T06:41:47.103Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/c2bd6ba622504fadfbcb07e0ff1b2943eed89d4f1
 
 # Best Memory Card for Sony A7S II
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -30,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/c2bd6ba622504fadfbcb07e0ff1b2943eed89d4f1
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -67,6 +73,9 @@ thumbnail: https://thmb.techidaily.com/c2bd6ba622504fadfbcb07e0ff1b2943eed89d4f1
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -105,6 +114,9 @@ thumbnail: https://thmb.techidaily.com/c2bd6ba622504fadfbcb07e0ff1b2943eed89d4f1
 * Extreme Pro is compatible with SDXC devices.
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -158,6 +170,9 @@ Follow @Max Wales
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -196,6 +211,9 @@ Follow @Max Wales
 * Extreme Pro is compatible with SDXC devices.
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -228,3 +246,44 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-how-to-use-gopro-hero5-black-tips-for-shooting-great-photos-and-videos/"><u>[New] 2024 Approved  How to Use GoPro Hero5 Black  Tips for Shooting Great Photos and Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-leading-slideshow-converter-to-film-for-2024/"><u>[New] Leading Slideshow Converter to Film for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unraveling-historys-fabric-with-open-source-canvases/"><u>[New] Unraveling History's Fabric with Open-Source Canvases</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-colors-top-11-grading-and-correction-techniques/"><u>[New] Unveiling Colors  Top 11 Grading & Correction Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-supercharge-your-account-top-10-instagram-must-haves/"><u>[Updated] 2024 Approved  Supercharge Your Account  Top 10 Instagram Must-Haves</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-iphoneandroid-edition-find-the-best-8-multimedia-editing-tools/"><u>[Updated] IPhone/Android Edition  Find the Best 8 Multimedia Editing Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-techniques-to-improve-focal-depth-in-online-platforms/"><u>[Updated] Techniques to Improve Focal Depth in Online Platforms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-edited-essence-unlocking-techniques-for-visual-impact/"><u>[Updated] The Edited Essence  Unlocking Techniques for Visual Impact</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-essential-guide-to-best-10-gratis-srt-transformers/"><u>[Updated] The Essential Guide to Best 10 Gratis SRT Transformers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-leading-free-converters-for-optimal-srt-files/"><u>[Updated] The Leading Free Converters for Optimal SRT Files</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-controlling-playback-rate-on-snapchat/"><u>[Updated] The Ultimate Guide to Controlling Playback Rate on Snapchat</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-veil-vs-the-beam-shadowheroes-vs-luminaryfighters/"><u>[Updated] The Veil vs the Beam  Shadowheroes Vs Luminaryfighters</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-uninterrupted-access-to-9-premium-christmas-films-enjoyment-at-zero-cost/"><u>[Updated] Uninterrupted Access to 9 Premium Christmas Films  Enjoyment at Zero Cost</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleash-creativity-the-ultimate-selection-of-online-jpg-to-gif-tools/"><u>[Updated] Unleash Creativity  The Ultimate Selection of Online JPG to GIF Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-your-lens-skills-with-snapseed-essentials/"><u>[Updated] Unlock Your Lens Skills with Snapseed Essentials</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-streaming-screens-using-netflixs-pip-mode/"><u>[Updated] Unveiling Streaming Screens  Using Netflix's PIP Mode</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-frame-by-frame-filmmaking-to-financial-flourishing/"><u>2024 Approved  From Frame-by-Frame Filmmaking to Financial Flourishing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-guide-to-reinventing-facebook-video-coverages-step-by-step/"><u>2024 Approved  Guide to Reinventing Facebook Video Coverages  Step-by-Step</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-loopers-toolkit/"><u>2024 Approved  Looper's Toolkit</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-meizu-21-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Meizu 21 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-iphone-7-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from iPhone 7 Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leading-software-titles-for-animation-artistry/"><u>Leading Software Titles for Animation Artistry</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/masterpiece-makers-editing-images-with-invisible-text-for-2024/"><u>Masterpiece Makers  Editing Images with Invisible Text for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-windows-store-faults-rectify-error-0x80072f17/"><u>Mending Windows Store Faults: Rectify Error 0X80072f17</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/shade-3-battleground-apparition-4-unleashed-for-2024/"><u>Shade 3 Battleground  Apparition 4 Unleashed for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/text-techniques-top-10-video-enhancers-for-2024/"><u>Text Techniques  Top 10 Video Enhancers for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-capturing-human-gestures-an-in-depth-guide-for-2024/"><u>The Art of Capturing Human Gestures  An In-Depth Guide for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-definitive-path-from-twitter-video-to-creatively-crafted-gifs-for-2024/"><u>The Definitive Path From Twitter Video to Creatively Crafted GIFs for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-pros-guide-to-hidden-power-ups-in-vlc-playback-for-2024/"><u>The Pro's Guide to Hidden Power-Ups in VLC Playback for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tongue-to-type-tools-a-guide-to-the-best-speech-to-text-software-for-2024/"><u>Tongue-to-Type Tools  A Guide to the Best Speech-to-Text Software for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-10-heartening-films-for-optimism-and-power/"><u>Top 10 Heartening Films for Optimism & Power</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforming-audiencier-names-with-top-ai-tools-for-2024/"><u>Transforming Audiencier Names with Top AI Tools for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-selections-top-rated-webcam-platforms-for-2024/"><u>Ultimate Selections  Top-Rated Webcam Platforms for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-seconds-for-a-20mb-movie-for-2024/"><u>Understanding Seconds for a 20MB Movie for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-enhanced-video-playback-and-app-functionality-with-chromes-pip-for-2024/"><u>Unlock Enhanced Video Playback and App Functionality with Chrome’s PIP for 2024</u></a></li>
+</ul></div>

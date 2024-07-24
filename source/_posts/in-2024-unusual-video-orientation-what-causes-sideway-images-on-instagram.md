@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unusual Video Orientation  What Causes Sideway Images on Instagram\""
-date: 2024-06-04T10:32:39.669Z
-updated: 2024-06-05T10:32:39.669Z
+date: 2024-07-23T06:02:29.393Z
+updated: 2024-07-24T06:02:29.393Z
 tags: 
   - screen-recording
   - ai video
@@ -22,12 +22,18 @@ Are you worried that your video on Instagram is sideways?
 
 There are a few possible reasons why your Instagram video is sideways. One option is that you uploaded the video with the wrong rotation. Another possibility is that you took the video with your phone's camera in the wrong orientation. Finally, Instagram may not have been able to detect the proper orientation of the video, causing it to be shown sideways.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why does Instagram keep flipping my video?
 
 Because Instagram is built to display videos in landscape mode, it may be flipping your videos sideways. This indicates the video will be rotated to be wider than it is tall, which is the standard video orientation.
 
 So, when you post a vertical video to Instagram Stories from your camera roll, it is automatically cropped to a 9:16 aspect ratio. Because your phone camera didn't automatically alter the orientation before you started filming, films filmed horizontally can sometimes be posted sideways.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to rotate videos for Instagram?
 
 Individuals currently choose to capture films utilizing high-resolution cameras rather than large video cameras on mobile devices. However, you may overlook the video's orientation, resulting in a completely reversed recording.
@@ -44,6 +50,9 @@ In Filmora, you can rotate your movie to whatever angle you choose. You may also
 
 Launch Filmora and drag the video onto the timeline.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![instagram-turns-video-sideway-](https://images.wondershare.com/filmora/article-images/2022/05/instagram-turns-video-sideway-1.jpg)
 
 **Step 2: Rotate the video**
@@ -54,14 +63,23 @@ Double-click the video clip on the timeline to open the video editing window. Un
 
 By dragging the "Scale" button, you can make the image a full screen or alter the position, size, shape, and other aspects of the image directly in the Viewer panel.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![instagram-turns-video-sideway-](https://images.wondershare.com/filmora/article-images/2022/05/instagram-turns-video-sideway-3.jpg)
 
 **Step 3: Export the video**
 
 When you're happy, click export. You can alter the format of your work right here, or you can upload it to YouTube.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![instagram-turns-video-sideway-](https://images.wondershare.com/filmora/article-images/2022/05/instagram-turns-video-sideway-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Veed.io
 
 Compatibility: Online
@@ -108,10 +126,16 @@ Install Movavi Clips on your Android device by going to Google Play and searchin
 
 You'll notice an active arrow pointing to the Plus icon as soon as you open the app. Choose a video by tapping this icon.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![instagram-turns-video-sideway-](https://images.wondershare.com/filmora/article-images/2022/05/instagram-turns-video-sideway-8.jpg)
 
 Then tap Start editing on the video you wish to fix.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![instagram-turns-video-sideway-](https://images.wondershare.com/filmora/article-images/2022/05/instagram-turns-video-sideway-9.jpg)
 
 **Step 3: Rotate the video**
@@ -128,8 +152,15 @@ Tap the Save button after previewing your video. It's as simple as that! With Mo
 
 ![instagram-turns-video-sideway-](https://images.wondershare.com/filmora/article-images/2022/05/instagram-turns-video-sideway-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![instagram-turns-video-sideway-](https://images.wondershare.com/filmora/article-images/2022/05/instagram-turns-video-sideway-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ### 4\. VLC Media Player
 
 Compatibility: Windows/Mac/iOS/Android
@@ -138,14 +169,33 @@ VLC Media Player is a completely free program. People usually think of VLC as a 
 
 Step 1: Open the VLC media player and load the video you want to rotate.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![instagram-turns-video-sideway-](https://images.wondershare.com/filmora/article-images/2022/05/instagram-turns-video-sideway-13.jpg)
 
 Step 2: Select Effects and Filters from the Tools menu. Then go to the Video Effects menu to rotate your videos.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![instagram-turns-video-sideway-](https://images.wondershare.com/filmora/article-images/2022/05/instagram-turns-video-sideway-14.jpg)
 
 Step 3: Select Geometry from the Video Effects subtab. To rotate in a specific direction, check the Transform box. You have the option to rotate 180, 90, or 270 degrees. In addition, you can rotate the movie at a specific angle.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![instagram-turns-video-sideway-](https://images.wondershare.com/filmora/article-images/2022/05/instagram-turns-video-sideway-15.jpg)
 
 Note: These settings are retained when you start a new movie, so remember to uncheck the rotation.
@@ -188,6 +238,9 @@ Whether or not you have a VEED account, you can upload and edit your video. You 
 
 Allow time for the upload to complete. The rotating button will display above the image when you click it. To change the direction of your movie, drag this button. Under the 'Adjust' menu, you may also write the exact rotation angle.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![instagram-turns-video-sideway-](https://images.wondershare.com/filmora/article-images/2022/05/instagram-turns-video-sideway-6.jpg)
 
 **Step 3: Export the rotated video:**
@@ -236,8 +289,14 @@ Tap the Save button after previewing your video. It's as simple as that! With Mo
 
 ![instagram-turns-video-sideway-](https://images.wondershare.com/filmora/article-images/2022/05/instagram-turns-video-sideway-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![instagram-turns-video-sideway-](https://images.wondershare.com/filmora/article-images/2022/05/instagram-turns-video-sideway-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. VLC Media Player
 
 Compatibility: Windows/Mac/iOS/Android
@@ -250,10 +309,16 @@ Step 1: Open the VLC media player and load the video you want to rotate.
 
 Step 2: Select Effects and Filters from the Tools menu. Then go to the Video Effects menu to rotate your videos.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![instagram-turns-video-sideway-](https://images.wondershare.com/filmora/article-images/2022/05/instagram-turns-video-sideway-14.jpg)
 
 Step 3: Select Geometry from the Video Effects subtab. To rotate in a specific direction, check the Transform box. You have the option to rotate 180, 90, or 270 degrees. In addition, you can rotate the movie at a specific angle.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![instagram-turns-video-sideway-](https://images.wondershare.com/filmora/article-images/2022/05/instagram-turns-video-sideway-15.jpg)
 
 Note: These settings are retained when you start a new movie, so remember to uncheck the rotation.
@@ -286,3 +351,50 @@ You can easily rotate your videos according to the guidelines of the social medi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-5-mac-video-tools-beyond-standard-bandicam/"><u>[New] 2024 Approved  Top 5 Mac Video Tools Beyond Standard Bandicam</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-comprehensive-app-audit-by-az-recorder-for-2024/"><u>[New] Comprehensive App Audit by AZ Recorder for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-creating-compelling-sports-content-from-the-ground-up/"><u>[New] In 2024, Creating Compelling Sports Content From the Ground Up</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-step-by-step-guide-to-joining-and-earning-as-a-tiktok-star/"><u>[New] In 2024, Step-by-Step Guide to Joining & Earning as a TikTok Star</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-seamless-integration-of-switch-pro-into-steam-games-for-2024/"><u>[New] Seamless Integration of Switch Pro Into Steam Games for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-strategizing-success-the-open-door-approach/"><u>[New] Strategizing Success  The Open Door Approach</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-science-of-quadcopters-understanding-their-flight-patterns/"><u>[New] The Science of Quadcopters  Understanding Their Flight Patterns</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1716068947498-updated-2024-approved-seeking-the-best-ps2-games-try-these-5-android-emulators/"><u>[Updated] 2024 Approved  Seeking the Best PS2 Games? Try These 5 Android Emulators!</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-behind-the-scenes-guide-to-finding-facebooks-finest-vids-for-2024/"><u>[Updated] Behind-the-Scenes Guide to Finding Facebook's Finest Vids for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-effortless-methods-to-document-console-gaming/"><u>[Updated] Effortless Methods to Document Console Gaming</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-all-access-fb-melodic-streaming/"><u>[Updated] In 2024, All-Access FB Melodic Streaming</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-enhancing-instagram-video-visibility/"><u>[Updated] In 2024, Enhancing Instagram Video Visibility</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-strategy-breakthroughs-in-packaging/"><u>[Updated] Strategy Breakthroughs in Packaging</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamlined-guide-5-efficient-windows-11-audio-recording-tips/"><u>[Updated] Streamlined Guide  5 Efficient Windows 11 Audio Recording Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-live-performances-best-audio-platforms/"><u>[Updated] Top Live Performances  Best Audio Platforms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-strategies-pinterest-to-mp3-migration-guide/"><u>[Updated] Ultimate Strategies  Pinterest to MP3 Migration Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-curated-collection-saving-snapchat-ringtone-audio/"><u>2024 Approved  Curated Collection  Saving Snapchat Ringtone Audio</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-pinnacle-creations-summary-studio-25-detailed-assessment-2023/"><u>2024 Approved  Pinnacle Creations Summary  Studio 25 Detailed Assessment, 2023</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlining-massive-video-transfers-iphone-mac-edition/"><u>2024 Approved  Streamlining Massive Video Transfers  IPhone-Mac Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-synchronizing-tracks-through-effective-crossfading/"><u>2024 Approved  Synchronizing Tracks Through Effective Crossfading</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tailoring-pixel-sounds-to-your-style/"><u>2024 Approved  Tailoring Pixel Sounds to Your Style</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-assembly-crafting-your-personalized-4k-video-editor-pc/"><u>2024 Approved  The Art of Assembly  Crafting Your Personalized 4K Video Editor PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-edited-essence-unlocking-techniques-for-visual-impact/"><u>2024 Approved  The Edited Essence  Unlocking Techniques for Visual Impact</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-8-mobile-tools-transforming-slow-mo-to-fast-forward/"><u>2024 Approved  Top 8 Mobile Tools Transforming Slow Mo to Fast-Forward</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-tech-stream-cam-gear-reviewed-for-youtube-and-facebook-use/"><u>2024 Approved  Top Tech  Stream Cam Gear Reviewed for YouTube & Facebook Use</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-guide-top-7-superior-wet-proof-camcorders/"><u>2024 Approved  Ultimate Guide  Top 7 Superior Wet-Proof Camcorders</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-phone-and-camera-mounts-precision-focus-tracking/"><u>2024 Approved  Ultimate Phone & Camera Mounts  Precision Focus Tracking</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/background-noise-be-gone-mastering-audio-cleanup-in-final-cut-pro-x/"><u>Background Noise Be Gone Mastering Audio Cleanup in Final Cut Pro X</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/explore-unrestricted-stock-content-in-key-4-video-channels/"><u>Explore Unrestricted Stock Content in Key 4 Video Channels</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-xiaomi-civi-3-disney-100th-anniversary-edition-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Xiaomi Civi 3 Disney 100th Anniversary Edition Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/in-2024-how-to-create-benime-whiteboard-animation-in-android/"><u>In 2024, How to Create Benime Whiteboard Animation in Android</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-perfect-your-crafting-skills-using-these-7-sounds-tracks/"><u>In 2024, Perfect Your Crafting Skills Using These 7 Sounds Tracks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-audiophiles-companion-to-top-tier-audio-equipment/"><u>In 2024, The Audiophile's Companion to Top-Tier Audio Equipment</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-fast-lane-olympic-highlights-in-short-track-speed-skating/"><u>In 2024, The Fast Lane  Olympic Highlights in Short-Track Speed Skating</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-top-cloud-stores-on-android/"><u>In 2024, The Ultimate Guide to Top Cloud Stores on Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tips-for-optimizing-tiktok-video-sharing-on-zoom/"><u>In 2024, Tips for Optimizing TikTok Video Sharing on Zoom</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-mac-speech-to-text-apps-youre-not-aware-of/"><u>In 2024, Top Mac Speech-to-Text Apps You're Not Aware Of</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-video-mastery-with-these-quick-trimming-tips-for-windows-10/"><u>In 2024, Unlock Video Mastery with These Quick Trimming Tips for Windows 10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-creative-photos-using-pexels-effectively/"><u>In 2024, Unlocking Creative Photos  Using Pexels Effectively</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pro-audio-software-win-edition-for-2024/"><u>Pro Audio Software Win Edition for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unique-gifting-made-simple-discover-top-10-custom-box-sellers-for-2024/"><u>Unique Gifting Made Simple  Discover Top 10 Custom Box Sellers for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-the-power-of-montage-in-digital-media-for-2024/"><u>Unlock the Power of Montage in Digital Media for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unwind-twitch-feeds-immediately-for-2024/"><u>Unwind Twitch Feeds Immediately for 2024</u></a></li>
+</ul></div>

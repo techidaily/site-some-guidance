@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ultimate List of AE Title Enhancement Methods"
-date: 2024-06-04T14:48:15.443Z
-updated: 2024-06-05T14:48:15.443Z
+date: 2024-07-23T08:38:07.269Z
+updated: 2024-07-24T08:38:07.269Z
 tags: 
   - screen-recording
   - ai video
@@ -39,12 +39,18 @@ Along with After Effects source text effect types, we have illustrated how you c
 
 There are certain properties and parameters associated with text effects and animations in After Effects. You need to get a complete overview of these types so that you can adjust them and come up with stunning text animations in After Effects.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### 1\. 3D Text
 
 Generally, when you type a text in After Effects, by default, it comes out to be two-dimensional. All the associated properties have X and Y axis only. However, if you are planning to create 3D text and title, you need to have Z axis.
 
 After Effects has “Enable per-character 3D” property to all Z axis to applicable properties so that you can get the desired effect. You can go to properties like rotation or position to find Z axis that you can modify and get the perfect 3D text.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Rotation and Anchor Point
 
 Rotation is one of the most commonly used parameters in text animations. There are unlimited variations of text animations and effects that you can create using rotation parameter in After Effects. The rotation takes place in proportion to the anchor points of the text. When you change the value of Rotation parameter, the actual rotation takes place around the anchor points.
@@ -59,20 +65,32 @@ There are different variations of zoom in and out effect that you can try on you
 
 You must have seen the text animation where the blurry text comes into focus and this can be achieved using Blur parameter. Many people confused Blur with Opacity but blur refers to out of focus while opacity can be understood by fade in and fade out effect. You can adjust the horizontal and vertical blur amount separately and you can come up with stunning text animations by changing Blur value.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 5\. Fill and Stroke
 
 When it comes to text formatting in animation, fill color and stroke color play a major role. You can change the fill of the text so that the text animation is about changing color randomly. There are different options available for fill color such as RGB, Hue, Saturation, and likewise.
 
 Similarly, the stroke color can be changed and you can create an animation with changing outline color. At the same time, you can adjust the stroke width to make the text look thick or thin as per your animation requirements.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Skew
 
 If you want your text to be distorted and unusual, the skew parameter is there for you in After Effects. Skew means the character will not stay parallel and at right angles. You can adjust the skew value make texts distorted and this is useful in several text animations where distorted texts become normal texts. You can also skew texts in respect to different axis for creative animation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ### 7\. Tracking
 
 Tracking refers to the spacing between the characters in a word for a text. You must have seen so many different types of text animations where the spacing between the characters is changing. You can create amazing funny and eye-catching text effects in After Effects by combining tracking and keyframe properly. Along with tracking, there is line anchor that determines the alignment of tracking. Similarly, there is line spacing parameter that controls the spacing between the lines.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 8\. Keyframe
 
 Keyframe is like stretching two points into multiple points and for every point, you can change the value of the different parameters we have mentioned. When different keyframes have different parameters, the text will automatically animate once you play the video.
@@ -85,14 +103,23 @@ Now that you know the different animation parameters and text effect types, it i
 
 Step1 Go to Tool panel, click on Type tool. Click on Composition panel and type in your text. Go to Characters and Paragraph section and adjust the text style parameters.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![text style parameters after effects](https://images.wondershare.com/filmora/article-images/2022/09/text-style-parameters-after-effects.jpg)
 
 Step2 Go to Effects and Presets panel, search for the desired text effect preset that you want to apply on your text. Drag and drop the selected preset on the text layer and you will see your text getting transformed instantly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![preview effects and presets ae](https://images.wondershare.com/filmora/article-images/2022/09/preview-effects-and-presets-ae.jpg)
 
 Step3 Go to Timeline and click on the text layer to expand it. Click on Animate option and select any property that you want to adjust and create animation based on the parameters. Go to Keyframe section and add keyframes and change parameters for different keyframes for the text to animate.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add keyframes in after effects](https://images.wondershare.com/filmora/article-images/2022/09/add-keyframes-in-after-effects.jpg)
 
 Apart from the animate option and its parameters, there are several parameters such as transform that you can adjust to edit the text effect as per your preference.
@@ -160,3 +187,36 @@ Part 1\. 8 Popular Text Title Effects Types in AE
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-is-youtube-premium-worth-it-a-user-guide/"><u>[New] In 2024, Is YouTube Premium Worth It  A User Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-syncopating-soundtracks-with-flawless-audio-transitions/"><u>[New] Syncopating Soundtracks with Flawless Audio Transitions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-definitive-list-high-quality-costless-lut-options-explored/"><u>[New] The Definitive List  High-Quality, Costless LUT Options Explored</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-showdown-midnight-warrior-vs-sunlight-champion/"><u>[New] The Ultimate Showdown  Midnight Warrior vs Sunlight Champion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-6-fiscal-picks-in-the-4k-projector-market/"><u>[New] Top 6 Fiscal Picks in the 4K Projector Market</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-picks-premium-and-economical-bdr-players-for-pcmac/"><u>[New] Top Picks  Premium & Economical BDR Players for PC/Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-total-data-consumption-days-long-movie/"><u>[New] Total Data Consumption  Day's Long Movie</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-the-potential-of-slug-line-formats-in-screenplays/"><u>[New] Unlocking the Potential of Slug Line Formats in Screenplays</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-power-of-vsco-color-grading/"><u>[New] Unveiling the Power of VSCO Color Grading</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-wirecast-and-facebook-creating-high-quality-live-streams-for-2024/"><u>[New] Wirecast and Facebook  Creating High-Quality Live Streams for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gamers-ultimate-guide-selecting-the-best-video-card-brands/"><u>[Updated] 2024 Approved  Gamer’s Ultimate Guide  Selecting the Best Video Card Brands</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-filmmakers-formula-for-unbeatable-tiktok-reaction-content-using-filmora-for-2024/"><u>[Updated] The Filmmaker’s Formula for Unbeatable TikTok Reaction Content Using Filmora for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-journey-into-tech-mastery-essential-tips-for-screen-recording-your-mac/"><u>2024 Approved  Journey Into Tech Mastery  Essential Tips for Screen Recording Your Mac</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-niche-networking-on-youtube-from-phone-small-scale-approach/"><u>2024 Approved  Niche Networking on Youtube From Phone, Small-Scale Approach</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-photographing-for-youtube-the-ultimate-instructions/"><u>2024 Approved  Photographing for YouTube  The Ultimate Instructions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-gpus-for-sharp-4k-image-display/"><u>2024 Approved  Prime GPUs for Sharp 4K Image Display</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-nokia-c110-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Nokia C110 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-strategies-to-enhance-gopros-electric-efficiency/"><u>In 2024, Strategies to Enhance GoPro's Electric Efficiency</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-syncing-speed-and-quality-in-lunapic-edits/"><u>In 2024, Syncing Speed and Quality in LunaPic Edits</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-fast-forwarding-safely-expedite-your-spotify-experience/"><u>In 2024, The Art of Fast-Forwarding  Safely Expedite Your Spotify Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-future-of-photo-shooting-smart-hdr-technology-insights/"><u>In 2024, The Future of Photo Shooting  Smart HDR Technology Insights</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-minimalists-guide-to-aerial-imagery-with-dji-spark/"><u>In 2024, The Minimalist's Guide to Aerial Imagery with DJI Spark</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-vr-gloves-to-check-out/"><u>In 2024, Top VR Gloves to Check Out</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-the-best-top-9-gamers-hubs/"><u>In 2024, Unlock the Best  Top 9 Gamers' Hubs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-truth-apples-face-id-against-samsung-writers-face-matching/"><u>In 2024, Unveiling the Truth  Apple's Face ID Against Samsung’ Writers' Face-Matching</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/pro-grade-gopro-comparison-hero5-b-and-sessions-for-2024/"><u>Pro-Grade GoPro Comparison  Hero5 B & Sessions for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/superior-animation-suites-top-3d-modelers-for-2024/"><u>Superior Animation Suites  Top 3D Modelers for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/swapping-streams-saving-songs-cross-service-shuffling-for-2024/"><u>Swapping Streams, Saving Songs  Cross-Service Shuffling for 2024</u></a></li>
+</ul></div>

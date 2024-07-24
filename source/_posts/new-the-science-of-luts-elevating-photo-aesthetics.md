@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Science of LUTs  Elevating Photo Aesthetics\""
-date: 2024-06-04T17:43:23.397Z
-updated: 2024-06-05T17:43:23.397Z
+date: 2024-07-23T10:28:26.257Z
+updated: 2024-07-24T10:28:26.257Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,9 @@ Lookup Tables help you save a lot of work and time during the editing process. T
 
 LUTs also aid in the organization of your post-production processes. You must know when to use LUTs, just as you must know when to use other components of the editing process. It assists in getting the work done more effectively after you master the pattern and processes to follow.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How will LUTs change your photography?
 
 Photo editors who are searching for that extra oomph to take their images to the next level adore LUTs. Photographers who wish to save time without losing the excellent quality and aesthetic outcomes that come with hours of minor, manual slider tweaks will benefit significantly from LUTs. You can give your photos a professional look they deserve with just one click. Using the same LUT or a modest selection of LUTs across the board can also help you create consistency throughout a particular photo set or an entire portfolio.
@@ -50,12 +53,18 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## How to use LUTs using Photoshop CC?
 
 LUTs come pre-installed with programs, but you may also purchase them online and add them to your software. You may even buy a look from your favorite film or television show. In Photoshop, LUTs are simple to apply. You can begin in Photoshop with the original photo, which is an image that was captured locally, unprocessed, and straight out of the camera.
 
 1. Select the Adjustment Layer icon from the drop-down menu.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
 Choose Adjustment Layer
@@ -64,6 +73,9 @@ Choose Adjustment Layer
 2. The Properties inspector will appear. Window>Properties.
 3. Select Load 3D LUT. A list of LUTs that come with Photoshop will appear.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
 
 load 3d lut
@@ -81,6 +93,9 @@ LUTs come pre-installed in Photoshop, and you can use them as adjustment layers.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ### Here's the second one
 
 1. Open the LUT folder, which changes the version to your version.
@@ -95,6 +110,9 @@ Grow Together
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 Closing Thoughts:
@@ -127,3 +145,54 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-digital-frame-snatchers-top-video-tools/"><u>[New] Digital Frame Snatchers  Top Video Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-go-from-gaming-to-socializing-streaming-xbox-to-fb-live/"><u>[New] In 2024, Go From Gaming to Socializing  Streaming Xbox to FB Live</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-ultimate-guide-to-creating-engaging-facebook-stories/"><u>[New] In 2024, The Ultimate Guide to Creating Engaging Facebook Stories</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-5-avant-garde-creators-in-digital-media/"><u>[New] Top 5 Avant-Garde Creators in Digital Media</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-master-screen-recording-capturing-and-preserving-snaps-efficiently/"><u>[Updated] Master Screen Recording  Capturing and Preserving Snaps Efficiently</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamlined-pathway-to-flipper-dialogue-switching-within-windows-network/"><u>[Updated] Streamlined Pathway to Flipper Dialogue Switching Within Windows Network</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamlining-your-iphones-album-organization-and-icloud-connection/"><u>[Updated] Streamlining Your iPhone's Album Organization and iCloud Connection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-stunning-evaluation-and-different-paths/"><u>[Updated] Stunning Evaluation & Different Paths</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-saving-and-enjoying-animated-gifs-on-your-iphone/"><u>[Updated] The Art of Saving and Enjoying Animated GIFs on Your iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-color-correctors-handbook/"><u>[Updated] The Ultimate Color Corrector's Handbook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-kinemasters-full-potential-in-zoomed-sections/"><u>[Updated] Unlocking Kinemaster's Full Potential in Zoomed Sections</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-optimal-zoom-features-in-google-meet-webinars/"><u>[Updated] Unlocking Optimal Zoom Features in Google Meet Webinars</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-webcam-integration-in-gaming-setup-mastery/"><u>[Updated] Webcam Integration in Gaming Setup Mastery</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-chart-topping-storytellers-to-follow-on-youtube-this-year/"><u>2024 Approved  Chart-Topping Storytellers to Follow on YouTube This Year</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-masterful-bordering-techniques-for-stellar-instagram-videos/"><u>2024 Approved  Masterful Bordering Techniques for Stellar Instagram Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-substituting-periscope-6-premium-video-apps-for-iphones-and-ipads/"><u>2024 Approved  Substituting Periscope  6 Premium Video Apps for iPhones & iPads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-foundation-defining-electronic-storytelling/"><u>2024 Approved  The Foundation  Defining Electronic Storytelling</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tickle-tycoon-picture-builder/"><u>2024 Approved  Tickle Tycoon  Picture Builder</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-time-taken-for-a-20mb-video-playback/"><u>2024 Approved  Time Taken for a 20MB Video Playback</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-ranked-desktop-pcs-for-gamers/"><u>2024 Approved  Top-Ranked Desktop PCs for Gamers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-understanding-the-edge-of-av1-in-video-encoding/"><u>2024 Approved  Understanding the Edge of AV1 in Video Encoding</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-creativity-exquisite-text-effects-for-adobes-affects/"><u>2024 Approved  Unleash Creativity  Exquisite Text Effects For Adobe's Affects</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-value-for-vendors-and-viewers-through-youtuber-sponsorship/"><u>2024 Approved  Unlocking Value for Vendors and Viewers Through YouTuber Sponsorship</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-oppo-find-x7-ultra-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Oppo Find X7 Ultra PC | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/edit-mp4-files-with-ease-best-windows-8-video-editor-for-2024/"><u>Edit MP4 Files with Ease Best Windows 8 Video Editor for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-networks-for-live-streaming-enthusiasts/"><u>Essential Networks for Live Streaming Enthusiasts</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-infinix-note-30-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Infinix Note 30 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-serp-features-news-pack-by-link-assistant-rank-tracker-serp-analysis-serp-analysis/"><u>Google SERP Features - News Pack</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID On your Apple iPhone 14 Pro?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-journey-through-ipodverse-mastering-iphones-podcast-downloads/"><u>In 2024, Journey Through iPodverse  Mastering iPhone's Podcast Downloads</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-tiktok-greats-on-snapchat-screen-time/"><u>In 2024, TikTok Greats on Snapchat Screen Time</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-samsung-galaxy-s24plus-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Samsung Galaxy S24+ Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-introductory-video-editing-software-a-beginners-guide/"><u>New In 2024, Introductory Video Editing Software A Beginners Guide</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-the-15-most-efficient-photo-to-cartoon-software-for-android-for-2024/"><u>New The 15 Most Efficient Photo to Cartoon Software for Android for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-beginners-blueprint-mastering-telegram-web-for-2024/"><u>The Beginner's Blueprint  Mastering Telegram Web for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-digital-dimension-state-of-the-art-vr-for-2024/"><u>The Digital Dimension  State-of-the-Art VR for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-fast-track-to-find-insta-follower-lapses/"><u>The Fast Track to Find Insta Follower Lapses</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-selecting-text-enhancement-websites-for-2024/"><u>The Ultimate Guide to Selecting Text Enhancement Websites for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-3-strategies-converting-pinner-visuals-to-audio-for-2024/"><u>Top 3 Strategies  Converting Pinner Visuals to Audio for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-tier-80s-visual-tricks-for-elevated-editing-for-2024/"><u>Top-Tier 80S Visual Tricks for Elevated Editing for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-5-display-choices-for-ps5-for-2024/"><u>Ultimate 5 Display Choices  For PS5 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-gaming-experience-samsung-ue590-freesync-screen-for-2024/"><u>Ultimate Gaming Experience  Samsung UE590 FreeSync Screen for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-nokia-c32-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Nokia C32 FRP Bypass</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-full-potential-of-video-calls-with-zoom-and-gmail-integration-for-2024/"><u>Unlocking Full Potential of Video Calls with Zoom & Gmail Integration for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unrivaled-sonic-union-for-speakers-for-2024/"><u>Unrivaled Sonic Union for Speakers for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/upgrading-your-edit-why-final-cut-pro-outshines-final-cut-express/"><u>Upgrading Your Edit Why Final Cut Pro Outshines Final Cut Express</u></a></li>
+</ul></div>

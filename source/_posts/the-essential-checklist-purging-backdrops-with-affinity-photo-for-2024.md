@@ -1,7 +1,7 @@
 ---
 title: "\"The Essential Checklist  Purging Backdrops with Affinity Photo for 2024\""
-date: 2024-06-04T13:25:14.389Z
-updated: 2024-06-05T13:25:14.389Z
+date: 2024-07-23T07:47:19.091Z
+updated: 2024-07-24T07:47:19.091Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,9 @@ No matter you are a professional content creator or a newbie, we'll be discussin
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Erase a White Background in Affinity Designer
 
 To erase a white background in Affinity Designer, do these steps:
@@ -38,10 +41,17 @@ Now access the **Pixel Persona** section in the left corner of the software scre
 
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
@@ -56,6 +66,9 @@ Step5 In the last step, press the **"Delete"** key on your keyboard to remove th
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Remove a Busy Background in Affinity Designer
 
 If you want to remove a busy background of an image in the Affinity Designer software, follow these steps carefully:
@@ -85,12 +98,18 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
@@ -143,3 +162,61 @@ Hopefully, this article and video can help you create ideal images!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-bypassing-tiktoks-watermarking-for-iphones-how-to-guide/"><u>[New] 2024 Approved  Bypassing TikTok's Watermarking for iPhones – How-To Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-text-transformation-tactics-avoiding-3d-missteps/"><u>[New] Text Transformation Tactics  Avoiding 3D Missteps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-audible-alteration-a-journey-through-cost-free-audio-effects-software/"><u>[New] The Art of Audible Alteration  A Journey Through Cost-Free Audio Effects Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-compact-powerhouse-in-flight-dji-sparks-guide-to-aerial-selfies/"><u>[New] The Compact Powerhouse in Flight  DJI Spark's Guide to Aerial Selfies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-complete-walkthrough-for-android-audio-personalization/"><u>[New] The Complete Walkthrough for Android Audio Personalization</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-photographers-manual-how-to-crop-images-seamlessly-online/"><u>[New] The Photographer's Manual  How To Crop Images Seamlessly Online</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-zooming-your-tiktok-videos/"><u>[New] The Ultimate Guide to Zooming Your TikTok Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-tips-to-share-pre-recorded-videos-live-on-facebook-for-2024/"><u>[New] Tips to Share Pre-Recorded Videos Live on Facebook for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-10-hd-webcams-essential-purchasing-tips/"><u>[New] Top 10 HD Webcams  Essential Purchasing Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-budget-friendly-sites-for-stunning-fx-on-videos/"><u>[New] Top Budget-Friendly Sites For Stunning FX on Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-picks-for-kids-and-first-time-fliers-easy-drone-models/"><u>[New] Top Picks for Kids & First-Time Fliers  Easy Drone Models</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-your-flip-to-flash-with-android/"><u>[New] Transform Your Flip to Flash with Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-your-podcast-potential-on-ios-from-script-to-success/"><u>[New] Unlocking Your Podcast Potential on iOS  From Script to Success</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-controlling-comment-visibility-on-youtube-videos/"><u>[Updated] 2024 Approved  Controlling Comment Visibility on YouTube Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-adding-frames-to-instagram-videos-3-procedures/"><u>[Updated] Adding Frames to Instagram Videos - 3 Procedures</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-beginners-guide-to-ps4-game-broadcasting-with-obs/"><u>[Updated] Beginner's Guide to PS4 Game Broadcasting with OBS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-tailoring-your-streamlabs-obs-experience/"><u>[Updated] Tailoring Your Streamlabs OBS Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-complete-mac-book-on-srt-file-handling/"><u>[Updated] The Complete Mac Book on SRT File Handling</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pioneering-virtual-play-samsungs-most-popular-titles/"><u>2024 Approved  Pioneering Virtual Play  Samsung's Most Popular Titles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-insiders-pathway-to-effective-auditory-notes/"><u>2024 Approved  The Insider’s Pathway to Effective Auditory Notes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-link-between-office-spaces-and-organizational-success/"><u>2024 Approved  The Link Between Office Spaces and Organizational Success</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-pulse-finder-your-free-online-music-buddy/"><u>2024 Approved  The Pulse Finder – Your Free, Online Music Buddy</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-creating-hdr-in-photoshop/"><u>2024 Approved  The Ultimate Guide to Creating HDR in Photoshop</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-windows-10s-best-new-applications-and-games/"><u>2024 Approved  The Ultimate Guide to Windows 10'S Best New Applications & Games</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-writers-guide-to-dialogic-depth-in-screenplays/"><u>2024 Approved  The Writers' Guide to Dialogic Depth in Screenplays</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tickletech-design-easy-entertaining-visuals/"><u>2024 Approved  TickleTech  Design Easy, Entertaining Visuals</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-top-5-virtual-reality-vr-treadmills-review/"><u>2024 Approved  Top 5 Virtual Reality (VR) Treadmills Review</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-itel-p40-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-motorola-moto-g23-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Motorola Moto G23 Fingerprint Lock</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/copyright-clarity-how-to-verify-video-rights-pre-upload/"><u>Copyright Clarity  How to Verify Video Rights Pre-Upload</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo T2x 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-moto-g24-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Moto G24 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Tecno Spark 10 4G? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamline-task-management-with-safaris-picture-in-picture/"><u>In 2024, Streamline Task Management with Safari's Picture In Picture</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-evolution-of-hand-tracking-systems-over-time/"><u>In 2024, The Evolution of Hand Tracking Systems Over Time</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tips-to-effortlessly-insert-music-into-video-editing-sessions/"><u>In 2024, Tips to Effortlessly Insert Music Into Video Editing Sessions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-ranked-pixel-perfection-appweb-software/"><u>In 2024, Top-Ranked Pixel Perfection App/Web Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-trim-the-excess-a-beginners-guide-to-simple-video-cuts-in-windows/"><u>In 2024, Trim the Excess  A Beginner's Guide to Simple Video Cuts in Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/mend-hidden-graphic-card-discrepanrances/"><u>Mend Hidden Graphic Card Discrepanrances</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-types-of-cartoon-styles-you-may-use-for-your-next-marketing-project-for-2024/"><u>New Types of Cartoon Styles You May Use for Your Next Marketing Project for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/reddits-golden-threads-a-commendable-collection-top-10-for-2024/"><u>Reddit's Golden Threads  A Commendable Collection (Top 10) for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedy-for-disabled-configuration-of-screen-preferences/"><u>Remedy for Disabled Configuration of Screen Preferences</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-honor-magic-vs-2-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Honor Magic Vs 2</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-windows-11-movie-file-saving-for-2024/"><u>Step-by-Step  Windows 11 Movie File Saving for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-os-setup-asus-wireless-adapters/"><u>Streamline OS Setup: Asus Wireless Adapters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamsmart-beyond-the-dacast-shell-for-2024/"><u>StreamSmart  Beyond the DaCast Shell for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-editors-edge-advanced-techniques-in-chromatic-manipulation-for-2024/"><u>The Editor's Edge  Advanced Techniques in Chromatic Manipulation for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-evolution-of-business-embracing-vr-tech-for-2024/"><u>The Evolution of Business  Embracing VR Tech for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-filmmakers-guide-to-masterful-panoramic-videos-9-must-know-tips-for-2024/"><u>The Filmmaker's Guide to Masterful Panoramic Videos (9 Must-Know Tips) for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-locating-high-quality-fart-noise-generators-for-sound-design/"><u>Updated 2024 Approved Locating High-Quality Fart Noise Generators for Sound Design</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-final-cut-pro-essentials-working-with-ken-burns-effect-for-engaging-videos/"><u>Updated In 2024, Final Cut Pro Essentials Working with Ken Burns Effect for Engaging Videos</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-how-to-choose-the-best-flac-audio-converter-for-your-needs/"><u>Updated In 2024, How to Choose the Best FLAC Audio Converter for Your Needs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/utilizing-picture-in-picture-feature-across-all-chrome-devices-for-2024/"><u>Utilizing Picture In Picture Feature Across All Chrome Devices for 2024</u></a></li>
+</ul></div>

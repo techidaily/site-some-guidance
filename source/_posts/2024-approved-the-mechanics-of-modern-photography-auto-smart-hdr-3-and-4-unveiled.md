@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Mechanics of Modern Photography  Auto, Smart HDR 3 & 4 Unveiled\""
-date: 2024-06-04T14:05:31.022Z
-updated: 2024-06-05T14:05:31.022Z
+date: 2024-07-23T08:12:03.817Z
+updated: 2024-07-24T08:12:03.817Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81
 
 Computational photography has become increasingly popular in recent years, especially as smartphone cameras have improved in quality and stabilized image sensors have become more affordable for the average consumer.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![different computational photography](https://images.wondershare.com/filmora/article-images/2022/07/what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-1.jpg)
 
 Over time, we’ve seen the introduction of High Dynamic Range (HDR) imaging modes that use software algorithms to produce photographs with an extended range of brightness values, with smart HDR 3 and smart HDR 4 coming to market just this year.
@@ -53,6 +56,9 @@ The table below shows different HDR and their details;
 | **Available on**              | iPhone 12 line, iPhone 13 line                                                                                             | iPhone 11 lineup and iPhone 12 lineup | iPhone Xs and later | iPhone X and newer |
 | **Photo types it works with** | smart HDR works with Portrait and Portrait Lighting modes, panoramic shots, bursts, frames in Live Photos and action shots | single high dynamic range (HDR) image |                     |                    |
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Smart HDR 4 (iPhone 13)
 
 Apple's computational photography system smart HDR 4 is available on iPhone 13.
@@ -67,6 +73,9 @@ For example, a picture of the sun may show more detail in the cloudless sky whil
 
 ![smart hdr 4](https://images.wondershare.com/filmora/article-images/2022/07/what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Smart HDR 3 (iPhone 12)
 
 Apple's computational photography system "smart HDR 3" is available on iPhone 12\. The feature has been upgraded with a new algorithm to create more natural-looking images by removing some of the artifacts that have been found in previous iterations of the technology.
@@ -77,6 +86,9 @@ Apple's computational photography system "smart HDR 3" is available on iPhone 12
 
 In this, we can get A preview of the final image shown as you capture an image and can be used to remove distracting elements from a scene before taking a photo or video.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![smart hdr 3](https://images.wondershare.com/filmora/article-images/2022/07/what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-3.jpg)
 
 ### Smart HDR (iPhone 11)
@@ -89,6 +101,9 @@ Smart HDR is embedded in the iPhone 11 and iPhone 11 Pro that promises to bring 
 * Smart HDR can vastly improve your photos without you doing anything different.
 * It seems to use both an image sensor and a depth map from its TrueDepth camera setup.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![smart hdr](https://images.wondershare.com/filmora/article-images/2022/07/what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-4.jpg)
 
 ### Auto HDR (iPhone X)
@@ -115,6 +130,10 @@ If these rumors prove true, it’s possible that Apple will introduce an even mo
 * 8K video recording is a simple resolution bump for the Pro models. For example, if you record a 4K video at 30 frames per second (fps), then your videos playback at 15 fps when played back on an iPhone.
 * The selfie cameras of the iPhone 14 models will also receive a major upgrade. The new front-facing sensors are said to offer three times as many pixels. These pixels should help keep faces from looking distorted or pixilated while maintaining natural skin tones.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Final words
 
 Computational photography is a technique that takes advantage of the impressive processing power of modern smartphones to create stunning and persuasive pictures. The most common examples of this are the Auto HDR and Smart HDR modes found on many iPhones.
@@ -152,3 +171,57 @@ What is the HDR Feature for iPhone Photos?
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ffective-streaming-across-platforms-including-facebook-and-twitch-for-2024/"><u>[New] Effective Streaming Across Platforms, Including Facebook and Twitch for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-joining-friends-showtime-on-tiktok-with-ease/"><u>[New] Joining Friends’ Showtime on TikTok with Ease</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-leading-streaming-tools-for-online-video-games/"><u>[New] Leading Streaming Tools for Online Video Games</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-maximizing-streaming-experience-with-two-screen-viewing-on-netflix/"><u>[New] Maximizing Streaming Experience with Two-Screen Viewing on Netflix</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-superior-alert-sound-pick-optimal-websites/"><u>[New] Superior Alert Sound Pick  Optimal Websites</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-hidden-paths-to-pristine-stock-photography/"><u>[New] The Hidden Paths to Pristine Stock Photography</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-pace-kings-and-queens-of-the-olympics-year-2022/"><u>[New] The Pace Kings & Queens of the Olympics, Year 2022</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-10-steps-youtube-to-mp3mpeg-conversion-process/"><u>[New] Top 10 Steps  YouTube to MP3/MPEG Conversion Process</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-8-digital-collage-crafting-software/"><u>[New] TOP 8 Digital Collage Crafting Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-upgrade-alert-navigate-changes-with-confidence/"><u>[New] Upgrade Alert  Navigate Changes with Confidence</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-clearing-your-browsers-watched-videos-for-2024/"><u>[Updated] Clearing Your Browser's Watched Videos for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-cutting-edge-strategies-for-transmitting-obs-livestreams-to-facebook/"><u>[Updated] In 2024, Cutting-Edge Strategies for Transmitting OBS Livestreams to Facebook</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-insiders-pathway-to-trustworthy-insta-selfies/"><u>[Updated] In 2024, The Insider’s Pathway to Trustworthy Insta Selfies</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-pro-timer-swiftest-time-lapse-device/"><u>[Updated] Pro Timer  Swiftest Time-Lapse Device</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-silver-medalists-best-dvd-tools-for-sierra-os/"><u>[Updated] Silver Medalists  Best DVD Tools for Sierra OS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-sound-capture-module-for-iphone-24-year/"><u>[Updated] Sound Capture Module for iPhone '24 Year</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-superior-web-destinations-alarm-ringtone-downloads-guide/"><u>[Updated] Superior Web Destinations  Alarm Ringtone Downloads Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tech-analysis-elite-parrot-ar-drone-20/"><u>[Updated] Tech Analysis  Elite Parrot AR Drone 2.0</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-google-chromes-pip-potential-on-all-platforms/"><u>[Updated] Unlocking Google Chrome's PIP Potential on All Platforms</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-walkthrough-transferring-visuals-on-apple-devices/"><u>2024 Approved  Expert Walkthrough  Transferring Visuals on Apple Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revolutionize-note-taking-with-mematic-app/"><u>2024 Approved  Revolutionize Note-Taking with Mematic App</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-zoom-expertise-for-improved-google-meet-visibility/"><u>2024 Approved  The Ultimate Zoom Expertise for Improved Google Meet Visibility</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-30-pro-windows-10-secrets-revealed/"><u>2024 Approved  Top 30 Pro Windows 10 Secrets Revealed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-5-iphone-x-compatible-backdrop-change-tools/"><u>2024 Approved  Top 5 iPhone X-Compatible Backdrop Change Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-6-economical-action-cams-available-for-99-or-below/"><u>2024 Approved  Top 6 Economical Action Cams Available for $99 or Below</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-online-sources-for-high-quality-vector-illustrations/"><u>2024 Approved  Top Online Sources for High-Quality Vector Illustrations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-turning-clutter-into-clarity-managing-massive-tiktok-drafters/"><u>2024 Approved  Turning Clutter Into Clarity  Managing Massive TikTok Drafters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-backdrop-change-kit-pixelpioneers-reveal/"><u>2024 Approved  Ultimate Backdrop Change Kit  PixelPioneer's Reveal</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-uncovering-potential-through-skilled-interviewing/"><u>2024 Approved  Uncovering Potential Through Skilled Interviewing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-utilizing-b-roll-in-video-production-effectively/"><u>2024 Approved  Utilizing B-Roll in Video Production Effectively</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/craft-memorable-content-explore-youtubes-top-10-creative-responses-for-2024/"><u>Craft Memorable Content  Explore YouTube's Top 10 Creative Responses for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/guide-to-altering-your-facebook-background-image/"><u>Guide to Altering Your Facebook Background Image</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-7-easy-steps-for-a-subscriber-surge-on-youtube/"><u>In 2024, 7 Easy Steps for a Subscriber Surge on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-optimize-your-video-conferencing-experience-with-zoom-and-win10/"><u>In 2024, Optimize Your Video Conferencing Experience with Zoom & Win10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streaming-showdown-twitch-versus-youtube-unveiled/"><u>In 2024, Streaming Showdown  Twitch Versus YouTube Unveiled</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamline-creative-processes-efficiently-adding-text-to-videos-with-microsoft-photos/"><u>In 2024, Streamline Creative Processes  Efficiently Adding Text to Videos with Microsoft Photos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-dialogue-in-writing-scripts/"><u>In 2024, The Art of Dialogue in Writing Scripts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-beginners-blueprint-for-winning-animation-in-windows/"><u>In 2024, The Beginner’s Blueprint for Winning Animation in Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-echo-chamber-of-creativity-crafting-compelling-podcast-stories/"><u>In 2024, The Echo Chamber of Creativity  Crafting Compelling Podcast Stories</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-new-speech-potentials-on-chrome-ranked-top-voice-alteration-tools/"><u>In 2024, Unlock New Speech Potentials on Chrome  Ranked Top Voice Alteration Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unpacking-the-power-of-auditory-melds-in-production/"><u>In 2024, Unpacking the Power of Auditory Melds in Production</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/navigating-the-path-to-apple-podcast-acceptance-for-2024/"><u>Navigating the Path to Apple Podcast Acceptance for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-networking-smaller-bizs-video-strategies-for-2024/"><u>Niche Networking  Smaller Biz's Video Strategies for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/reigning-over-micro-drones-the-dji-spark-breakdown-for-selfies-for-2024/"><u>Reigning Over Micro Drones  The DJI Spark Breakdown for Selfies for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-blueprint-for-flawless-srt-construction-for-2024/"><u>The Ultimate Blueprint for Flawless SRT Construction for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tiny-thesis-for-film-storyline-for-2024/"><u>Tiny Thesis for Film Storyline for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/transform-ordinary-pictures-into-viral-masterpieces-on-tiktok-for-2024/"><u>Transform Ordinary Pictures Into Viral Masterpieces on TikTok for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-list-of-top-quality-cost-free-luts-for-2024/"><u>Ultimate List of Top-Quality, Cost-Free LUTs for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-av1-your-initial-compre-point-for-2024/"><u>Understanding AV1  Your Initial Compre Point for 2024</u></a></li>
+</ul></div>

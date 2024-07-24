@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Ultimate Checklist  What Makes DJI Phantom 4 Special?\""
-date: 2024-06-04T10:09:15.355Z
-updated: 2024-06-05T10:09:15.355Z
+date: 2024-07-23T05:48:45.878Z
+updated: 2024-07-24T05:48:45.878Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/cc0866b80e38550ff25e3009719b526ea4484f9d3
 
 **You may also like:** [Top 11 Best DJI Phantom 4 Accessories to Buy >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![dji phantom 4](https://images.wondershare.com/filmora/article-images/dji-phandom-4.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01CFXQZD0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CFXQZD0&linkId=edcac98fb2e38b9359b8299650e268df)
@@ -75,6 +78,9 @@ thumbnail: https://thmb.techidaily.com/cc0866b80e38550ff25e3009719b526ea4484f9d3
 
 #### Design
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dji phantom 4 review](https://images.wondershare.com/filmora/article-images/dji-phantom-4-design.jpg)
 
  The Phantom 4 is similar to the previous version in terms of looks. It is white in color and plastic with sturdy legs to rest on. Two sensors are located on the front and back of the drone and more underneath and to the sides. The camera begins to record on takeoff allowing the drone to find a homing position when ready to return home. The camera hangs below the drone with gimbals that keep it sturdy whatever conditions it is flown in. The arms each have lights so that you can find it easily when in flight.
@@ -97,6 +103,9 @@ thumbnail: https://thmb.techidaily.com/cc0866b80e38550ff25e3009719b526ea4484f9d3
 
 #### Camera
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![dji phantom 4 review](https://images.wondershare.com/filmora/article-images/dji-phantom-4-camera.jpg)
 
  The Phantom 4 has been upgraded to include a 20 megapixel sensor which has 12 dynamic range stops which allows for more detailed shots even in intense light. This improves the performance from its predecessor significantly. The mechanical shutter stops the distortion and makes for smoother footage. The 4K video at 60 fps capabilities increase the quality overall giving users better results.
@@ -121,6 +130,9 @@ Follow @Max Wales
 
 **You may also like:** [Top 11 Best DJI Phantom 4 Accessories to Buy >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![dji phantom 4](https://images.wondershare.com/filmora/article-images/dji-phandom-4.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01CFXQZD0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CFXQZD0&linkId=edcac98fb2e38b9359b8299650e268df)
@@ -166,6 +178,10 @@ Follow @Max Wales
 
 #### Design
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![dji phantom 4 review](https://images.wondershare.com/filmora/article-images/dji-phantom-4-design.jpg)
 
  The Phantom 4 is similar to the previous version in terms of looks. It is white in color and plastic with sturdy legs to rest on. Two sensors are located on the front and back of the drone and more underneath and to the sides. The camera begins to record on takeoff allowing the drone to find a homing position when ready to return home. The camera hangs below the drone with gimbals that keep it sturdy whatever conditions it is flown in. The arms each have lights so that you can find it easily when in flight.
@@ -196,6 +212,9 @@ Follow @Max Wales
 
  The Phantom 4 literally does everything you could need it to. It flies well in all kinds of conditions, reaches great speeds to capture sports play and even avoids objects that would otherwise give users and their drones quite an unhappy ending. As the Phantom 4 is so easy to fly it means that users can concentrate on their footage. With the follow me mode users can literally go hands free and still get great results.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -228,3 +247,55 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-free-video-chatting-software-for-windowsmac-users-uncovered/"><u>[New] In 2024, Free Video Chatting Software for Windows/Mac Users Uncovered</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-apeaksoft-2023-screens-recording-insights/"><u>[Updated] Apeaksoft 2023 Screens Recording Insights</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-cheap-microphones-for-youtubers-on-a-budget-for-2024/"><u>[Updated] Cheap Microphones for Youtubers on a Budget for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-essential-tips-for-mov-saving-on-windows-10/"><u>[Updated] Essential Tips for MOV Saving on Windows 10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-lg-virtual-reality-breakthrough-an-in-depth-analysis/"><u>[Updated] LG Virtual Reality Breakthrough  An In-Depth Analysis</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-map-masters-reveal-top-five-for-gold-collection/"><u>[Updated] Map Masters Reveal  Top Five For Gold Collection</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-step-by-step-process-converting-youtube-clips-into-playful-gifs-for-2024/"><u>[Updated] Step-By-Step Process  Converting YouTube Clips Into Playful GIFs for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-techniques-for-downloading-pinterest-videos-as-mp3s/"><u>[Updated] Techniques for Downloading Pinterest Videos as MP3s</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-audio-integration-tunes-for-your-microsoft-slides/"><u>[Updated] The Art of Audio Integration  Tunes for Your Microsoft Slides</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-essential-price-matrix-top-cloud-storage-firms/"><u>[Updated] The Essential Price Matrix  Top Cloud Storage Firms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-asmr-equipment-for-thoughtful-shoppers-seeking-performance/"><u>[Updated] Top ASMR Equipment for Thoughtful Shoppers Seeking Performance</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-list-leading-vr-biking-rides/"><u>[Updated] Ultimate List  Leading VR Biking Rides</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-scriptsmiths-network/"><u>[Updated] Ultimate Scriptsmiths Network</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleash-creativity-fast-windows-10-photo-edits-made-simple/"><u>[Updated] Unleash Creativity Fast  Windows 10 Photo Edits Made Simple</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-utilization-of-unused-film-clips-tips-and-tricks/"><u>[Updated] Utilization of Unused Film Clips  Tips and Tricks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-vector-image-basics-unveiled-categories-types-and-tools-guide/"><u>[Updated] Vector Image Basics Unveiled  Categories, Types & Tools Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-amplify-your-tiktok-impact-precision-video-editing-with-pro-tools-on-mac/"><u>2024 Approved  Amplify Your TikTok Impact  Precision Video Editing with Pro Tools on Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ranked-the-best-5-iphones-for-effortless-podcast-access/"><u>2024 Approved  Ranked  The Best 5 iPhones for Effortless Podcast Access</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sony-xperia-xz-superiority-showcased-in-4k-video-quality/"><u>2024 Approved  Sony Xperia XZ Superiority Showcased in 4K Video Quality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-artisans-guide-to-podcast-scriptwriting-including-free-samples/"><u>2024 Approved  The Artisan's Guide to Podcast Scriptwriting (Including Free Samples)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-complete-roadmap-to-feeding-your-youtube-plays-with-content/"><u>2024 Approved  The Complete Roadmap to Feeding Your YouTube Plays with Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-time-saving-techniques-from-complicated-srt-to-simplified-txt/"><u>2024 Approved  Time-Saving Techniques  From Complicated SRT to Simplified TXT</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-creativity-pivotal-pixlr-editing-strategies/"><u>2024 Approved  Unleash Creativity  Pivotal Pixlr Editing Strategies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-image-potential-10plus-lut-samples-some-at-zero-cost/"><u>2024 Approved  Unlock Image Potential  10+ LUT Samples, Some at Zero Cost</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-5-smart-tips-about-youtube-shorts-to-grow-your-business/"><u>2024 Approved 5 Smart Tips About YouTube Shorts to Grow Your Business</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-if-you-are-wondering-how-to-play-a-slideshow-in-powerpoint-automatically-this-article-is-for-you-here-we-will-be-looking-at-how-to-add-a-slide/"><u>2024 Approved If You Are Wondering How to Play a Slideshow in PowerPoint Automatically, This Article Is for You. Here We Will Be Looking at How to Add a Slideshow in PowerPoint and Other Relevant Headings that Would Help You Quickly Work on a PowerPoint</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-fixes-for-the-v22h2-update-dilemma-on-win11-os/"><u>Efficient Fixes for the V22H2 Update Dilemma on Win11 OS</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/flair-in-your-makeup-routine-top-tutorial-insights-for-2024/"><u>Flair in Your Makeup Routine  Top Tutorial Insights for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Tecno Phantom V Flip? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-honor-play-7t-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mf4770n-drivers-enhance-windows-11-8-7-integration/"><u>MF4770n Drivers - Enhance Windows 11, 8, 7 Integration</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-the-net-top-tags-for-eye-catching-gamer-content-for-2024/"><u>Navigating the Net  Top Tags for Eye-Catching Gamer Content for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-the-most-comprehensive-selection-of-audio-recording-software/"><u>New 2024 Approved The Most Comprehensive Selection of Audio Recording Software</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-mastering-motion-blur-a-step-by-step-fcp-tutorial-for-2024/"><u>New Mastering Motion Blur A Step-by-Step FCP Tutorial for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/professional-premiere-practices-implementing-inout-effects-for-2024/"><u>Professional Premiere Practices  Implementing In/Out Effects for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-race-for-excellence-av1-vs-vp9-codec-for-2024/"><u>The Race for Excellence  AV1 Vs. VP9 Codec for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-mp4-devices-for-2024/"><u>The Ultimate Guide to MP4 Devices for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-digital-innovators-in-av-media-crafting-for-2024/"><u>Top Digital Innovators in Av Media Crafting for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/total-motion-systems-scrutiny-report-for-2024/"><u>Total Motion Systems Scrutiny Report for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/trusted-agencies-for-safe-follower-additions-for-2024/"><u>Trusted Agencies for Safe Follower Additions for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-gopro-studio-steps-for-time-lapse-magic-for-2024/"><u>Ultimate GoPro Studio Steps for Time Lapse Magic for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-sound-bank-vintage-voice-choices-for-2024/"><u>Ultimate Sound Bank  Vintage Voice Choices for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-the-secrets-maximizing-your-video-content-on-zoom-and-youtube-live-for-2024/"><u>Unlock the Secrets  Maximizing Your Video Content on Zoom & YouTube Live for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-changes-in-sony-bdp-s670-for-2024/"><u>Unveiling Changes in Sony BDP-S670 for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-mysteries-of-firefoxs-pip-mode-for-2024/"><u>Unveiling the Mysteries of Firefox’s PIP Mode for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-secrets-to-successful-zoom-calls-with-android-for-2024/"><u>Unveiling the Secrets to Successful Zoom Calls with Android for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-unbiased-reviews-of-youtube-mp3-converters-for-beginners/"><u>Updated Unbiased Reviews of YouTube MP3 Converters for Beginners</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/voice-over-made-easy-final-cut-pro-tips-and-tricks-for-beginners-for-2024/"><u>Voice Over Made Easy Final Cut Pro Tips and Tricks for Beginners for 2024</u></a></li>
+</ul></div>

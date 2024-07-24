@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Trending Picture Tales  History Revealed\""
-date: 2024-06-04T13:40:29.878Z
-updated: 2024-06-05T13:40:29.878Z
+date: 2024-07-23T07:56:58.495Z
+updated: 2024-07-24T07:56:58.495Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,9 @@ A stock photo meme is an image or video you use to communicate a specific idea. 
 
 So, what are the most popular stock photo memes, and how did they reach this status? Keep reading to find out more.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part1: Hide the Pain Harold
 
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
@@ -39,10 +42,16 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 
 According to Andras, Hide the Pain Harold results from his vacation in Turkey. A professional photographer contacted him to do stock image modeling. During the shoot, the photographer kept telling him to smile, resulting in some photos of Andras appearing to force a smile. This expression led to netizens using his image to express situations where the forced smile is masking your true feelings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![do stock image modeling](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-3.jpg)
 
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## Part2: Distracted Boyfriend
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
@@ -64,10 +73,16 @@ Since then, the meme continues to enjoy mass popularity, including:
 
 The latest version of Distracted boyfriend is a compilation of photos featuring the three models, with the last one showing the women hanging out.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![latest version](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-6.jpg)
 
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## Part3: I Bet He's Thinking About Other Women
 
 ![meme features](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-7.jpg)
@@ -90,12 +105,18 @@ The post references the Toy Story character Buzz Lightyear, with the man contemp
 
 According to sources, the stock photo meme was first featured on Twitter in December 2016.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![stock photo meme](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-10.jpg)
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
 ## Part4: Bonjour Bear
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
 
 Unlike the previous stock image memes, Bonjour Bear was not an instant hit among netizens. The stock image was posted online in 2016 by Uryadnikov Sergey and featured a polar bear peeking through its winter den. However, it began causing a buzz in early 2019, following a Reddit post that included hilarious captions.
@@ -113,6 +134,9 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ## Part5: FAQs
 
 ### 1\. Can you use stock photos for memes?
@@ -121,10 +145,16 @@ Yes, you can use stock photos for memes. However, you need to obtain them from r
 
 This is because not all stock photo providers offer their images with a creative commons license. For example, the Unsplash license allows you to use their stock images for personal or commercial use after making adjustments to the original.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ### 2\. Does copyright law protect memes?
 
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Can you use watermarked stock photos to create memes?
 
 No. Before using watermarked images to create memes, you must get verifiable permission from the rights holder. This is because it violates copyright law and can result in heavy fines or even prison time in extreme circumstances.
@@ -160,3 +190,64 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-cutting-edge-broadcasting-the-social-media-screen-share/"><u>[New] 2024 Approved  Cutting Edge Broadcasting  The Social Media Screen Share</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-peak-hours-for-podcasts-strategic-timing/"><u>[New] 2024 Approved  Peak Hours for Podcasts  Strategic Timing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-dive-into-ar-sticker-technology-and-alternatives/"><u>[New] A Dive Into AR Sticker Technology and Alternatives</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-enhancing-photos-and-videos-with-instagrams-creative-features-for-2024/"><u>[New] Enhancing Photos and Videos with Instagram's Creative Features for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-exploring-the-metaverses-humorous-realms-together/"><u>[New] In 2024, Exploring the Metaverse's Humorous Realms Together</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-ultimate-guide-to-recording-premium-quality-tiktok-footage/"><u>[New] In 2024, Ultimate Guide to Recording Premium Quality TikTok Footage</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-supreme-suggestions-elite-ios-tone-craftsmen/"><u>[New] Supreme Suggestions  Elite iOS Tone Craftsmen</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-swift-cinematic-skills-the-quickest-5-diy-hacks-for-success/"><u>[New] Swift Cinematic Skills  The Quickest 5 DIY Hacks for Success</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-drafting-alluring-vlog-show-content/"><u>[New] The Art of Drafting Alluring Vlog Show Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-gaming-giants-tussle-with-video-powerhouse-youtube/"><u>[New] The Gaming Giant's Tussle with Video Powerhouse YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-insiders-guide-to-leveraging-spotify-ads-effectively/"><u>[New] The Insider's Guide to Leveraging Spotify Ads Effectively</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-adding-linktree-to-tiktok-bios/"><u>[New] The Ultimate Guide to Adding Linktree to TikTok Bios</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-method-changing-account-numbers-on-tiktok/"><u>[New] The Ultimate Method  Changing Account Numbers on TikTok</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-potential-with-android-camera-apps/"><u>[New] Unlocking Potential with Android Camera Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-alternatives-to-sns-hdr-in-a-crowded-space/"><u>[New] Unveiling Alternatives to SNS HDR in a Crowded Space</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-a-detailed-guide-to-crop-your-video-for-instagram/"><u>[Updated] 2024 Approved  A Detailed Guide to Crop Your Video for Instagram</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-aesthetic-alignment-for-online-glamour-content/"><u>[Updated] Aesthetic Alignment for Online Glamour Content</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-best-android-options-10-gb-emulation-tools-for-2024/"><u>[Updated] Best Android Options  10 GB Emulation Tools for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-go-big-or-go-home-selecting-the-most-satisfying-1tbplus-cloud-services/"><u>[Updated] Go Big or Go Home - Selecting the Most Satisfying 1TB+ Cloud Services</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-elevate-youtube-rankings-with-optimized-metadata/"><u>[Updated] In 2024, How to Elevate YouTube Rankings with Optimized Metadata</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-best-options-expert-picks-from-top-9-free-logomakers/"><u>[Updated] Navigating Best Options  Expert Picks From Top 9 Free Logomakers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-edge-best-9-filter-tips-for-live-broadcasts/"><u>2024 Approved  Leading Edge  Best 9 Filter Tips for Live Broadcasts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-mastering-youtube-channel-names-a-complete-list-for-vloggers-keep-it-at-or-below-156-characters/"><u>2024 Approved  Mastering YouTube Channel Names  A Complete List for Vloggers (Keep It at or Below 156 Characters)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamline-your-podcasts-effective-editing-tips-for-garageband-users/"><u>2024 Approved  Streamline Your Podcasts  Effective Editing Tips for GarageBand Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlining-your-workflow-with-zooms-pre-meeting-protocol/"><u>2024 Approved  Streamlining Your Workflow with Zoom's Pre-Meeting Protocol</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-superior-workplace-data-cloud-hubs/"><u>2024 Approved  Superior Workplace Data Cloud Hubs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-syncing-speed-and-quality-in-lunapic-edits/"><u>2024 Approved  Syncing Speed and Quality in LunaPic Edits</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-evolution-and-function-of-modern-vr-helmets/"><u>2024 Approved  The Evolution and Function of Modern VR Helmets</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-20-unencumbered-public-domain-pubg-artifacts/"><u>2024 Approved  Top 20 Unencumbered, Public Domain PUBG Artifacts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-directory-of-classical-tone-archives/"><u>2024 Approved  Ultimate Directory of Classical Tone Archives</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-the-power-of-product-placements-a-comprehensive-guide-for-youtubers/"><u>2024 Approved  Unlock the Power of Product Placements  A Comprehensive Guide for YouTubers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-microsoft-azure-transcription-capabilities/"><u>2024 Approved  Unlocking Microsoft Azure Transcription Capabilities</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/2024-approved-what-is-an-ai-editor/"><u>2024 Approved What Is an AI Editor?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-realme-c33-2023-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/audio-take-from-twitter-video-sources-for-2024/"><u>Audio Take From Twitter Video Sources for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-vivo-s18e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/deciphering-adsense-profits-on-youtube-revenue-per-kv-watched-for-2024/"><u>Deciphering AdSense Profits on YouTube  Revenue per KV Watched for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-engaging-subjects-for-consistent-vlogging/"><u>In 2024, Engaging Subjects for Consistent Vlogging</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-nubia-red-magic-9-proplus-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Nubia Red Magic 9 Pro+ Phone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-enter-the-ispoofer-discord-server-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to enter the iSpoofer discord server On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-reassessing-the-updates-to-sonys-s6500-bdhd-player/"><u>In 2024, Reassessing the Updates to Sony's S6500 BD/HD Player</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ten-practices-to-avoid-vr-motion-sickness/"><u>In 2024, Ten Practices to Avoid VR Motion Sickness</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-cinematographers-playbook-top-5-creative-strategies/"><u>In 2024, The Cinematographer's Playbook  Top 5 Creative Strategies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-complete-guide-to-iphone-sound-personalization/"><u>In 2024, The Complete Guide to iPhone Sound Personalization</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transforming-images-with-dynamic-mosaic-designs/"><u>In 2024, Transforming Images with Dynamic Mosaic Designs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-ultimate-performance-with-best-video-controller-add-ons/"><u>In 2024, Unlock Ultimate Performance with Best Video Controller Add-Ons</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-techniques-for-harmonious-crossfades-in-tracks/"><u>In 2024, Unveiling Techniques for Harmonious Crossfades in Tracks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-virtual-age-present-and-future-challenges/"><u>In 2024, Unveiling the Virtual Age  Present and Future Challenges</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/in-2024-whats-music-video-gif-and-how-to-add-music-to-your-gif-files/"><u>In 2024, Whats Music Video GIF & How to Add Music to Your GIF Files</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/switching-back-from-macos-sierra-to-older-os-x-for-2024/"><u>Switching Back From MacOS Sierra To Older OS X for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-picks-for-personalizing-mbp-screens-with-skins-for-2024/"><u>Top Picks for Personalizing MBP Screens with Skins for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transformative-idea-capture-via-mematic-software-for-2024/"><u>Transformative Idea Capture via Mematic Software for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-the-full-potential-of-youtube-video-interactions-for-2024/"><u>Unlocking the Full Potential of YouTube Video Interactions for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-visual-richness-switching-to-hdr-technology-for-2024/"><u>Unlocking Visual Richness  Switching to HDR Technology for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unraveling-the-mystery-of-vr-gear-selection-wireless-elegance-versus-cable-convenience-for-2024/"><u>Unraveling the Mystery of VR Gear Selection  Wireless Elegance versus Cable Convenience for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-secrets-of-color-mastery-11-tutorials-for-2024/"><u>Unveiling the Secrets of Color Mastery (11 Tutorials) for 2024</u></a></li>
+</ul></div>

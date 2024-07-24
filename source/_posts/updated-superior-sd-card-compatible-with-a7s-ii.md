@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Superior SD Card Compatible with A7S II"
-date: 2024-06-04T16:26:01.240Z
-updated: 2024-06-05T16:26:01.240Z
+date: 2024-07-23T09:41:05.005Z
+updated: 2024-07-24T09:41:05.005Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff
 
 # Best Memory Card for Sony A7S II
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -30,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -67,6 +73,9 @@ thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -121,6 +130,9 @@ Follow @Max Wales
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -158,6 +170,9 @@ Follow @Max Wales
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -196,6 +211,9 @@ Follow @Max Wales
 * Extreme Pro is compatible with SDXC devices.
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -228,3 +246,51 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-step-by-step-guide-to-enhance-video-content-via-srt-transcoding/"><u>[New] Step-by-Step Guide to Enhance Video Content via SRT Transcoding</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-superior-selections-high-capacity-cloud-options/"><u>[New] Superior Selections  High-Capacity Cloud Options</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-system-evolution-unlocked-a-comprehensive-improvement-pathway/"><u>[New] System Evolution Unlocked  A Comprehensive Improvement Pathway</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-10-accessory-collection-for-sj4000/"><u>[New] The Ultimate 10 Accessory Collection for SJ4000</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-time-lapse-technology-breakthroughs-full-slomo-review-2024/"><u>[New] Time-Lapse Technology Breakthroughs  Full SloMo Review, 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-clicker-article-titles-maker/"><u>[New] Top Clicker Article Titles Maker</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-your-videos-potential-with-smooth-narrative-flows/"><u>[New] Unlocking Your Videos' Potential with Smooth Narrative Flows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-practicality-of-smoothing-in-camera-jitters/"><u>[New] Unveiling the Practicality of Smoothing In-Camera Jitters</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-sequential-image-storytelling-on-ig/"><u>[Updated] In 2024, Sequential Image Storytelling on IG</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-subtle-music-level-decrease-for-pcmac-users/"><u>[Updated] Subtle Music Level Decrease for PC/Mac Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-easy-to-learn-art-of-earning-wealth-reddits-ultimate-guide/"><u>[Updated] The Easy-to-Learn Art of Earning Wealth  Reddit's Ultimate Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tips-for-transforming-twitter-videos-into-audio-songs-mp3/"><u>[Updated] Tips for Transforming Twitter Videos Into Audio Songs (MP3)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-8-android-visionaries-for-speedy-videos/"><u>[Updated] Top 8 Android Visionaries for Speedy Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transforming-soundtracks-into-professional-podcasts/"><u>[Updated] Transforming Soundtracks Into Professional Podcasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-travel-film-kit-the-necessary-arsenal/"><u>[Updated] Travel Film Kit  The Necessary Arsenal</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tune-into-unparalleled-music-video-watching-best-android-vids-for-you/"><u>[Updated] Tune Into Unparalleled Music Video Watching  Best Android Vids for You</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-guide-to-zooming-in-on-effective-win11-meetings/"><u>[Updated] Ultimate Guide to Zooming In on Effective Win11 Meetings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-full-screen-browsing-potential-in-safari-for-apple/"><u>[Updated] Unlock Full-Screen Browsing Potential in Safari for Apple</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-professional-subtitle-transformation-at-zero-price/"><u>[Updated] Unlock Professional Subtitle Transformation at Zero Price</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-supreme-sync-audio-player-android-flair/"><u>2024 Approved  Supreme Sync Audio Player, Android Flair</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-techniques-to-write-persuasive-videographic-dialogues/"><u>2024 Approved  Techniques to Write Persuasive Videographic Dialogues</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-compreayer-guide-to-iphone-hdr-mastery/"><u>2024 Approved  The Compreayer Guide to iPhone HDR Mastery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-essentials-of-effective-video-narration-techniques/"><u>2024 Approved  The Essentials of Effective Video Narration Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-5-low-cost-pinterest-video-download-software/"><u>2024 Approved  Top 5 Low-Cost Pinterest Video Download Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-high-quality-video-sequences-via-gopros-burst/"><u>2024 Approved  Unlocking High-Quality Video Sequences via GoPro's Burst</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/enhance-videos-seamlessly-using-youtube-studio-editor-for-2024/"><u>Enhance Videos Seamlessly Using YouTube Studio Editor for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nubia-z50-ultra-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nubia Z50 Ultra Devices | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-harnessing-the-power-of-stories-in-fb-networks/"><u>In 2024, Harnessing the Power of Stories in FB Networks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-htc-u23-frp-by-drfone-android/"><u>In 2024, How Can We Bypass HTC U23 FRP?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-satire-spectacle-youtubes-top-comedic-talent-list/"><u>In 2024, Satire Spectacle  YouTube's Top Comedic Talent List</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-selective-alert-tunes-prime-audio-spots/"><u>In 2024, Selective Alert Tunes  Prime Audio Spots</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-spark-ars-full-potential-with-personalized-lut-implementations/"><u>In 2024, Unlock Spark AR's Full Potential with Personalized LUT Implementations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-secrets-to-premieres-full-screen-mode/"><u>In 2024, Unveiling the Secrets to Premiere's Full Screen Mode</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/master-your-online-presence-top-20-free-apps-to-craft-facebook-videos-for-2024/"><u>Master Your Online Presence  Top 20 Free Apps to Craft Facebook Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tackling-texts-and-gifs-an-experts-meme-making-manual-for-9gag-for-2024/"><u>Tackling Texts and Gifs  An Expert's Meme-Making Manual for 9GAG for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-audio-visual-harmony-youtube-music-inclusion-guide-for-2024/"><u>The Art of Audio-Visual Harmony  YouTube Music Inclusion Guide for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-zen-of-broadcasting-perfecting-zooms-techniques-for-youtube-for-2024/"><u>The Zen of Broadcasting  Perfecting Zoom's Techniques for YouTube for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-christian-church-streaming-platforms-essential-discoveries-for-2024/"><u>Top 10 Christian Church Streaming Platforms  Essential Discoveries for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleash-your-vision-the-best-tiktok-editing-guide-for-2024/"><u>Unleash Your Vision  The Best TikTok Editing Guide for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-speedy-streams-the-noobs-snapchat-guide-for-2024/"><u>Unlocking Speedy Streams  The Noob’s Snapchat Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-ip-and-mac-info-with-windows-powershell/"><u>Unraveling IP and MAC Info with Windows Powershell</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-how-to-promote-your-tiktok-videos-best-8-strategies/"><u>Updated How to Promote Your TikTok Videos Best 8 Strategies</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-speaking-without-words-the-ultimate-collection-of-affordable-audio-to-text-conversion-apps-for-modern-smart-devices/"><u>Updated Speaking Without Words The Ultimate Collection of Affordable Audio-to-Text Conversion Apps for Modern Smart Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/utilizing-no-cost-countdown-efficient-time-management-for-2024/"><u>Utilizing No-Cost Countdown  Efficient Time Management for 2024</u></a></li>
+</ul></div>

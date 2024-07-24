@@ -1,7 +1,7 @@
 ---
 title: "[New] Unrivaled Dramas From the Eightfold Storytelling Sphere"
-date: 2024-06-04T11:02:59.497Z
-updated: 2024-06-05T11:02:59.497Z
+date: 2024-07-23T06:22:08.243Z
+updated: 2024-07-24T06:22:08.243Z
 tags: 
   - screen-recording
   - ai video
@@ -31,16 +31,25 @@ _Be it a blockbuster movie, an indie gem, a play on The Fringe, or the West End 
 
 * [Make your own short movie now](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. Why did we pick these films?
 
 When you look at the top-grossing movies at the box office, it's no surprise that they primarily consist of superhero movies made by big studios with big budgets. Black Widow is the[top-grossing film of 2022](https://www.boxofficemojo.com/chart/top%5Flifetime%5Fgross/?area=XWW) so far, with Shang-Chi and The Legend of the Ten Rings a close second. In third place is F9: The Fast Saga, the ninth installment in the overwhelmingly popular Fast and Furious franchise.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![reason of picking films](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-1.jpg)
 
 Sure, we'd all love to write one of those big blockbusters, but it's going to take a lot of blood, sweat, and writing to earn Marvel's trust. That's why I want to draw attention to the movie that is in fourth place: A Quiet Place Part II. The sequel to 2018's A Quiet Place has grossed over $160 million this year and still has three months to go. Why is this significant? I will explain.
 
 As aspiring screenwriters, it is important for us to focus on markets where we can break through. Some genres don't necessarily require a huge budget or an A-list star to be successful, and that's good news. Making a movie is the beginning of the journey to getting hired to write a superhero movie.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. Scripts examples from 8 genre
 
 ### Best horror scripts
@@ -59,6 +68,9 @@ The screenplay was written by [**Gary Dauberman**](https://en.wikipedia.org/wiki
 
 **_2\. Halloween_**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![halloween](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-3.jpg)
 
 **Writer:** John Carpenter and Debra Hill
@@ -69,6 +81,9 @@ Part of its enduring appeal is the simplicity of its concept: A kid who murdered
 
 **Download the script here:** <https://www.studiobinder.com/blog/halloween-script-screenplay-pdf-download/>
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best comedy scripts
 
 **_1\. 21 Jump Street_**
@@ -99,6 +114,9 @@ That's exactly what new screenwriter [**Kelly Fremon Craig**](https://en.wikiped
 
 _**1\. A Christmas Carol – Large Cast**_Every man has the power to do good.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![a christmas carol is large cast](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-6.jpg)
 
 _**Writer:**_ [Charles Dickens](https://en.wikipedia.org/wiki/Charles%5FDickens)
@@ -109,6 +127,14 @@ When Scrooge's nephew Fred returns the letters Scrooge once wrote to his sister 
 
 _**2\. Angel's Poinsettia**_
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![angel's poinsettia](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-7.jpg)
 
 **Writer:** Sally Painter
@@ -193,6 +219,9 @@ When Jack meets Esther in the park one day, he swears she looks familiar. Althou
 
 **_1\. 2 Guns_**
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![2 guns](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-11.jpg)
 
 **Writers:** Blake Masters (screenplay by) Steven Grant
@@ -215,6 +244,10 @@ Secret Agent James Bond sets out on a mission as 007 in a screenplay that can sh
 
 **_1\. PRIMER_**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![primer](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-13.jpg)
 
 **Writer:** Shane Carruth
@@ -229,6 +262,9 @@ Download the script here: <https://www.takarabio.com/documents/User%20Manual/RR0
 
 **_2\. UNBREAKABLE_**
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![unbreakable](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-14.jpg)
 
 **Writer:** M. Night Shyamalan
@@ -243,6 +279,9 @@ The film stands out in the now crowded genre by avoiding any cataclysmic showdow
 
 **_1\. Cinderella_(1950)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![cinderella 1950](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-15.jpg)
 
 **Writers:** William Peet, Ted Sears, Homer Brightman, Kenneth Anderson, Erdman Penner, Winston Hibler, Harry Reeves, Joe Rinaldi
@@ -255,6 +294,9 @@ The money Cinderella made from its release, subsequent record sales, publishing,
 
 **Writers:** Brenda Chapman, Barry Johnson, Andy Gaskill, Kevin Harkey, Tom Sito, Rick Maki, Burny Mattinson, Lorna Cook, Gary Trousdale, Jorgen Klubien, Larry Leker, Ed Gombert, Mark Kausler, Thom Enriquez, Jim Capobianco, Chris Sanders, Joe Ranft, Francis Glebas
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![the lion king 1994](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-16.jpg)
 
 Like any child of the 90s, I admit to having a soft spot for The Lion King. The film was clearly heavily influenced by biblical stories, the Epic of Sundiatus and Shakespeare's Hamlet. It tells the story of Simba, the destined king of Pride Rock, who runs away guilt-ridden after "blaming" his father's death. The film is the highest-grossing hand-drawn film in history and won two Academy Awards for musical score.
@@ -275,12 +317,18 @@ Have you ever stored various videos and photos on a memory card or on the comput
 
 The key features offered by [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) include 4K editing support, GIF support, noise removal, color tuning, advanced text editor, audio mixer, video stabilization,[scene detection](https://tools.techidaily.com/wondershare/filmora/download/), and an audio equalizer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![make a video with wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-17.jpg)
 
 The 4K editing support feature enables users to edit and export videos at a resolution of up to 4K. The GIF support feature allows importing, editing, and exporting of GIF files. The noise removal feature facilitates removal of unwanted background noise readily.
 
 The [color tuning](https://tools.techidaily.com/wondershare/filmora/download/) feature enables users to adjust the white balance and dynamic range of their clips. The audio mixer feature enables changing the audio of each track. The advanced text editor allows editing the color, size, font, and even animation of the text. The screen recording feature enables recording the screen of the computer and webcam efficiently. The video stabilization feature eliminates the effects of camera shake.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![color tuning](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-18.jpg)
 
 ## Conclusion
@@ -312,3 +360,38 @@ Creating video content that can potentially go viral is no longer a complicated 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-experience-engaged-youtube-exchanges/"><u>[New] Experience Engaged YouTube Exchanges</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-blueprint-for-srt-file-excellence/"><u>[New] The Ultimate Blueprint for SRT File Excellence</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-comprehensive-techniques-for-moving-media-from-iphones/"><u>[Updated] Comprehensive Techniques for Moving Media From iPhones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-subtitle-mastery-made-easy-10-free-online-tools/"><u>[Updated] Subtitle Mastery Made Easy - 10 Free Online Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-swift-visualizer-windows-high-speed-image-viewer/"><u>[Updated] Swift Visualizer - Windows High-Speed Image Viewer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-taking-the-plunge-a-stepwise-strategy-to-set-up-your-personal-tech-review-platform/"><u>[Updated] Taking the Plunge  A Stepwise Strategy to Set Up Your Personal Tech Review Platform</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-cinematographers-blueprint-for-simple-water-vids/"><u>[Updated] The Cinematographer's Blueprint for Simple Water Vids</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tips-to-trim-down-lag-during-xbox-zoom-sessions/"><u>[Updated] Tips to Trim Down Lag During Xbox-Zoom Sessions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-premier-sound-storylines/"><u>[Updated] Top Premier Sound Storylines</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-list-of-accessibility-8-premium-free-mp3-grabber-apps-android/"><u>[Updated] Ultimate List of Accessibility  8 Premium Free MP3 Grabber Apps (Android)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleash-the-power-of-zoom-with-these-tips/"><u>[Updated] Unleash the Power of Zoom with These Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-hidden-potential-boost-productivity-essential-activities-during-podcast-sessions/"><u>[Updated] Unlock Hidden Potential, Boost Productivity  Essential Activities During Podcast Sessions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-metaverse-milestones-top-10-movies-that-transcend-our-own-universe/"><u>2024 Approved  Metaverse Milestones  Top 10 Movies That Transcend Our Own Universe</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamline-your-screen-share-with-enhanced-zoom-on-google-meet/"><u>2024 Approved  Streamline Your Screen Share with Enhanced Zoom on Google Meet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-kid-friendly-drone-guide-for-first-flyers/"><u>2024 Approved  The Ultimate Kid-Friendly Drone Guide for First Flyers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-toolwiz-for-professionals-a-thorough-app-assessment/"><u>2024 Approved  Toolwiz for Professionals  A Thorough App Assessment</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-best-live-stream-tools-for-gamers/"><u>2024 Approved  Unveiling Best Live-Stream Tools for Gamers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-beginners-guide-to-blending-images-crafting-videographics-in-pixiz/"><u>A Beginner's Guide to Blending Images, Crafting Videographics in Pixiz</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-apple-iphone-7-plus-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your Apple iPhone 7 Plus Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-realme-c55-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Realme C55? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Poco X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-techniques-for-interpreting-video-reactions-on-youtube/"><u>In 2024, Techniques for Interpreting Video Reactions on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essential-iphones-guide-to-great-night-images/"><u>In 2024, The Essential iPhones Guide to Great Night Images</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-swift-guide-to-validate-your-tiktok-age/"><u>In 2024, The Swift Guide to Validate Your TikTok Age</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-top-five-flying-toys-for-youth/"><u>In 2024, The Top Five Flying Toys for Youth</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-selecting-and-utilizing-top-6-gopro-attachments/"><u>In 2024, The Ultimate Guide to Selecting & Utilizing Top 6 GOPRO Attachments</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-6-choices-in-helmet-integrated-gopro-systems-explained/"><u>In 2024, Top 6 Choices in Helmet-Integrated GoPro Systems Explained</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-unrestricted-data-saver-solutions/"><u>In 2024, Top Unrestricted Data Saver Solutions</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-6-essential-video-audio-dubbing-tools-for-pc-users-for-2024/"><u>New 6 Essential Video Audio Dubbing Tools for PC Users for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/reinstall-drivers-with-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Reinstall drivers with Device Manager on Windows 11 & 10</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/what-is-audio-ducking-and-how-to-use-it-in-filmora/"><u>What Is Audio Ducking and How to Use It in Filmora</u></a></li>
+</ul></div>

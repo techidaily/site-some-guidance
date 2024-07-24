@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  'Tis the Tape!'  A 1992 Rewind at Goofy's Cinema\""
-date: 2024-06-04T10:19:59.209Z
-updated: 2024-06-05T10:19:59.209Z
+date: 2024-07-23T05:54:53.750Z
+updated: 2024-07-24T05:54:53.750Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,9 @@ Some movies have this aura that leaves a lasting impression on you. Certain film
 
 This movie was an adventure that resonated with many kids of that era. Moreover, the movie's edits and visual effects added to its charm. If 90s kids want to recreate the movie's nostalgic feel can create using certain effects. You can use **a Goofy Movie VHS effect** to take yourself back to the fun-filled days of the 90s.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## Part 1: Reviewing The Goofy Movie 1995
 
 The Goofy Movie is a heartwarming film about the father-son bond. When Max gets into trouble due to a school prank, his dad, Goofy, decides to take him on a trip. However, Max faces a dilemma as he has to miss his first date with Roxanne, the girl he likes. Max lies to Roxanne to avoid disappointment, claiming that he and his father are going to a concert instead.
@@ -30,6 +33,10 @@ Throughout their journey, Goofy and Max learn to communicate and understand each
 
 The movie brings joy and laughter to viewers of all ages. It teaches us that love and understanding can bridge the gap between generations. Furthermore, we can solve problems and even misunderstandings through communication. This timeless classic reminds us of the significance of cherishing our relationships. Lastly, Goofy and his son attended the rock music concert at the movie's end.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![goofy movie poster](https://images.wondershare.com/filmora/article-images/2023/goofy-vhs-movie-poster.jpg)
 
 **Add VHS Effect to Video**
@@ -80,6 +87,9 @@ Such tapes became a valuable resource for film education and study. Film schools
 
 [Add VHS Effect](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -96,18 +106,27 @@ Launch Wondershare Filmora and open the “Stock Media” tab. Locate “Solid C
 
 Drag and drop the "VHS Rewind" effect from the same tab onto the timeline. Further, place the effect over the previous layer and change its alpha value to 10\. Next, place the "Strong Glitch" effect over the previous layer, adjust its alpha value to 25, and click "OK."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add rewind and glitch](https://images.wondershare.com/filmora/article-images/2023/add-rewind-and-glitch.jpg)
 
 ##### Step 3Apply the Chromatic Aberration and VCR Distortion Effect
 
 Continue to drag and place the "Chromatic Aberration" effect over the previous layer. Set the parameters of Fade and Alpha, 0.05 and 60, respectively. Go to "Effects" and type "distortion" in the search bar and find the "VCR Distortion" effect. Then, drag the effect onto the timeline, place it over the previous layer, and change the alpha value to 25.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add chromatic aberration and distortion](https://images.wondershare.com/filmora/article-images/2023/add-chromatic-aberration-and-distortion.jpg)
 
 ##### Step 4Include the Glitch Distortion and Apply the Distort Effect
 
 Proceed to drag and drop the "Glitch Distortion" effect and place it over the previous layer. Also, adjust the alpha value of the effect to 30\. Continue to drag and drop the "Distort" effect to the timeline, and repeat the same process. However, set the following parameters Amplitude to 15, Frequency to 17, and “Opacity” to 0.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![add glitch distortion to preset](https://images.wondershare.com/filmora/article-images/2023/add-glitch-distortion-to-preset.jpg)
 
 ##### Step 5Export Your Edited Video
@@ -144,3 +163,41 @@ In conclusion, The Goofy Movie holds a special place in the hearts of 90s kids. 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-pixel-pro-complimentary-photo-beautification-for-smartphones/"><u>[New] Pixel Pro  Complimentary Photo Beautification for Smartphones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-supreme-selection-ideal-sierra-dvd-and-video-apps/"><u>[New] Supreme Selection  Ideal Sierra Dvd & Video Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-solo-audio-stardom-stepwise-creation/"><u>[New] The Art of Solo Audio Stardom  Stepwise Creation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-excellent-cricket-broadcasting/"><u>[New] The Ultimate Guide to Excellent Cricket Broadcasting</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-toonbox-complete-insight-for-24-year/"><u>[New] ToonBox Complete Insight for '24 Year</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-tips-for-creating-highly-sharable-insta-unpacked-content/"><u>[New] Top Tips for Creating Highly Sharable Insta Unpacked Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-trailblazers-in-virtual-reality-experience/"><u>[New] Trailblazers in Virtual Reality Experience</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ultimate-mac-visuals-plus-acoustics-scribing-tool/"><u>[New] Ultimate Mac Visuals + Acoustics Scribing Tool</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-launch-a-seamless-live-experience-on-discord-with-these-steps/"><u>[Updated] In 2024, Launch a Seamless Live Experience on Discord with These Steps</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/10-viral-culinary-tiktoks-to-watch/"><u>10 Viral Culinary TikToks to Watch</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-demystifying-the-process-of-submitting-videos-on-youtube/"><u>2024 Approved  Demystifying the Process of Submitting Videos on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlining-your-workflow-with-mac-preview-complete-guide/"><u>2024 Approved  Streamlining Your Workflow with Mac Preview  Complete Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tailor-your-tweets-exceptional-video-to-twitch-tools/"><u>2024 Approved  Tailor Your Tweets  Exceptional Video to Twitch Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-quick-route-to-joy-embracing-the-ifunny-meme-app/"><u>2024 Approved  The Quick Route to Joy  Embracing the iFunny Meme App</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-seamless-tutorial-for-image-background-cleanup-on-canva/"><u>2024 Approved  The Seamless Tutorial for Image Background Cleanup on Canva</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-8-web-archives-of-3d-letterforms/"><u>2024 Approved  Top 8 Web Archives of 3D Letterforms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unraveling-drone-use-in-the-now-and-next-frontier/"><u>2024 Approved  Unraveling Drone Use in the Now & Next Frontier</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-utilizing-top-users-to-increase-visibility/"><u>2024 Approved  Utilizing Top Users to Increase Visibility</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-issue-resolved-nvidia-driver-fixed/"><u>Display Issue Resolved: Nvidia Driver Fixed</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-gamers-capturing-solutions-for-2024/"><u>Elite Gamers' Capturing Solutions for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-realme-c33-2023-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Realme C33 2023.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-how-to-shoot-underwater-video-easily-with-7-tips/"><u>In 2024, How to Shoot Underwater Video Easily (with 7 Tips)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-master-your-hashtags-the-path-to-6-figure-youtube-success/"><u>In 2024, Master Your Hashtags  The Path to 6-Figure Youtube Success</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-step-into-leadership-role-comprehensive-guide-and-review-of-powerdirector/"><u>In 2024, Step Into Leadership Role - Comprehensive Guide & Review of PowerDirector</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-artisans-guide-to-blending-visuals-and-melodies-in-canvas-videos/"><u>In 2024, The Artisan's Guide to Blending Visuals & Melodies in Canvas Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essentials-for-becoming-a-top-notch-interviewer/"><u>In 2024, The Essentials for Becoming a Top-Notch Interviewer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-20-unrestricted-zero-cost-pubg-snapshits/"><u>In 2024, Top 20 Unrestricted, Zero-Cost PUBG Snapshits</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-guide-to-chose-the-best-live-platform/"><u>In 2024, Ultimate Guide to Chose the Best Live Platform</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-creative-potential-adding-text-to-windowsmac-images/"><u>In 2024, Unlock Creative Potential  Adding Text to Windows/Mac Images</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-top-gopro-models-max-vs-hero-11/"><u>In 2024, Unveiling the Top GoPro Models  Max Vs. Hero 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/maximizing-video-quality-with-gopro-max-or-hero-11-for-2024/"><u>Maximizing Video Quality with GoPro  Max or Hero 11 for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-oneplus-ace-2v-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For OnePlus Ace 2V Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-color-grading-101-unifying-your-video-clips-in-powerdirector/"><u>Updated 2024 Approved Color Grading 101 Unifying Your Video Clips in PowerDirector</u></a></li>
+</ul></div>

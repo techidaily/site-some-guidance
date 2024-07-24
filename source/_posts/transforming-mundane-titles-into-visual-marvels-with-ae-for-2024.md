@@ -1,7 +1,7 @@
 ---
 title: "Transforming Mundane Titles Into Visual Marvels with AE for 2024"
-date: 2024-06-04T12:15:29.304Z
-updated: 2024-06-05T12:15:29.304Z
+date: 2024-07-23T07:05:34.698Z
+updated: 2024-07-24T07:05:34.698Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,9 @@ Along with After Effects source text effect types, we have illustrated how you c
 * [AE Alternative to Edit Text Effects in Video](#part3)
 * [Related FAQs of Title Effects in After Effects](#part4)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1\. 8 Popular Text Title Effects Types in AE
 
 There are certain properties and parameters associated with text effects and animations in After Effects. You need to get a complete overview of these types so that you can adjust them and come up with stunning text animations in After Effects.
@@ -69,30 +72,49 @@ Similarly, the stroke color can be changed and you can create an animation with 
 
 If you want your text to be distorted and unusual, the skew parameter is there for you in After Effects. Skew means the character will not stay parallel and at right angles. You can adjust the skew value make texts distorted and this is useful in several text animations where distorted texts become normal texts. You can also skew texts in respect to different axis for creative animation.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 7\. Tracking
 
 Tracking refers to the spacing between the characters in a word for a text. You must have seen so many different types of text animations where the spacing between the characters is changing. You can create amazing funny and eye-catching text effects in After Effects by combining tracking and keyframe properly. Along with tracking, there is line anchor that determines the alignment of tracking. Similarly, there is line spacing parameter that controls the spacing between the lines.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ### 8\. Keyframe
 
 Keyframe is like stretching two points into multiple points and for every point, you can change the value of the different parameters we have mentioned. When different keyframes have different parameters, the text will automatically animate once you play the video.
 
 Therefore, keyframes are the building blocks for text animations and you have to use keyframes to create all the different online text effects. You can put the keyframes far apart or close and speed up or slow down the animation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Part 2\. How to Edit Text Effects in Videos with AE
 
 Now that you know the different animation parameters and text effect types, it is time to combine the parameters and animate the text. First of all, you should create a text layer with the desired source text After Effects. Then you can select a text effect preset and apply it to the text layer. Thereafter, you can animate the text by editing the different parameters and properties we have mentioned along with keyframes. Here are the steps to add and edit text effects in videos with AE.
 
 Step1 Go to Tool panel, click on Type tool. Click on Composition panel and type in your text. Go to Characters and Paragraph section and adjust the text style parameters.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![text style parameters after effects](https://images.wondershare.com/filmora/article-images/2022/09/text-style-parameters-after-effects.jpg)
 
 Step2 Go to Effects and Presets panel, search for the desired text effect preset that you want to apply on your text. Drag and drop the selected preset on the text layer and you will see your text getting transformed instantly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![preview effects and presets ae](https://images.wondershare.com/filmora/article-images/2022/09/preview-effects-and-presets-ae.jpg)
 
 Step3 Go to Timeline and click on the text layer to expand it. Click on Animate option and select any property that you want to adjust and create animation based on the parameters. Go to Keyframe section and add keyframes and change parameters for different keyframes for the text to animate.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![add keyframes in after effects](https://images.wondershare.com/filmora/article-images/2022/09/add-keyframes-in-after-effects.jpg)
 
 Apart from the animate option and its parameters, there are several parameters such as transform that you can adjust to edit the text effect as per your preference.
@@ -107,6 +129,9 @@ If you are not comfortable with After Effects and you are looking for a better a
 
 Step1 Install Wondershare Filmora on your computer and launch the application. Click on New Project and drag and drop your video clip on Project Media folder.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![install wondershare filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 Step2 Drag and drop the video clip onto timeline. Go to Titles option and you will see different categories of text effects on the left panel. Select any one of text effect templates and drop onto the timeline above the background video.
@@ -119,6 +144,10 @@ Step3 Double-click on the text layer on the timeline to edit the text preset. Yo
 
 Step4 Go to Animation section and click on Advanced button. Change different parameters under Customize section such as Blue, Opacity, Shadow, and much more. You can create keyframes on the timeline like AE and edit parameters as per your preference.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![add animation text in filmora](https://images.wondershare.com/filmora/article-images/2022/09/add-animation-text-in-filmora.jpg)
 
 ## Part 4\. Related FAQs of Title Effects in After Effects
@@ -160,3 +189,45 @@ Part 1\. 8 Popular Text Title Effects Types in AE
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-explore-engaging-exchange-zones/"><u>[New] 2024 Approved  Explore Engaging Exchange Zones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-twitch-to-youtube-master-stream-sharing-techniques/"><u>[New] 2024 Approved  From Twitch to YouTube  Master Stream Sharing Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pros-cons-and-guide-to-utilizing-samsung-photo-editor/"><u>[New] Pros, Con's, and Guide to Utilizing Samsung PHOTO EDITOR</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-sweeten-your-messaging-top-phrases-to-impact-audiences/"><u>[New] Sweeten Your Messaging  Top Phrases to Impact Audiences</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-essential-list-of-premium-free-srt-translators/"><u>[New] The Essential List of Premium FREE SRT Translators</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-peoples-take-on-vllo/"><u>[New] The People's Take on VLLO</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unrivaled-streaming-experience-ranking-the-leaders/"><u>[New] Unrivaled Streaming Experience  Ranking the Leaders</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-secrets-of-morphvox-sound-adjustment/"><u>[New] Unveiling the Secrets of MorphVOX Sound Adjustment</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-leveraging-youtubes-community-how-to-find-and-create-collab-videos/"><u>[Updated] Leveraging YouTube's Community  How to Find & Create Collab Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamline-iphone-videos-size-and-length-optimization/"><u>[Updated] Streamline iPhone Videos  Size & Length Optimization</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamlined-video-conferencing-utilizing-the-power-of-zoom-in-win10/"><u>[Updated] Streamlined Video Conferencing  Utilizing the Power of Zoom in Win10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-essential-manual-for-simplified-live-streamers/"><u>[Updated] The Essential Manual for Simplified Live Streamers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-blueprint-for-tiktok-media-transfer/"><u>[Updated] The Ultimate Blueprint for TikTok Media Transfer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-no-charge-subtitle-makers-srt/"><u>[Updated] The Ultimate Guide to No-Charge Subtitle Makers (SRT)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transforming-your-iphone-footage-into-vr/"><u>[Updated] Transforming Your iPhone Footage Into VR</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-xiaomi-redmi-note-12-proplus-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Xiaomi Redmi Note 12 Pro+ 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-samsung-galaxy-f14-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Samsung Galaxy F14 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tech-trends-spotlight-5-cutting-edge-camcorders-for-slow-motion/"><u>In 2024, Tech Trends Spotlight  5 Cutting-Edge Camcorders for Slow Motion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-influence-essential-marketing-expressions-explained/"><u>In 2024, The Art of Influence  Essential Marketing Expressions Explained</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essential-checklist-for-using-zoom-on-your-windows-pc/"><u>In 2024, The Essential Checklist for Using Zoom on Your Windows PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-10-free-harmonies-for-deep-calm-meditation-sessions/"><u>In 2024, Top 10 Free Harmonies for Deep, Calm Meditation Sessions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-home-filmmaking-tricks-the-quick-and-easy-guide/"><u>In 2024, Top Home Filmmaking Tricks  The Quick and Easy Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-twitch-replay-magic-stream-control-secrets/"><u>In 2024, Twitch Replay Magic  Stream Control Secrets</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/live-image-processing-into-continuous-action-frames-for-2024/"><u>Live Image Processing Into Continuous Action Frames for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-secret-to-making-vertical-videos-work-on-social-media-its-not-what-you-think/"><u>New 2024 Approved The Secret to Making Vertical Videos Work on Social Media (Its Not What You Think!)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-creative-climb-steps-towards-thriving-in-graphic-design-for-2024/"><u>The Creative Climb  Steps Towards Thriving in Graphic Design for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-most-memorable-2022-ice-sculpture-moves-for-2024/"><u>The Most Memorable 2022 Ice Sculpture Moves for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-top-cloud-stores-on-android-for-2024/"><u>The Ultimate Guide to Top Cloud Stores on Android for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-oppo-k11-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Oppo K11 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-infinix-note-30-pro-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Infinix Note 30 Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-7-streaming-tools-for-mac-os-x-for-2024/"><u>Top 7 Streaming Tools for Mac OS X for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-tier-digital-workshop-title-maker-for-2024/"><u>Top-Tier Digital Workshop Title Maker for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/traffic-lure-top-artisan-for-2024/"><u>Traffic Lure Top Artisan for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-collection-free-3d-text-psds-galore-for-2024/"><u>Ultimate Collection  FREE 3D Text PSDs Galore for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/unveiling-the-elite-video-cameras-for-2-point-zero-four-two-for-2024/"><u>Unveiling the Elite Video Cameras for 2 Point Zero Four Two for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-top-10-timing-apps-for-weddings-on-smartphones-for-2024/"><u>Unveiling the Top 10 Timing Apps for Weddings on Smartphones for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Streamlined Techniques for Discovering Highly Engaged YouTube Remarks\""
-date: 2024-06-04T13:24:24.112Z
-updated: 2024-06-05T13:24:24.112Z
+date: 2024-07-23T07:46:49.071Z
+updated: 2024-07-24T07:46:49.071Z
 tags: 
   - screen-recording
   - ai video
@@ -63,8 +63,14 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to See Liked Comments on YouTube?
 
 YouTube is a service that is available for free, and it may be a terrific place for teenagers to find interest. Many young people use YouTube to watch comedy shows, how-to videos, recipes, hacks, and music videos. Teenagers also use the video-sharing platform to subscribe to other YouTubers and famous personalities and to follow their favorite vloggers (video bloggers).
@@ -81,10 +87,16 @@ But, if you want to retrace the videos you commented on and the videos/comments 
 
 Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![find your data in youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-your-data-in-youtube.jpg)
 
 Step2 Scroll down a little bit and click the **More** button.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
 
 Step3 Click the **Comments** section.
@@ -93,6 +105,9 @@ Step3 Click the **Comments** section.
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![your youtube comments date](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-comments-date.jpg)
 
 To see videos/comments you liked or disliked, please follow these steps as continuation:
@@ -107,6 +122,9 @@ Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Cl
 
 Now you will see the videos you liked or disliked and also the comments you liked or disliked, including the date when you liked or disliked the video/comment.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![date likes videos youtube](https://images.wondershare.com/filmora/article-images/2022/11/date-likes-videos-youtube.jpg)
 
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
@@ -115,6 +133,9 @@ This article tells you that you can't see who liked or disliked a comment, but y
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -185,3 +206,53 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unlocking-potential-snapchats-business-toolkit/"><u>[New] 2024 Approved  Unlocking Potential  Snapchat's Business Toolkit</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-basic-guide-to-modify-clown-voiceprint-in-windoze-pc/"><u>[New] Basic Guide to Modify Clown Voiceprint in Windoze PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-cinematic-sequence-best-video-cameras-for-extended-slow-motion/"><u>[New] Cinematic Sequence  Best Video Cameras for Extended Slow Motion</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-elite-4k-recording-units-our-favorites-of-18/"><u>[New] Elite 4K Recording Units  Our Favorites of 18</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-swift-transformation-androids-best-vid-upgrades/"><u>[New] Swift Transformation  Android's Best Vid Upgrades</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-dialogue-in-writing-scripts/"><u>[New] The Art of Dialogue in Writing Scripts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-fast-track-building-elegant-google-photo-collage-art/"><u>[New] The Fast Track  Building Elegant Google Photo Collage Art</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-live-streaming-mic-guide-choosing-from-the-best-6/"><u>[New] The Ultimate Live-Streaming Mic Guide  Choosing From the Best 6</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-virtual-reality-development-tools-gamers/"><u>[New] Top Virtual Reality Development Tools Gamers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-uncover-your-photos-true-colors-with-picart/"><u>[New] Uncover Your Photo's True Colors with PicArt</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-avoid-the-spinning-room-top-5-vr-motion-control-techniques/"><u>[Updated] 2024 Approved  Avoid the Spinning Room  Top 5 VR Motion Control Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-review-analyzing-androids-lightroom/"><u>[Updated] Comprehensive Review  Analyzing Android's Lightroom</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-direct-youtube-to-dazzling-gif-creation-with-no-downloads/"><u>[Updated] Direct YouTube to Dazzling Gif Creation with No Downloads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-luminous-language-the-secret-of-dynamic-story-titles/"><u>[Updated] Luminous Language  The Secret of Dynamic Story Titles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-strategies-for-skipping-virtual-learning-videos/"><u>[Updated] Strategies for Skipping Virtual Learning Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-subtlety-in-volume-reduction-for-audacity-projects/"><u>[Updated] Subtlety in Volume Reduction for Audacity Projects</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-essential-role-of-voice-in-visual-content/"><u>[Updated] The Essential Role of Voice in Visual Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-science-behind-stopping-photo-booth-movies/"><u>[Updated] The Science Behind Stopping Photo Booth Movies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-trending-stock-images-and-behind-the-scenes-stories/"><u>[Updated] Top Trending Stock Images & Behind-the-Scenes Stories</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transformative-techniques-applying-luts-for-dynamic-effects-in-after-effects/"><u>[Updated] Transformative Techniques  Applying LUTs for Dynamic Effects in After Effects</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-understanding-the-edge-of-av1-in-video-encoding/"><u>[Updated] Understanding the Edge of AV1 in Video Encoding</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tactical-approach-for-finalizing-a-dormant-linkedin-profile/"><u>2024 Approved  Tactical Approach for Finalizing a Dormant LinkedIn Profile</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-optimizing-windows-media-players-audio-operations-from-cds/"><u>2024 Approved  The Art of Optimizing Windows Media Player's Audio Operations  From Cds</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-essential-manual-to-acquiring-final-cut-pro-gratis/"><u>2024 Approved  The Essential Manual to Acquiring Final Cut Pro Gratis</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-future-of-3d-color-grading-tools/"><u>2024 Approved  The Future of 3D Color Grading Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-checklist-for-starting-a-live-feed/"><u>2024 Approved  The Ultimate Checklist for Starting a Live Feed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-8-android-visionaries-for-speedy-videos/"><u>2024 Approved  Top 8 Android Visionaries for Speedy Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-guide-to-premium-gopro-case-selection/"><u>2024 Approved  Ultimate Guide to Premium GoPro Case Selection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unrivaled-video-tech-for-apple-phones/"><u>2024 Approved  Unrivaled Video Tech for Apple Phones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-zero-price-green-screen-resources/"><u>2024 Approved  Zero-Price Green Screen Resources</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transforming-simple-sessions-into-high-end-audacity-recordings/"><u>In 2024, Transforming Simple Sessions Into High-End Audacity Recordings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleashing-your-funny-bone-a-stepwise-guide-to-making-memes-on-9gag/"><u>In 2024, Unleashing Your Funny Bone  A Stepwise Guide to Making Memes on 9GAG</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-full-screen-browsing-potential-in-safari-for-apple/"><u>In 2024, Unlock Full-Screen Browsing Potential in Safari for Apple</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-best-live-stream-tools-for-gamers/"><u>In 2024, Unveiling Best Live-Stream Tools for Gamers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-magic-behind-film-plots/"><u>In 2024, Unveiling the Magic Behind Film Plots</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-to-webm-the-finest-video-converters-unveiled/"><u>In 2024, YouTube-to-WebM  The Finest Video Converters Unveiled</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/maximizing-your-firefox-multitasking-with-ffxp/"><u>Maximizing Your Firefox Multitasking with FFXP</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-authors-recommended-the-best-text-voice-generators-for-all-platforms-for-2024/"><u>New Authors Recommended The Best Text Voice Generators for All Platforms for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamlined-process-for-hassle-free-hdr-shots-for-2024/"><u>Streamlined Process for Hassle-Free HDR Shots for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-upward-landscapes-with-phones-for-2024/"><u>The Art of Upward Landscapes with Phones for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-enhanced-experience-of-movavi-video-pro-for-2024/"><u>The Enhanced Experience of Movavi Video Pro for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tips-for-dimming-windows-and-mac-music-volume-for-2024/"><u>Tips for Dimming Windows & Mac Music Volume for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-5-streaming-software-that-will-amaze-your-mac-users-for-2024/"><u>Top 5 Streaming Software That Will Amaze Your Mac Users for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-ranking-humor-image-editor-for-2024/"><u>Top-Ranking Humor Image Editor for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-videos-for-free-leading-enhancement-pages-for-2024/"><u>Transform Videos for Free  Leading Enhancement Pages for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-hd-upgrade-tool-windows-mac-and-online-conversion-for-2024/"><u>Ultimate HD Upgrade Tool  Windows, Mac & Online Conversion for 2024</u></a></li>
+</ul></div>

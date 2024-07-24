@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Mac Preview  A Compreranary Reference Guide\""
-date: 2024-06-04T16:02:27.661Z
-updated: 2024-06-05T16:02:27.661Z
+date: 2024-07-23T09:25:55.555Z
+updated: 2024-07-24T09:25:55.555Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/99bd3a8517ed5c451f9f836179e6586efe05dbc59
 
 # How to Use Preview App on Mac
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -36,6 +39,9 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -64,6 +70,9 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -80,6 +89,9 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -108,6 +120,9 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -124,6 +139,9 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -184,6 +202,9 @@ Choose a destination folder in the **Where** field, select your preferred format
 * Select your preferred output format for all the images from the **Format** drop-down list
 * Click **Choose** to convert all the images in a single go
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -200,6 +221,9 @@ The **Preview app** is a built-in program in macOS, and works as a default viewe
 
 That said, the sections below explain **how to use Preview on Mac** for elementary picture editing like rotating, cropping, adding annotations, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
@@ -234,6 +258,9 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -250,6 +277,9 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -294,6 +324,9 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -386,3 +419,42 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-8-tips-to-create-attractive-instagram-unboxing-reels/"><u>[New] 8 Tips to Create Attractive Instagram Unboxing Reels</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streaming-success-without-xsplit/"><u>[New] Streaming Success Without Xsplit</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamline-stress-effective-edits-for-lifeless-bigger-tiktok-drafters/"><u>[New] Streamline Stress  Effective Edits for Lifeless, Bigger TikTok Drafters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-battle-of-accessible-viewerships-google-vs-samsung-headsets/"><u>[New] The Battle of Accessible Viewerships  Google Vs. Samsung Headsets</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-clock-companion-for-wedding-planners-and-couples/"><u>[New] The Ultimate Clock Companion for Wedding Planners & Couples</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transforming-still-faces-picsarts-motion-blur-magic/"><u>[New] Transforming Still Faces  Picsart's Motion Blur Magic</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-psd-shadow-gradient/"><u>[New] Ultimate PSD Shadow Gradient</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-vector-insight-for-beginners-basic-forms-and-choice-tools/"><u>[New] Vector Insight for Beginners  Basic Forms and Choice Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-value-in-cloud-storage-a-2024-price-guide/"><u>[Updated] Best Value in Cloud Storage - A 2024 Price Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-ringtones-guide-top-downloads/"><u>2024 Approved  Ultimate Ringtones Guide  Top Downloads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-understanding-panoramic-cinema-captures/"><u>2024 Approved  Understanding Panoramic Cinema Captures</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-full-potential-of-windows-11s-video-production-suite/"><u>2024 Approved  Unlocking the Full Potential of Windows 11'S Video Production Suite</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/future-visions-10-sci-fi-metaverse-movies-explore-worlds-anew/"><u>Future Visions  10 Sci-Fi Metaverse Movies Explore Worlds Anew</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-techniques-for-flawless-adobe-audio/"><u>In 2024, Expert Techniques for Flawless Adobe Audio</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-15-pro-max-to-mac-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 15 Pro Max to Mac? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-strategies-for-dampening-aerial-drone-vibration-artifacts/"><u>In 2024, Strategies for Dampening Aerial Drone Vibration Artifacts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-encyclopedia-of-hands-on-detection/"><u>In 2024, The Encyclopedia of Hands-On Detection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-future-of-immersion-insights-on-lgs-360-vr-headset/"><u>In 2024, The Future of Immersion  Insights on LG's 360 VR Headset</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-soloists-guide-to-captivating-audiences/"><u>In 2024, The Soloist's Guide to Captivating Audiences</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-sound-sleuths-guide-to-recording-streaming-media/"><u>In 2024, The Sound Sleuth's Guide to Recording Streaming Media</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-smartphone-to-vr-makeover-tutorial/"><u>In 2024, The Ultimate Smartphone-to-VR Makeover Tutorial</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-secure-cloud-stores-for-your-android-compiled/"><u>In 2024, Top Secure Cloud Stores for Your Android - Compiled</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-total-insight-navigating-through-googles-podcast-app/"><u>In 2024, Total Insight  Navigating Through Google's Podcast App</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transforming-srt-a-complete-reference-guide-for-conversion/"><u>In 2024, Transforming SRT  A Complete Reference Guide for Conversion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unearthed-30-window-11-insider-strategies-to-boost-performance/"><u>In 2024, Unearthed  30 Window 11 Insider Strategies to Boost Performance</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-11-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 11 Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-5-innovative-book-tts-for-lovers-of-literature/"><u>In 2024, Unveiling 5 Innovative Book TTs for Lovers of Literature</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-most-accessible-high-quality-video-modification-sites/"><u>In 2024, Unveiling the Most Accessible, High-Quality Video Modification Sites</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-perfect-gaming-experience-kinemaster-on-android/"><u>In 2024, Unveiling the Perfect Gaming Experience  KineMaster on Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/luminary-pixels-masterful-lighting-secrets-unveiled-for-2024/"><u>Luminary Pixels  Masterful Lighting Secrets Unveiled for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-customizing-your-siri-a-guide-to-altering-siris-voice-across-ios-devices/"><u>New In 2024, Customizing Your Siri A Guide to Altering Siris Voice Across iOS Devices</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/pave-your-path-to-popularity-secure-1000-fansmonth-on-instagram/"><u>Pave Your Path to Popularity  Secure 1,000 Fans/Month on Instagram</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/steps-to-locate-your-youtube-comments-seamlessly/"><u>Steps to Locate Your YouTube Comments Seamlessly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/sunset-to-silhouette-adobe-guide-for-2024/"><u>Sunset to Silhouette  Adobe Guide for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-non-persistent-print-device-selection/"><u>Troubleshooting: Non-Persistent Print Device Selection</u></a></li>
+</ul></div>

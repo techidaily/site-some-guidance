@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Top AE Plug-Ins  Enhance Your Visual Storytelling\""
-date: 2024-06-04T16:10:34.146Z
-updated: 2024-06-05T16:10:34.146Z
+date: 2024-07-23T09:31:11.048Z
+updated: 2024-07-24T09:31:11.048Z
 tags: 
   - screen-recording
   - ai video
@@ -20,12 +20,18 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 
 Adobe After Effects remains one of the most powerful ways to edit videos. One of the main reasons users find it so useful is the ability to customize the video editing process by adding different kinds of plugins to the program. If you are looking to add unique and fancy text to the video you are working on, then these text plugins for After Effects will come in handy.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## TextDelay
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Ftextdelay/>
 
 TextDelay is a native plugin, meaning that you will find it already installed on After Effects. As the name suggests, you can use TextDelay to delay any other text transformations that you may add to the text and it allows you to delay these transformations by word, line, or even character. It comes with a range selector that allows you to have precise control over which characters can get the effect.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![text delay plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-delay-plugin.jpg)
 
 ## TextExploder
@@ -36,6 +42,9 @@ TextExploder is an After Effects plugin that is developed by MamoWorld and it al
 
 ![text exploder plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-exploder-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## iExpressions 2
 
 Link: <https://aescripts.com/iexpressions/>
@@ -44,6 +53,9 @@ If you want to effectively use the After Effects expressions even if you are not
 
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## TextBox
 
 Link: <https://aescripts.com/textbox/>
@@ -68,10 +80,21 @@ This is the most ideal plugin to choose when you want to add motion trail to the
 
 ![cartoon moblur plugin](https://images.wondershare.com/filmora/article-images/2022/07/cartoon-moblur-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Shadow Studio
 
 If you are looking for shadow styles that will go very well with your project, Shadow Studio is a good plugin to get. It offers you a wide variety of shadow styles including radial, inner, soft, and long shadows. Most people find it an easier and more affordable way to add soft shadows as compared to traditional methods like raytracing. It is also quite easy to use, meaning that shadow effects that would take hours to complete can be done in a matter of minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![shadow studio plugin](https://images.wondershare.com/filmora/article-images/2022/07/shadow-studio-plugin.jpg)
 
 ## Texts Animation Bundle
@@ -80,8 +103,14 @@ Link: <https://aedownload.com/download-texts-animation-bundle-free-videohive/>
 
 This is a bundle of more than 80 different templates to add text effects to any text in After Effects. All the templates in the bundle are easily customizable and the plugin is very easy to use, allowing you to create amazing text effects in just a few clicks. The templates are modeled from various titles, quotes, and stories, so there is a little bit of something for everyone. Plus, the bundle gets constant updates and you are likely to get new templates with each update.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![texts animation bundle plugin](https://images.wondershare.com/filmora/article-images/2022/07/texts-animation-bundle-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Artificial Intelligence Titles
 
 Link: <https://videohive.net/item/ait-artificial-intelligence-titles/22124640?s%5Frank=1>
@@ -90,12 +119,18 @@ The Artificial Intelligence Titles is an After Effects text plugin that is desig
 
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Text Library
 
 Link: <https://videohive.net/item/text-library-handy-text-animations/21932974>
 
 This is another great text animation bundle with different options for just about any kind of project. But unlike other plugin bundles that only have a few effects to choose from, Text Library has thousands of templates to choose from. Once you have selected the template that you would like to use, you also get the option to customize the template to suit your project. You can customize the text, size, duration of the animation, and color. It is easy to use and is constantly updated to introduce even more templates with each update.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![text library plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-library-plugin.jpg)
 
 ## Conclusion
@@ -131,3 +166,41 @@ On its own After Effects comes with so many post-production effects and features
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-funicate-mastery-for-seamless-media-access/"><u>[New] 2024 Approved  Funicate Mastery for Seamless Media Access</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-game-changing-homes-in-blocktown/"><u>[New] 2024 Approved  Game Changing Homes in Blocktown</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-ending-your-insta-saga-a-comprehensive-guide-to-deactivation/"><u>[New] Ending Your Insta Saga  A Comprehensive Guide to Deactivation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-premier-ios-platforms-for-ps2-gaming-for-2024/"><u>[New] Premier iOS Platforms for PS2 Gaming for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-superior-choices-elite-webcam-holders/"><u>[New] Superior Choices  Elite Webcam Holders</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tips-for-efficient-zoom-meeting-arrangements-on-android/"><u>[New] Tips for Efficient Zoom Meeting Arrangements on Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-understanding-spending-in-online-advertising/"><u>[New] Understanding Spending in Online Advertising</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unraveling-the-secrets-of-cinematic-visuals-on-windows-10/"><u>[New] Unraveling the Secrets of Cinematic Visuals on Windows 10</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-capturing-moments-like-never-before-toolwiz-apps-2023-review/"><u>[Updated] In 2024, Capturing Moments Like Never Before  Toolwiz App's 2023 Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-list-8-online-locations-for-free-3d-text-psdfiles-for-2024/"><u>[Updated] The Ultimate List  8 Online Locations for Free 3D Text PSDFiles for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-your-top-tools-for-facebook-video-retrieval-revealed/"><u>[Updated] Your Top Tools for Facebook Video Retrieval Revealed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-best-emulators-pc-edition-ps1-games/"><u>2024 Approved  Best Emulators  PC Edition - PS1 Games</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-complete-guide-to-iphone-sound-personalization/"><u>2024 Approved  The Complete Guide to iPhone Sound Personalization</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-power-of-voice-notes-masterclass/"><u>2024 Approved  Unlocking the Power of Voice Notes Masterclass</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-windows-11-your-ultimate-cheat-sheet/"><u>2024 Approved  Unlocking Windows 11  Your Ultimate Cheat Sheet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-imagemorph-magic/"><u>In 2024, ImageMorph Magic</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-instant-photo-browser-for-modern-windows/"><u>In 2024, Instant Photo Browser for Modern Windows</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-rip-and-save-the-best-youtube-download-software/"><u>In 2024, Rip & Save  The Best YouTube Download Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamline-your-iphone-jpegpng-to-pdf-file-processing/"><u>In 2024, Streamline Your iPhone  JPEG/PNG to PDF File Processing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-digital-humor-handbook-building-a-reputation-with-metaverse-memes/"><u>In 2024, The Digital Humor Handbook  Building a Reputation with Metaverse Memes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-room-and-pc-checklist-for-vr/"><u>In 2024, The Ultimate Room and PC Checklist for VR</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-live-broadcast-tech-for-industry-experts/"><u>In 2024, Top Live Broadcast Tech for Industry Experts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-iphone-x-animoji-handbook-for-seamless-experience/"><u>In 2024, Ultimate iPhone X Animoji Handbook for Seamless Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-the-power-of-windows-11s-media-importer-tools/"><u>In 2024, Unleash the Power of Windows 11'S Media Importer Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-clearer-photos-a-guide-to-picsarts-bg-eraser/"><u>In 2024, Unveiling Clearer Photos  A Guide to Picsart's Bg Eraser</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-basics-an-approachable-hdr-review/"><u>In 2024, Unveiling the Basics  An Approachable HDR Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-most-economical-cloud-stores/"><u>In 2024, Unveiling the Most Economical Cloud Stores</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/inside-track-to-optimizing-adobe-and-selective-non-adobe-solutions-for-2024/"><u>Inside Track to Optimizing Adobe and Selective Non-Adobe Solutions for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/strategy-in-the-shopping-experience-for-2024/"><u>Strategy in the Shopping Experience for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-ios-image-files-conversion-to-pdfs-for-2024/"><u>The Ultimate Guide  IOS Image Files Conversion to PDFs for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-android-slow-motion-video-magic-for-2024/"><u>The Ultimate Guide to Android Slow Motion Video Magic for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-method-changing-account-numbers-on-tiktok-for-2024/"><u>The Ultimate Method  Changing Account Numbers on TikTok for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unlock-high-quality-audio-expert-guide-to-finding-the-perfect-flac-converter/"><u>Updated Unlock High-Quality Audio Expert Guide to Finding the Perfect FLAC Converter</u></a></li>
+</ul></div>

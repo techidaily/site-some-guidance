@@ -1,7 +1,7 @@
 ---
 title: "\"Unleashing Creativity  Essential Angles in Mobile Shooting for 2024\""
-date: 2024-06-04T17:15:51.235Z
-updated: 2024-06-05T17:15:51.235Z
+date: 2024-07-23T10:11:51.100Z
+updated: 2024-07-24T10:11:51.100Z
 tags: 
   - screen-recording
   - ai video
@@ -46,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 
 #### 2\.  Low-Angle Shots
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![low-angle-shot-photography](https://images.wondershare.com/filmora/article-images/low-angle-shot-photography.jpg)
 
  Image resource: google
@@ -56,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 
 #### 3\.  Straight Up - Take Pictures of things above you
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![straight-shots-iphone](https://images.wondershare.com/filmora/article-images/straight-shots-iphone.jpg)
 
  Image resource: Digital Photography Review
@@ -82,6 +88,9 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 
 #### 6\.  Use a Frame Within a Frame
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![use-frame-photography](https://images.wondershare.com/filmora/article-images/use-frame-photography.jpg)
 
  Image resource: Chris Utano Photography
@@ -92,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 
 #### 7\.  Use Transparent Objects as Lens Filters
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![shoot-trought-another-subject](https://images.wondershare.com/filmora/article-images/shoot-trought-another-subject.jpg)
 
  Image resource: Digital Photo Secrets
@@ -100,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 
  If you take a photo through a glass of water you'll be able to create a distorted image of the view behind the glass. Taking photos through transparent objects can be a lot of fun, but it is often more complicated than it seems. Controlling aperture, exposure or focus manually from your iPhone may help you get better results because you'll be able to decide where the focal point of the photo will be or fine-tune the amount of light your iPhone camera can pick up.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -142,6 +159,9 @@ Follow @Ollie Mattison
 
 #### 3\.  Straight Up - Take Pictures of things above you
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![straight-shots-iphone](https://images.wondershare.com/filmora/article-images/straight-shots-iphone.jpg)
 
  Image resource: Digital Photography Review
@@ -158,6 +178,9 @@ Follow @Ollie Mattison
 
 #### 5\.  Bird's Eye View
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![bird-eye-view-shots](https://images.wondershare.com/filmora/article-images/bird-eye-view-shots.jpg)
 
  Image resource: Google
@@ -168,6 +191,9 @@ Follow @Ollie Mattison
 
 #### 6\.  Use a Frame Within a Frame
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![use-frame-photography](https://images.wondershare.com/filmora/article-images/use-frame-photography.jpg)
 
  Image resource: Chris Utano Photography
@@ -218,3 +244,44 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-reliable-sources-for-secure-tiktok-bots/"><u>[New] 2024 Approved  Reliable Sources for Secure TikTok Bots</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ross-platform-strategies-to-boost-youtube-presence/"><u>[New] Cross-Platform Strategies to Boost YouTube Presence</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-roadmap-to-exceptional-spotify-ad-performance/"><u>[New] The Roadmap to Exceptional Spotify Ad Performance</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-blueprint-for-telegram-marketplace-success/"><u>[New] The Ultimate Blueprint for Telegram Marketplace Success</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-essential-guide-for-beginners-in-final-cut-pro/"><u>[New] The Ultimate Essential Guide for Beginners in Final Cut Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tips-for-dynamic-animations-using-movie-maker/"><u>[New] Tips for Dynamic Animations Using Movie Maker</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-hidden-facebook-data-and-protecting-yourself-online/"><u>[New] Unveiling Hidden Facebook Data & Protecting Yourself Online</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-banter-bonanza-the-funniest-content-on-the-internet/"><u>[Updated] Banter Bonanza  The Funniest Content on the Internet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expanding-viewable-area-of-youtube-recordings/"><u>[Updated] Expanding Viewable Area of YouTube Recordings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-logic-pro-xs-audio-smoothing-methods/"><u>[Updated] Logic Pro X's Audio Smoothing Methods</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-apex-quiz-channels-top-general-knowledge-picks-of-2024/"><u>[Updated] The Apex Quiz Channels  Top General Knowledge Picks of 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-painters-touch-mastering-color-artistry/"><u>[Updated] The Painter's Touch  Mastering Color Artistry</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-ai-powered-image-editor/"><u>[Updated] Ultimate AI-Powered Image Editor</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-list-of-10-best-zero-cost-srt-conversion-software/"><u>[Updated] Ultimate List of 10 Best Zero-Cost Srt Conversion Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-chromebook-zoom-capabilities/"><u>[Updated] Unlocking Chromebook Zoom Capabilities</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-elevating-your-ar-projects-with-custom-downloadable-luts/"><u>2024 Approved  Elevating Your AR Projects with Custom, Downloadable LUTS</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-epic-tiktok-gamers-top-10-influencers/"><u>2024 Approved  Epic TikTok Gamers  Top 10 Influencers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-foundations-of-motion-design-fundamentals/"><u>2024 Approved  Foundations of Motion Design Fundamentals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tailoring-your-vtubers-tone-best-app-recommendations-unveiled/"><u>2024 Approved  Tailoring Your Vtuber's Tone  Best App Recommendations Unveiled</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-definitive-guide-to-googles-podcast-submission/"><u>2024 Approved  The Definitive Guide to Google’s Podcast Submission</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-vivo-y100t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-tecno-spark-20-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Tecno Spark 20 to PC? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/isolate-subject-a-step-by-step-guide-to-clear-borders/"><u>Isolate Subject – A Step-by-Step Guide to Clear Borders</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/professional-graphics-with-asus-pa32u-true-to-color-for-2024/"><u>Professional Graphics with ASUS PA32U  True to Color for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/serene-strums-and-steps-tiktoks-best-country-melodies/"><u>Serene Strums and Steps  TikTok's Best Country Melodies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/subtle-sound-decline-using-logic-pro-for-fading-effects-for-2024/"><u>Subtle Sound Decline  Using Logic Pro for Fading Effects for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/techniques-selecting-audioscapes-for-unveiling-videos-for-2024/"><u>Techniques  Selecting Audioscapes for Unveiling Videos for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-heart-of-video-editing-filmoras-favorites-for-2024/"><u>The Heart of Video Editing  Filmora's Favorites for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-role-of-supplemental-imagery-in-storytelling-for-2024/"><u>The Role of Supplemental Imagery in Storytelling for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-adobe-premiere-soundtrack-guide-for-2024/"><u>The Ultimate Adobe Premiere Soundtrack Guide for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-podcast-style-unboxing-for-2024/"><u>The Ultimate Guide to Podcast-Style Unboxing for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-huawei-by-drfone-android/"><u>Three Ways to Sim Unlock Huawei</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/todays-vr-experience-insight-for-2024/"><u>Today’s VR Experience Insight for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-digital-portfolio-with-onscreen-cropping-for-2024/"><u>Transform Your Digital Portfolio with Onscreen Cropping for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-imagination-into-reality-with-top-animation-software-for-2024/"><u>Transform Your Imagination Into Reality with Top Animation Software for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-androids-best-kept-secrets-5-free-video-stabilizer-apps/"><u>Updated 2024 Approved Androids Best Kept Secrets 5 Free Video Stabilizer Apps</u></a></li>
+</ul></div>

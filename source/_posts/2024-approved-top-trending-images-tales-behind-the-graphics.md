@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top Trending Images  Tales Behind the Graphics\""
-date: 2024-06-04T10:43:39.367Z
-updated: 2024-06-05T10:43:39.367Z
+date: 2024-07-23T06:09:57.720Z
+updated: 2024-07-24T06:09:57.720Z
 tags: 
   - screen-recording
   - ai video
@@ -24,6 +24,9 @@ So, what are the most popular stock photo memes, and how did they reach this sta
 
 ## Part1: Hide the Pain Harold
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
 
 Since 2011, Hide the Pain Harold continues to rank as one of the world's most popular stock photo memes. Here are some numbers to show you how popular the meme is.
@@ -31,6 +34,9 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 * It also features on stock image sites such as Imgur, where user “someshitbag” has a gallery post titled Hide-the-pain-Harold. In addition, the page received over 880 thousand views during the first three weeks. Furthermore, it won Imgur's meme of the decade title in 2020 by receiving 10,954 votes (about 20%) of the 54,768 votes cast by Imgurians.
 * The meme appears on social media platforms such as Facebook, 4Chan, and Reddit. For example, a Facebook page titled Maurice has had over 10,000 likes since its creation in January 2014.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![meme appears on social media](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-2.jpg)
 
 * A text-to-speech YouTube video on the meme has over 492,000 views since going live in September 2015.
@@ -39,6 +45,9 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 
 According to Andras, Hide the Pain Harold results from his vacation in Turkey. A professional photographer contacted him to do stock image modeling. During the shoot, the photographer kept telling him to smile, resulting in some photos of Andras appearing to force a smile. This expression led to netizens using his image to express situations where the forced smile is masking your true feelings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![do stock image modeling](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-3.jpg)
 
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
@@ -47,6 +56,9 @@ Currently, Hide the Pain Harold has over 300,000 followers across all platforms.
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![distracted boyfriend](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-4.jpg)
 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
@@ -82,6 +94,14 @@ A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In
 
 * Redditor GallowBoob received 34,700 points and 350 comments within 24 hours of posting it.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![points and comments](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-9.jpg)
 
 The post references the Toy Story character Buzz Lightyear, with the man contemplating why Buzz is in denial of being a toy.
@@ -94,8 +114,15 @@ According to sources, the stock photo meme was first featured on Twitter in Dece
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part4: Bonjour Bear
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
 
 Unlike the previous stock image memes, Bonjour Bear was not an instant hit among netizens. The stock image was posted online in 2016 by Uryadnikov Sergey and featured a polar bear peeking through its winter den. However, it began causing a buzz in early 2019, following a Reddit post that included hilarious captions.
@@ -104,6 +131,9 @@ Since then, internet users have continued to use the Bonjour Bear meme to refere
 
 * In this version, Bonjour Bear reacts to the discovery of a wound after using hand sanitizer. The post became popular during the COVID-19 pandemic when using hand sanitizer was at its peak.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![using hand sanitizer](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-12.jpg)
 
 In addition, the post received over 91,700 points, with 95% of upvotes, within a day on Reddit.
@@ -115,12 +145,19 @@ The photo is available on most stock photo websites, such as Adobe and Tumblr. F
 
 ## Part5: FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Can you use stock photos for memes?
 
 Yes, you can use stock photos for memes. However, you need to obtain them from royalty-free stock photo providers such as Shutterstock and Pexels. In addition, ensure you understand the license requirements before using the photo.
 
 This is because not all stock photo providers offer their images with a creative commons license. For example, the Unsplash license allows you to use their stock images for personal or commercial use after making adjustments to the original.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### 2\. Does copyright law protect memes?
 
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
@@ -160,3 +197,45 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-capture-every-moment-on-mac-free-in-2024/"><u>[New] Capture Every Moment on Mac, FREE, In 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-from-beginner-to-expert-the-complete-guide-to-slow-mo-in-tiktok-for-2024/"><u>[New] From Beginner to Expert  The Complete Guide to Slow Mo in TikTok for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideal-ringtones-picks-high-quality-destinations/"><u>[Updated] Ideal Ringtones Picks  High-Quality Destinations</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-how-to-edit-youtube-videos-in-adobe-premiere/"><u>[Updated] In 2024, How to Edit YouTube Videos in Adobe Premiere</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-mac-techniques-to-edit-srt-files/"><u>[Updated] Step-by-Step Mac Techniques to Edit SRT Files</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-converting-gifs-how-to-create-cool-stickers-in-discord-and-whatsapp/"><u>[Updated] The Art of Converting GIFs  How to Create Cool Stickers in Discord & WhatsApp</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transforming-personal-narratives-best-practices-for-video-praise/"><u>[Updated] Transforming Personal Narratives  Best Practices for Video Praise</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-the-potential-of-ios-albums-ordering-and-cloud-syncing-essentials/"><u>[Updated] Unlocking the Potential of iOS Albums  Ordering & Cloud Syncing Essentials</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-sociostreamer-convert-to-webmmp4/"><u>2024 Approved  SocioStreamer  Convert to WebM/MP4</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamline-video-editing-in-windows-10-photos-using-story-remix/"><u>2024 Approved  Streamline Video Editing in Windows 10 Photos Using Story Remix</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-50-must-try-virtual-bikes-for-riders/"><u>2024 Approved  The 50 Must-Try Virtual Bikes for Riders</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-full-picture-a-comprehensive-review-of-android-lightroom/"><u>2024 Approved  The Full Picture  A Comprehensive Review of Android Lightroom</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-full-picture-a-review-of-dji-inspire-1/"><u>2024 Approved  The Full Picture  A Review of DJI Inspire 1</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-perfect-photo-safe-mix-zero-cost-cloud-with-elite-paid-options/"><u>2024 Approved  The Perfect Photo Safe  Mix Zero-Cost Cloud with Elite Paid Options</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-viewing-experience-insights-on-eizos-4kcg318/"><u>2024 Approved  The Ultimate Viewing Experience – Insights on EIZO’s 4KCG318</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-ranked-zoonotic-patterns/"><u>2024 Approved  Top-Ranked Zoonotic Patterns</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-rated-desktops-for-peak-performance/"><u>2024 Approved  Top-Rated Desktops for Peak Performance</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-photo-editing-with-top-lunapic-hacks/"><u>2024 Approved  Transform Photo Editing with Top LunaPic Hacks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-your-videography-from-monochrome-to-high-dynamic-range-masterpieces/"><u>2024 Approved  Transforming Your Videography  From Monochrome to High-Dynamic Range Masterpieces</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-honor-70-lite-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Honor 70 Lite 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-starting-zoom-chats-on-android/"><u>In 2024, The Ultimate Guide to Starting Zoom Chats on Android</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-vivo-s17-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Vivo S17 Phone Pattern Lock</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-8-iphonecomputer-apps-for-seamless-video-editing/"><u>In 2024, Top 8 iPhone/Computer Apps for Seamless Video Editing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-picks-excellent-4k-displays-for-playing-games/"><u>In 2024, Top Picks  Excellent 4K Displays for Playing Games</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transform-videos-to-tweets-best-converters-revealed/"><u>In 2024, Transform Videos to Tweets  Best Converters Revealed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unbelievable-evaluation-and-alternative-choices/"><u>In 2024, Unbelievable Evaluation & Alternative Choices</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mobile-marketing-mastery-easy-steps-to-create-your-own-youtube-channel/"><u>Mobile Marketing Mastery  Easy Steps to Create Your Own YouTube Channel</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/syncos-files-rescue-windows-mac-linux-version/"><u>SyncOS Files Rescue - Windows, Mac, Linux Version</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-complete-roadmap-downloading-editing-and-customizing-whatsapp-tones-for-2024/"><u>The Complete Roadmap  Downloading, Editing & Customizing WhatsApp Tones for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-next-gen-of-visual-perfection-a-review-of-eizos-cg318-4k-for-2024/"><u>The Next Gen of Visual Perfection  A Review of EIZO's CG318-4K for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-video-cuts-windows-edition-made-simple-for-2024/"><u>The Ultimate Guide to Video Cuts  Windows Edition, Made Simple for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-tips-for-procuring-high-quality-background-imagery-for-2024/"><u>Top Tips for Procuring High-Quality Background Imagery for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/total-insight-into-vscos-photography-ecosystem-for-2024/"><u>Total Insight Into VSCO's Photography Ecosystem for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-converters-handbook-from-srt-to-multiple-formats-for-2024/"><u>Ultimate Converter's Handbook  From SRT to Multiple Formats for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-pip-techniques-for-professional-apple-users-for-2024/"><u>Unlocking PIP Techniques for Professional Apple Users for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/venturing-into-virtual-steps-top-treadmill-analysis-for-2024/"><u>Venturing Into Virtual Steps  Top Treadmill Analysis for 2024</u></a></li>
+</ul></div>

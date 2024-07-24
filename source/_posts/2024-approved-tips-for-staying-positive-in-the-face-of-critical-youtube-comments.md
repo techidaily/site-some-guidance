@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tips for Staying Positive in the Face of Critical YouTube Comments\""
-date: 2024-06-04T13:34:21.382Z
-updated: 2024-06-05T13:34:21.382Z
+date: 2024-07-23T07:52:55.386Z
+updated: 2024-07-24T07:52:55.386Z
 tags: 
   - screen-recording
   - ai video
@@ -22,12 +22,18 @@ All social media has a comment section where in those who watch or follow you ar
 
 If you are a content creator who makes product reviews, the comment section is also one that will help the brand. Most brands want to have a voice on matters that affect them. The most powerful way to do that on YouTube is to make amazing videos on topics dear to your heart. But you don't want people to think of you as merely a broadcaster. Social media requires that you be social and make intelligent comments on your videos and those of others, showing that you are trying, and engaging with your audience.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![how to view comments on youtube](https://images.wondershare.com/filmora/article-images/2022/11/how-to-view-comments-on-youtube.jpg)
 
 Unfortunately, when it comes to comment, YouTube can be a little clunky and time consuming especially as your channel grows and you have more comments to respond to.
 
 Want to become the master of moderation? Read on for everything you need to know about comments on YouTube, and get that conversation going. This is another article to help you make the best out of your YouTube channel.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What is YouTube Comment
 
 YouTube comments are an opportunity for the site's 1.7 million unique monthly visitors to share what they love, hate or simply must troll. It's like the internet own personal Thunderdome, but while it can be a place for negativity, YouTube comments can also be a powerful opportunity for positive community building and engagement.
@@ -54,6 +60,9 @@ Each comment you leave is another reference and exposure to your brand (and a ch
 
 Step1 Below the video itself, find the comment section.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
 
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
@@ -72,6 +81,9 @@ To manage your comments on YouTube using a PC, the operating system does not mat
 
 Step1 Open your chosen browser, head to YouTube, then sign in to your Google/YouTube account if not already signed in.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
@@ -88,6 +100,9 @@ Step5 To edit your comment, click on the “vertical ellipsis” (three vertical
 
 Step6 Make the necessary edits and choose “Save”.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Highlighted Comments and Replies on YouTube
 
 Among the comments you see on a video, you might notice some that YouTube has labeled “Highlighted Comment.” that label is specific to you, and only appears in your comments list. YouTube that you have a particular interest in a section of comments.
@@ -112,6 +127,9 @@ Retrieve a comment so that you can share it with others outside of YouTube.
 
 Comments history also contains the link to the video where you've left the comment along with the date and time when the comment was made. Clicking on this link will open the video page with your comment highlighted at the top of the comment section.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
 ## Conclusion
@@ -149,3 +167,51 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-real-time-video-sharing-and-organizing/"><u>[New] 2024 Approved  Real-Time Video Sharing and Organizing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-liberate-yourself-with-free-movie-player-software/"><u>[New] Liberate Yourself with FREE MOVIE PLAYER Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-premium-alert-tones-top-selection-of-websites/"><u>[New] Premium Alert Tones  Top Selection of Websites</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-stream-your-podcast-with-one-move-only/"><u>[New] Stream Your Podcast with One Move Only</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-superheroes-clash-black-vs-silver/"><u>[New] Superheroes Clash  BLACK vs SILVER</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-luminary-developers-transforming-vr-landscapes/"><u>[New] The Luminary Developers Transforming VR Landscapes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-pinnacle-of-personal-data-holdings/"><u>[New] The Pinnacle of Personal Data Holdings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-war-strategists-guide-selecting-top-7-total-war-challenges/"><u>[New] The Ultimate War Strategists' Guide  Selecting Top 7 Total War Challenges</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tips-to-amplify-your-character-with-easy-pubg-alterations/"><u>[New] Tips to Amplify Your Character with Easy PUBG Alterations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-editor-secrets-unlocked-in-canva-photo-editing/"><u>[New] Top Editor Secrets Unlocked in Canva Photo Editing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-magix-vpx-a-comprehensive-analysis/"><u>[New] Unveiling Magix VPX  A Comprehensive Analysis</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-android-and-ios-leaders-essential-snapchat-video-editing-tools-for-2024/"><u>[Updated] Android & iOS Leaders  Essential Snapchat Video Editing Tools for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamline-your-digital-library-using-funimate/"><u>[Updated] Streamline Your Digital Library Using Funimate</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-surveying-the-spectrum-of-windows-movie-maker-updates/"><u>[Updated] Surveying the Spectrum of Windows Movie Maker Updates</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-future-without-vlc-media-player-insights/"><u>[Updated] The Future Without VLC - Media Player Insights</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-insiders-guide-to-slow-motion-with-photos-and-web-tools/"><u>[Updated] The Insider's Guide to Slow Motion with Photos & Web Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-8-iphonecomputer-apps-for-seamless-video-editing/"><u>[Updated] Top 8 iPhone/Computer Apps for Seamless Video Editing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-8-metaverse-vr-experiences-and-headsets/"><u>[Updated] Top 8 Metaverse VR Experiences & Headsets</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transforming-srt-files-into-text-a-speedy-expertise-guide/"><u>[Updated] Transforming SRT Files Into Text  A Speedy Expertise Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-professional-editing-techniques-in-fcp/"><u>[Updated] Unlock Professional Editing Techniques in FCP</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-all-round-kinetics-examination-2023/"><u>2024 Approved  All-Round Kinetics Examination 2023</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-cosmetics-confidentials-building-a-beauty-channel-on-youtube/"><u>2024 Approved  Cosmetics Confidentials  Building a Beauty Channel on YouTube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-evaluating-photoshop-sway-effective-or-not/"><u>2024 Approved  Evaluating Photoshop Sway  Effective or Not?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlined-process-for-shaping-photos/"><u>2024 Approved  Streamlined Process for Shaping Photos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-techniques-for-swapping-video-content-in-android/"><u>2024 Approved  Techniques for Swapping Video Content in Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-testing-the-capabilities-of-magix-image-viewer/"><u>2024 Approved  Testing the Capabilities of MAGIX Image Viewer</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-best-tricks-to-make-your-silent-facebook-vids-sing-discover-12-steps/"><u>2024 Approved  The Best Tricks to Make Your Silent Facebook Vids Sing – Discover 12 Steps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-finest-budget-friendly-photo-processors-online/"><u>2024 Approved  The Finest Budget-Friendly Photo Processors Online</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-voice-change-mastery-for-sony-game-systems/"><u>2024 Approved  Voice Change Mastery for Sony Game Systems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-realme-c67-4g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Realme C67 4G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-zoom-on-chromebook-essential-advice/"><u>In 2024, Navigating Zoom on Chromebook  Essential Advice</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unraveling-the-apple-podcast-app-submission-system/"><u>In 2024, Unraveling the Apple Podcast App Submission System</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/no-money-no-problem-the-best-free-subtitles-apps/"><u>No Money, No Problem  The Best Free Subtitles Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/perfecting-text-in-after-effects-the-best-10-for-2024/"><u>Perfecting Text in After Effects  The Best 10 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/taking-your-photos-and-videos-to-new-heights-for-2024/"><u>Taking Your Photos and Videos to New Heights for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-insiders-guide-to-dynamic-and-engaging-tiktok-edits-for-2024/"><u>The Insider's Guide to Dynamic and Engaging TikTok Edits for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-list-of-superior-real-time-streaming-networks-for-2024/"><u>The Ultimate List of Superior Real-Time Streaming Networks for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tips-on-how-skip-edgenuity-videos-easily-for-2024/"><u>Tips on How Skip Edgenuity Videos Easily for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-realme-gt-5-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Realme GT 5 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-strategy-for-professional-srt-production-for-2024/"><u>Ultimate Strategy for Professional SRT Production for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unique-images-unique-voice-podcast-graphic-principles-for-2024/"><u>Unique Images, Unique Voice  Podcast Graphic Principles for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-video-brilliance-through-advanced-chroma-techniques-11-steps-for-2024/"><u>Unlock Video Brilliance Through Advanced Chroma Techniques (11 Steps) for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-adobes-storage-mastery-and-the-hunt-for-top-non-adobe-backup-services-for-2024/"><u>Unveiling Adobe's Storage Mastery & The Hunt for Top Non-Adobe Backup Services for 2024</u></a></li>
+</ul></div>

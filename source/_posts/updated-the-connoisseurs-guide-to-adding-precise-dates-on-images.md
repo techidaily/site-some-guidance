@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Connoisseur's Guide to Adding Precise Dates on Images"
-date: 2024-06-04T14:02:08.307Z
-updated: 2024-06-05T14:02:08.307Z
+date: 2024-07-23T08:09:28.549Z
+updated: 2024-07-24T08:09:28.549Z
 tags: 
   - screen-recording
   - ai video
@@ -41,6 +41,10 @@ If you're looking for a guide to help you know how to **add dates to a photo on 
 2. [Fotor](#part4-2)  
 3. [PIXLR](#part4-3)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Part 1\. Add Date Stamps Using Third-Party Camera Apps
 
 You can use third-party camera apps on the google play store or iOS respectively to **add dates to your photos**. To begin, head to your phone app store and search for a third-party camera app that serves this function.
@@ -101,10 +105,16 @@ Why knowing **how to add date to a photo** with your in-built app is important; 
 
 You can make use of other photo editing apps to edit your pictures. Here are three applications that you will find useful to do this.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ### **Instasize**
 
 Instasize is an app that you will find quite useful. The app was developed for influencers and social media users who wish to produce captivating, imaginative images and films..
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![instasize](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-2.jpg)
 
 **Key features**
@@ -137,10 +147,16 @@ The Adobe Photoshop Lightroom is a cloud-based product where you can upload and 
 
 You can download the app on [android](https://play.google.com/store/apps/details?id=com.adobe.lrmobile&gl=US)and [iPhone](https://apps.apple.com/us/app/lightroom-photo-video-editor/id878783582) for free.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### **VSCO**
 
 VSCO is another editing app you can use for your photo editing. VSCO has an easy-to-use UI and many useful functions. The enormous filter library, which can be used to improve your photographs and make them shareable, is its best feature.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![vsco](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-4.jpg)
 
 **Key Features**
@@ -168,6 +184,9 @@ You can perform simple tweaking after the image is in the editor to help make yo
 
 First, to resize an image in the Photos app on a Mac, enter editing mode by clicking the Edit button located at the top right corner of the Photos app window. Next, select an option by dragging the edges of the cropping framework that shows on your image in the Crop tab, which is in the middle of your Photos window.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![straighten flip rotate and crop](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-5.jpg)
 
 ##### Step2Sharpen your images
@@ -180,6 +199,9 @@ You can make your photos sharper by simply navigating to the bottom of the Modif
 
 When retouching your image in the Photos app, select the Adjust tab, then drag the thumb along the Lights slider to make the necessary adjustments.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adjust lighting and exposure](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-7.jpg)
 
 ### Use inbuilt photo app on mac to add date stamps
@@ -190,14 +212,23 @@ Step1Click on Preview to open.
 
 Step2Then select Show Markup Tool.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![select show markup tool](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-8.jpg)
 
 Step3Click on the text button.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click on the text button](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-9.jpg)
 
 Step4Proceed to add date and time into the text area manually.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add data and time](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-10.jpg)
 
 Step5When ready, drag and slide the date to the area of the image where you wish to stamp it.
@@ -206,6 +237,9 @@ Step5When ready, drag and slide the date to the area of the image where you wish
 
 Step6Finally, select File>Save to add your date to the picture.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### Use an inbuilt app to edit photos on Windows
 
 Step1Enter "Photos " in the taskbar's search field. Click on it. Decide the image you want to edit.
@@ -222,6 +256,9 @@ Step1Launching the Photos app will **add a date to a photo** when using a window
 
 Step2Select Edit & Create > Edit with Paint 3D in the upper right corner of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![select edit create](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-13.jpg)
 
 Step3Go to the screen's top and click Text.
@@ -230,10 +267,16 @@ Step3Go to the screen's top and click Text.
 
 Step4To create a text box, click and drag.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![create a text box](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-15.jpg)
 
 Step5Enter the date you want.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enter date](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-16.jpg)
 
 Step6Select Menu in the upper-left corner.
@@ -242,8 +285,14 @@ Step6Select Menu in the upper-left corner.
 
 Step7Proceed to click on the Save option.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![click on save option](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4\. Edit Photos Online to add date stamps
 
 **You can add dates to photos online** via several platforms. Several websites make that possible. Let’s look at some of the platforms and the features they provide.
@@ -252,6 +301,9 @@ Step7Proceed to click on the Save option.
 
 Canva is a standout online photo editor where you can edit your and **add date to photos**. To start, you must **sign up and upload the photo** you want to edit.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![canva](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-19.jpg)
 
 **Key Features**
@@ -264,6 +316,9 @@ Canva is a standout online photo editor where you can edit your and **add date t
 
 **Add a date to a photo** using Fotor. Fotor provides great features that make photo editing a smooth and easy process. To begin, you will need to sign up and upload your photo.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ftor](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-20.jpg)
 
 **Key Features**
@@ -321,3 +376,48 @@ Hopefully, these steps will be helpful if you ever want to **add a date** or **e
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-unveiling-discord-video-communication-on-devices/"><u>[New] In 2024, Unveiling Discord Video Communication on Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-mastering-youtube-to-mpeg-format-change/"><u>[New] Mastering YouTube to MPEG Format Change</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-mastering-zooms-video-enhancements-filter-techniques/"><u>[New] Mastering Zoom's Video Enhancements  Filter Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-syncing-images-pc-to-iphone-file-sharing/"><u>[New] Syncing Images  PC-to-iPhone File Sharing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-tailoring-content-for-impactful-fb-slideshow-designs-for-2024/"><u>[New] Tailoring Content for Impactful FB Slideshow Designs for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-telegram-for-newcomers-how-to-make-your-advertising-stand-out/"><u>[New] Telegram for Newcomers  How to Make Your Advertising Stand Out</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-subtlety-garagebands-audio-softening/"><u>[New] The Art of Subtlety  Garageband's Audio Softening</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-future-of-android-gaming-its-all-in-kinemaster-review/"><u>[New] The Future of Android Gaming? It's All in KineMaster Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-iphone-x-handbook-for-users/"><u>[New] The Ultimate iPhone X Handbook for Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-8-best-vr-controllers-to-check-out/"><u>[New] Top 8 Best VR Controllers to Check Out</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-full-screen-browsing-potential-in-safari-for-apple/"><u>[New] Unlock Full-Screen Browsing Potential in Safari for Apple</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-variants-of-windows-movie-maker-a-comprehensive-list/"><u>[New] Variants of Windows Movie Maker  A Comprehensive List</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-highspeed-slowscene-videograph/"><u>[Updated] HighSpeed SlowScene Videograph</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamlined-templates-the-essential-ae-text-list/"><u>[Updated] Streamlined Templates  The Essential AE Text List</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-fine-art-of-focusing-enhanced-zoom-on-roblox-games/"><u>[Updated] The Fine Art of Focusing  Enhanced Zoom on Roblox Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-instagram-image-addition-playbook/"><u>[Updated] The Instagram Image Addition Playbook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-art-of-slow-motion-utilizing-online-platforms-and-photos/"><u>[Updated] Unveiling the Art of Slow Motion  Utilizing Online Platforms & Photos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-swiftly-restoring-eliminated-reddit-content/"><u>2024 Approved  Swiftly Restoring Eliminated Reddit Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-complete-guide-to-itunes-podcast-upload/"><u>2024 Approved  The Complete Guide to iTunes Podcast Upload</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-editors-playbook-for-drone-imagery/"><u>2024 Approved  The Editor's Playbook for Drone Imagery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-innovations-that-make-av1-superior-to-vp9/"><u>2024 Approved  The Innovations That Make AV1 Superior to VP9</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-text-the-illustrator-3d-approach/"><u>2024 Approved  Transforming Text  The Illustrator 3D Approach</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-list-the-best-vr-game-advancements/"><u>2024 Approved  Ultimate List  The Best VR Game Advancements</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-photoshops-image-curve-secrets/"><u>2024 Approved  Unveiling Photoshop's Image Curve Secrets</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/bring-your-videos-to-life-with-splice-video-editor-for-mac-download-now/"><u>Bring Your Videos to Life with Splice Video Editor for Mac - Download Now</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-find-the-good-iphone-photography-angles-for-2024/"><u>How to Find the Good iPhone Photography Angles for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-free-green-screens-for-cinematic-artists/"><u>In 2024, Free Green Screens for Cinematic Artists</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-vivo-y78plus-t1-editionmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Vivo Y78+ (T1) EditionMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-x-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-reimagined-sony-bdp-s6700-experience/"><u>In 2024, The Reimagined Sony BDP-S6700 Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-handbook-audio-notes-101/"><u>In 2024, The Ultimate Handbook  Audio Notes 101</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-10-budget-friendly-image-editing-apps-for-smartphones/"><u>In 2024, Top 10 Budget-Friendly Image Editing Apps for Smartphones</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-realme-c51-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Realme C51 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transition-trails-your-pathway-to-macos-11-big-sur/"><u>In 2024, Transition Trails  Your Pathway to macOS 11 Big Sur</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-watchlist-the-best-unboxers-of-the-new-era/"><u>In 2024, Ultimate Watchlist  The Best Unboxers of the New Era</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-the-secrets-of-movie-maker-for-windows-11-with-our-guide/"><u>In 2024, Unlock the Secrets of Movie Maker for Windows 11 with Our Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-success-the-essentials-of-crafting-great-reddit-threads/"><u>In 2024, Unlocking Success  The Essentials of Crafting Great Reddit Threads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-upgrading-to-big-sur-know-your-hardware-standards/"><u>In 2024, Upgrading to Big Sur? Know Your Hardware Standards</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-20-key-cmd-commands-a-primer/"><u>Mastering 20 Key CMD Commands: A Primer</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/scouring-youtubes-notable-responses/"><u>Scouring YouTube's Notable Responses</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/strategies-for-merging-youtube-music-and-video-content-effectively-for-2024/"><u>Strategies for Merging YouTube Music & Video Content Effectively for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Superior Style for Text Mobility"
-date: 2024-06-04T10:28:39.014Z
-updated: 2024-06-05T10:28:39.014Z
+date: 2024-07-23T06:00:07.672Z
+updated: 2024-07-24T06:00:07.672Z
 tags: 
   - screen-recording
   - ai video
@@ -26,18 +26,33 @@ After Effects have a wide range of text presets to make the texts and titles in 
 
 Glitch text effect is a trendy effect that gets the viewers’ attention immediately. In this pack, you get 30 glitch text effects that you can apply to the text in your video to make them stand out. These effects are highly adjustable and you can time them in and out of your text as per your preference. Along with glitch text effects, you get glitch sound effects to make the animation impactful. You can experiment with Random seed as well as Glitch maps you get in the pack.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![glitch text effect toolkit ae](https://images.wondershare.com/filmora/article-images/2022/07/glitch-text-effect-toolkit-ae.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Liquid Text Animation
 
 You get 110 animated elements that you can apply to the text in your video. The effects are perfectly suitable for videos where comedy is the main theme. The liquid text effect looks organic and natural, and the colors are eye-catching to grab everyone’s attention. There are 8 text scenes and one text preset present, along with 110 animated presets. The effects are HD in resolution, and they are modular and adjustable. It is time to download and use them to make your video dynamic.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![liquid text animation effect ae](https://images.wondershare.com/filmora/article-images/2022/07/liquid-text-animation-effect-ae.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Dynamic Text Animations
 
 There is always a high demand for dynamic text animations in After Effects. This pack focuses on three types of animations namely bounce, kinetic and overshoot. You get 50 presets, 20 title scenes as well as 10 different typography scenes. You can animate texts, titles, as well as characters. You can even adjust the properties to match your video content as per your requirements. In fact, there are advanced controls available for further customization.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![dynamic text animations ae](https://images.wondershare.com/filmora/article-images/2022/07/dynamic-text-animations-ae.jpg)
 
 ## 4\. Squash & Stretch Preset
@@ -46,6 +61,9 @@ If you want to add texts and titles in your video that looks like the games mean
 
 ![squash stretch preset ae](https://images.wondershare.com/filmora/article-images/2022/07/squash-stretch-preset-ae.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 5\. CounterPro Preset
 
 In this pack, you will find unique text effects, and you can animate text with keyframe. You can animate numbers as well as characters, and it is mostly used to animate numbers to show counting. You can change different parameters of the animations and effects as per your preference. Furthermore, you can use it as a timer on your video to countdown. There are different styles available to apply to your texts and numbers.
@@ -56,6 +74,10 @@ In this pack, you will find unique text effects, and you can animate text with k
 
 If there is a must-have preset you should manage to have in After Effects is Text Library. There are as many as 1000 text presets available and this will serve all your requirements completely. Starting from animations and effects to transitions, everything is available in different categories for you to choose from and apply to your text. The pack keeps on updating to include trendy and funky text effects so that you do not miss out anything.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![text library effect ae](https://images.wondershare.com/filmora/article-images/2022/07/text-library-effect-ae.jpg)
 
 ## 7\. Kinetic Text Animation
@@ -70,6 +92,23 @@ You get eleven styles of elements in the pack, and you can customize the designs
 
 ![text animation lower thirds ae](https://images.wondershare.com/filmora/article-images/2022/07/text-animation-lower-thirds-ae.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## The Bottom Line
 
 As the saying goes, the more the merrier and the more presets you have, the more attractive you can make your texts in your video. There are literally unlimited text presets for animation composer free download as well as premium download available. We have handpicked the best text animation presets that you can download and apply to the text of your video on After Effects.
@@ -103,3 +142,69 @@ As the saying goes, the more the merrier and the more presets you have, the more
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-enhancing-discord-communication-with-tts/"><u>[New] 2024 Approved  Enhancing Discord Communication with TTS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-expansion-through-smart-youtube-link-building-methods-for-2024/"><u>[New] Channel Expansion Through Smart YouTube Link-Building Methods for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-diminutive-directors-script/"><u>[New] In 2024, Diminutive Director's Script</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-teaching-through-media-efficient-classroom-editing/"><u>[New] Teaching Through Media  Efficient Classroom Editing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-hiding-while-livestreaming-on-instagram/"><u>[New] The Art of Hiding While Livestreaming on Instagram</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-essentials-for-effective-free-timer-utilization/"><u>[New] The Essentials for Effective Free Timer Utilization</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-tier-80s-visual-tricks-for-elevated-editing/"><u>[New] Top-Tier 80S Visual Tricks for Elevated Editing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-tutorial-for-srt-tagging-in-mp4-videos-2024/"><u>[New] Ultimate Tutorial for SRT Tagging in MP4 Videos 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-uninterrupted-shots-optimal-cameraphone-trackers/"><u>[New] Uninterrupted Shots  Optimal Camera/Phone Trackers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleashing-full-potential-nikon-1j5-in-4k-videography/"><u>[New] Unleashing Full Potential  Nikon 1J5 in 4K Videography</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unlocking-the-power-of-capturing-facetime-calls/"><u>[New] Unlocking the Power of Capturing FaceTime Calls</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unrivaled-dramas-from-the-eightfold-storytelling-sphere/"><u>[New] Unrivaled Dramas From the Eightfold Storytelling Sphere</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-top-tiktok-edit-techniques-for-max-impact/"><u>[New] Unveiling Top TikTok Edit Techniques for Max Impact</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-lockdown-protocol-instantaneous-secure-tiktok-link-addition/"><u>[Updated] Lockdown Protocol  Instantaneous, Secure TikTok Link Addition</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-powerpoint-guide-to-adding-youtube-links-with-ease-for-2024/"><u>[Updated] PowerPoint Guide to Adding YouTube Links with Ease for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-superb-simple-countdown-apps-for-free/"><u>[Updated] Superb Simple Countdown Apps for Free</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-professionals-guide-to-innovative-360-cams-2023/"><u>[Updated] The Professionals’ Guide to Innovative 360° Cams, 2023</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tiktok-beats-as-ringtones-practical-approach-for-mobile-users/"><u>[Updated] TikTok Beats as Ringtones  Practical Approach for Mobile Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tips-to-amplify-your-character-with-easy-pubg-alterations/"><u>[Updated] Tips to Amplify Your Character with Easy PUBG Alterations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-6-hdmi-21-tvs-spec-by-spec-comparison-guide/"><u>[Updated] Top 6 HDMI 2.1 TVs  Spec-by-Spec Comparison Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-vectors-unveiled-a-novices-path-through-types-and-apps/"><u>[Updated] Vectors Unveiled  A Novice’s Path Through Types and Apps</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-boosting-social-media-traction-the-ultimate-list-of-30-tiktok-nicknames/"><u>2024 Approved  Boosting Social Media Traction  The Ultimate List of 30 TikTok Nicknames</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-make-everyday-banter-hilarious-text-meme-genration/"><u>2024 Approved  Make Everyday Banter Hilarious  Text Meme Gen'ration</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-synergistic-campaigns-brands-and-youtube-hand-in-hand/"><u>2024 Approved  Synergistic Campaigns  Brands & YouTube Hand in Hand</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-basic-route-for-voice-switching-in-your-windows-flipper-edition/"><u>2024 Approved  The Basic Route for Voice Switching in Your Windows Flipper Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-filmmakers-guide-to-accompanying-unboxings-with-tunes/"><u>2024 Approved  The Filmmaker's Guide to Accompanying Unboxings with Tunes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-role-of-b-roll-in-professional-editing/"><u>2024 Approved  The Role of B Roll in Professional Editing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-using-green-screen-in-kinemaster-a-stepwise-approach/"><u>2024 Approved  The Ultimate Guide to Using Green Screen in Kinemaster  A Stepwise Approach</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tips-for-iphone-users-converting-standard-speed-to-slow-scenes/"><u>2024 Approved  Tips for iPhone Users  Converting Standard Speed to Slow Scenes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-11-techniques-for-stunning-color-balance/"><u>2024 Approved  Top 11 Techniques for Stunning Color Balance</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-visual-narratives-with-creative-use-of-luts-in-pro/"><u>2024 Approved  Transforming Visual Narratives with Creative Use of LUTs in Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-understanding-the-impact-of-aurora-hdr-on-photography/"><u>2024 Approved  Understanding the Impact of Aurora HDR on Photography</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-creative-potential-in-photography-top-15-tricks-for-using-pixlr/"><u>2024 Approved  Unlock Creative Potential in Photography  Top 15 Tricks for Using Pixlr</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-slowing-down-the-action-vlc-video-playback-tricks/"><u>2024 Approved Slowing Down the Action VLC Video Playback Tricks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/accurate-3ds-reproduction-top-tier-emulators-for-home-computers-for-2024/"><u>Accurate 3Ds Reproduction  Top-Tier Emulators for Home Computers for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-lava-blaze-2-pro-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Lava Blaze 2 Pro? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/evolving-tactics-for-crafting-immersive-mukbang-sessions-for-2024/"><u>Evolving Tactics for Crafting Immersive Mukbang Sessions for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-flat-to-fascinating-crafting-depth-in-text-art-for-2024/"><u>From Flat to Fascinating  Crafting Depth in Text Art for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-tecno-phantom-v-fold-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Tecno Phantom V Fold</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oppo-find-x6-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Oppo Find X6 to Roku | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamlining-the-timestamp-process-for-youtubers/"><u>In 2024, Streamlining the Timestamp Process for YouTubers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-7-plus-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone 7 Plus You Should Try Out</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-audiovisual-experience-elevated-mastering-audio-blending-in-audacity/"><u>In 2024, The Audiovisual Experience Elevated  Mastering Audio Blending in Audacity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-evolution-and-function-of-modern-vr-helmets/"><u>In 2024, The Evolution and Function of Modern VR Helmets</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-full-spectrum-analysis-of-lgs-high-definition-screen/"><u>In 2024, The Full Spectrum Analysis of LG’s High-Definition Screen</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tips-and-tricks-for-effective-azure-speech-to-text-use/"><u>In 2024, Tips and Tricks for Effective Azure Speech-to-Text Use</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-undead-lore-weaver/"><u>In 2024, Undead Lore Weaver</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-hidden-potential-top-10-enhancing-plug-ins/"><u>In 2024, Unlock Hidden Potential  Top 10 Enhancing Plug-Ins</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-essence-filmoras-top-10-enchanting-features/"><u>In 2024, Unveiling the Essence  Filmora’s Top 10 Enchanting Features</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/iphone-album-arrangement-masterclass-achieving-systematic-order-and-cloud-sync/"><u>IPhone Album Arrangement Masterclass  Achieving Systematic Order & Cloud Sync</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/premier-selector-exclusive-app-selection-for-your-videos-for-2024/"><u>Premier Selector  Exclusive App Selection for Your Videos for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a23-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A23 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-honor-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Honor</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/slow-down-time-free-slow-motion-video-editing-with-filmora-for-2024/"><u>Slow Down Time Free Slow Motion Video Editing with Filmora for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-costless-conundrum-of-final-cut-pro-access-for-2024/"><u>The Costless Conundrum of Final Cut Pro Access for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-essence-of-video-editing-filmoras-ten-wonders/"><u>The Essence of Video Editing  Filmora's Ten Wonders</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-insiders-look-at-configuring-a-powerful-zoom-room-for-2024/"><u>The Insider's Look at Configuring a Powerful Zoom Room for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-premier-guide-to-high-definition-android-viewing-tools-for-2024/"><u>The Premier Guide to High-Definition Android Viewing Tools for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-ranked-mobile-melody-design-experts-for-2024/"><u>Top-Ranked  Mobile Melody Design Experts for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-a-video-slideshow-in-imovie/"><u>Updated How to Create a Video Slideshow in iMovie</u></a></li>
+</ul></div>

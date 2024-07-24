@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unbeatable Upvotes  Reddit's Hottest Threads From History\""
-date: 2024-06-04T17:33:53.202Z
-updated: 2024-06-05T17:33:53.202Z
+date: 2024-07-23T10:22:29.579Z
+updated: 2024-07-24T10:22:29.579Z
 tags: 
   - screen-recording
   - ai video
@@ -43,6 +43,9 @@ Here they are!
 
 ### 1\. [The Senate (/r/movies)](https://www.reddit.com/r/movies/comments/62sjuh/the%5Fsenate%5Fupvote%5Fthis%5Fso%5Fthat%5Fpeople%5Fsee%5Fit%5Fwhen/)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chancellor palpatine the senate](https://images.wondershare.com/filmora/article-images/2023/01/the-senate.png)
 
 When writing the article (Nov., 2022), this Reddit post features over 400k votes. 97% of those users Upvoted. This percentage made it the most upvoted Reddit post until another overtook it.
@@ -63,14 +66,37 @@ It represents a fun and public meme of someone buying a billboard in New York. T
 
 $GME stands for GameStop's stock name. BRR represents printing money. The idea behind it - publicly displaying the astonishing soar of GameStop's stock at that time.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. [Rick Astley Rides a Bike (r/pics)](https://www.reddit.com/r/pics/comments/haucpf/ive%5Ffound%5Fa%5Ffew%5Ffunny%5Fmemories%5Fduring%5Flockdown/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![rick astley rides a bike](https://images.wondershare.com/filmora/article-images/2023/01/rick-astley-old-photo.png)
 
 Posted in 2020, this one currently has 438k votes with 99% Upvotes. It was posted by a famous user known on Reddit as[/u/ReallyRickAstley](https://www.reddit.com/user/ReallyRickAstley/).
 
 If you know the famous song "Never Gonna Give You Up, " you know who this is. Well, this is the Reddit account of the artist Rick Astley himself, taking over the platform with a photo of himself he found in 1989.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. [NYC Taxi Drivers Calendar (/r/funny)](https://www.reddit.com/r/funny/comments/7mjw12/my%5Fcab%5Fdriver%5Ftonight%5Fwas%5Fso%5Fexcited%5Fto%5Fshare/)
 
 ![nyc taxi driver calendar](https://images.wondershare.com/filmora/article-images/2023/01/new-york-taxi-driver.png)
@@ -83,6 +109,9 @@ What's even more interesting is that the driver commented on this Reddit post, l
 
 ### 5\. [Showing a Game You Mastered to Someone You Care About (/r/gaming)](https://www.reddit.com/r/gaming/comments/ccr8c8/take%5Fyour%5Ftime%5Fyou%5Fgot%5Fthis/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![showing a game you mastered reddit post](https://images.wondershare.com/filmora/article-images/2023/01/angry-gamer.png)
 
 Reddit gets most of its users inside its gaming communities. As a result, these can be some of the hottest topics with countless popular posts.
@@ -93,6 +122,10 @@ The image shows an experienced gamer who spent countless hours beating a game, t
 
 You understand the pain if you've gone through something like this.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ### 6\. [All News Anchors Say the Same Thing(/r/videos)](https://www.reddit.com/r/videos/comments/88ll08/this%5Fis%5Fwhat%5Fhappens%5Fwhen%5Fone%5Fcompany%5Fowns%5Fdozens/)
 
 ![all news anchors say the same thing reddit](https://images.wondershare.com/filmora/article-images/2023/01/news-anchors.png)
@@ -105,6 +138,9 @@ The phrase "this is extremely dangerous to our democracy" is repeated repeatedly
 
 ### 7\. [Thirsty Frog Takes a Bath (r/aww)](https://www.reddit.com/r/aww/comments/90bu6w/heat%5Findex%5Fwas%5F110%5Fdegrees%5Fso%5Fwe%5Foffered%5Fhim%5Fa/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![thirsty frog takes a bath reddit](https://images.wondershare.com/filmora/article-images/2023/01/frog-taking-a-bath.png)
 
 Some things on Reddit don't have to make sense to get a lot of attention.
@@ -113,6 +149,9 @@ Like this frog, for example. 99% out of the 313k voters on this post upvoted and
 
 That's all there is to it. No politics, no serious issues, and so on. Just a frog trying to cool off in a bottle cup.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 8\. [Battle for Net Neutrality (/r/books)](https://www.reddit.com/r/books/comments/7en6do/join%5Fthe%5Fbattle%5Ffor%5Fnet%5Fneutrality%5Fwe%5Fneed%5Fto/)
 
 ![battle for net neutrality reddit post](https://images.wondershare.com/filmora/article-images/2023/01/battle-for-net-neutrality.png)
@@ -121,8 +160,14 @@ This is another most upvoted Reddit post that encouraged over 180k users to join
 
 It's a post with a title and a link to a site where anyone can join the battle. The goal - prevent Internet Service Providers from blocking apps and websites.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 9\. [Deangelo Juggles Balls for Real(/r/DunderMifflin)](https://www.reddit.com/r/DunderMifflin/comments/cec448/i%5Fwas%5Fwithout%5Finternet%5Ffor%5Fa%5Fwhile%5Fdecided%5Fto%5Fuse/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![reddit post of deangelo juggling balls the office](https://images.wondershare.com/filmora/article-images/2023/01/deangelo-juggling-balls-on-the-office.png)
 
 Millions of fans worldwide loved The Office with Steve Carell, a.k.a Michael Scott. One of the funniest moments was when Will Ferrell juggled imaginary balls in the Dunder Mifflin office.
@@ -131,6 +176,9 @@ Well, a Reddit user made an edit of this clip and now it looks as if Will juggle
 
 The post has a 98% upvote rate with 170k voters in total. The reason it's so popular is that The Office fans can't get enough of this show. Many say they never stop watching short clips of the show on Youtube and Reddit after finishing the entire series.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ### 10\. [Brave Soldier Buried Amongst His Devoted Troops (/r/todayilearned)](https://www.reddit.com/r/todayilearned/comments/7pbzcb/til%5Fafter%5Fcol%5Fshaw%5Fdied%5Fin%5Fbattle%5Fconfederates/)
 
 ![reddit post of soldier and his fathers message](https://images.wondershare.com/filmora/article-images/2023/01/brave-soldier-buried-with-his-devoted-troops-reddit.png)
@@ -184,3 +232,41 @@ Whatever you decide to do, feel free to reflect on these posts and enjoy reading
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-art-of-pairing-b-clips-with-main-shots/"><u>[New] 2024 Approved  The Art of Pairing B-Clips with Main Shots</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-mastering-live-stream-entry-tiktok-edition/"><u>[New] In 2024, Mastering Live-Stream Entry  TikTok Edition</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-understanding-twitters-new-video-format-codes/"><u>[New] In 2024, Understanding Twitter's New Video Format Codes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-social-spectacle-snatcher-hub-for-2024/"><u>[New] Social Spectacle Snatcher Hub for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-strategies-for-downloading-twitter-video-content-to-mp3/"><u>[New] Strategies for Downloading Twitter Video Content to MP3</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-solo-broadcasters-playbook-for-optimal-live-streams/"><u>[New] The Solo Broadcaster's Playbook for Optimal Live Streams</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-streaming-platform-faceoff-twitch-versus-youtube-analysis/"><u>[New] The Streaming Platform Faceoff  Twitch Versus YouTube Analysis</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-transformative-role-of-luts-in-visual-artistry/"><u>[New] The Transformative Role of LUTs in Visual Artistry</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-6-gopro-helmet-harnesses-tips-and-techniques-unveiled/"><u>[New] Top 6 GoPro Helmet Harnesses  Tips and Techniques Unveiled</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unprecedented-engagement-reaching-for-a-million-audience/"><u>[New] Unprecedented Engagement  Reaching for a Million Audience</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-immerse-top-sandbox-experiences-for-gamers/"><u>[Updated] In 2024, Immerse  Top Sandbox Experiences for Gamers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sifting-through-the-advantages-and-disadvantages-of-vr/"><u>[Updated] Sifting Through the Advantages and Disadvantages of VR</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamline-projects-with-free-video-intros/"><u>[Updated] Streamline Projects with Free Video Intros</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-stroke-of-genius-best-10-creative-sketch-software-for-mac-free/"><u>[Updated] Stroke of Genius  Best 10 Creative Sketch Software for Mac (Free)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-a-to-z-guide-for-delivering-captivating-streams-using-zoom-and-youtube/"><u>[Updated] The A-to-Z Guide for Delivering Captivating Streams Using Zoom & YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-smart-way-to-shop-for-drones-must-know-information/"><u>[Updated] The Smart Way to Shop for Drones  Must-Know Information</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-spectrum-of-perfection-creating-stunning-hdrs-in-lightroom/"><u>[Updated] The Spectrum of Perfection  Creating Stunning HDRs in Lightroom</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-quality-iphone-filmmaking-top-8-tips/"><u>[Updated] The Ultimate Guide to Quality iPhone Filmmaking (Top 8 Tips)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-5-zero-price-screen-capture-software-for-windows-10-users/"><u>[Updated] Top 5 Zero Price Screen Capture Software for Windows 10 Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-funimate-video-mastery-a-comprehensible-guide/"><u>2024 Approved  Funimate Video Mastery  A Comprehensible Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-narrative-nexus-honor-roll-hindsight/"><u>2024 Approved  Narrative Nexus – Honor Roll Hindsight</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-screen-recording-for-professionals-choosing-between-bandicam-and-camtasia/"><u>2024 Approved  Screen Recording for Professionals  Choosing Between Bandicam & Camtasia</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-google-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Google</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-iphone-12-pro-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the iPhone 12 Pro Without Previous Owner?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-potential-with-latest-windows-10-apps-and-games/"><u>In 2024, Unleash Potential with Latest Windows 10 Apps and Games</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-the-potential-of-close-up-videos-using-videoleap/"><u>In 2024, Unlock the Potential of Close-Up Videos Using Videoleap</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-creative-sound-discover-free-voice-alterations/"><u>In 2024, Unlocking Creative Sound  Discover Free Voice Alterations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-the-power-of-srt-editing-for-mac-users/"><u>In 2024, Unlocking the Power of SRT Editing for Mac Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-specs-hp-envy-27s-4k-capabilities/"><u>In 2024, Unveiling the Specs  HP Envy 27'S 4K Capabilities</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/synthizing-screenshots-and-slides-seamlessly-for-2024/"><u>Synthizing Screenshots & Slides Seamlessly for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/taking-flight-to-better-photos-an-intensive-look-at-dji-sparks-miniature-design-for-2024/"><u>Taking Flight to Better Photos  An Intensive Look at DJI Spark's Miniature Design for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-smudge-free-sequence-eliminating-gopro-fog-for-2024/"><u>The Smudge-Free Sequence  Eliminating GoPro Fog for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Realme C33 2023 | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking Full Capabilities in Mac's Preview Software\""
-date: 2024-06-04T15:53:45.870Z
-updated: 2024-06-05T15:53:45.870Z
+date: 2024-07-23T09:20:31.100Z
+updated: 2024-07-24T09:20:31.100Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 
 # How to Use Preview App on Mac
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -50,6 +53,9 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -64,6 +70,9 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -80,6 +89,9 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -108,6 +120,9 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -152,6 +167,9 @@ After opening an image, click **File** from the menu bar at the top, and click *
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Part 2: FAQs About Preview App on Mac
 
 #### What is the Preview App?
@@ -206,6 +224,9 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -220,6 +241,9 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -250,6 +274,9 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -262,6 +289,9 @@ Use the method explained above to open the photo in Preview.
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ### How to Add Text to Image in Preview
 
 The **Preview app** even lets you annotate the images with ease. To add text to a photo:
@@ -294,6 +324,9 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -386,3 +419,38 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-comprehensive-look-at-razer-kiyo-webcam/"><u>[New] 2024 Approved  Comprehensive Look at Razer Kiyo Webcam</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-strategies-for-capturing-high-quality-periscope-broadcasts/"><u>[New] Strategies for Capturing High-Quality Periscope Broadcasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-strategies-for-complementing-core-shots-with-b-roll/"><u>[New] Strategies for Complementing Core Shots with B-Roll</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-swiftly-survey-your-windows-documentation/"><u>[New] Swiftly Survey Your Windows Documentation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-gopro-hero5-time-lapse-photography/"><u>[New] The Ultimate Guide to GoPro Hero5 Time-Lapse Photography</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-15-budget-friendly-webm-players-that-work-flawlessly/"><u>[New] Top 15 Budget-Friendly WebM Players That Work Flawlessly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-editing-hacks-for-flawless-image-edits-on-canva/"><u>[New] Ultimate Editing Hacks for Flawless Image Edits on Canva</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-brilliance-a-thorough-review-of-the-professional-quest-with-bl2711u/"><u>[New] Unveiling Brilliance  A Thorough Review of the Professional Quest with BL2711U</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-sound-bank-vintage-voice-choices/"><u>[Updated] Ultimate Sound Bank  Vintage Voice Choices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-vr-future-latest-trends/"><u>2024 Approved  Unveiling the VR Future  Latest Trends</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-upgrade-your-whatsapp-experience-with-a-bespokel-ringtones-design/"><u>2024 Approved  Upgrade Your WhatsApp Experience with a Bespokel Ringtones Design</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-11-pro-max-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 11 Pro Max and iPad Securely</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/direct-engagement-tweeting-successfully-to-fb/"><u>Direct Engagement  Tweeting Successfully to FB</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-insiders-look-at-vlc-functionality-on-macbooks/"><u>In 2024, Insider's Look at VLC Functionality on MacBooks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superior-webcams-for-professional-podcasting/"><u>In 2024, Superior Webcams for Professional Podcasting</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-best-starter-accessories-to-elevate-your-gopro-capture/"><u>In 2024, The Best Starter Accessories to Elevate Your GoPro Capture</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-supreme-selection-an-honour-roll-of-top-10-reddit-discussions/"><u>In 2024, The Supreme Selection  An Honour Roll of Top 10 Reddit Discussions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-6-best-nft-services-for-creative-geniuses/"><u>In 2024, The Ultimate Guide to 6 Best NFT Services for Creative Geniuses</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tips-for-unlocking-youtube-video-comments/"><u>In 2024, Tips for Unlocking YouTube Video Comments</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-10-online-hubs-for-public-domain-music-in-games/"><u>In 2024, Top 10 Online Hubs for Public Domain Music in Games</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-free-ae-template-packs-for-amateurs/"><u>In 2024, Top FREE AE Template Packs for Amateurs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-workplace-cloud-storage-networks/"><u>In 2024, Top Workplace Cloud Storage Networks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tuning-into-audio-bliss-your-iphone-as-a-podcasters-companion/"><u>In 2024, Tuning Into Audio Bliss - Your iPhone as a Podcaster's Companion</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-13-pro-maxipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 13 Pro Max/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-soundless-streamlining-techniques-for-audio-extraction-in-mp4-mkv-avi-mov-wmv-videos-for-2024/"><u>New Soundless Streamlining Techniques for Audio Extraction in MP4, MKV, AVI, MOV, WMV Videos for 2024</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-top-10-apps-to-enhance-your-instagram-story-slideshow/"><u>New Top 10 Apps to Enhance Your Instagram Story Slideshow</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/revitalize-your-footage-mastering-window-11-photos-and-storyremix-integration-for-2024/"><u>Revitalize Your Footage  Mastering Window 11 Photos and StoryRemix Integration for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-ultimate-guide-to-adding-subtitles-in-final-cut-pro-x-for-2024/"><u>The Ultimate Guide to Adding Subtitles in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-gopro-quik-review-is-it-the-best-video-editor-for-your-needs/"><u>Updated GoPro Quik Review Is It the Best Video Editor for Your Needs?</u></a></li>
+</ul></div>

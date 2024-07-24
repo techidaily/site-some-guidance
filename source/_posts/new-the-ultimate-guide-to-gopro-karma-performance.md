@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate Guide to GoPro Karma Performance"
-date: 2024-06-04T13:15:49.921Z
-updated: 2024-06-05T13:15:49.921Z
+date: 2024-07-23T07:41:16.656Z
+updated: 2024-07-24T07:41:16.656Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f52067
 
 # GoPro Karma Drone Review
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -28,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f52067
 
  The GoPro Karma is this second or [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) has created and hopefully a much more refined version than the drones that GoPro first launched in October. The original version of the Karma drone was recalled just 16 days after its initial launch when many drones were losing connection and battery power at certain altitudes. GoPro discovered a fault with the battery popping out of place causing immediate power loss and returns the drone to the drawing board to produce improved versions of the device for release.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![gopro karma](https://images.wondershare.com/filmora/article-images/gopro-karma.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01N5V4HKQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N5V4HKQ&linkId=62a69de1ac6675d917158fa1421eceee)
@@ -85,6 +91,9 @@ thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f52067
 
 #### 5\.  Controller
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
 
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
@@ -93,6 +102,9 @@ thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f52067
 
 Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can be expensive when compared to the specifications on some of the other drones, if you do have some experience flying drones and you are looking for a great image quality, this could be the choice for you especially if you are looking for a portable drone.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -107,6 +119,10 @@ Follow @Max Wales
 
  The GoPro Karma is this second or [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) has created and hopefully a much more refined version than the drones that GoPro first launched in October. The original version of the Karma drone was recalled just 16 days after its initial launch when many drones were losing connection and battery power at certain altitudes. GoPro discovered a fault with the battery popping out of place causing immediate power loss and returns the drone to the drawing board to produce improved versions of the device for release.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![gopro karma](https://images.wondershare.com/filmora/article-images/gopro-karma.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01N5V4HKQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N5V4HKQ&linkId=62a69de1ac6675d917158fa1421eceee)
@@ -172,6 +188,9 @@ Follow @Max Wales
 
 Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can be expensive when compared to the specifications on some of the other drones, if you do have some experience flying drones and you are looking for a great image quality, this could be the choice for you especially if you are looking for a portable drone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -204,3 +223,48 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-unleashing-the-power-of-bots-in-discord-servers/"><u>[New] 2024 Approved  Unleashing the Power of Bots in Discord Servers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-dynamic-dramatization-bestowing-motion-blur-onto-human-portraits-using-picsart-for-2024/"><u>[New] Dynamic Dramatization  Bestowing Motion Blur Onto Human Portraits Using Picsart for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-avoid-legal-pitfalls-pre-upload-video-copyright-on-tiktok/"><u>[New] In 2024, Avoid Legal Pitfalls  Pre-Upload Video Copyright on TikTok</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-navigating-the-start-of-a-zoom-call-android-edition/"><u>[New] Navigating the Start of a Zoom Call  Android Edition</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-restarting-disrupted-streams-on-fb-fixes-for-todays-broadcasters/"><u>[New] Restarting Disrupted Streams on FB  Fixes for Today's Broadcasters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamlined-creativity-the-most-popular-8-mobile-apps-for-edits/"><u>[New] Streamlined Creativity  The Most Popular 8 Mobile Apps for Edits</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-supreme-storytelling-spanning-eight-movie-types/"><u>[New] Supreme Storytelling Spanning Eight Movie Types</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-essential-price-matrix-top-cloud-storage-firms/"><u>[New] The Essential Price Matrix  Top Cloud Storage Firms</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-filmmakers-toolkit-essential-tips-for-youtube-creators-with-smartphones/"><u>[New] The Filmmaker's Toolkit  Essential Tips for YouTube Creators with Smartphones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-blueprint-to-elevate-your-flight-with-fpv-drone-blades/"><u>[New] The Ultimate Blueprint to Elevate Your Flight with FPV Drone Blades</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-the-secrets-crafting-captivating-instagram-unboxing-videos/"><u>[New] Unlock the Secrets  Crafting Captivating Instagram Unboxing Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-crafting-a-narrative-template-for-online-educational-videos/"><u>[Updated] 2024 Approved  Crafting a Narrative Template for Online Educational Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-bypassing-common-drone-mistakes-with-this-essential-checklist/"><u>[Updated] Bypassing Common Drone Mistakes with This Essential Checklist</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-commanders-conclave-celebrating-the-best-of-7-total-wars-for-2024/"><u>[Updated] Commanders' Conclave  Celebrating the Best of 7 Total Wars for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fixed-youtube-shorts-lacking-in-sight-for-2024/"><u>[Updated] Fixed  YouTube Shorts Lacking in Sight for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-complete-minecraft-recording-blueprint-for-mac-users/"><u>[Updated] The Complete Minecraft Recording Blueprint for Mac Users</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-expert-calls-merging-youtube-and-sustainable-backgrounds/"><u>2024 Approved  Expert Calls  Merging YouTube & Sustainable Backgrounds</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-paving-the-way-for-individuality-in-the-digital-age-your-youtube-journey/"><u>2024 Approved  Paving the Way for Individuality in the Digital Age  Your YouTube Journey</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-blueprint-of-movies-a-scripts-role/"><u>2024 Approved  The Blueprint of Movies  A Script's Role</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-easy-way-to-change-and-upgrade-iphones-ringtones/"><u>2024 Approved  The Easy Way to Change and Upgrade iPhone's Ringtones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-facetune-experience-enthusiasts/"><u>2024 Approved  The Ultimate Facetune Experience Enthusiasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-box-enthusiasm/"><u>2024 Approved  The Ultimate Guide to Box Enthusiasm</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tops-in-audio-modification-software-echos-successor/"><u>2024 Approved  Tops in Audio Modification Software  Echo's Successor</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-discerning-broken-optical-container-auditory-event/"><u>In 2024, Discerning Broken Optical Container Auditory Event</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-tecno-pova-5-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Tecno Pova 5 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-max-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS Max with/without SIM Card</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-prime-data-keepers-expert-top-10-selections/"><u>In 2024, Prime Data Keepers  Expert Top 10 Selections</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-separating-sounds-from-visuals-mp4-to-audioclip/"><u>In 2024, Separating Sounds From Visuals MP4 to Audioclip</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-subtle-techniques-for-edgenuity-free-study-time/"><u>In 2024, Subtle Techniques for Edgenuity-Free Study Time</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/in-2024-text-in-motion-the-best-tracking-and-animation-tools/"><u>In 2024, Text in Motion The Best Tracking and Animation Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-textual-brilliance-in-media-exploring-the-best-effects/"><u>In 2024, Textual Brilliance in Media  Exploring the Best Effects</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-financial-lifeline-of-podcasting/"><u>In 2024, The Financial Lifeline of Podcasting</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-insiders-guide-to-mastering-windows-10/"><u>In 2024, The Insider's Guide to Mastering WINDOWS 10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-eight-sources-of-graffiti-fonts-online/"><u>In 2024, Top Eight Sources of Graffiti Fonts Online</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-your-complete-discord-companion-manual/"><u>In 2024, Your Complete Discord Companion Manual</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learn-anywhere-speak-everywhere-enjoy-a-major-discount-on-language-lessons/"><u>Learn Anywhere, Speak Everywhere – Enjoy a Major Discount on Language Lessons!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/strategic-sound-shifts-winning-with-words-in-free-fire-for-2024/"><u>Strategic Sound Shifts  Winning with Words in Free Fire for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamline-xbox-interactions-by-embracing-zooming-capabilities-for-2024/"><u>Streamline Xbox Interactions by Embracing Zooming Capabilities for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-artisans-path-mastery-of-background-removal-tools-in-photoshop-for-2024/"><u>The Artisan's Path  Mastery of Background Removal Tools in Photoshop for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-leading-10-clock-apps-to-time-your-wedding-ceremony-for-2024/"><u>The Leading 10 Clock Apps to Time Your Wedding Ceremony for 2024</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-samsung-galaxy-xcover-6-pro-tactical-edition-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Samsung Galaxy XCover 6 Pro Tactical Edition password or pattern lock</u></a></li>
+</ul></div>

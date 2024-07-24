@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate Hand-Tracking Reference Guide\""
-date: 2024-06-04T14:16:47.901Z
-updated: 2024-06-05T14:16:47.901Z
+date: 2024-07-23T08:18:40.358Z
+updated: 2024-07-24T08:18:40.358Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,9 @@ In this article, we’ll discuss **Hand Tracking** technology, its various appli
 
 * [Use Filmora to demonstarte your Hand Tracking skill](#part4)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. What Is Hand Tracking? Where Is It Applied?
 
 Hand Tracking refers to the process of tracking the position and movement of a user's hands in virtual reality. This is usually done using a combination of sensors, including cameras, infrared sensors, or ultrasonic sensors.
@@ -47,6 +50,14 @@ With Hand Tracking, you can interact with the virtual world more naturally and i
 
 ![hand tracking technology](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-technology.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Part 2\. Types Of Hand Tracking
 
 There are two main types of Hand Tracking: with interface and without interface:
@@ -75,6 +86,9 @@ Also known as Markerless Hand Tracking, this type of Hand Tracking allows users 
 
 Right now, markerless Hand Tracking is still in its early stages, with a few limitations. However, as this technology continues to develop, we will likely see more and more applications for it in the future.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Part 3\. Using Python, OpenCV, And MediaPipe To Create A Hand Tracking
 
 Above we have learned what is Hand Tracking and the two types of it. Now let’s see how we can create a hand tracking with two Python Libraries - OpenCV and MediaPipe.
@@ -94,6 +108,10 @@ There are two stages for creating a Hand Tracking program using MediaPipe:
 1. **Palm Detection**: In the first stage, MediaPipe has to work with the entire input image, providing a cropped image of the hand.
 2. **Hand Landmarks Identification**: In the second stage, the framework works with the cropped image of the hand to find 21 hand landmarks.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![20 hand landmarks for identifiction – hand tracking](https://images.wondershare.com/filmora/article-images/2022/07/20-hand-landmarks-for-identifiction-hand-tracking.jpg)
 
 ### Guidance With Steps
@@ -104,14 +122,24 @@ Before starting to create Hand Tracking, you need to install the [Pycharm IDE](h
 
 Click the **“New Project”** option and select **“Create”** on the next Window. Open the **Terminal** to install the two libraries.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![install and launch the pycharm app on your pc](https://images.wondershare.com/filmora/article-images/2022/07/install-and-launch-the-pycharm-app-on-your-pc.jpg)
 
 Copy and paste the following command in the **Terminal** to install **OpenCV:**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![copy and paste command to install opencv](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-1.jpg)
 
 Now, to install **MediaPipe**, copy and paste the following command:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![install mediapipe](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-2.jpg)
 
 **Coding**
@@ -122,6 +150,9 @@ A _main.py_ file for writing code will be automatically created in _Pycharm_ app
 
 First, import the OpenCV and MediaPipe to use their dependencies. Once done, create an object _cap_ for video capturing and three other objects; _mpHands, hands,_ and _mpDraw_ to manipulate your input using MediaPipe.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![importing the libraries](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-3.jpg)
 
 ##### Step2 Capturing And Processing An Image Input
@@ -162,6 +193,15 @@ Now, write the below dummy code to showcase what the module can do, i.e., identi
 
 To execute the main method, copy and paste the following code lines:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![main method execution](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-9.jpg)
 
 ##### Step8 Result
@@ -180,6 +220,9 @@ Learn more about Filmora:
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this article, we’ve explored Hand Tracking and its two types, i.e., tracking with interface and tracking without interface. Moreover, we provided step-by-step guidance on using Python, OpenCV, and MediaPipe to create a Hand Tracking module.
@@ -213,3 +256,47 @@ We hope this guide helped resolve your queries, and you can now create a Hand Tr
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-picsarts-full-spectrum-exploration/"><u>[New] PicsArt's Full Spectrum Exploration</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-compelling-podcast-summaries-explained/"><u>[New] The Art of Compelling Podcast Summaries Explained</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleash-your-vision-the-best-360-livestimation-devices/"><u>[New] Unleash Your Vision  The Best 360° Livestimation Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-user-insights-on-vllo/"><u>[New] User Insights on VLLO</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-innovative-bots-to-revolutionize-your-discord-space/"><u>[Updated] In 2024, Innovative Bots to Revolutionize Your Discord Space</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-subconversions-at-peak-discover-the-top-8-tools-for-converting-sbt-to-srt/"><u>[Updated] Subconversions at Peak - Discover the Top 8 Tools for Converting SBT to SRT</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-swiftly-enhance-videos-on-android-devices/"><u>[Updated] Swiftly Enhance Videos on Android Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tailored-titles-for-your-youtube-success/"><u>[Updated] Tailored Titles for Your YouTube Success</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-animated-storytelling-tips-for-instagram-text/"><u>[Updated] The Art of Animated Storytelling  Tips for Instagram Text</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-most-reliable-zero-price-online-photo-editors-guide/"><u>[Updated] The Most Reliable Zero-Price Online Photo Editors Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-novices-map-to-snapseed-photoshop-wonders/"><u>[Updated] The Novice's Map to Snapseed Photoshop Wonders</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-innovative-tech-top-windows-cameras-explored/"><u>2024 Approved  Innovative Tech  Top Windows Cameras Explored</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-meme-making-method-unveiling-6-crucial-gif-production-strategies/"><u>2024 Approved  The Meme-Making Method  Unveiling 6 Crucial GIF Production Strategies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-your-thought-processes-mematic-app/"><u>2024 Approved  Transform Your Thought Processes - Mematic App</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-trim-videos-with-flair-in-windows-11-photo-apps/"><u>2024 Approved  Trim Videos with Flair in Windows 11 Photo Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tune-tracker-audio-for-visual-creations/"><u>2024 Approved  Tune Tracker  Audio for Visual Creations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-luminous-images-a-comprehensive-lightroom-guide/"><u>2024 Approved  Unlocking Luminous Images  A Comprehensive Lightroom Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-youtube-subtitles-srt-3-steps-guide/"><u>2024 Approved  Unlocking YouTube Subtitles (SRT) - 3 Steps Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-hidden-treasure-troves-of-snapchat-tones/"><u>2024 Approved  Unveiling the Hidden Treasure Troves of Snapchat Tones</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-optimal-siri-acoustics-creator-for-windows-pcs-and-apple-computers/"><u>2024 Approved Optimal Siri Acoustics Creator for Windows PCs and Apple Computers</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-pro-max-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 Pro Max to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-xiaomi-redmi-k70e-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Xiaomi Redmi K70E to iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamlight-solutions-best-for-video-illumination/"><u>In 2024, Streamlight Solutions  Best for Video Illumination</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-dawn-of-augmented-reality-microsofts-hololens-review/"><u>In 2024, The Dawn of Augmented Reality – Microsoft's HoloLens Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-science-of-video-sizing-by-imovie/"><u>In 2024, The Science of Video Sizing by iMovie</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-checklist-picking-the-best-gimbal-for-drones/"><u>In 2024, The Ultimate Checklist  Picking the Best Gimbal for Drones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-handbook-for-hosting-zoom-events-on-youtube/"><u>In 2024, The Ultimate Handbook for Hosting Zoom Events on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-route-to-sharpen-your-meme-skills-at-9gag/"><u>In 2024, The Ultimate Route to Sharpen Your Meme Skills at 9GAG</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-8-virtual-spaces-for-3d-graffiti-fonts/"><u>In 2024, Top 8 Virtual Spaces for 3D Graffiti Fonts</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-elevate-your-videos-how-to-use-picture-in-picture-in-final-cut-pro/"><u>New 2024 Approved Elevate Your Videos How to Use Picture-in-Picture in Final Cut Pro</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-online-soundwave-video-creators-ranked-and-reviewed/"><u>New In 2024, Online Soundwave Video Creators Ranked and Reviewed</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/nurturing-the-spirit-through-the-top-10-intellectual-anime-websites-for-2024/"><u>Nurturing the Spirit Through the Top 10 Intellectual Anime Websites for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streaming-through-vlc-a-comprehensive-guide-to-mp4-and-format-switches-for-2024/"><u>Streaming Through VLC  A Comprehensive Guide to MP4 & Format Switches for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-essence-of-shareable-humorous-content-for-2024/"><u>The Essence of Shareable Humorous Content for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-cheat-sheet-for-using-movie-maker-on-win11-for-2024/"><u>The Ultimate Cheat Sheet for Using Movie Maker on Win11 for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-samsung-galaxy-a05-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Samsung Galaxy A05 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleash-creativity-with-these-10-ae-text-setups-for-2024/"><u>Unleash Creativity with These 10 AE Text Setups for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-creative-potential-smart-b-roll-incorporation-for-2024/"><u>Unlock Creative Potential  Smart B Roll Incorporation for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-your-vmstart-fixes-to-avoid-errors-in-windows-11/"><u>Unlocking Your VMstart: Fixes to Avoid Errors in Windows 11</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-guide-to-flawless-acoustics-techniques-for-reducing-pitch-shifting-distortion-in-visual-media/"><u>Updated The Guide to Flawless Acoustics Techniques for Reducing Pitch-Shifting Distortion in Visual Media</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Power of Listening  Understanding Your YouTube Audience\""
-date: 2024-06-04T17:27:44.091Z
-updated: 2024-06-05T17:27:44.091Z
+date: 2024-07-23T10:18:56.991Z
+updated: 2024-07-24T10:18:56.991Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,9 @@ Unfortunately, when it comes to comment, YouTube can be a little clunky and time
 
 Want to become the master of moderation? Read on for everything you need to know about comments on YouTube, and get that conversation going. This is another article to help you make the best out of your YouTube channel.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What is YouTube Comment
 
 YouTube comments are an opportunity for the site's 1.7 million unique monthly visitors to share what they love, hate or simply must troll. It's like the internet own personal Thunderdome, but while it can be a place for negativity, YouTube comments can also be a powerful opportunity for positive community building and engagement.
@@ -36,6 +39,9 @@ Not only does it show your fans followers that you care about what they have to 
 
 For YouTubers who are serious about growing their channel and making their brand profitable, you know by now that there are certain tricks and strategies that you have to apply and put in place to make your YouTube channel what you want it to be.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Advantage of YouTube comments
 
 If you're wondering whether you really need to monitor your YouTube comments, here are three compelling reasons why you should:
@@ -44,6 +50,9 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Comment on a YouTube Video
 
 Moderating comments that appear on your video is important (and we'll get to the details of that in a minute) but as a brand, you'll want to pipe up with your own commentary, too.
@@ -72,6 +81,18 @@ To manage your comments on YouTube using a PC, the operating system does not mat
 
 Step1 Open your chosen browser, head to YouTube, then sign in to your Google/YouTube account if not already signed in.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
@@ -112,8 +133,20 @@ Retrieve a comment so that you can share it with others outside of YouTube.
 
 Comments history also contains the link to the video where you've left the comment along with the date and time when the comment was made. Clicking on this link will open the video page with your comment highlighted at the top of the comment section.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 YouTube allows users to view and edit all the comments they have made on YouTube videos on both desktop and mobile apps. You can also edit or delete the comment if you so wish However you cannot delete any comments you made on YouTube from the Google my Activity page. It can be done from within the YouTube app only.
@@ -149,3 +182,49 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-proven-sites-for-downloading-premier-pixel-tones/"><u>[New] Proven Sites for Downloading Premier Pixel Tones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-iphone-photography-in-the-dark/"><u>[New] The Art of iPhone Photography in the Dark</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-all-you-need-to-know-about-upgrading-to-macos-11-big-sur/"><u>[Updated] All You Need to Know About Upgrading to macOS 11 Big Sur</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-digital-heroes-choice-top-10-astonishing-adventure-games/"><u>[Updated] In 2024, Digital Heroes' Choice  Top 10 Astonishing Adventure Games</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-kinemaster-app-for-android-a-comprehensive-insight-review/"><u>[Updated] KineMaster App for Android  A Comprehensive Insight Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-podcast-reviews-by-gpodcasts/"><u>[Updated] Premium Podcast Reviews by GPodcasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-shooting-the-best-sports-moments-iphone-burst-mode/"><u>[Updated] Shooting the Best Sports Moments  IPhone Burst Mode</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-subtlety-matters-fading-out-sounds-in-logic-pro/"><u>[Updated] Subtlety Matters  Fading Out Sounds in Logic Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-highest-resolution-elevating-quality-with-drone-edits/"><u>[Updated] The Highest Resolution  Elevating Quality with Drone Edits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-premier-5-ios-photo-background-swap-apps/"><u>[Updated] The Premier 5 iOS Photo Background Swap Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-roadmap-to-thriving-in-digital-advertising/"><u>[Updated] The Roadmap to Thriving in Digital Advertising</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-metaverse-memes-and-diy-humor-mastery/"><u>[Updated] The Ultimate Guide to Metaverse Memes and DIY Humor Mastery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-the-potential-of-your-podcast-covers-now/"><u>[Updated] Unlock the Potential of Your Podcast Covers Now</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-mysteries-of-metaverse-persona-designs/"><u>[Updated] Unveiling the Mysteries of Metaverse Persona Designs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-ultimate-iphone-selfie-sticks-8/"><u>[Updated] Unveiling the Ultimate IPhone Selfie Sticks (#8)</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-superior-systems-best-of-the-desk-lineup/"><u>2024 Approved  Superior Systems  Best of the Desk Lineup</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-realm-of-melodies-where-to-get-hearing-heroes-ringtones/"><u>2024 Approved  The Realm of Melodies  Where to Get Hearing Heroes' Ringtones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tuneful-texting-whatsapp-audio-integration/"><u>2024 Approved  Tuneful Texting  WhatsApp Audio Integration</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-photo-perfection-discover-our-6-best-background-erasers/"><u>2024 Approved  Ultimate Photo Perfection – Discover Our 6 Best Background Erasers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-understanding-the-periscope-experience-free-access-and-user-account-creation/"><u>2024 Approved  Understanding the Periscope Experience  Free Access & User Account Creation</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-motorola-edge-40-neo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-poco-m6-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Poco M6 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-x-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone X Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-masterclass-zooids-introduction-guide/"><u>In 2024, Masterclass  Zooids Introduction Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tailored-treasure-troves-the-ultimate-list-of-online-box-sellers/"><u>In 2024, Tailored Treasure Troves  The Ultimate List of Online Box Sellers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-competition-unveiled-twitchs-clash-with-youtube/"><u>In 2024, The Competition Unveiled  Twitch's Clash with YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-photographers-secret-to-color-inversion/"><u>In 2024, The Photographer's Secret to Color Inversion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-power-of-the-start-building-a-solid-intro-foundation/"><u>In 2024, The Power of the Start  Building a Solid Intro Foundation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-iphone-photography-playbook-prime-angles-uncovered/"><u>In 2024, The Ultimate iPhone Photography Playbook  Prime Angles Uncovered</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-list-the-best-vr-game-advancements/"><u>In 2024, Ultimate List  The Best VR Game Advancements</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-uncover-top-11-effective-video-size-slashers-for-your-phone/"><u>In 2024, Uncover Top 11 Effective Video Size Slashers for Your Phone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unified-brands-and-streaming-services-a-new-age-of-marketing-collaboration/"><u>In 2024, Unified Brands & Streaming Services  A New Age of Marketing Collaboration</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-multi-app-playlists-synchronization-secrets/"><u>In 2024, Unlocking Multi-App Playlists Synchronization Secrets</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-gtx-960-drivers-new-release/"><u>Nvidia GTX 960 Drivers: New Release</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/the-ultimate-4k-video-collection-must-watch-clips-for-2024/"><u>The Ultimate 4K Video Collection Must-Watch Clips for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tips-for-engaging-video-blog-storytelling-for-2024/"><u>Tips for Engaging Video Blog Storytelling for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-8-3d-websites-with-stunning-gold-text-visuals-for-2024/"><u>Top 8 3D Websites with Stunning Gold Text Visuals for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/trending-image-memes-unveiling-the-real-story-for-2024/"><u>Trending Image Memes  Unveiling the Real Story for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-secrets-the-best-dronescopic-stabilizers-reviewed-for-2024/"><u>Unveiling Secrets  The Best Dronescopic Stabilizers Reviewed for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unwrapping-ustreams-offerings-and-competitors-for-2024/"><u>Unwrapping Ustream's Offerings and Competitors for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"Streamlining Your Figma Project  Eliminate the Unwanted Background for 2024\""
-date: 2024-06-04T12:17:27.399Z
-updated: 2024-06-05T12:17:27.399Z
+date: 2024-07-23T07:06:50.107Z
+updated: 2024-07-24T07:06:50.107Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,10 @@ As aforementioned, **Figma** does not offer a **Background Remover** tool but co
 
 Since you want to remove the image's background, there is no better plugin than [Wondershare PixCut](https://pixcut.wondershare.com/), a free tool that helps you erase your picture's BG instantly. With this plugin, you can edit up to files per day, and that too in high-quality resolution.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ### Why Use The PixCut Tool?
 
 Here's how the PixCut tool stands out from the rest of the image editing tools available in the digital market:
@@ -58,6 +62,9 @@ Here's how you can get the PixCut plugin in Figma and use it to remove the backg
 
 Step1 First, open a browser, visit the [Figma website](https://www.figma.com), and sign in to your account. On the main page, click **"Import File,"** select your image from your PC and click **"Open"** to upload it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![importing image to figma to remove background](https://images.wondershare.com/filmora/article-images/2023/03/importing-image-to-figma-to-remove-background.png)
 
 Once the import process is complete, click **"Done"** in the pop-up window and open your image. Now, click the "**Main Menu"** icon and choose **"Plugins" > "Find More Plugins"** from the drop-down menu.
@@ -68,6 +75,9 @@ To get the APPkey, visit **"Wondershare PixCut,"** log in to your account using 
 
 Step3 Paste the Appkey in the pop-up window in Figma and click **"Save."** Now, click the **"Main Menu"** icon and navigate to **"Plugins" > "PixCut Background Remover" > "Run."**
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![running the pixcut plugin in figma](https://images.wondershare.com/filmora/article-images/2023/03/running-the-pixcut-plugin-in-figma.png)
 
 The program will start running the plugin, and the background of your image will disappear. Click the **"Export"** option and save your file on your system.
@@ -105,16 +115,25 @@ Step3 Select **"Find More Plugins"** and use the search option in the pop-up win
 
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### (3) Using Online Removers
 
 Another alternative is to use any tool that **removes the image background online**. For example, we recommend using the [Remove BG tool](https://www.remove.bg/).
 
 To use the Remove BG tool, visit its website, drop your image file, or click the **"Upload"** option to import your file. Now, wait for the program to process your image and then click **"Download"** to save your picture. Afterward, you can import it to Figma for further editing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## Video Tutorial - How to remove background from images in Figma in 2minutes
 
 Hopefully, you have found an ideal solution by now. To help you remove the image's background in Figma with more ease, we have prepared a video for you. You can combine the video content with the guidance above:
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this article, we've explored the step-by-step process of how to remove background in Figma using the PixCut plugin. We've also explained the reasons why you should use this tool.
@@ -148,3 +167,42 @@ How To Go To The Extension Installation Page From Figma?
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-effortless-integration-posting-twitter-vids-on-instagram-profile/"><u>[New] 2024 Approved  Effortless Integration  Posting Twitter Vids on Instagram Profile</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-pun-picture-studio-chucklecrafts/"><u>[New] Pun Picture Studio  ChuckleCrafts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-stream-success-secrets-are-you-a-fan-of-vmix-or-wirecast/"><u>[New] Stream Success Secrets  Are You a Fan of VMix or Wirecast?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-supreme-audiovisual-hints-pack/"><u>[New] Supreme Audiovisual Hints Pack</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tailoring-recording-techniques-in-audacity-for-professionals/"><u>[New] Tailoring Recording Techniques in Audacity for Professionals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-bg-deletion-in-figma/"><u>[New] The Ultimate Guide to BG Deletion in Figma</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-srt-in-depth-with-this-guidebook/"><u>[New] Understanding SRT in Depth with This Guidebook</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-a-comprehensive-analysis-of-how-to-speed-up-audio-files-on-spotify-safely/"><u>[Updated] A Comprehensive Analysis of How to Speed Up Audio Files on Spotify Safely</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-highest-achievers-in-the-realm-of-reddit-posts/"><u>[Updated] Highest Achievers in the Realm of Reddit Posts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-io-screen-snapshot-savvy-your-complete-manual/"><u>[Updated] IO Screen Snapshot Savvy  Your Complete Manual</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-5-audio-capture-techniques-for-window-warriors/"><u>[Updated] Top 5 Audio Capture Techniques for Window Warriors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-uncovering-the-secrets-of-enhancing-tiktok-profiles-with-linktree/"><u>[Updated] Uncovering the Secrets of Enhancing TikTok Profiles with Linktree</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-understanding-investment-needs-on-youtube/"><u>[Updated] Understanding Investment Needs on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-understanding-virtual-realitys-basic-words/"><u>[Updated] Understanding Virtual Reality's Basic Words</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unmatched-mac-streaming-discover-the-1-5-tools/"><u>[Updated] Unmatched Mac Streaming  Discover the #1-5 Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-strategies-for-longer-use-of-gopro-power-source/"><u>2024 Approved  Strategies for Longer Use of GoPro Power Source</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-language-of-immersive-digital-worlds/"><u>2024 Approved  The Language of Immersive Digital Worlds</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-premier-pro-essentials-accessible-for-all-editors/"><u>2024 Approved  The Premier Pro Essentials - Accessible for All Editors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-picks-for-faith-based-ringtones-online/"><u>2024 Approved  Top Picks for Faith-Based Ringtones Online</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-visual-upgrade-mastery-of-video-enhancer-version-22/"><u>2024 Approved  Ultimate Visual Upgrade  Mastery of Video Enhancer Version 2.2</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-photo-editing-potential-with-these-clever-pixlr-techniques/"><u>2024 Approved  Unlock Photo Editing Potential with These Clever Pixlr Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-virtual-potential-with-kinemasters-latest-android-release/"><u>2024 Approved  Unlocking Virtual Potential with KineMaster's Latest Android Release</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/elevating-your-audio-signature-how-to-increase-vocal-depth-using-filmora-for-2024/"><u>Elevating Your Audio Signature How to Increase Vocal Depth Using Filmora for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-photography-narrative-assembler-kit/"><u>Elite Photography Narrative Assembler Kit</u></a></li>
+<li><a href="https://win11.techidaily.com/esd-files-demystified-creating-iso-versions-for-windows-systems/"><u>ESD Files Demystified: Creating ISO Versions for Windows Systems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-realme-narzo-n55-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Realme Narzo N55 Phone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-peek-into-personality-traits-top-6-quizzes-to-determine-youtuber-preferences/"><u>In 2024, Peek Into Personality Traits  Top 6 Quizzes to Determine YouTuber Preferences</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamlining-your-show-formatting-podcast-xml-successfully/"><u>In 2024, Streamlining Your Show  Formatting Podcast XML Successfully</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-tailoring-a-unique-identity-a-roadmap-to-more-youtube-followers/"><u>In 2024, Tailoring a Unique Identity  A Roadmap to More YouTube Followers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-thrilling-rides-recorded-top-action-cam-gear-for-23-bikers/"><u>In 2024, Thrilling Rides Recorded – Top Action Cam Gear for '23 Bikers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-tier-steadicam-options-for-drone-video-production/"><u>In 2024, Top-Tier Steadicam Options for Drone Video Production</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-creativity-mastering-high-quality-slow-motion-video-on-your-phone/"><u>In 2024, Unleash Creativity  Mastering High-Quality Slow Motion Video on Your Phone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-advanced-audio-editing-techniques-with-avidemux/"><u>New In 2024, Advanced Audio Editing Techniques with Avidemux</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-leading-voice-modification-tools-at-zero-cost-an-in-depth-filmora-video-voice-editing-handbook/"><u>Updated In 2024, Leading Voice Modification Tools at Zero Cost An In-Depth Filmora Video Voice Editing Handbook</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-top-subtitle-editors-for-mac-alternatives-to-subtitle-edit-for-2024/"><u>Updated Top Subtitle Editors for Mac Alternatives to Subtitle Edit for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Understanding Video Duration  20MB Example\""
-date: 2024-06-04T10:22:25.626Z
-updated: 2024-06-05T10:22:25.626Z
+date: 2024-07-23T05:56:31.996Z
+updated: 2024-07-24T05:56:31.996Z
 tags: 
   - screen-recording
   - ai video
@@ -72,6 +72,9 @@ Filmora can be used to change the bitrate of video files. It has a user-friendly
 
 * **Import Video -Bring the video files in.**
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-1.jpg)
 
 Run Video Editor after installing it. Then, on your computer, click the "Import" button to locate the file you want to change the bitrate on, and then "Open." Drag and drop files into Video Editor from the Windows Explorer window
@@ -86,6 +89,10 @@ Then, on the Video or Audio timeline, drag and drop your video or audio file. Se
 
 * **Change the video or audio file's bitrate.**
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-3.jpg)
 
 After that, select SETTINGS. You can modify audio settings like encoder, sample rate, channel, and bitrate, as well as video parameters like encoder, frame rate, resolution, and bitrate, in the new window that appears. Simply select the needed value from the bitrate list to change the bitrate.
@@ -110,6 +117,9 @@ ActivePresenter is a watermark-free screen recorder and video editor. Screencast
 
 * Openshot ( Supports Windows, Mac )
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-6.jpg)
 
 OpenShot is a free and versatile video editing and creation program. You may use the software to create professional-looking movies out of your photos, videos, and music files. Subtitles, special effects, and transitions can all be readily added. The videos that are made can be exported to DVD, Xbox 360, Vimeo, YouTube, and a variety of other formats.
@@ -144,6 +154,9 @@ How many video minutes are there per gigabyte? One GB of digital storage may hol
 
 How many minutes of video is 100 megabytes of data used? A YouTube video that lasts 20 minutes uses about 100MB.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-1.jpg)
 
 Run Video Editor after installing it. Then, on your computer, click the "Import" button to locate the file you want to change the bitrate on, and then "Open." Drag and drop files into Video Editor from the Windows Explorer window
@@ -158,6 +171,9 @@ Then, on the Video or Audio timeline, drag and drop your video or audio file. Se
 
 * **Change the video or audio file's bitrate.**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-3.jpg)
 
 After that, select SETTINGS. You can modify audio settings like encoder, sample rate, channel, and bitrate, as well as video parameters like encoder, frame rate, resolution, and bitrate, in the new window that appears. Simply select the needed value from the bitrate list to change the bitrate.
@@ -176,6 +192,9 @@ This user-friendly app uses artificial intelligence (AI) to organize your footag
 
 * ActivePresenter ( Supports Windows, Mac )
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how-many-seconds-video-](https://images.wondershare.com/filmora/article-images/2022/05/how-many-seconds-video-5.jpg)
 
 ActivePresenter is a watermark-free screen recorder and video editor. Screencast movies, manuals, presentations, documentation, and interactive training demonstrations are all possible with it. The software's full-featured editor allows you to edit audio and video, change the look and feel of content, and choose branched situations simply and effectively. Because ActivePresenter supports HTML5 and can interact with Learning Management Systems, the content developed with it may be sent to any device and platform.
@@ -240,3 +259,52 @@ How many minutes of video is 100 megabytes of data used? A YouTube video that la
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-bite-size-broadcasting-battle-which-platform-dominates-in-shorter-videos-for-2024/"><u>[New] Bite-Size Broadcasting Battle  Which Platform Dominates in Shorter Videos for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-from-tweets-to-device-storage-android-and-iphone-gif-steps-for-2024/"><u>[New] From Tweets to Device Storage  Android & iPhone GIF Steps for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-transform-your-tech-for-successful-social-media-livestreams/"><u>[New] In 2024, Transform Your Tech for Successful Social Media Livestreams</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-syncopated-soundscapes-logic-pros-fading-artistry/"><u>[New] Syncopated Soundscapes - Logic Pro's Fading Artistry</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-roadmap-to-free-cut-out-imagery/"><u>[New] The Roadmap to Free Cut-Out Imagery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-smart-shoppers-guide-to-cloud-services-cost/"><u>[New] The Smart Shopper's Guide to Cloud Services Cost</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-list-complimentary-3d-text-psds/"><u>[New] The Ultimate List  Complimentary 3D Text PSDs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-timing-the-perfect-capture-and-labeling/"><u>[New] Timing the Perfect Capture and Labeling</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-uncover-ustream-plus-alternatives/"><u>[New] Uncover Ustream Plus Alternatives</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-full-photo-viewing-capabilities-win-11-edition/"><u>[New] Unlocking Full Photo Viewing Capabilities  Win 11 Edition</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevate-engagement-with-these-10-premier-youtube-seo-instruments/"><u>[Updated] 2024 Approved  Elevate Engagement with These 10 Premier YouTube SEO Instruments</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-elevate-your-channels-templates-at-no-charge/"><u>[Updated] In 2024, Elevate Your Channels - Templates at No Charge</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-synergizing-visual-cues-with-the-right-musical-choices/"><u>[Updated] Synergizing Visual Cues with the Right Musical Choices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-affordable-innovative-ae-templates/"><u>[Updated] The Ultimate Guide to Affordable, Innovative AE Templates</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-top-11-cheap-vlogging-cameras/"><u>[Updated] Top 11 Cheap Vlogging Cameras</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-total-data-for-uninterrupted-viewer-experience/"><u>[Updated] Total Data for Uninterrupted Viewer Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-upside-down-visuals-investigating-insta-video-anomalies/"><u>[Updated] Upside Down Visuals  Investigating Insta Video Anomalies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-future-in-focus-premium-360-degree-professionals-cameras-2023/"><u>2024 Approved  The Future in Focus  Premium 360-Degree Professionals' Cameras, 2023</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-secret-language-of-success-top-20-market-phrases/"><u>2024 Approved  The Secret Language of Success - Top 20 Market Phrases</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-clearing-out-the-unwanted-space-around-images-with-affinity/"><u>2024 Approved  The Ultimate Guide  Clearing Out the Unwanted Space Around Images with Affinity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-ranked-sources-for-embedding-text-visual-effects/"><u>2024 Approved  Top Ranked Sources for Embedding Text Visual Effects</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-into-a-metaverse-virtuoso-essential-tools-list/"><u>2024 Approved  Transform Into a Metaverse Virtuoso - Essential Tools List</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-10plus-top-free-subtitle-converter-websites/"><u>2024 Approved  Unlocking 10+ Top Free Subtitle Converter Websites</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveil-image-by-removing-surroundings/"><u>2024 Approved  Unveil Image by Removing Surroundings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-8-premium-mp3-extraction-software-android/"><u>2024 Approved  Unveiling 8 Premium MP3 Extraction Software (Android)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-upcoming-assessment-varied-perspectives/"><u>2024 Approved  Upcoming Assessment  Varied Perspectives</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/creating-your-first-home-theater-disc-with-mac/"><u>Creating Your First Home Theater Disc with Mac</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-your-windows-11-journey-top-6-multitasking-android-apps/"><u>Enhancing Your Windows 11 Journey: Top 6 Multitasking Android Apps</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-samsung-galaxy-f15-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Samsung Galaxy F15 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-best-practices-in-tiktok-advertising-from-concept-to-campaign-launch/"><u>In 2024, Best Practices in TikTok Advertising  From Concept to Campaign Launch</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-realme-narzo-n55-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Realme Narzo N55 Devices</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-inspiration-unleashed-top-15-tiktokers-from-around-the-globe/"><u>In 2024, Inspiration Unleashed  Top 15 TikTokers From Around the Globe</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-premium-5-professional-drones-buyers-guide/"><u>In 2024, Premium 5 Professional Drones - Buyers Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-package-revelation/"><u>In 2024, The Art of Package Revelation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-11-brainy-battles-general-knowledge-channels-revealed/"><u>In 2024, Top 11 Brainy Battles  General Knowledge Channels Revealed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-tier-editing-suites-in-apples-macos-big-sur-release/"><u>In 2024, Top-Tier Editing Suites in Apple's MacOS Big Sur Release</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-turn-your-social-tweets-into-mp3-audio-files/"><u>In 2024, Turn Your Social Tweets Into MP3 Audio Files</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unbelievable-judgment-and-backup-recommendations/"><u>In 2024, Unbelievable Judgment & Backup Recommendations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/lowering-sounds-on-mac-and-pc-gradually-and-invisibly-for-2024/"><u>Lowering Sounds On Mac & PC Gradually and Invisibly for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/maximizing-health-outreach-via-fb-advertising-for-2024/"><u>Maximizing Health Outreach via FB Advertising for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-jaunt-vr-odyssey-revisited-for-2024/"><u>The Jaunt VR Odyssey Revisited for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-drone-shopping-mistakes-and-how-to-dodge-them-for-2024/"><u>Top Drone Shopping Mistakes and How to Dodge Them for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-art-of-digital-broadcasting-in-real-time-for-2024/"><u>Unveiling the Art of Digital Broadcasting in Real Time for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-linkedin-video-success-choosing-the-right-aspect-ratio-for-your-content/"><u>Updated 2024 Approved LinkedIn Video Success Choosing the Right Aspect Ratio for Your Content</u></a></li>
+</ul></div>

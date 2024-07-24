@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Chromatic Chameleon's Playbook for Masters\""
-date: 2024-06-04T12:12:22.829Z
-updated: 2024-06-05T12:12:22.829Z
+date: 2024-07-23T07:03:33.368Z
+updated: 2024-07-24T07:03:33.368Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,9 @@ On the tab of hue and saturation, you can use hue, saturation, and brightness to
 
 Another way to change the color of the shirt is by navigating to the “Solid Color Adjustment Layer.” After that, you just need to apply the "Hue and Saturation Layer" to the previous layer to make the color changes quickly. Now blend the colors by either using hue or color mode to adjust the layers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![select hue or color mode](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-2.jpg)
 
 ### 2\. Tips 2: Use Black and White Colors
@@ -48,10 +51,20 @@ Now do the tuning by navigating to the layer mask and also select the layers. Af
 
 ![use sliders to black or white](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ### 3\. Tip 3: Add Color to White Object
 
 If you want to add color to your black or white shirt, you can do it by “Hue and Saturation Adjustment Layer.” On this layer, tap on “Colorize” and choose the color you want to add. Another technique is to create a “Fill Adjustment Layer” and then change the blending mode into “Multiple.” Now, click on the “Color Picker,” and you can pick and choose your preferred color. If you want to add a dark color rather than a subtle color, change the mode to “Screen.”
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ pick the color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-4.jpg)
 
 ### 4\. Tip 4: Use Direct Selection Color Picker
@@ -70,18 +83,31 @@ Do you want to change the color of a specific part of the image? You can do this
 
 After clicking on the color range option, a pop-up window will appear from which tap on “Selection.” You can view your image on the preview window and can select the whole back using the “Selection” tool.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select complete object](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-7.jpg)
 
 Afterward, create a group in which add layers, mask, and adjustment layers to change the saturation, color, and brightness of the selected area accurately. To only change the color, drag the sliders of hue to do it instantly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![change hue for changing color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Tip 6: Use Blend IF
 
 If you want to change the color of leaves on a tree, you can use the “Blend IF” option of Adobe Photoshop to precisely do the changes. Start with duplicating the existing layer and then hiding the second layer. Double click on the layer to open the menu and then use “Blend IF” sliders. This option works when you drag the sliders to black points, and it automatically hides the dark pixels of your photo.
 
 Similarly, if you drag the “Blend IF” sliders towards white pints, it can hide the light pixels. To hide any specific color from the picture, you can click on “Channels” and then select the color you want to eradicate completely.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select the channel color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-9.jpg)
 
 This method only hides color based on their luminance values; however, this loads the entire layer when loading the active pixels. Regardless, this can be changed into transparency. For this, you need to select the layer by right-clicking and selecting the option of “Convert to Smart Object.”
@@ -90,14 +116,23 @@ This method only hides color based on their luminance values; however, this load
 
 It helps the user create transparency across the layer. After hiding the layer and coming back to another object-specific layer, you can create a certain change in effect through adjustment layers. For instance, you can create a “Hue and Saturation” adjustment layer. With the above settings, Photoshop applies this as a layer mask for you. Use the sliders across the set layer to change the color across the selected areas.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![select your new color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 7\. Tip 7: Use Online Photo Editor to Change Colors
 
 If you don’t have an offline tool like Adobe Photoshop, you can use an online photo color editor to replace the colors quickly. In this part, we will suggest [BeFunky](https://www.befunky.com/) photo color editor change the photo colors efficiently.
 
 To change the color, navigate to this tool and upload the images. Then, head to the “Replace Color” option from the left section and click on it. On the menu of “Replace Color,” select the box next to “Source Color” to choose the color you want to replace. Use an eyedropper to select any color for your image.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select source color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-12.jpg)
 
 To increase or decrease the intensity of your color, use the “Tolerance” option, and drag it accordingly. If you want to change the hue of the source color, click on the box next to “Target Color.” If you have accidentally applied any color on some part, you can head to erase tab and can remove the alterations from the brush.
@@ -131,3 +166,38 @@ Changing the color of a photo can save us a lot of work done and effort. To effo
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-farm-games-for-social-play-with-peers/"><u>[New] In 2024, Top Farm Games for Social Play with Peers</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-depth-analysis-of-tiktok-visual-elements-for-2024/"><u>[New] In-Depth Analysis of TikTok Visual Elements for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-solutions-to-stop-blank-spots-in-obs-media/"><u>[New] Solutions to Stop Blank Spots in OBS Media</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-magic-behind-the-lens-iphone-xs-groundbreayer-camera-tech/"><u>[New] The Magic Behind the Lens  IPhone X's Groundbreayer Camera Tech</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-sound-architects-guide-to-memo-mastery/"><u>[New] The Sound Architect's Guide to Memo Mastery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-canvas-hidden-tips-and-tricks/"><u>[New] The Ultimate Guide  Canva's Hidden Tips & Tricks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-instagram-stardom-unleash-your-potential-with-9-key-strategies/"><u>[New] The Ultimate Guide to Instagram Stardom - Unleash Your Potential with 9 Key Strategies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-20-unrestricted-zero-cost-pubg-snapshits/"><u>[New] Top 20 Unrestricted, Zero-Cost PUBG Snapshits</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unforgettable-visuals-key-elements-in-podcast-logo-creation/"><u>[New] Unforgettable Visuals  Key Elements in Podcast Logo Creation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleashing-your-funny-bone-a-stepwise-guide-to-making-memes-on-9gag/"><u>[New] Unleashing Your Funny Bone  A Stepwise Guide to Making Memes on 9GAG</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-the-art-of-iphones-upside-down-photos/"><u>[New] Unlocking the Art of iPhone's Upside-Down Photos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-assessing-video-file-size-in-a-days-watching/"><u>[Updated] Assessing Video File Size in a Day's Watching</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamline-your-video-projects-using-movie-maker-on-windows-8/"><u>[Updated] Streamline Your Video Projects  Using Movie Maker on Windows 8</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamlining-screens-for-large-scale-youtubers/"><u>[Updated] Streamlining Screens for Large-Scale YouTubers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-full-review-of-lgs-high-definition-monitoring-experience/"><u>[Updated] The Full Review of LG's High Definition Monitoring Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-inshot-on-pcs-and-laptops/"><u>[Updated] The Ultimate Guide to Inshot on PCs and Laptops</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-9-platforms-for-unparalleled-gamers-joy/"><u>[Updated] Top 9 Platforms for Unparalleled Gamers' Joy</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tripod-triumphs-unbeatable-stability-for-phones/"><u>[Updated] Tripod Triumphs  Unbeatable Stability for Phones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-memory-upgrade-for-sony-a7c/"><u>[Updated] Ultimate Memory Upgrade for Sony A7C</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-infographic-social-video-marketing-tips-for-small-business/"><u>2024 Approved  [Infographic] Social Video Marketing Tips for Small Business</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-halt-autoplay-youtube-recommendations/"><u>2024 Approved  Halt Autoplay YouTube Recommendations</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/expanding-cultural-horizons-through-language-past-fifty/"><u>Expanding Cultural Horizons Through Language Past Fifty</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-convert-video-voice-to-text-online-for-free-fast-and-easy-ways/"><u>New In 2024, Convert Video Voice to Text Online for Free Fast and Easy Ways</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-combine-videos-into-one-on-instagram/"><u>New In 2024, How to Combine Videos Into One on Instagram</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/perfecting-your-images-the-art-of-curving-for-2024/"><u>Perfecting Your Images  The Art of Curving for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/picture-perfect-viewing-the-best-8k-monitors-uncovered-for-2024/"><u>Picture Perfect Viewing  The Best 8K Monitors Uncovered for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-correction-clear-legends-crashes/"><u>Quick Correction: Clear Legends Crashes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-essential-guide-to-low-cost-cloud-storage-plans-for-2024/"><u>The Essential Guide to Low-Cost Cloud Storage Plans for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-intersection-of-business-and-immersive-vr-technology-for-2024/"><u>The Intersection of Business and Immersive VR Technology for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tying-emotions-to-the-right-soundtrack-in-movies-for-2024/"><u>Tying Emotions to the Right Soundtrack in Movies for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unique-soundscapes-for-your-one-person-show-for-2024/"><u>Unique Soundscapes for Your One-Person Show for 2024</u></a></li>
+</ul></div>

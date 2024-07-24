@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Playback Issues  Resolving Video Not Showing Sony A6400\""
-date: 2024-06-04T18:27:25.647Z
-updated: 2024-06-05T18:27:25.647Z
+date: 2024-07-23T10:55:14.160Z
+updated: 2024-07-24T10:55:14.160Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44
 
 **Meta Description:** Sometimes, you might be trying to see a video on your Sony A6400 camera, but it would not be displayable; find out why you can’t see videos on Sony A6400.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-1.jpg)
 
 All Sony camera problems are not the same; some are more significant than others. It sometimes requires professional help, while others are easy to fix with the right guide. For example, when you’re trying to view videos on Sony A6400, and it shows the ‘unable to display’ message, you might be wondering how to fix the issue.
@@ -28,6 +31,9 @@ When this happens, do not panic. Most of the time, once you know the solution to
 
 **Reasons About Can’t I See Videos on Sony A6400**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-2.jpg)
 
 There are varying reasons why your videos might not appear on Sony A6400; below are some of the top reasons you might be facing this issue.
@@ -58,6 +64,9 @@ This is a common reason why you can’t see the videos on Sony A6400\. Sometimes
 * Right-click on the video, and choose ‘properties.’
 * Click the ‘tools’ category on the new Windows and select the ‘error checking’ feature.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-4.jpg)
 
 * The next step is automatically clicking the ‘check’ button to repair the camera’s SD card.
@@ -106,6 +115,9 @@ Among the top-quality camcorders in the market, Sony is one of the leading optio
 * **Step 3:** This will promptly redirect you to the editor page; click on the ‘file’ tab and choose ‘import media file.’ You need to have copied the video to your PC before beginning the process. You can also select ‘import from a camcorder’ to import the video directly.
 * **Step 4:** Navigate to the folder where the video is and click on ‘open.’
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-6.jpg)
 
 * **Step 5:** Start to customize your Sony A6400 video as you prefer; you can split the video into smaller clips, edit the audio track or add a new one to the video.
@@ -118,6 +130,9 @@ You can also include editing features like transitions, special video effects, e
 
 * **Step 6:** Once you’re done editing the video, select the ‘export’ tab, allowing you to save your video to a new location. You can also change your video’s bit rate, resolution, and frame rate.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-9.jpg)
 
 **Final Thoughts**
@@ -172,6 +187,9 @@ If the videos are hidden, you might not be able to see the videos when you conne
 * Open the SD Card storage and try to locate the videos if they’re still not visible.
 * Navigate to the view section from the navigation bar, and from the show/hide option, click the ‘view hidden items’ option.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-5.jpg)
 
 * This would make all hidden videos show up, and you can open any of the videos you want.
@@ -208,6 +226,9 @@ Among the top-quality camcorders in the market, Sony is one of the leading optio
 * **Step 3:** This will promptly redirect you to the editor page; click on the ‘file’ tab and choose ‘import media file.’ You need to have copied the video to your PC before beginning the process. You can also select ‘import from a camcorder’ to import the video directly.
 * **Step 4:** Navigate to the folder where the video is and click on ‘open.’
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-6.jpg)
 
 * **Step 5:** Start to customize your Sony A6400 video as you prefer; you can split the video into smaller clips, edit the audio track or add a new one to the video.
@@ -216,6 +237,13 @@ Among the top-quality camcorders in the market, Sony is one of the leading optio
 
 You can also include editing features like transitions, special video effects, etc. The various features available on Filmora allow you to enhance the value of your video file.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-8.jpg)
 
 * **Step 6:** Once you’re done editing the video, select the ‘export’ tab, allowing you to save your video to a new location. You can also change your video’s bit rate, resolution, and frame rate.
@@ -250,3 +278,57 @@ Knowing why you can’t see videos on Sony A6400 is essential because it allows 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-instantly-optimize-iphone-videos-in-size-and-duration/"><u>[New] In 2024, Instantly Optimize iPhone Videos in Size and Duration</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-striking-setups-to-impress-online-audiences/"><u>[New] Striking Setups to Impress Online Audiences</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-telegram-for-novices-an-easy-path-to-effective-advertising/"><u>[New] Telegram for Novices  An Easy Path to Effective Advertising</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-metaverse-and-omniverse-a-detailed-breakdown/"><u>[New] The Metaverse & Omniverse  A Detailed Breakdown</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveil-the-ultimate-8-online-places-to-find-free-3d-text-files/"><u>[New] Unveil the Ultimate 8 Online Places to Find FREE 3D Text Files</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-premium-mac-image-transformer-for-2024/"><u>[Updated] Premium Mac Image Transformer for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-strategies-to-create-memorable-podcast-intro-lines/"><u>[Updated] Strategies to Create Memorable Podcast Intro Lines</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-audio-file-alchemy-converting-srt-to-multiple-formats-professionally/"><u>[Updated] The Audio File Alchemy  Converting SRT to Multiple Formats Professionally</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-writers-workshop-for-podcast-creators-examples-included/"><u>[Updated] The Writers' Workshop for Podcast Creators (Examples Included)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-best-add-ons-to-boost-your-gopro/"><u>[Updated] Top 10 Best Add-Ons to Boost Your GoPro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transform-your-workflow-harnessing-the-power-of-luts-in-adobe-suite/"><u>[Updated] Transform Your Workflow  Harnessing the Power of LUTs in Adobe Suite</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unravel-the-secrets-of-top-tier-video-editing-with-vivacut-24/"><u>[Updated] Unravel the Secrets of Top-Tier Video Editing with VivaCut '24</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-reno-11-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo Reno 11 5G</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-mastering-the-art-of-motion-without-contact-sensors/"><u>2024 Approved  Mastering the Art of Motion Without Contact Sensors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-monetized-critique-videos-the-truth-unveiled/"><u>2024 Approved  Monetized Critique Videos  The Truth Unveiled</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-simplified-access-how-to-dive-into-youtube-comment-threads/"><u>2024 Approved  Simplified Access  How to Dive Into YouTube Comment Threads</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-complete-playbook-for-instagram-revenue-generation/"><u>2024 Approved  The Complete Playbook for Instagram Revenue Generation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-7-strategies-for-delicious-food-vids/"><u>2024 Approved  Top 7 Strategies for Delicious Food Vids</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-your-ideas-into-impactful-podcast-content-writing-tips-and-samples/"><u>2024 Approved  Transform Your Ideas Into Impactful Podcast Content  Writing Tips & Samples</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unparalleled-hands-on-gear-in-the-vr-world/"><u>2024 Approved  Unparalleled Hands-On Gear in the VR World</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/best-5-ai-voice-generators-online-supports-all-browsers-for-2024/"><u>Best 5 AI Voice Generators Online (Supports All Browsers) for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-m34-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Samsung Galaxy M34 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-enhance-live-broadcast-quality-with-streamlabs-obs-tips/"><u>In 2024, Enhance Live Broadcast Quality with Streamlabs OBS Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-speedy-recorder-device-with-guided-soundtrack/"><u>In 2024, Speedy Recorder Device with Guided Soundtrack</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essence-of-interactive-virtuality/"><u>In 2024, The Essence of Interactive Virtuality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-shift-from-standard-definition-to-dynamic-range-brilliance/"><u>In 2024, The Ultimate Shift  From Standard Definition to Dynamic Range Brilliance</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-audio-guide-to-the-top-5-4k-recording-microphones/"><u>In 2024, Ultimate Audio Guide to the Top 5 4K Recording Microphones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-hidden-potential-essential-edits-for-starters/"><u>In 2024, Unlock Hidden Potential  Essential Edits for Starters</u></a></li>
+<li><a href="https://fox-links.techidaily.com/maximizing-fun-finding-hot-images-at-pexelscom-for-2024/"><u>Maximizing Fun  Finding Hot Images at Pexels.com for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-free-avi-video-rotators-a-roundup-of-the-best-tools-for-all-platforms/"><u>New In 2024, Free AVI Video Rotators A Roundup of the Best Tools for All Platforms</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/premium-audio-modification-solutions-magically-effective/"><u>Premium Audio Modification Solutions  Magically Effective</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Spoofing Life360 How to Do it on Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/superior-picks-top-rated-webcam-grips-for-2024/"><u>Superior Picks  Top-Rated Webcam Grips for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-hdr-camera-connoisseurs-handbook-for-2024/"><u>The HDR Camera Connoisseur's Handbook for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-photographers-toolkit-top-text-editors-for-images-for-2024/"><u>The Photographer's Toolkit  Top Text Editors for Images for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-crafting-irresistible-titles-for-2024/"><u>The Ultimate Guide to Crafting Irresistible Titles for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-creating-share-worthy-memes-on-9gag-for-2024/"><u>The Ultimate Guide to Creating Share-Worthy Memes on 9GAG for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-mix-of-soundtracks-and-visuals-adding-srt-to-mp4-for-2024/"><u>The Ultimate Mix of Soundtracks and Visuals  Adding SRT to MP4 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/time-travelers-guide-mastering-video-speed-adjustment-for-2024/"><u>Time Traveler's Guide  Mastering Video Speed Adjustment for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-apple-iphone-7-plus-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-studio-screening-shorts-for-2024/"><u>Top Studio Screening Shorts for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-videos-swiftly-with-these-top-8-iphone-apps-for-2024/"><u>Transform Your Videos Swiftly with These Top 8 iPhone Apps for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unboxing-titans-of-youtube-the-most-popular-for-2024/"><u>Unboxing Titans of YouTube - The Most Popular for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleashing-potential-combining-zoom-and-google-mail-for-2024/"><u>Unleashing Potential  Combining Zoom & Google Mail for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-iphones-full-potential-4-pro-tips-for-brightening-hdr-in-premiere-for-2024/"><u>Unlock iPhone's Full Potential  4 Pro Tips for Brightening HDR in Premiere for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-1-to-5-of-windows-free-screen-capture-apps-for-2024/"><u>Unveiling the #1 to #5 of Windows Free Screen Capture Apps for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-top-10-robotic-voice-generators/"><u>Updated 2024 Approved Top 10 Robotic Voice Generators</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-are-you-wondering-youtube-audio-download-procedure-heres-your-quick-yet-stunning-guide-on-youtube-2-mp3-conversion/"><u>Updated In 2024, Are You Wondering YouTube Audio Download Procedure? Heres Your Quick yet Stunning Guide on YouTube 2 MP3 Conversion</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-lenovo-thinkphone-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Lenovo ThinkPhone Device</u></a></li>
+</ul></div>

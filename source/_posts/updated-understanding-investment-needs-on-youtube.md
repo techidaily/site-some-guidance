@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Understanding Investment Needs on YouTube"
-date: 2024-06-04T14:44:10.703Z
-updated: 2024-06-05T14:44:10.703Z
+date: 2024-07-23T08:35:35.275Z
+updated: 2024-07-24T08:35:35.275Z
 tags: 
   - screen-recording
   - ai video
@@ -44,6 +44,10 @@ Think about all the advertisements you see during the lead up to holiday weekend
 
 Compared to text-based flyers, articles or posters, promotional videos allow you to tell as well as shown the product you offer in an engaging manner.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![promotion video example](https://images.wondershare.com/filmora/article-images/2022/07/promotion-video-example.jpg)
 
 ## Types of Promo Videos
@@ -54,8 +58,14 @@ When it comes to the kinds of promo videos you can create, you have a world of o
 
 A product demo video shows users how they will go through the process using the entire product or some of its core features. it gives your potential customers an opportunity to see your product used in everyday life, which ultimately leads to conversion. But it’s just a short video and you only put the important details.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![product demo promotion video](https://images.wondershare.com/filmora/article-images/2022/07/product-demo-promotion-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Event videos
 
 Promoting an event on social media is a great way to gain fans and followers. An event video brings the fun of the occasion to those who couldn’t make it and is reposted by the ones who make it to your event.
@@ -72,6 +82,10 @@ A product review video features a reviewer, typically an influential person in y
 
 ![product review video example](https://images.wondershare.com/filmora/article-images/2022/07/product-review-video-example.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ### Testimonial videos
 
 A customer testimonial video features a happy and satisfied customer who tells the story of how your product or services solved their problem and helped them achieve their business goals.
@@ -86,12 +100,18 @@ That may have been a requirement in the past. however, today you don’t need a 
 
 Another way of promotion is that there are company asking content creator to include a video ads on their vlogs. As to my experience, cost and fee for the promotional video, depend on what you have been discuss with the company. Sometimes the company itself offers the price, but of course that also depends on the status of you channel. The company also doesn’t want to spent on promotion if it doesn’t get any positive output or good sales.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How long should a promotional video be?
 
 Try to keep it under 2-minutes and make sure you’re hitting the important information and should also be true here. that said, promo videos do tend to go a little deeper than your typical video ad so take the opportunity to showcase your brand and really convey valuable information to audience.
 
 As for video ads, advice is to stick to 15 to 20 seconds if you’re using pre-roll ads or six seconds for what are known as bumper ads, which are intended for brand awareness.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## You’re going to need video editing tools to
 
 Things to consider during the process knowing which types of elements you want to add to your video is vital. for example, you might have to add audio to video that adds value to your promo efforts, knowing that text and subtitles are important to reaching a wider audience.
@@ -108,6 +128,9 @@ Cut or trim your video to select the part that’s relevant.
 
 Add filters to enhance the video and set the desired mood
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![add filter promotion video filmora](https://images.wondershare.com/filmora/article-images/2022/07/add-filter-promotion-video-filmora.jpg)
 
 Add animated titles to bring your words to life.
@@ -116,6 +139,9 @@ Add animated titles to bring your words to life.
 
 Add transition to make the story flow to make the story united and working together effectively
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Conclusion
 
 As you might already know. Promotional videos aren’t all about your products advertisement and push prospects to by them. In making promotional video should be clearly discussed and the cost or fee is always depending on the Brand owner and your rate. Also don’t forget to carefully read the contract that the company will give you to sign for the service you will do for them. When you accept this kind of work, you should always think about the welfare of your name and channel, not that you just accept it even if it is not approved to your preference, but it just only because of the money. Always remember that it’s not always money that will make you successful but the talent and honesty at work.
@@ -147,3 +173,39 @@ That’s been a quick guide on promotional videos. If you find it too hard to cr
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-essential-insights-for-capturing-online-meeting-transcripts/"><u>[New] 2024 Approved  Essential Insights for Capturing Online Meeting Transcripts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-no-price-tag-on-adventure-top-10-gratuitous-online-rpgs/"><u>[New] 2024 Approved  No Price Tag On Adventure  Top 10 Gratuitous Online RPGs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-srt-to-subc-innovative-techniques-explored/"><u>[New] The Art of SRT to SUBC  Innovative Techniques Explored</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-elite-list-of-best-online-streaming-hqs/"><u>[New] The Elite List of Best Online Streaming HQs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-interactive-index-for-ig-and-tiktok-connection/"><u>[New] The Interactive Index for IG & TikTok Connection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-straightforward-route-scrolling-through-popular-youtube-feedbacks/"><u>[New] The Straightforward Route  Scrolling Through Popular YouTube Feedbacks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-8-innovative-affordable-online-srt-services-exposed/"><u>[New] Top 8 Innovative, Affordable Online SRT Services Exposed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-tier-eighth-edition-of-image-blender-tool/"><u>[New] Top Tier  Eighth Edition of Image Blender Tool</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-tips-tuning-your-snapchat-videos-for-maximum-impact/"><u>[New] Top Tips  Tuning Your Snapchat Videos for Maximum Impact</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-photos-with-expert-color-techniques/"><u>[New] Transform Photos with Expert Color Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unheard-voices-on-youtube-livestream-success-beyond-1000-supporters/"><u>[New] Unheard Voices on YouTube  Livestream Success Beyond 1000 Supporters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleash-your-creative-genius-with-iphone-x-camera/"><u>[New] Unleash Your Creative Genius with iPhone X Camera</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-mastering-zoom-for-enhanced-tiktok-streams/"><u>[Updated] In 2024, Mastering Zoom for Enhanced TikTok Streams</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-accelerated-image-editing-your-path-to-masterful-windows-photo-work/"><u>2024 Approved  Accelerated Image Editing  Your Path to Masterful Windows Photo Work</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-windows-mobile-video-playback-guide/"><u>2024 Approved  The Ultimate Windows Mobile Video Playback Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-tier-eighth-edition-of-image-blender-tool/"><u>2024 Approved  Top Tier  Eighth Edition of Image Blender Tool</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-your-snapshots-with-vsco-essentials/"><u>2024 Approved  Transform Your Snapshots with VSCO Essentials</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tunes-terms-and-copyrights-on-instagram/"><u>2024 Approved  Tunes, Terms, and Copyrights on Instagram</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-workstations-your-tech-dreams-realized/"><u>2024 Approved  Ultimate Workstations - Your Tech Dreams Realized</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-success-the-essentials-of-crafting-great-reddit-threads/"><u>2024 Approved  Unlocking Success  The Essentials of Crafting Great Reddit Threads</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-oneplus-nord-n30-se-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix OnePlus Nord N30 SE System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-9-powerful-applications-for-saving-youtube-content-on-android/"><u>In 2024, 9 Powerful Applications for Saving YouTube Content on Android</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Nubia Z50S Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-synthesizing-success-in-metaverse-sales-techniques/"><u>In 2024, Synthesizing Success in Metaverse Sales Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-mac-mixer-synchronization/"><u>In 2024, The Art of Mac-Mixer Synchronization</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-hidden-history-in-your-browser-how-to-tackle/"><u>In 2024, The Hidden History in Your Browser  How to Tackle?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-tactics-podcast-recording-on-ios-devices-for-voice-broadcasts/"><u>In 2024, Top Tactics  Podcast Recording on iOS Devices for Voice Broadcasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-choice-of-steadicams-for-drone-shooting/"><u>In 2024, Ultimate Choice of Steadicams for Drone Shooting</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-the-full-potential-of-youtube-video-interactions/"><u>In 2024, Unlocking the Full Potential of YouTube Video Interactions</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-os-x-mavericks-video-editing-essentials-tips-and-tricks/"><u>New OS X Mavericks Video Editing Essentials Tips and Tricks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-honor-v-purse-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Honor V Purse and Browser | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-if-you-are-looking-for-a-free-tool-to-slow-down-the-playback-speed-of-a-film-clip-without-installing-any-program-on-your-computer-kapwing-is-one-of-/"><u>Updated If You Are Looking for a Free Tool to Slow Down the Playback Speed of a Film Clip without Installing Any Program on Your Computer, Kapwing Is One of the Best Online Video Editors that Can Help You Get the Job Done Proficiently for 2024</u></a></li>
+</ul></div>

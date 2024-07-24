@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unleashing Creativity  Essential Angles in Mobile Shooting\""
-date: 2024-06-04T19:10:01.461Z
-updated: 2024-06-05T19:10:01.461Z
+date: 2024-07-23T11:20:45.184Z
+updated: 2024-07-24T11:20:45.184Z
 tags: 
   - screen-recording
   - ai video
@@ -46,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
 
 #### 2\.  Low-Angle Shots
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![low-angle-shot-photography](https://images.wondershare.com/filmora/article-images/low-angle-shot-photography.jpg)
 
  Image resource: google
@@ -82,6 +85,9 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
 
 #### 6\.  Use a Frame Within a Frame
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use-frame-photography](https://images.wondershare.com/filmora/article-images/use-frame-photography.jpg)
 
  Image resource: Chris Utano Photography
@@ -92,6 +98,9 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
 
 #### 7\.  Use Transparent Objects as Lens Filters
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![shoot-trought-another-subject](https://images.wondershare.com/filmora/article-images/shoot-trought-another-subject.jpg)
 
  Image resource: Digital Photo Secrets
@@ -100,6 +109,9 @@ thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c8
 
  If you take a photo through a glass of water you'll be able to create a distorted image of the view behind the glass. Taking photos through transparent objects can be a lot of fun, but it is often more complicated than it seems. Controlling aperture, exposure or focus manually from your iPhone may help you get better results because you'll be able to decide where the focal point of the photo will be or fine-tune the amount of light your iPhone camera can pick up.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -122,6 +134,10 @@ Follow @Ollie Mattison
 
 #### 1\.  Close Ups
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![close-up-angle.](https://images.wondershare.com/filmora/article-images/close-up-angle.jpg)
 
  Image resource: Digital Care Solutions
@@ -142,6 +158,9 @@ Follow @Ollie Mattison
 
 #### 3\.  Straight Up - Take Pictures of things above you
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![straight-shots-iphone](https://images.wondershare.com/filmora/article-images/straight-shots-iphone.jpg)
 
  Image resource: Digital Photography Review
@@ -168,6 +187,11 @@ Follow @Ollie Mattison
 
 #### 6\.  Use a Frame Within a Frame
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![use-frame-photography](https://images.wondershare.com/filmora/article-images/use-frame-photography.jpg)
 
  Image resource: Chris Utano Photography
@@ -186,6 +210,9 @@ Follow @Ollie Mattison
 
  If you take a photo through a glass of water you'll be able to create a distorted image of the view behind the glass. Taking photos through transparent objects can be a lot of fun, but it is often more complicated than it seems. Controlling aperture, exposure or focus manually from your iPhone may help you get better results because you'll be able to decide where the focal point of the photo will be or fine-tune the amount of light your iPhone camera can pick up.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -218,3 +245,37 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-perfect-pace-essential-strategies-to-create-engaging-slow-motion-videos-and-images-for-instagram-audiences-for-2024/"><u>[New] Perfect Pace  Essential Strategies to Create Engaging Slow Motion Videos and Images for Instagram Audiences for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-perfect-phone-imaging-choose-the-best-camera-additions/"><u>[New] Perfect Phone Imaging  Choose the Best Camera Additions</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-unmissable-hot-tiktok-gadgets-you-can-find-on-amazon/"><u>[Updated] In 2024, Unmissable Hot TikTok Gadgets You Can Find on Amazon</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-testing-titans-in-depth-comparison-of-gopros-hero5b-and-session/"><u>[Updated] Testing Titans  In-Depth Comparison of GoPro's Hero5B & Session</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-professional-gopro-filming/"><u>[Updated] The Art of Professional GoPro Filming</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-essence-of-polarr-revolutionizing-digital-photography/"><u>[Updated] The Essence of Polarr  Revolutionizing Digital Photography</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-future-shaped-by-quantum-hdr-tech/"><u>[Updated] The Future Shaped by Quantum HDR Tech</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-importance-of-non-primary-footage-in-editing/"><u>[Updated] The Importance of Non-Primary Footage in Editing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-instagram-djs-playlist-tailoring-sounds-for-stories/"><u>[Updated] The Instagram DJ's Playlist  Tailoring Sounds for Stories</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-perfect-path-from-instagram-to-tiktok/"><u>[Updated] The Perfect Path  From Instagram to TikTok</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-your-potential-for-green-screen-excellence-in-kinemaster/"><u>[Updated] Unlock Your Potential for Green Screen Excellence in Kinemaster</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-lightroom-for-android-a-complete-guide/"><u>[Updated] Unveiling Lightroom for Android  A Complete Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-choose-right-gopro-hero5-vs-garmin-virb-updated-22/"><u>2024 Approved  Choose Right  GoPro Hero5 Vs. Garmin VIRB (Updated '22)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streaming-made-easier-learning-to-use-netflixs-dual-screen-feature/"><u>2024 Approved  Streaming Made Easier  Learning to Use Netflix's Dual-Screen Feature</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-the-artisans-guide-to-essential-tools-and-techniques-in-tiktok/"><u>2024 Approved  The Artisan's Guide to Essential Tools and Techniques in TikTok</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-ultimate-guide-for-lenovo-screen-recording-enthusiasts/"><u>2024 Approved  The Ultimate Guide for Lenovo Screen Recording Enthusiasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-tv-show-prep-which-software-winsvirusmix-or-wirecast/"><u>2024 Approved  The Ultimate TV Show Prep  Which Software Wins—VirusMix or WireCast?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-your-mac-with-the-latest-macos-11-big-sur-overview/"><u>2024 Approved  Transform Your Mac with the Latest  MacOS 11 Big Sur Overview</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-15-simple-vlog-inspirations-today/"><u>2024 Approved  Unlock 15 Simple Vlog Inspirations Today</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-chromes-full-potential-with-pip-across-devices/"><u>2024 Approved  Unlock Chrome's Full Potential with PIP Across Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-vr-the-creation-gap/"><u>2024 Approved  Unveiling VR  The Creation Gap</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-realme-c53-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Realme C53 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-using-kinemaster-techniques-and-top-online-video-editors/"><u>In 2024, The Art of Using KineMaster  Techniques and Top Online Video Editors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-scope-of-panoramic-filmmaking-explained/"><u>In 2024, The Scope of Panoramic Filmmaking Explained</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-video-cuts-windows-edition-made-simple/"><u>In 2024, The Ultimate Guide to Video Cuts  Windows Edition, Made Simple</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-techniques-in-testimonial-production-an-experts-insight/"><u>In 2024, Top Techniques in Testimonial Production  An Expert's Insight</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-youtube-spots-for-video-marketing-success/"><u>In 2024, Top YouTube Spots for Video Marketing Success</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/listen-log-and-store-iphone-2024-call-recordings/"><u>Listen, Log and Store  IPhone 2024 Call Recordings</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/mastering-social-media-splitscreen-a-facebook-guide-for-2024/"><u>Mastering Social Media Splitscreen  A Facebook Guide for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/narrative-power-in-marketing-20-must-use-phrases-for-2024/"><u>Narrative Power in Marketing  20 Must-Use Phrases for 2024</u></a></li>
+</ul></div>

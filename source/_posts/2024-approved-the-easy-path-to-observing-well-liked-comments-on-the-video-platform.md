@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Easy Path to Observing Well-Liked Comments on the Video Platform\""
-date: 2024-06-04T18:52:54.990Z
-updated: 2024-06-05T18:52:54.990Z
+date: 2024-07-23T11:10:55.204Z
+updated: 2024-07-24T11:10:55.204Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,9 @@ People nowadays can express their feelings and opinions online through social me
 
 People can watch, like, share, comment on, and upload videos using the YouTube service. You can access this video service on PCs, laptops, tablets, and mobile phones.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What Are YouTube's Primary Purposes?
 
 * Users can look up and view videos.
@@ -31,6 +34,9 @@ People can watch, like, share, comment on, and upload videos using the YouTube s
 * Users can follow or subscribe to other YouTube channels.
 * To arrange videos and combine them together, make playlists.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Use YouTube?
 
 YouTube is the second-largest web browser after Google. Every minute, YouTube receives more than 100 hours of video. Whether you're disseminating information to students or marketing activities, it's among the most significant ways to reach a large audience. Some of the benefits of YouTube are listed below.
@@ -63,6 +69,9 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 ## How to See Liked Comments on YouTube?
@@ -85,6 +94,9 @@ Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
 Step2 Scroll down a little bit and click the **More** button.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
 
 Step3 Click the **Comments** section.
@@ -111,10 +123,16 @@ Now you will see the videos you liked or disliked and also the comments you like
 
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![likes comment received](https://images.wondershare.com/filmora/article-images/2022/11/likes-comment-received.jpg)
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -147,6 +165,9 @@ Because understanding how to comment is only one aspect of the issue; very impor
 
 Try making a joke, pointing out something amusing, providing helpful information, or expressing sympathy or concern for a fan. Additionally, a simple thumbs-up or heart can go a long way to demonstrate that you are paying attention even if you aren't feeling very friendly (we all have bad days, it's OK!).
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Did you know what a Highlighted comment is?
 
 A highlighted comment on YouTube aims to draw the content creator's attention with an automated feature.
@@ -185,3 +206,42 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-spoof-ballads-and-jests-the-funniest-sounds/"><u>[New] Spoof Ballads & Jests  The Funniest Sounds</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-list-mac-video-editors-for-macos-big-sur-11-users/"><u>[New] Ultimate List  Mac Video Editors for macOS Big Sur 11 Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unifiedvision-mixer-hub/"><u>[New] UnifiedVision Mixer Hub</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-navigating-the-soundscape-downloading-and-instaling-vrecorder/"><u>[Updated] 2024 Approved  Navigating the Soundscape  Downloading and Instaling VRecorder</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-customizing-the-twitter-interface-an-experts-tutorial-for-video-images/"><u>[Updated] In 2024, Customizing the Twitter Interface  An Expert's Tutorial for Video Images</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-no-money-no-problem-free-pinterest-video-extractors/"><u>[Updated] No Money? No Problem! Free Pinterest Video Extractors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tips-for-enjoying-virtual-realms-on-your-ipad-pro/"><u>[Updated] Tips for Enjoying Virtual Realms on Your iPad Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-christian-church-streaming-platforms-essential-discoveries/"><u>[Updated] Top 10 Christian Church Streaming Platforms  Essential Discoveries</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unleashing-potential-channel-building-mastery-for-2024/"><u>[Updated] Unleashing Potential  Channel Building Mastery for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-sky-high-speeds-key-moments-in-the-short-tracks-olympics/"><u>2024 Approved  Sky-High Speeds  Key Moments in the Short Tracks, Olympics</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-superior-alert-sound-pick-optimal-websites/"><u>2024 Approved  Superior Alert Sound Pick  Optimal Websites</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-disappearing-display-on-sony-a6400/"><u>2024 Approved  The Disappearing Display on Sony A6400</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tips-for-a-seamless-experience-accessing-youtube-video-comments/"><u>2024 Approved  Tips for a Seamless Experience  Accessing YouTube Video Comments</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-5-best-value-camcorders-for-sports-and-stunts/"><u>2024 Approved  Top 5 Best Value Camcorders for Sports and Stunts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-gamers-choice-best-4k-monitors/"><u>2024 Approved  Top Gamer's Choice  Best 4K Monitors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-your-screen-pip-tutorials-for-macos-enthusiasts/"><u>2024 Approved  Transform Your Screen  PIP Tutorials for macOS Enthusiasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-your-tiktok-experience-with-new-user-numbers/"><u>2024 Approved  Transform Your TikTok Experience with New User Numbers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unraveling-the-excellence-a-guide-to-choosing-best-titling-talents-online/"><u>2024 Approved  Unraveling the Excellence  A Guide To Choosing Best Titling Talents Online</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-mastering-cross-platform-video-playback-free-solutions-guide/"><u>In 2024, Mastering Cross-Platform Video Playback  Free Solutions Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-professional-pilots-guide-to-best-5-drones/"><u>In 2024, Professional Pilot’s Guide to Best 5 Drones</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-secure-and-sync-your-cinematic-recordings-across-platforms/"><u>In 2024, Secure and Sync Your Cinematic Recordings Across Platforms</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-s24-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy S24</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-sony-vegas-not-your-cup-of-tea-try-these-windows-alternatives/"><u>New 2024 Approved Sony Vegas Not Your Cup of Tea? Try These Windows Alternatives</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-slow-and-steady-wins-the-race-a-kapwing-slow-motion-video-editing-tutorial/"><u>New Slow and Steady Wins the Race A Kapwing Slow-Motion Video Editing Tutorial</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/quintessential-underwater-accessories-for-gopro-for-2024/"><u>Quintessential Underwater Accessories for Gopro for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-digital-alterations-tips-for-text-in-pictures-for-2024/"><u>The Art of Digital Alterations  Tips for Text in Pictures for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-innovators-choice-best-gimbal-systems-for-video-creators-for-2024/"><u>The Innovator’s Choice  Best Gimbal Systems for Video Creators for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforming-social-interactions-on-xbox-mastering-zoom-for-2024/"><u>Transforming Social Interactions on Xbox  Mastering Zoom for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-canon-editing-kit-freepay-for-luts-included-for-2024/"><u>Ultimate Canon Editing Kit - Free/Pay for LUTs Included for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-comic-editor-app-for-2024/"><u>Ultimate Comic Editor App for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-video-playback-device-pcmobile-focus-for-2024/"><u>Ultimate Video Playback Device - PC/Mobile Focus for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-the-potential-of-drone-footage-through-editing-for-2024/"><u>Unlocking the Potential of Drone Footage Through Editing for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-ultimate-list-10-free-online-video-compressors-without-downloads/"><u>Updated 2024 Approved The Ultimate List 10 Free Online Video Compressors Without Downloads</u></a></li>
+</ul></div>

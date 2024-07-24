@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Streamlining Media Edits  StoryRemix & Windows 11 Photos Integration\""
-date: 2024-06-24T16:00:20.732Z
-updated: 2024-06-25T16:00:20.732Z
+date: 2024-07-23T11:44:41.646Z
+updated: 2024-07-24T11:44:41.646Z
 tags: 
   - screen-recording
   - ai video
@@ -66,6 +66,9 @@ How to create a Story Remix project automatically –
    1. After the above process gets over, the content gets scanned to automatically create a video adding styles, transitions, and music. The final preview of the project is displayed thereafter.
    2. You can rearrange the content by tapping **Remix it for me** button.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-name-video.jpg)
 
 ## Part 3: How to create a Story Remix project from scratch
@@ -76,11 +79,17 @@ Here is the guide –
    2. Hit **Video project** and pick out the images/videos you wish.
    3. Tap on the **Add** button and give a name.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-random-min.jpg)
 
 1. Hit on **Create video** afterwards.
 2. Now, you can preview, edit or share your video.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Part 4: How to edit a Story Remix video
 
 Story Remix has 3 major sections namely, media bin consists of files already included in your card-based timeline and files that you chose in previous steps; preview section with recent changes and timeline shows the card with a running video; and the timeline having the option to drag and drop cards from the media bin.
@@ -94,8 +103,14 @@ A theme is a built-in feature in Photos, just like music, filters, and text styl
 1. First all the things are added to your timeline followed by adding to the toolbar. Hit on **Themes** subsequently.
 2. You can select one theme from the listed options namely, "No theme", "Adventure", "Chilled", "Classic", "Electric", "Joy" and "Loved". Preview the selected theme and if satisfied, click on "Done".
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-theme-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ### Adding image duration
 
 While adding media to the timeline in Story Mix, you will see that there is a default timeline for each image. To adjust the duration, you can do –
@@ -110,8 +125,14 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 2. Use layout option and select location so that you can make the caption or title show up in a different place.
 3. Hit ‘Done’ after that.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-text-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Adding motion
 
 1. Firstly, choose the content from the timeline and hit on ‘Motion’. Now, select camera motion style from ‘Zoom in center’/’Zoom in right’/’Pan left’/’Tilt up’ etc.
@@ -119,6 +140,9 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-motion-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Trimming video clips
 
 1. Pick the video from timeline and choose ‘Trim’ button. Mark the trim area and click ‘Play’ to preview.
@@ -132,8 +156,14 @@ Adding 3D special effects to video clips is one of the lucrative features of Pho
 2. Position the effect by dragging/dropping and via preview panel > set the time range for effect > adjust the Y and Z co-ordinates for the effect. Some of the effects are applicable to the whole clip, while some are meant to be placed at particular locations over the clip. Slide on the ‘Attach to a point’ toggle, so it makes the effect move or stay fixed, depending on the object it is fixed to.
 3. Click ‘Delete’ if you want to remove 3D effects. Hit ‘Done’ for saving the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-effects-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## Part 6: How to export a Story Remix video
 
 Now that you have learnt how to edit videos in Story Remix, let’s see how can you export or share them with the world. You can directly share from Photos or use a USB drive to do the needful.
@@ -149,6 +179,9 @@ Now, pick the app or contact and send the video.
 
 Recent videos are found on ‘Collections’ section if they are auto created. Otherwise, all the Story Remix files are located permanently on ‘Creations’ section.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 From this article, we are sure that you have got plenty to learn about Story Remix. This wonderful feature from Windows 10 Photos is going to win hearts.
@@ -175,3 +208,63 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-streamline-your-gaming-with-xbox-screen-recorders/"><u>[New] 2024 Approved  Streamline Your Gaming with Xbox Screen Recorders</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-essential-skills-for-effective-discord-message-pinning/"><u>[New] Essential Skills for Effective Discord Message Pinning</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-elevating-your-podcast-game-mastering-video-and-audio-techniques-on-zoom/"><u>[New] In 2024, Elevating Your Podcast Game  Mastering Video and Audio Techniques on Zoom</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimal-devices-for-jiggle-free-filming-experience/"><u>[New] Optimal Devices for Jiggle-Free Filming Experience</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-pictureperfect-tips-for-instagrams-image-sizing/"><u>[New] PicturePerfect  Tips for Instagram's Image Sizing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-rgb-basics-and-their-evolution-into-srgb-format/"><u>[New] Rgb Basics and Their Evolution Into Srgb Format</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-syncopated-soundscapes-logic-pros-fading-artistry/"><u>[New] Syncopated Soundscapes - Logic Pro's Fading Artistry</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-roadmap-to-free-cut-out-imagery/"><u>[New] The Roadmap to Free Cut-Out Imagery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-smart-shoppers-guide-to-cloud-services-cost/"><u>[New] The Smart Shopper's Guide to Cloud Services Cost</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-list-complimentary-3d-text-psds/"><u>[New] The Ultimate List  Complimentary 3D Text PSDs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-timing-the-perfect-capture-and-labeling/"><u>[New] Timing the Perfect Capture and Labeling</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-uncover-ustream-plus-alternatives/"><u>[New] Uncover Ustream Plus Alternatives</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-full-photo-viewing-capabilities-win-11-edition/"><u>[New] Unlocking Full Photo Viewing Capabilities  Win 11 Edition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-go-full-screen-with-ease-masterful-mac-scaling-methods-for-insta-posts-for-2024/"><u>[Updated] Go Full Screen with Ease  Masterful Mac Scaling Methods for Insta Posts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-content-revenue-route-map-comparing-the-best-streaming-platforms/"><u>[Updated] In 2024, Content Revenue Route Map  Comparing the Best Streaming Platforms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-transfer-guide-5-top-techniques-for-computing-files/"><u>[Updated] The Ultimate Transfer Guide  5 Top Techniques for Computing Files</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-transformation-mp4-plus-srt-success/"><u>[Updated] The Ultimate Transformation  MP4 + SRT Success</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-mic-lists-tailored-for-high-definition-4k-cameras/"><u>[Updated] Top Mic Lists Tailored for High-Definition 4K Cameras</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-tier-applications-for-animation-and-modeling-craft/"><u>[Updated] Top-Tier Applications for Animation & Modeling Craft</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-utilizing-speech-recognition-for-efficient-documentation-and-transcription-in-ms-word/"><u>[Updated] Utilizing Speech Recognition for Efficient Documentation and Transcription in MS Word</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-alternative-to-youtube-for-video-lovers-on-ios-android/"><u>2024 Approved  Alternative to YouTube for Video Lovers on iOS, Android</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-essential-guide-sharpening-your-iphone-pics-without-paid-apps/"><u>2024 Approved  Essential Guide  Sharpening Your iPhone Pics Without Paid Apps</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-swiftly-upgrade-your-videos-with-professional-level-fb-subtitle-making/"><u>2024 Approved  Swiftly Upgrade Your Videos with Professional-Level FB Subtitle Making</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-restoring-windows-photo-viewer-on-win-11/"><u>2024 Approved  The Ultimate Guide to Restoring Windows Photo Viewer on Win 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-uncovering-the-practical-benefits-of-photo-stability-features/"><u>2024 Approved  Uncovering the Practical Benefits of Photo Stability Features</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-understanding-video-formats-which-is-more-effective-av1-or-vp9/"><u>2024 Approved  Understanding Video Formats  Which Is More Effective, AV1 or VP9?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleashing-audio-pleasure-your-iphones-podcast-potential/"><u>2024 Approved  Unleashing Audio Pleasure - Your iPhone’s Podcast Potential</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleashing-visual-treasures-a-pexels-search-guide/"><u>2024 Approved  Unleashing Visual Treasures  A Pexels Search Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-10plus-top-free-subtitle-converter-websites/"><u>2024 Approved  Unlocking 10+ Top Free Subtitle Converter Websites</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveil-image-by-removing-surroundings/"><u>2024 Approved  Unveil Image by Removing Surroundings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-8-premium-mp3-extraction-software-android/"><u>2024 Approved  Unveiling 8 Premium MP3 Extraction Software (Android)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-upcoming-assessment-varied-perspectives/"><u>2024 Approved  Upcoming Assessment  Varied Perspectives</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-avi-video-rotation-made-easy-top-5-free-solutions/"><u>2024 Approved AVI Video Rotation Made Easy Top 5 Free Solutions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/become-an-expert-in-real-time-streaming-on-facebook-platform/"><u>Become an Expert in Real-Time Streaming on Facebook Platform</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-apple-iphone-14-pro-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-oneplus-open-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On OnePlus Open Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-iphone-15-pro-max-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and iPhone 15 Pro Max without Apple Account</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Identify missing or malfunctioning your drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-harnessing-creative-energy-for-impactful-lyric-videos-and-lyric-video-maker/"><u>In 2024, Harnessing Creative Energy for Impactful Lyric Videos & Lyric Video Maker</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-instagram-video-snippet-limits-a-comprehensive-overview/"><u>In 2024, Instagram Video Snippet Limits  A Comprehensive Overview</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-premium-5-professional-drones-buyers-guide/"><u>In 2024, Premium 5 Professional Drones - Buyers Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-soaring-high-with-q500s-4k-vision/"><u>In 2024, Soaring High with Q500's 4K Vision</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-package-revelation/"><u>In 2024, The Art of Package Revelation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-11-brainy-battles-general-knowledge-channels-revealed/"><u>In 2024, Top 11 Brainy Battles  General Knowledge Channels Revealed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-tier-editing-suites-in-apples-macos-big-sur-release/"><u>In 2024, Top-Tier Editing Suites in Apple's MacOS Big Sur Release</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-turn-your-social-tweets-into-mp3-audio-files/"><u>In 2024, Turn Your Social Tweets Into MP3 Audio Files</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unbelievable-judgment-and-backup-recommendations/"><u>In 2024, Unbelievable Judgment & Backup Recommendations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/lowering-sounds-on-mac-and-pc-gradually-and-invisibly-for-2024/"><u>Lowering Sounds On Mac & PC Gradually and Invisibly for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/maximizing-health-outreach-via-fb-advertising-for-2024/"><u>Maximizing Health Outreach via FB Advertising for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-get-your-vhs-fix-on-the-go-top-mobile-apps-for-retro-video-enthusiasts/"><u>New 2024 Approved Get Your VHS Fix on the Go Top Mobile Apps for Retro Video Enthusiasts</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-retro-video-magic-top-apps-for-applying-vhs-effects-on-mobile/"><u>New In 2024, Retro Video Magic Top Apps for Applying VHS Effects on Mobile</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-130-music-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from 130 Music</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/take-your-portuguese-skills-to-new-heights-discover-6-effective-methods/"><u>Take Your Portuguese Skills to New Heights: Discover 6 Effective Methods</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-jaunt-vr-odyssey-revisited-for-2024/"><u>The Jaunt VR Odyssey Revisited for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-dvr-wars-tivo-and-comcast-face-off-in-a-battle-of-features-and-price/"><u>Updated In 2024, The DVR Wars TiVo and Comcast Face Off in a Battle of Features and Price</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Ways to trade pokemon go from far away On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Review  Ultra HD Blade Cam at Full Spectrum\""
-date: 2024-06-04T16:56:15.630Z
-updated: 2024-06-05T16:56:15.630Z
+date: 2024-07-23T09:59:43.889Z
+updated: 2024-07-24T09:59:43.889Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/f5fc965758dead74b06c9dd7514fff9b2e384059d
 
 # Blade Chroma with 4k Camera Review
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -28,10 +31,21 @@ thumbnail: https://thmb.techidaily.com/f5fc965758dead74b06c9dd7514fff9b2e384059d
 
  The Blade Chroma is an excellent drone to begin with from Horizon Hobby. The company has been producing high-quality aerial photography drones over the last few years and the first blade 350QX was released just two years ago. Since that time Horizon Hobby has produced several new versions of the Blade and the Chroma is the first one to enable the use of a [4K camera](https://tools.techidaily.com/wondershare/filmora/download/). Although the 4k version is not the standard version of the Chroma, it is one of the newest and best available in their line.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![blade chroma 4k](https://images.wondershare.com/filmora/article-images/blade-chroma-quadcopter-drone.jpg)
 
  The staple of this configuration is a performance drawn that also includes a [3-axis gimbal](https://tools.techidaily.com/wondershare/filmora/download/) and mount that is designed to use a [GoPro camera](https://tools.techidaily.com/wondershare/filmora/download/). The Chroma 4k quad copter comes with a CGO3 4k camera or a CGO2+ camera capable of shooting in 1080p. The device can also come with a gimbal made for a GoPro which can be bought separately. The idea of including the attachment for a GoPro is to have a performance drawn that's capable of competing with the GoPro Karma line by using the same quality camera.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## Pros and cons of Blade Chroma
 
  **Pros:**
@@ -89,6 +103,9 @@ Follow @Max Wales
 
  The Blade Chroma is an excellent drone to begin with from Horizon Hobby. The company has been producing high-quality aerial photography drones over the last few years and the first blade 350QX was released just two years ago. Since that time Horizon Hobby has produced several new versions of the Blade and the Chroma is the first one to enable the use of a [4K camera](https://tools.techidaily.com/wondershare/filmora/download/). Although the 4k version is not the standard version of the Chroma, it is one of the newest and best available in their line.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![blade chroma 4k](https://images.wondershare.com/filmora/article-images/blade-chroma-quadcopter-drone.jpg)
 
  The staple of this configuration is a performance drawn that also includes a [3-axis gimbal](https://tools.techidaily.com/wondershare/filmora/download/) and mount that is designed to use a [GoPro camera](https://tools.techidaily.com/wondershare/filmora/download/). The Chroma 4k quad copter comes with a CGO3 4k camera or a CGO2+ camera capable of shooting in 1080p. The device can also come with a gimbal made for a GoPro which can be bought separately. The idea of including the attachment for a GoPro is to have a performance drawn that's capable of competing with the GoPro Karma line by using the same quality camera.
@@ -124,6 +141,9 @@ Follow @Max Wales
 
 #### 3\.  Controller
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![blade chroma 4k controller](https://images.wondershare.com/filmora/article-images/blade-chroma-4k-controller.jpg)
 
  ST10+ controller has a built-in 5.5-inch touchscreen display to deliver a live view from the camera, making it easy to see how much battery life has been used, how fast the drone is flying as well as other flight information. There's a little bit of lag between the camera and screen, and the screen lacks the brightness control which makes it hard to observe the info when you are outside on a sunny day.
@@ -136,6 +156,9 @@ Follow @Max Wales
 
  Overall this drone is a lot of fun to fly and it can shoot excellent quality video with the chance to change out the camera for a GoPro if possible. The device is also known for its agility as well as its stability. Although you can't set GPS flight pattern areas, there are economist modes as well as safeguards which can prevent the drone from crashing into obstacles. This drone is something that's usually recommended for more experienced pilots but for its base price it can be a lot of fun to use with quality performance and flight time. Professionals will definitely want to upgrade to the 4k camera or use a different camera from the base model however.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -168,3 +191,51 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-premium-4k-video-mics-top-picks-list/"><u>[New] 2024 Approved  Premium 4K Video Mics Top Picks List</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-vimeo-basic-vimeo-plus-or-vimeo-pro-which-is-right-for-you/"><u>[New] 2024 Approved  Vimeo Basic, Vimeo Plus or Vimeo Pro  Which Is Right for You?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-in-depth-samsung-picture-editor-features-and-proscons/"><u>[New] In-Depth Samsung Picture Editor  Features and Pros/Cons</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-innovating-with-jujutsu-kaisen-characters-on-tiktok-for-2024/"><u>[New] Innovating with Jujutsu Kaisen Characters on TikTok for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-synchronized-intro-editing-across-all-your-devices-this-year/"><u>[New] Synchronized Intro Editing Across All Your Devices This Year</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-80s-revivalists-handbook-for-dynamic-editing-techniques/"><u>[New] The 80S Revivalist's Handbook for Dynamic Editing Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-home-filmmaking-tricks-the-quick-and-easy-guide/"><u>[New] Top Home Filmmaking Tricks  The Quick and Easy Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleash-the-power-of-zoom-your-win10-journey-begins-here/"><u>[New] Unleash the Power of Zoom  Your Win10 Journey Begins Here</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-utilizing-lut-filters-in-obs-studio-effectively/"><u>[New] Utilizing LUT Filters in OBS Studio Effectively</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-compact-guide-to-top-5-apps-for-picture-plus-sound-blend-for-2024/"><u>[Updated] Compact Guide to Top 5 Apps for Picture + Sound Blend for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-balancing-act-tripod-use-for-stable-vlogging/"><u>[Updated] In 2024, Balancing Act  Tripod Use for Stable Vlogging</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-elite-remote-meeting-apps-beyond-zoom/"><u>[Updated] In 2024, Elite Remote Meeting Apps  Beyond Zoom</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-50-must-try-virtual-bikes-for-riders/"><u>[Updated] The 50 Must-Try Virtual Bikes for Riders</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-seamless-journey-of-filming-and-editing-haul-videos/"><u>[Updated] The Seamless Journey of Filming and Editing Haul Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-best-practices-for-controlling-music-speed-on-spotify/"><u>2024 Approved  Best Practices for Controlling Music Speed on Spotify</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-enhancing-iphone-7-screen-record-capabilities/"><u>2024 Approved  Enhancing iPhone 7 Screen Record Capabilities</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-social-network-video-download-for-audio-conversion/"><u>2024 Approved  Social Network Video Download for Audio Conversion</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-path-to-polished-projects-utilizing-fades-effectively/"><u>2024 Approved  The Path to Polished Projects  Utilizing Fades Effectively</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/bandicam-a-user-centric-review-and-guide/"><u>Bandicam   A User-Centric Review & Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-poco-c50-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Poco C50 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-meme-maniacs-your-comprerans-quick-start-guide-for-9gag/"><u>In 2024, Meme Maniacs  Your Compreran's Quick-Start Guide for 9GAG</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-download-and-personalize-whatsapp-ringtones-on-mobile/"><u>In 2024, Step-by-Step  Download & Personalize WhatsApp Ringtones on Mobile</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-secrets-of-apple-music-in-videos/"><u>In 2024, Unveiling the Secrets of Apple Music in Videos</u></a></li>
+<li><a href="https://driver-install.techidaily.com/modernize-system-audio-with-updated-windows-11-drivers/"><u>Modernize System Audio with Updated Windows 11 Drivers</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-free-photo-editing-websites-to-remove-background-distractions/"><u>New 2024 Approved Free Photo Editing Websites to Remove Background Distractions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-imovie-on-windows-10-here-are-the-best-alternative-options/"><u>New 2024 Approved IMovie on Windows 10? Here Are the Best Alternative Options</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quelling-unsteady-motion-effects-for-2024/"><u>Quelling Unsteady Motion Effects for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-the-failed-file-synchronization-on-steam/"><u>Remedy for the Failed File Synchronization on Steam</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamline-your-videos-with-these-top-12-players-for-2024/"><u>Streamline Your Videos with These Top 12 Players for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/syncopated-sound-understanding-ip-rules-on-instagram-for-2024/"><u>Syncopated Sound  Understanding IP Rules on Instagram for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/system-evolution-unlocked-a-comprehensive-improvement-pathway-for-2024/"><u>System Evolution Unlocked  A Comprehensive Improvement Pathway for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-10-key-steps-for-optimal-stream-service-picks-for-2024/"><u>The 10 Key Steps for Optimal Stream Service Picks for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-hidden-layers-behind-facebooks-emblematic-blue-icon-in-messages-for-2024/"><u>The Hidden Layers Behind Facebook's Emblematic Blue Icon in Messages for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-interface-interlink-bridging-ig-and-tiktok-worlds-for-2024/"><u>The Interface Interlink  Bridging IG & TikTok Worlds for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-photomontage-artisans-blueprint-for-2024/"><u>The PhotoMontage Artisan's Blueprint for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-key-to-flawless-tiktok-profile-hyperlinking-for-2024/"><u>The Ultimate Key to Flawless TikTok Profile Hyperlinking for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-recorders-bible-for-clear-conversations-for-2024/"><u>The Ultimate Recorder's Bible for Clear Conversations for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-strategy-with-these-20-marketing-terms-for-2024/"><u>Transform Your Strategy with These 20 Marketing Terms for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-top-8-convertors-for-sub-to-srt-harmony-for-2024/"><u>Ultimate Guide  Top 8 Convertors for Sub to Srt Harmony for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-seal-on-immersive-odyssey-for-2024/"><u>Ultimate Seal on Immersive Odyssey for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-visual-upgrade-mastery-of-video-enhancer-version-22-for-2024/"><u>Ultimate Visual Upgrade  Mastery of Video Enhancer Version 2.2 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-creative-potential-editing-videos-via-windows-photos-and-story-remix-for-2024/"><u>Unlock Creative Potential  Editing Videos via Windows Photos and Story Remix for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-youtubes-srt-files-three-easy-methods-for-2024/"><u>Unlocking YouTube’s SRT Files  Three Easy Methods for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/where-can-i-find-glass-breaking-sound-effect-for-2024/"><u>Where Can I Find Glass Breaking Sound Effect for 2024</u></a></li>
+</ul></div>

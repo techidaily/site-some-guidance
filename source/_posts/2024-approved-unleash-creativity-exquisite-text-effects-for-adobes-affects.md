@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unleash Creativity  Exquisite Text Effects For Adobe's Affects\""
-date: 2024-06-04T16:12:53.589Z
-updated: 2024-06-05T16:12:53.589Z
+date: 2024-07-23T09:32:36.747Z
+updated: 2024-07-24T09:32:36.747Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/cc0866b80e38550ff25e3009719b526ea4484f9d3
 
 Adobe After Effects remains one of the most powerful ways to edit videos. One of the main reasons users find it so useful is the ability to customize the video editing process by adding different kinds of plugins to the program. If you are looking to add unique and fancy text to the video you are working on, then these text plugins for After Effects will come in handy.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## TextDelay
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Ftextdelay/>
@@ -28,12 +31,20 @@ TextDelay is a native plugin, meaning that you will find it already installed on
 
 ![text delay plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-delay-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## TextExploder
 
 Link: <https://aescripts.com/textexploder/>
 
 TextExploder is an After Effects plugin that is developed by MamoWorld and it allows you to split the text layers in After Effects into words, lines, characters, and more. These splits are so powerful that you can very easily isolate a single word or even a single letter.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![text exploder plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-exploder-plugin.jpg)
 
 ## iExpressions 2
@@ -44,6 +55,9 @@ If you want to effectively use the After Effects expressions even if you are not
 
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## TextBox
 
 Link: <https://aescripts.com/textbox/>
@@ -52,12 +66,27 @@ If you want to create the perfect shape behind your text, then TextBox is a good
 
 ![text box plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-box-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## Font Manager
 
 Link: <https://aescripts.com/font-manager/>
 
 Font Manager is an After Effects text plugin that is useful when creating and working with animated typefaces. You can use it to create the most complex animated text graphics in just a few simple clicks. You will also find it very familiar to use as the user interface is similar to the Character Panel in After Effects.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![font manager plugin](https://images.wondershare.com/filmora/article-images/2022/07/font-manager-plugin.jpg)
 
 ## Cartoon Moblur
@@ -74,14 +103,23 @@ If you are looking for shadow styles that will go very well with your project, S
 
 ![shadow studio plugin](https://images.wondershare.com/filmora/article-images/2022/07/shadow-studio-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Texts Animation Bundle
 
 Link: <https://aedownload.com/download-texts-animation-bundle-free-videohive/>
 
 This is a bundle of more than 80 different templates to add text effects to any text in After Effects. All the templates in the bundle are easily customizable and the plugin is very easy to use, allowing you to create amazing text effects in just a few clicks. The templates are modeled from various titles, quotes, and stories, so there is a little bit of something for everyone. Plus, the bundle gets constant updates and you are likely to get new templates with each update.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![texts animation bundle plugin](https://images.wondershare.com/filmora/article-images/2022/07/texts-animation-bundle-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Artificial Intelligence Titles
 
 Link: <https://videohive.net/item/ait-artificial-intelligence-titles/22124640?s%5Frank=1>
@@ -90,6 +128,9 @@ The Artificial Intelligence Titles is an After Effects text plugin that is desig
 
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Text Library
 
 Link: <https://videohive.net/item/text-library-handy-text-animations/21932974>
@@ -131,3 +172,54 @@ On its own After Effects comes with so many post-production effects and features
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-decoding-twitter-archived-content-for-clarity/"><u>[New] 2024 Approved  Decoding Twitter Archived Content for Clarity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-meme-madness-the-iphone-edition/"><u>[New] Meme Madness  The iPhone Edition</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-navigating-tiktok-web-a-must-do-list-for-mac-users-for-2024/"><u>[New] Navigating TikTok Web  A Must-Do List for Mac Users for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-proven-methods-to-elevate-your-filmora-editing-skills/"><u>[New] Proven Methods to Elevate Your Filmora Editing Skills</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-recipe-reels-reimagined-the-top-7-edible-videography-secrets/"><u>[New] Recipe Reels Reimagined  The Top 7 Edible Videography Secrets</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-tailored-transfer-process-for-mobile-camera-roll-on-snapchat-for-2024/"><u>[New] Tailored Transfer Process for Mobile Camera Roll on Snapchat for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-experts-gopro-buyers-companion/"><u>[New] The Expert's Gopro Buyer’s Companion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-notch-ae-extensions-selection/"><u>[New] Top-Notch AE Extensions Selection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleashing-the-potency-of-open-source-video-engines/"><u>[New] Unleashing the Potency of Open Source Video Engines</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-usb-c-revolution-in-monitors-hp-envy-27s-journey/"><u>[New] USB-C Revolution in Monitors  HP Envy 27'S Journey</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-ultimate-free-switch-console-simulations/"><u>[Updated] 2024 Approved  Ultimate Free Switch Console Simulations</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instigate-inspiration-top-20-ideas-for-ig-masterpieces/"><u>[Updated] In 2024, Instigate Inspiration  Top 20 Ideas for IG Masterpieces</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-maximize-fb-reach-schedule-your-post-using-free-resources/"><u>[Updated] Maximize FB Reach  Schedule Your Post Using Free Resources</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamlined-tactics-for-scrolling-through-popular-youtube-reactions/"><u>[Updated] Streamlined Tactics for Scrolling Through Popular YouTube Reactions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-best-budget-friendly-high-fidelity-webm-players/"><u>[Updated] The Best Budget-Friendly, High-Fidelity WebM Players</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-streaming-services-a-must-know/"><u>[Updated] Top 10 Streaming Services - A Must Know</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-zooms-potential-by-leveraging-skype/"><u>[Updated] Unlocking Zoom's Potential by Leveraging Skype</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-anatomy-of-hand-tracking-techniques-and-types/"><u>2024 Approved  Anatomy Of Hand Tracking  Techniques and Types</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-kinemaster-tools-for-cohesive-narrative-flow/"><u>2024 Approved  Kinemaster Tools for Cohesive Narrative Flow</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-pristine-teaser-trailer-trove/"><u>2024 Approved  Pristine Teaser Trailer Trove</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-sea-dwellers-in-focus-tips-for-shooting-stunning-gopro-video-below-water/"><u>2024 Approved  Sea Dwellers in Focus  Tips for Shooting Stunning GoPro Video Below Water</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-step-by-step-for-launching-your-own-livestream-channel/"><u>2024 Approved  Step-by-Step for Launching Your Own Livestream Channel</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-stream-the-best-games-list-9/"><u>2024 Approved  Stream the Best Games  List #9</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tailoring-your-canvas-a-guide-to-erasing-background-elements/"><u>2024 Approved  Tailoring Your Canvas  A Guide to Erasing Background Elements</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-iphone-video-capture-apps/"><u>2024 Approved  Top 10 iPhone Video Capture Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-picks-for-integrating-frame-elements-with-images/"><u>2024 Approved  Top Picks for Integrating Frame Elements with Images</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-your-watching-experience-adding-captions-to-windows-media-player/"><u>2024 Approved  Transform Your Watching Experience  Adding Captions to Windows Media Player</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unite-music-and-imagery-via-auditory-integration-in-premiere-pro/"><u>2024 Approved  Unite Music and Imagery via Auditory Integration in Premiere Pro</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-apple-iphone-14-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On Apple iPhone 14? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://network-issues.techidaily.com/breaking-down-4k-ultra-definition-benefits/"><u>Breaking Down 4K Ultra Definition Benefits</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-motorola-g54-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Motorola G54 5G? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-and-where-download-unboxing-video-background-music-for-2024/"><u>How To & Where Download Unboxing Video Background Music for 2024</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essential-guide-to-iphone-reflections-in-landscapes/"><u>In 2024, The Essential Guide to iPhone Reflections in Landscapes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-your-twitter-potential-premium-video-upload-tools/"><u>In 2024, Unleash Your Twitter Potential  Premium Video Upload Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-digital-storytellings-key-concepts/"><u>In 2024, Unveiling Digital Storytelling's Key Concepts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-lightroom-for-android-a-complete-guide/"><u>In 2024, Unveiling Lightroom for Android  A Complete Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-hidden-accessing-youtube-video-comments/"><u>In 2024, Unveiling the Hidden  Accessing YouTube Video Comments</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/join-the-metaverse-meme-movement-funny-fresh-and-easy-to-create-content-for-2024/"><u>Join the Metaverse Meme Movement  Funny, Fresh & Easy-to-Create Content for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/premier-presenter-label-provider-for-2024/"><u>Premier Presenter Label Provider for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/strategies-for-streaming-fb-live-on-zoom-platform-for-2024/"><u>Strategies for Streaming FB Live on Zoom Platform for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-first-lessons-in-frame-rate-and-fidelity-for-newbies-for-2024/"><u>The First Lessons in Frame Rate and Fidelity for Newbies for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/through-virtual-lenses-a-historical-view-for-2024/"><u>Through Virtual Lenses  A Historical View for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-premium-displays-the-ultimate-guide-for-xbox-s-series-x-for-2024/"><u>Unveiling Premium Displays  The Ultimate Guide for Xbox S Series X for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-finest-selection-of-economical-free-lut-tools-for-2024/"><u>Unveiling the Finest Selection of Economical, Free LUT Tools for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-mac-movie-magic-8-enchanting-video-editing-software-options-for-2024/"><u>Updated Mac Movie Magic 8 Enchanting Video Editing Software Options for 2024</u></a></li>
+</ul></div>

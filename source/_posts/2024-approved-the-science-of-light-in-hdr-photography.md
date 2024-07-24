@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Science of Light in HDR Photography\""
-date: 2024-06-04T11:03:37.520Z
-updated: 2024-06-05T11:03:37.520Z
+date: 2024-07-23T06:22:34.087Z
+updated: 2024-07-24T06:22:34.087Z
 tags: 
   - screen-recording
   - ai video
@@ -39,6 +39,9 @@ People often find it challenging to shoot a perfect HDR photograph from a phone 
 
 HDR portraits are best captured when your subject is still and the camera is also fixed on a tripod. So first, we will talk about how to shoot still portraits and then moving portraits.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### Still HDR Portraits
 
 You can create a high-quality HDR portrait by following these simple steps.
@@ -54,6 +57,9 @@ The first and most crucial part of your camera setting is to choose between two 
 | You have more control over your camera settings.                                                                                    | The camera itself matches the aperture value with the appropriate shutter speed.                                                                               |
 | Suitable for professionals.                                                                                                         | Suitable for beginners.                                                                                                                                        |
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![camera setting](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-1.jpg)
 
 So it is your choice which mode you want to use. Both work perfectly with HDR photography.
@@ -96,6 +102,9 @@ Of course, everyone can't use a DSLR camera for shooting HDR portraits as the pr
 
 Now that you know how to shoot still HDR portraits, let's put some light on shooting HDR moving portraits.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Moving HDR Portraits?
 
 People usually ask, " _Can I shoot moving subjects in HDR?_" or "_What is the basic method to get sharp-looking HDR photos of moving people?_"
@@ -108,6 +117,9 @@ Shooting moving portraits in HDR can get a bit difficult because of blurring and
 
 **Solution 3\.** DSLRs with high-quality exposure and depth sensors can also help shoot HDR moving portraits.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Edit and Merge Images to Create an HDR Portrait?
 
 After you have shot the images, the next step is to merge and edit them on photoshop or any other software to create a single perfect portrait.
@@ -118,6 +130,9 @@ Hundreds of editing software are available but here we are going to talk about p
 
 * First, when you open Photoshop, go to **Files >** **Automate > Merge to HDR pro,** Or click on **Tools > Photoshop > Merge to HDR pro**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![tools photoshop merge to hdr pro](https://images.wondershare.com/filmora/article-images/2022/09/shoot-and-create-impressive-hdr-portraits-4.jpg)
 
 * Click on **Browse** and select the images you want to merge.
@@ -141,6 +156,9 @@ Once you are done with all the adjustments, you'll finally have your perfect HDR
 
 If you are not satisfied with your resulting portrait image, you can further edit it in Lightroom or Photoshop.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Final Words
 
 HDR portraits are way better than conventional portrait images as they bring out the photograph's fine details that are impossible to achieve otherwise.
@@ -176,3 +194,53 @@ How to Shoot HDR Portraits?
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-breakneck-buzzers-youtubes-hottest-topics-amassing-views-overnight-by-24/"><u>[New] Breakneck Buzzers  YouTube's Hottest Topics Amassing Views Overnight by '24</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-sync-your-world-with-these-free-beat-detectors/"><u>[New] Sync Your World with These Free Beat Detectors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tech-analysis-elite-parrot-ar-drone-20/"><u>[New] Tech Analysis  Elite Parrot AR Drone 2.0</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-testimonial-videos-the-social-proof-powerhouse/"><u>[New] Testimonial Videos  The Social Proof Powerhouse</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-pinnacle-of-photography-top-ten-camera-lens-selections-2024/"><u>[New] The Pinnacle of Photography  Top Ten Camera Lens Selections 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-rise-of-immersive-consumer-spaces/"><u>[New] The Rise of Immersive Consumer Spaces</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-for-premiere-pro-full-screen-viewing/"><u>[New] The Ultimate Guide for Premiere Pro Full Screen Viewing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tick-tock-tally-calculating-pewdiepies-cash/"><u>[New] Tick-Tock Tally  Calculating PewDiePie’s Cash</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transforming-images-with-complete-understanding-of-facetune/"><u>[New] Transforming Images with Complete Understanding of Facetune</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-your-potential-with-expert-picked-video-stabilization-tools/"><u>[New] Unlock Your Potential with Expert-Picked Video Stabilization Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-upward-perspectives-capturing-landscapes-from-your-phone/"><u>[New] Upward Perspectives  Capturing Landscapes From Your Phone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-be-the-life-of-the-party-uploading-and-sharing-gifs-on-instagram-instant-guide/"><u>[Updated] 2024 Approved  Be the Life of the Party  Uploading & Sharing GIFs on Instagram [Instant Guide]</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-elevating-your-tiktok-identity-in-under-10-steps/"><u>[Updated] 2024 Approved  Elevating Your TikTok Identity in Under 10 Steps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-elevate-your-content-with-these-25-powerful-instagram-tags/"><u>[Updated] Elevate Your Content with These 25 Powerful Instagram Tags</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-resolving-fb-message-app-video-not-sending-error-on-mobile-devices/"><u>[Updated] Resolving FB Message App Video Not Sending Error on Mobile Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-art-and-craft-of-podcast-storytelling/"><u>[Updated] The Art and Craft of Podcast Storytelling</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-compre-writters-manual-for-great-documentary-storytelling/"><u>[Updated] The Compre Writter's Manual for Great Documentary Storytelling</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tips-for-producing-high-quality-hdr-photographs-with-lightroom/"><u>[Updated] Tips for Producing High-Quality HDR Photographs with Lightroom</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-guidelines-for-breaking-through-cover-art/"><u>[Updated] Top 10 Guidelines for Breaking Through Cover Art</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-ultimate-hash-tracker-list-for-major-social-media-sites-fbtwitterinsta-for-2024/"><u>[Updated] Ultimate Hash Tracker List for Major Social Media Sites (FB/Twitter/Insta) for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-shattering-limits-of-visuals-standard-definition-to-hdr-revolution/"><u>2024 Approved  Shattering Limits of Visuals  Standard Definition to HDR Revolution</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-substitutes-to-moviemaker-in-the-windows-realm/"><u>2024 Approved  Substitutes to MovieMaker in the Windows Realm</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-mastering-mobile-one-simple-trick-to-optimize-your-vertical-videos/"><u>2024 Approved Mastering Mobile One Simple Trick to Optimize Your Vertical Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/cutting-edge-techniques-for-efficient-hp-notebook-screen-recording/"><u>Cutting-Edge Techniques for Efficient HP Notebook Screen Recording</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/free-fast-and-reliable-the-best-pinterest-video-downloads-ranked-for-2024/"><u>Free, Fast & Reliable  The Best Pinterest Video Downloads Ranked for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-meizu-21-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-decoding-instagram-the-technique-for-video-downloads-on-pcmac-devices/"><u>In 2024, Decoding Instagram  The Technique for Video Downloads on PC/Mac Devices</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-earths-premier-online-income-tycoon/"><u>In 2024, Earth’s Premier Online Income Tycoon</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-14-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi 14 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-understanding-the-fundamentals-of-online-tales/"><u>In 2024, Understanding the Fundamentals of Online Tales</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-vector-magic-discovering-the-10-software-picks-you-need/"><u>In 2024, Vector Magic  Discovering the 10 Software Picks You Need</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/innovative-tactics-starting-your-youtube-enterprise-from-mobile/"><u>Innovative Tactics  Starting Your YouTube Enterprise From Mobile</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-srt-extension-on-both-macwindows-platforms/"><u>Mastering SRT Extension on Both Mac/Windows Platforms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/metaverse-masterpieces-transforming-images-into-memetic-hits-for-2024/"><u>Metaverse Masterpieces  Transforming Images Into Memetic Hits for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/slice-and-tag-the-art-of-chaptering-in-vimeo/"><u>Slice and Tag  The Art of Chaptering in Vimeo</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/telegram-for-novices-an-easy-path-to-effective-advertising-for-2024/"><u>Telegram for Novices  An Easy Path to Effective Advertising for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-canva-blueprint-to-neat-and-clean-image-edges-for-2024/"><u>The Canva Blueprint to Neat and Clean Image Edges for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-food-filmmakers-blueprint-techniques-and-tricks-for-2024/"><u>The Food Filmmaker’s Blueprint  Techniques and Tricks for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/through-the-lens-through-the-mind-advanced-photo-editing-mastery-for-2024/"><u>Through the Lens, Through the Mind  Advanced Photo Editing Mastery for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-poco-x6-pro-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Poco X6 Pro Phone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/uninterrupted-airdrop-connections-in-the-world-of-iphones-and-macs-for-2024/"><u>Uninterrupted AirDrop Connections in the World of iPhones & Macs for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleash-creativity-build-logos-using-free-template-inspiration-for-2024/"><u>Unleash Creativity  Build Logos Using Free Template Inspiration for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleash-creativity-harnessing-gs-power-in-kinemaster-for-2024/"><u>Unleash Creativity  Harnessing GS Power in KineMaster for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-maximize-your-gopro-experience-a-quik-review-and-top-pc-video-editing-solutions/"><u>Updated Maximize Your GoPro Experience A Quik Review and Top PC Video Editing Solutions</u></a></li>
+<li><a href="https://facebook.techidaily.com/when-did-my-social-journey-begin-on-facebook/"><u>When Did My Social Journey Begin on Facebook?</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Essential Guide to Blurring Images with Your iPhone\""
-date: 2024-06-04T18:01:30.826Z
-updated: 2024-06-05T18:01:30.826Z
+date: 2024-07-23T10:39:28.949Z
+updated: 2024-07-24T10:39:28.949Z
 tags: 
   - screen-recording
   - ai video
@@ -54,8 +54,14 @@ Swipe-drag the modes present above the **Shutter** button to switch to the **POR
 
 Tap the **Capture** icon from the bottom-center to capture the image. To access, you can either tap the **Preview** icon from the bottom-left corner, or get to the **Photos** app from the Home screen, go to **Albums**, and access the captured photo from the **Recents** album.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![blur photo background iphone portrait mode](https://images.wondershare.com/filmora/article-images/blur-photo-background-iphone-portrait-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## Part 2: Take a Photo with a Blurred Background on Older iPhones by Getting Closer to the Subject
 
 If you are using an older model of iPhone that doesn’t have ‘Portrait’ mode, you can still capture the images with the blurred background by getting closer to the subject, and enabling ‘Auto Focus’ before tapping the ‘Capture’ button. You can learn how to do this by following the steps given below:
@@ -86,12 +92,18 @@ Launch the **Photos** app on your iPhone, go to the album with the target photo,
 
 Tap the Effects icon from the bottom, swipe left to horizontally scroll through the available effects to get to **VIGNETTE**, and use the slider under it to manage the intensity to **blur picture iPhone** has.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![blur picture on iphone with vignette effect](https://images.wondershare.com/filmora/article-images/blur-picture-on-iphone-with-vignette-effect.jpg)
 
 **Step 3: Save and Access the Photo**
 
 Tap **Done** from the bottom-right corner to save the changes and to exit the **Edit** mode. Continue using the image as and/or where needed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Blur the Background of Photos on iPhone with Apps
 
 You may want to use a third-party app to apply effects to the photos because they offer several advanced features that the iPhone’s built-in Photos app doesn’t. Furthermore, since such programs are designed specifically for the purpose, they are quite intuitive and come with self-explanatory options and buttons.
@@ -102,6 +114,9 @@ There is a plethora of apps available on the App Store that can help you get the
 
 After [installing Snapseed from the App Store](https://apps.apple.com/us/app/snapseed/id439438619), launch the program, and tap anywhere on the main screen. On the accessibility allowance box, tap **Select Photos**, tap to select the target photo from your iPhone, and tap **Done** from the top-right corner. Next, tap anywhere on the screen to import the selected picture to Snapseed.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open photo to blur snapseed](https://images.wondershare.com/filmora/article-images/open-photo-to-blur-snapseed.jpg)
 
 **Step 2: Pick the Blur Tool**
@@ -118,6 +133,9 @@ Tap the **Shape** icon from the bottom to switch between the **Linear** and **El
 
 From the top, ensure that the **Blur Strength** option is selected, tap anywhere on the screen, and drag to the right to increase the intensity of the blurriness. Optionally, you can tap the Effect Types icon from the bottom, and tap to choose **Vignette Strength** from the box that comes up.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![snapseed blur photo background](https://images.wondershare.com/filmora/article-images/snapseed-blur-photo-background.jpg)
 
 Then, as earlier, drag your finger to the right or left anywhere on the screen to increase or decrease the intensity of the effect respectively. Once done, tap the **OK** button (with the tick mark) from the bottom-right corner. Back on the main screen, tap **EXPORT** from the bottom-right, you tap your preferred option for exporting.
@@ -154,8 +172,15 @@ Swipe-drag the modes present above the **Shutter** button to switch to the **POR
 
 Tap the **Capture** icon from the bottom-center to capture the image. To access, you can either tap the **Preview** icon from the bottom-left corner, or get to the **Photos** app from the Home screen, go to **Albums**, and access the captured photo from the **Recents** album.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![blur photo background iphone portrait mode](https://images.wondershare.com/filmora/article-images/blur-photo-background-iphone-portrait-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Part 2: Take a Photo with a Blurred Background on Older iPhones by Getting Closer to the Subject
 
 If you are using an older model of iPhone that doesn’t have ‘Portrait’ mode, you can still capture the images with the blurred background by getting closer to the subject, and enabling ‘Auto Focus’ before tapping the ‘Capture’ button. You can learn how to do this by following the steps given below:
@@ -168,12 +193,32 @@ Use the method explained above to launch the **Camera** app on your iPhone. Beca
 
 Tap and hold the main subject on the screen until the **AE/AF Lock** message shows up at the top to confirm that the **Auto Focus** feature has been turned on.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![iphone auto focus blur photo background](https://images.wondershare.com/filmora/article-images/iphone-auto-focus-blur-photo-background.jpg)
 
 **Step 3: Capture and Access the Image**
 
 Get closer to the subject. Ensure that the background around the main subject gets blurry and you move forward. Tap the **Capture** icon once you are close enough to get the desired level of blurriness in the background. Now, use the method explained above to access the captured photo.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Adding Vignette Effect to Photo to Blur the Background on iPhone
 
 The built-in Photos app comes with the Vignette effect that can be applied to the image at the time of editing. However, to get this done, it is recommended that the main subject should be at the center so the background looks unimportant. You can follow the steps given below to learn **how to blur a picture on iPhone** with the Vignette effect:
@@ -192,6 +237,9 @@ Tap the Effects icon from the bottom, swipe left to horizontally scroll through 
 
 Tap **Done** from the bottom-right corner to save the changes and to exit the **Edit** mode. Continue using the image as and/or where needed.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4: Blur the Background of Photos on iPhone with Apps
 
 You may want to use a third-party app to apply effects to the photos because they offer several advanced features that the iPhone’s built-in Photos app doesn’t. Furthermore, since such programs are designed specifically for the purpose, they are quite intuitive and come with self-explanatory options and buttons.
@@ -252,3 +300,45 @@ Blurring the background in a photo ensures that the main subject remains in the 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-beyond-photography-an-exhaustive-review-of-the-toolwiz-app-2023/"><u>[New] Beyond Photography  An Exhaustive Review of the Toolwiz App, 2023</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-capture-quality-in-nintendo-switch-life/"><u>[New] Capture Quality in Nintendo Switch Life</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-full-screen-mode-enhancing-fb-videos-for-2024/"><u>[Updated] Full-Screen Mode  Enhancing Fb Videos for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-primeplex-all-in-one-channel-hub-with-homeside-views/"><u>[Updated] PrimePlex  All-in-One Channel Hub with Homeside Views</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-professional-videographers-guide-to-efficient-color-keying/"><u>[Updated] Professional Videographer's Guide to Efficient Color-Keying</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-record-rapidly-innovative-iphone-time-lapse-methods/"><u>[Updated] Record Rapidly  Innovative iPhone Time-Lapse Methods</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-illustrators-toolkit-making-text-pop-in-3d/"><u>[Updated] The Illustrator's Toolkit  Making Text Pop in 3D</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-2024-high-definition-cameras/"><u>[Updated] The Ultimate 2024 High Definition Cameras</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-meme-playbook-no-10-essentials/"><u>[Updated] The Ultimate Meme Playbook  No. 10 Essentials</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transform-live-streams-with-obsplusstreamlabs-mac/"><u>[Updated] Transform Live Streams with OBS+Streamlabs (Mac)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-strategy-for-bio-linking-on-tiktok/"><u>[Updated] Ultimate Strategy for Bio Linking on TikTok</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-understanding-panoramic-cinema-captures/"><u>[Updated] Understanding Panoramic Cinema Captures</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-the-potential-of-photography-with-adobe-motion-blur/"><u>[Updated] Unlock the Potential of Photography with Adobe Motion Blur</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-the-full-potential-of-vlc-media-player-on-mac/"><u>[Updated] Unlocking the Full Potential of VLC Media Player on Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlining-media-formats-from-srt-to-advanced-standards/"><u>2024 Approved  Streamlining Media Formats  From SRT to Advanced Standards</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-iphone-cinematography-transforming-fast-motion-into-sluggish-sequences/"><u>2024 Approved  The Art of iPhone Cinematography  Transforming Fast Motion Into Sluggish Sequences</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-complete-guide-to-adding-powerful-narrations/"><u>2024 Approved  The Complete Guide to Adding Powerful Narrations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-breakdown-xstudio-video-production-mastery/"><u>2024 Approved  The Ultimate Breakdown  XStudio Video Production Mastery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-titlegenius-revolutionizing-video-title-generation/"><u>2024 Approved  TitleGenius  Revolutionizing Video Title Generation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-the-potential-latest-win11-applications-and-games/"><u>2024 Approved  Unleash the Potential  Latest Win11 Applications and Games</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-chromebook-zoom-capabilities/"><u>2024 Approved  Unlocking Chromebook Zoom Capabilities</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-potential-in-your-podcasts-xml-structure/"><u>2024 Approved  Unlocking the Potential in Your Podcast's XML Structure</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-antivirus-overkill-in-your-windows-os/"><u>Avoiding Antivirus Overkill in Your Windows OS</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/hers-for-digital-content-creators-youtubes-keyword-techniques-for-2024/"><u>Deciphers for Digital Content Creators  YouTube's Keyword Techniques for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-vigilance-identifying-and-correcting-breaches/"><u>Facebook Vigilance: Identifying & Correcting Breaches</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Nokia C300? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfecting-the-audio-element-in-instagram-storytelling/"><u>In 2024, Perfecting the Audio Element in Instagram Storytelling</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneering-pixels-select-the-leading-video-editors-for-big-sur/"><u>In 2024, Pioneering Pixels  Select the Leading Video Editors for Big Sur</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-strategies-for-winning-on-spotifys-ad-platform/"><u>In 2024, Strategies for Winning on Spotify's Ad Platform</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamlining-podcast-feed-creation-techniques/"><u>In 2024, Streamlining Podcast Feed Creation Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-supreme-speakers-showcase-selector/"><u>In 2024, Supreme Speakers' Showcase Selector</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-chroma-shift-4k-vistas-unveiled-by-blade-technology/"><u>In 2024, The Chroma Shift  4K Vistas Unveiled by Blade Technology</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-removing-backdrops-a-comprehensive-approach/"><u>In 2024, The Ultimate Guide to Removing Backdrops  A Comprehensive Approach</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/portuguese-parallelism-brazilians-vs-europeans/"><u>Portuguese Parallelism: Brazilians Vs. Europeans</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleash-potential-a-comprehensive-guide-to-podcast-seo-mastery-for-2024/"><u>Unleash Potential  A Comprehensive Guide to Podcast SEO Mastery for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleashing-creativity-with-mobile-melodies-on-iphone-for-2024/"><u>Unleashing Creativity with Mobile Melodies on iPhone for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-the-secrets-of-9gag-for-memetic-success-for-2024/"><u>Unlock the Secrets of 9GAG for Memetic Success for 2024</u></a></li>
+</ul></div>

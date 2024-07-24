@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Collection of Film Scripts by Genre\""
-date: 2024-06-04T18:12:57.147Z
-updated: 2024-06-05T18:12:57.147Z
+date: 2024-07-23T10:46:32.414Z
+updated: 2024-07-24T10:46:32.414Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,9 @@ _Be it a blockbuster movie, an indie gem, a play on The Fringe, or the West End 
 
 When you look at the top-grossing movies at the box office, it's no surprise that they primarily consist of superhero movies made by big studios with big budgets. Black Widow is the[top-grossing film of 2022](https://www.boxofficemojo.com/chart/top%5Flifetime%5Fgross/?area=XWW) so far, with Shang-Chi and The Legend of the Ten Rings a close second. In third place is F9: The Fast Saga, the ninth installment in the overwhelmingly popular Fast and Furious franchise.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reason of picking films](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-1.jpg)
 
 Sure, we'd all love to write one of those big blockbusters, but it's going to take a lot of blood, sweat, and writing to earn Marvel's trust. That's why I want to draw attention to the movie that is in fourth place: A Quiet Place Part II. The sequel to 2018's A Quiet Place has grossed over $160 million this year and still has three months to go. Why is this significant? I will explain.
@@ -73,6 +76,9 @@ Part of its enduring appeal is the simplicity of its concept: A kid who murdered
 
 **_1\. 21 Jump Street_**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![21 jump street](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-4.jpg)
 
 **Writer:** [Michael Bacall](https://en.wikipedia.org/wiki/Michael%5FBacall), [Stephen J. Cannell](https://en.wikipedia.org/wiki/Stephen%5FJ.%5FCannell)
@@ -85,6 +91,9 @@ Download the script here: <https://www.scriptslug.com/script/21-jump-street-2012
 
 **_2\. The Edge of Seventeen_**
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![the edge of seventeen](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-5.jpg)
 
 **Writer:** Kelly Fremon Craig
@@ -95,10 +104,16 @@ That's exactly what new screenwriter [**Kelly Fremon Craig**](https://en.wikiped
 
 **Download the script here:** <https://www.scriptslug.com/script/the-edge-of-seventeen-2016>
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best Christmas play scripts
 
 _**1\. A Christmas Carol – Large Cast**_Every man has the power to do good.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![a christmas carol is large cast](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-6.jpg)
 
 _**Writer:**_ [Charles Dickens](https://en.wikipedia.org/wiki/Charles%5FDickens)
@@ -119,6 +134,9 @@ Angel, a child fairy, learns a valuable lesson about caring for the sick when sh
 
 ### Best promotional video scripts
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![best promotional video scripts](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-8.jpg)
 
 _**1\. Announcement**_
@@ -159,6 +177,9 @@ Ages of the actors: _Approximately 30-40 years of age_
 
 Suitable for: _All ages_
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![a gift](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-9.jpg)
 
 In this ten-minute play for two actors, two young men meet on a train. One is a serious young man on his way to propose to his girlfriend, the other is a cynical loner who advises the former to escape the wedding while he can. The council backfires and an earnest young man sets out on a journey, leaving the recluse in this comedy-drama with a wonderful twist to his story.
@@ -183,6 +204,10 @@ Set: _A Park. Daytime in the present. It is a bucolic atmosphere in the middle o
 
 Level of difficulty: _6/10 – conversational, easy lines to remember and that also flow easily_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![a walk in the park](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-10.jpg)
 
 When Jack meets Esther in the park one day, he swears she looks familiar. Although Esther initially denies that she even knows him, she invites him to sit down and they start talking. Jack tells her a story about a girl he knew a long time ago, a girl he called "Essie", who helped him get over another girl who broke his heart a long time ago. A short five-minute game for seniors - one man and one woman.
@@ -193,6 +218,9 @@ When Jack meets Esther in the park one day, he swears she looks familiar. Althou
 
 **_1\. 2 Guns_**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![2 guns](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-11.jpg)
 
 **Writers:** Blake Masters (screenplay by) Steven Grant
@@ -229,6 +257,9 @@ Download the script here: <https://www.takarabio.com/documents/User%20Manual/RR0
 
 **_2\. UNBREAKABLE_**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![unbreakable](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-14.jpg)
 
 **Writer:** M. Night Shyamalan
@@ -239,10 +270,17 @@ The film stands out in the now crowded genre by avoiding any cataclysmic showdow
 
 **Download the script here:** <https://www.scripts.com/script/unbreakable%5F1086>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Best animation scripts
 
 **_1\. Cinderella_(1950)**
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cinderella 1950](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-15.jpg)
 
 **Writers:** William Peet, Ted Sears, Homer Brightman, Kenneth Anderson, Erdman Penner, Winston Hibler, Harry Reeves, Joe Rinaldi
@@ -255,6 +293,9 @@ The money Cinderella made from its release, subsequent record sales, publishing,
 
 **Writers:** Brenda Chapman, Barry Johnson, Andy Gaskill, Kevin Harkey, Tom Sito, Rick Maki, Burny Mattinson, Lorna Cook, Gary Trousdale, Jorgen Klubien, Larry Leker, Ed Gombert, Mark Kausler, Thom Enriquez, Jim Capobianco, Chris Sanders, Joe Ranft, Francis Glebas
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the lion king 1994](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-16.jpg)
 
 Like any child of the 90s, I admit to having a soft spot for The Lion King. The film was clearly heavily influenced by biblical stories, the Epic of Sundiatus and Shakespeare's Hamlet. It tells the story of Simba, the destined king of Pride Rock, who runs away guilt-ridden after "blaming" his father's death. The film is the highest-grossing hand-drawn film in history and won two Academy Awards for musical score.
@@ -281,6 +322,9 @@ The 4K editing support feature enables users to edit and export videos at a reso
 
 The [color tuning](https://tools.techidaily.com/wondershare/filmora/download/) feature enables users to adjust the white balance and dynamic range of their clips. The audio mixer feature enables changing the audio of each track. The advanced text editor allows editing the color, size, font, and even animation of the text. The screen recording feature enables recording the screen of the computer and webcam efficiently. The video stabilization feature eliminates the effects of camera shake.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![color tuning](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-18.jpg)
 
 ## Conclusion
@@ -312,3 +356,46 @@ Creating video content that can potentially go viral is no longer a complicated 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-disseminate-vimeo-videos-widely/"><u>[New] Disseminate Vimeo Videos Widely</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-social-syncing-strategy-post-videos-between-platforms-for-2024/"><u>[New] Social Syncing Strategy  Post Videos Between Platforms for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-culinary-craftsmanship-innovative-naming-for-food-shows/"><u>[Updated] 2024 Approved  Culinary Craftsmanship  Innovative Naming for Food Shows</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-precision-in-premiere-4-proven-strategies-to-elevate-iphone-hdri/"><u>[Updated] Precision in Premiere  4 Proven Strategies to Elevate iPhone HDRI</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-evolution-of-audio-liberation-pazeras-advanced-techniques-2e/"><u>[Updated] The Evolution of Audio Liberation  Pazera's Advanced Techniques (2E)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-insiders-guide-to-ultimate-audio-equipment/"><u>[Updated] The Insider's Guide to Ultimate Audio Equipment</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-mi-drone-4k-review-drones-vs-landscape-photography/"><u>[Updated] The Mi Drone 4K Review  Drones vs Landscape Photography</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-viral-instagram-unboxing-vids/"><u>[Updated] The Ultimate Guide to Viral Instagram Unboxing Vids</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-tips-for-sharper-images-on-google-meet-calls/"><u>[Updated] Top Tips for Sharper Images on Google Meet Calls</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-titles-essential-hd-video-playback-tools-freepaid/"><u>[Updated] Top Titles  Essential HD Video Playback Tools (Free/Paid)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-triumphs-in-transparency-reddits-top-posts-reviewed-10/"><u>[Updated] Triumphs in Transparency  Reddit's Top Posts Reviewed (10)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-crypto-potential-the-ultimate-list-of-nft-engines/"><u>[Updated] Unlocking Crypto Potential  The Ultimate List of NFT Engines</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-advanced-greenscreen-techniques-a-complete-guide-to-chroma-key-kinemaster/"><u>[Updated] Unveiling Advanced Greenscreen Techniques  A Complete Guide to Chroma Key (KineMaster)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-iphone-xs-advanced-photography-tools/"><u>[Updated] Unveiling iPhone X's Advanced Photography Tools</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-xiaomi-13t-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-mastering-virtual-meetings-expert-tips-for-using-zoom-win10/"><u>2024 Approved  Mastering Virtual Meetings  Expert Tips for Using Zoom (Win10)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-pinnacle-microphone-selections-for-4k-camera-excellence/"><u>2024 Approved  Pinnacle Microphone Selections for 4K Camera Excellence</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-shifting-screenshots-from-tif-to-common-formats-mac/"><u>2024 Approved  Shifting Screenshots From .tif to Common Formats (Mac)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-standout-80s-visual-tricks-to-enhance-films/"><u>2024 Approved  Standout 80S Visual Tricks to Enhance Films</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-take-notes-if-necessary-jotting-down-key-points-can-help-you-better-remember-information-while-listening/"><u>2024 Approved  Take Notes (if Necessary)  Jotting Down Key Points Can Help You Better Remember Information While Listening</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-path-to-prominence-elevating-brands-with-telegram-strategies/"><u>2024 Approved  The Path to Prominence  Elevating Brands with Telegram Strategies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-mobile-vr-headsets/"><u>2024 Approved  Top 10 Mobile VR Headsets</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-list-of-accessibility-8-premium-free-mp3-grabber-apps-android/"><u>2024 Approved  Ultimate List of Accessibility  8 Premium Free MP3 Grabber Apps (Android)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-potential-of-zoom-meetings/"><u>2024 Approved  Unlocking the Potential of Zoom Meetings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-whatsapps-call-conversations/"><u>2024 Approved  Unveiling WhatsApp's Call Conversations</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/elite-picks-12-self-contained-capture-software/"><u>Elite Picks  12 Self-Contained Capture Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/friendship-enhancing-virtual-worlds-the-top-10-metaverse-games/"><u>Friendship-Enhancing Virtual Worlds  The Top 10 Metaverse Games</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-samsung-galaxy-a34-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Samsung Galaxy A34 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-strategic-techniques-to-amplify-your-fb-giveaway-reach/"><u>In 2024, Strategic Techniques to Amplify Your FB Giveaway Reach</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-complete-periscope-users-handbook/"><u>In 2024, The Complete Periscope User's Handbook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-magic-behind-the-lens-iphone-xs-groundbreayer-camera-tech/"><u>In 2024, The Magic Behind the Lens  IPhone X's Groundbreayer Camera Tech</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-windows-11-audio-capture/"><u>In 2024, The Ultimate Guide to Windows 11 Audio Capture</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-virtual-quest-a-jaunt-vr-exploration/"><u>In 2024, The Virtual Quest  A Jaunt VR Exploration</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-oppo-a59-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Oppo A59 5G</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-8-collage-champions-finding-affordable-premium-video-mosaics-android/"><u>In 2024, Top 8 Collage Champions  Finding Affordable, Premium Video Mosaics (Android)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transform-avi-files-into-gifs-with-filmora-on-windowsmacos/"><u>In 2024, Transform AVI Files Into GIFs with Filmora on Windows/MacOS</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-s-most-popular-4k-video-editing-programs/"><u>New 2024 Approved S Most Popular 4K Video Editing Programs</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/ultimate-storytellers-portal/"><u>Ultimate Storytellers' Portal</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-easy-avi-editing-on-windows-8-top-rated-video-editor-for-pc-2023/"><u>Updated 2024 Approved Easy AVI Editing on Windows 8 Top-Rated Video Editor for PC - 2023</u></a></li>
+</ul></div>

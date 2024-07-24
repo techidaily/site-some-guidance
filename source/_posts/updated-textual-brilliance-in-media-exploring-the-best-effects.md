@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Textual Brilliance in Media  Exploring the Best Effects\""
-date: 2024-06-04T14:53:36.064Z
-updated: 2024-06-05T14:53:36.064Z
+date: 2024-07-23T08:42:33.328Z
+updated: 2024-07-24T08:42:33.328Z
 tags: 
   - screen-recording
   - ai video
@@ -35,10 +35,17 @@ There is no doubt that After Effects is considered to be a great editor to apply
 
 * [How to Create Text Effects](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. Popular Text Effects
 
 There are certain text effects that you generally come across whether you are watching movies, web series, and videos on social media or video streaming platforms. We have compiled a list of the most popular text effects that are extremely relevant in the current times in videography.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ### 1\. Underwater Text Effect
 
 Opening a video with the view of a beach and blue water is definitely stunning. But when you add an underwater text effect to display any title, it instantly grabs the attention of the viewers. In the underwater text effect, your text seems to be fixated or floating under the water. The text generally has a darker shade of blue over the light bluish water.
@@ -47,10 +54,16 @@ Opening a video with the view of a beach and blue water is definitely stunning. 
 
 The text also has some distortion effect due to the waves in the water body so that it looks more realistic. There are different variations of that underwater text effect such as the text emerging out of water when there is a side view of the water body is taken. Another example of the variation is that text is floating over the water and having a watery gel or bubbly texture.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Flame Text Effect
 
 Flame text effect is extremely common in the opening and closing credits of a video especially when it is an action video. Generally, a dark background is set against the fiery text so that the flame effect is more prominent and eye-catching. In fact, some video creators prefer a fiery background out of which the text with flame text effect emerges and make the required impact.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![flame text effect](https://images.wondershare.com/filmora/article-images/2022/09/flame-text-effect.jpg)
 
 There are different variations of the flame text effect available which make the effect relevant even today. Instead of the flame text effect spread outside of the text, the effect is contained within the text when the text is large enough to accommodate flames prominently within it. Sometimes, the text is distorted as if the fire is burning the text.
@@ -59,10 +72,16 @@ There are different variations of the flame text effect available which make the
 
 Glitch text effect is an extremely popular effect in modern times where retro video effects are reaching a new high. The glitch text effect is designed to get the attention of the viewers instantly. In the glitch text effect, the text is divided into different sections and they are distorted or dispersed slightly as if your screen has a display issue.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![glitch text effect](https://images.wondershare.com/filmora/article-images/2022/09/glitch-text-effect.jpg)
 
 Glitch text effect is more prominent when it is applied to a large text having a light color against a dark background. The use of shadow and blur effect to get the desired glitch effect is common. More often than not, some short straight lines like strokes are placed around the text to enhance the glitch effect. Some creators prefer glitch text effect on 3D texts for a better visual appeal.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. 3D Text Effect
 
 3D text effect has been popular ever since its inception and its popularity has been steady in the videography world even today. Of course, with time, the effect has changed a lot to match the different niches of videos, and hence, you will come across a wide variety of 3D text effects. Starting from full screen texts and titles to adverts and promotional texts, 3D text effects find a place everywhere.
@@ -87,6 +106,9 @@ Blurry fade on is such a pleasing effect for the human eye especially when it is
 
 In fact, the text effect is used to highlight a few characters in a word while the others remain blurred. You can also use the effect when you are making transitions between different texts and titles. It is more like an add-on to the usual fade on effect as it adds a blurring effect. It is important to get the attention of the viewers to specific texts.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 7\. Type on Text Effect
 
 The type on text effect is also referred to as the typewriter effect. In this effect, the characters in the text appear one by one as if someone is typing it in real-time with a typewriter. A blinking cursor is placed at the end for the characters for a more realistic look. The text effect is useful for both one-liners as well as paragraphs.
@@ -95,10 +117,16 @@ The type on text effect is also referred to as the typewriter effect. In this ef
 
 It breaks the monotony of showing an entire paragraph at once. Sometimes, a modified version of the type on text effect is used whereby some characters are shown and they are deleted backward and re-typed. This helps in getting the immediate attention of the viewers and they focus on the re-typed characters or words.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 8\. Animate Along a Path
 
 If you are looking for a customized animation for the texts in your video, you should opt for animate along a path effect. The text will move in the pre-defined path while moving along the path, there can be additional animation for the words and characters. The text is widely used for showing one-liner that comes out of nowhere and moves out of the frame following its path.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![animate along a path text effect](https://images.wondershare.com/filmora/article-images/2022/09/animate-along-a-path-text-effect.jpg)
 
 You can use the effect to show certain lines that are common throughout the video. Besides, you can use it while making transition from one scene to another. Some video creators use them for opening and editing credits so that it can keep the audiences hooked instead of the usual opening and ending credits.
@@ -119,6 +147,9 @@ Just like the slide text effect, the stripe text effect is equally common in tod
 
 This effect is suitable to introduce titles and topics in a video. Generally, in the stripe text effect, the text style is kept as simple as possible. But you can always tweak it and add stripes within the text to make it more eye-catching.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. How to Create Text Effects?
 
 For text effects, amateur video editors generally search for Adobe After Effects text animation tutorial. However, After Effects has a steep learning curve, and hence, an easier alternative is always in high demand. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the best After Effects alternative where you can get a wider range of text effects. You can apply them to your texts and titles in your video instantly without prior experience. You can customize the text effects and even create effects as per your requirements. Here are the steps to add text effects to your video.
@@ -137,10 +168,16 @@ Step2 Import your video clip under Project Media folder to which you want to add
 
 Step3 Select a text effect template of your liking and drop it on the timeline. Adjust its place on the timeline to make it appear exactly where required. You can also reposition the text from the view. Double-click on the text layer and edit the text.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![customize text title video filmora](https://images.wondershare.com/filmora/article-images/2022/09/customize-text-title-video-filmora.jpg)
 
 Thereafter, you can edit the style of the text as well as modify other settings. Moreover, you can go to Advanced section to edit out the text effect and animation easily.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## The Bottom Line
 
 We have listed the most popular text effects that are widely used in today’s videos. You can find text animation tutorial related to these effects online for After Effects. However, you may find After Effects slightly complicated due to its interface. That is why we have recommended [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as the best alternative to apply all the popular and common text effects and tweak them for customization and personalization.
@@ -170,3 +207,56 @@ Part 1\. Popular Text Effects
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-secure-shots-with-a-steadier-gopro-video-technique/"><u>[New] Secure Shots with a Steadier GoPro Video Technique</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-teaching-through-media-efficient-classroom-editing/"><u>[New] Teaching Through Media  Efficient Classroom Editing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-hiding-while-livestreaming-on-instagram/"><u>[New] The Art of Hiding While Livestreaming on Instagram</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-essentials-for-effective-free-timer-utilization/"><u>[New] The Essentials for Effective Free Timer Utilization</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-tier-80s-visual-tricks-for-elevated-editing/"><u>[New] Top-Tier 80S Visual Tricks for Elevated Editing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-tutorial-for-srt-tagging-in-mp4-videos-2024/"><u>[New] Ultimate Tutorial for SRT Tagging in MP4 Videos 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-uninterrupted-shots-optimal-cameraphone-trackers/"><u>[New] Uninterrupted Shots  Optimal Camera/Phone Trackers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleashing-full-potential-nikon-1j5-in-4k-videography/"><u>[New] Unleashing Full Potential  Nikon 1J5 in 4K Videography</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unrivaled-dramas-from-the-eightfold-storytelling-sphere/"><u>[New] Unrivaled Dramas From the Eightfold Storytelling Sphere</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-top-tiktok-edit-techniques-for-max-impact/"><u>[New] Unveiling Top TikTok Edit Techniques for Max Impact</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-essential-guide-for-every-aspiring-snapchat-editor/"><u>[Updated] In 2024, The Essential Guide for Every Aspiring Snapchat Editor</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-lockdown-protocol-instantaneous-secure-tiktok-link-addition/"><u>[Updated] Lockdown Protocol  Instantaneous, Secure TikTok Link Addition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-zoom-transcribing-top-5-suggestions-for-all-budgets-for-2024/"><u>[Updated] Mastering Zoom Transcribing  Top 5 Suggestions for All Budgets for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-scaling-up-with-sourav-joshi-youtube-earnings-strategy-for-2024/"><u>[Updated] Scaling Up with Sourav Joshi  YouTube Earnings Strategy for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-superb-simple-countdown-apps-for-free/"><u>[Updated] Superb Simple Countdown Apps for Free</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-professionals-guide-to-innovative-360-cams-2023/"><u>[Updated] The Professionals’ Guide to Innovative 360° Cams, 2023</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tiktok-beats-as-ringtones-practical-approach-for-mobile-users/"><u>[Updated] TikTok Beats as Ringtones  Practical Approach for Mobile Users</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tiktok-trends-the-top-ten-tweets-shaping-social-media-for-2024/"><u>[Updated] TikTok Trends  The Top Ten Tweets Shaping Social Media for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-picks-for-the-modern-buyer-advanced-360cams/"><u>[Updated] Top Picks for the Modern Buyer  Advanced 360Cams</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transform-your-images-with-freepaid-lut-bundles-for-canon/"><u>[Updated] Transform Your Images with Free/Paid LUT Bundles for Canon</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unboxing-the-market-strategic-essentials/"><u>[Updated] Unboxing the Market  Strategic Essentials</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleash-your-inner-artist-the-ultimate-gif-toolkit-for-memes/"><u>[Updated] Unleash Your Inner Artist  The Ultimate GIF Toolkit for Memes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-your-creative-potential-an-overview-of-final-cut-pro/"><u>[Updated] Unlock Your Creative Potential  An Overview of Final Cut Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unraveling-the-sideway-video-phenomenon-on-ig/"><u>[Updated] Unraveling the Sideway Video Phenomenon on IG</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-sunny-side-up-videography-for-android/"><u>2024 Approved  Sunny Side-Up Videography for Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-taking-advantage-of-vlcs-conversion-features-beyond-mp4/"><u>2024 Approved  Taking Advantage of VLC's Conversion Features Beyond MP4</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-techniques-to-develop-engaging-vlogger-conversations/"><u>2024 Approved  Techniques to Develop Engaging Vlogger Conversations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-educators-roadmap-to-effective-multimedia-use/"><u>2024 Approved  The Educator's Roadmap to Effective Multimedia Use</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-science-of-light-in-hdr-photography/"><u>2024 Approved  The Science of Light in HDR Photography</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-evaluation-of-samsungs-image-editing-software/"><u>2024 Approved  The Ultimate Evaluation of Samsung's Image Editing Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-mastering-snapchats-zoom-feature/"><u>2024 Approved  The Ultimate Guide to Mastering Snapchat's Zoom Feature</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-sound-changes-in-ps-console-games/"><u>2024 Approved  The Ultimate Guide to Sound Changes in PS Console Games</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-showdown-vlc-versus-mpc-in-video-viewing/"><u>2024 Approved  The Ultimate Showdown  VLC Versus MPC in Video Viewing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-ways-to-procure-quality-photo-and-video-backgrounds/"><u>2024 Approved  Top 10 Ways to Procure Quality Photo & Video Backgrounds</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-vivo-v27-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Vivo V27 Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/greatest-20-free-pubg-image-compilations-for-2024/"><u>Greatest 20 Free PUBG Image Compilations for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-7-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 7 Data From iOS iCloud? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-cherished-holiday-hits-our-top-10-family-friendly-films/"><u>In 2024, Cherished Holiday Hits  Our Top 10 Family-Friendly Films</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tips-and-tricks-for-effective-azure-speech-to-text-use/"><u>In 2024, Tips and Tricks for Effective Azure Speech-to-Text Use</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-undead-lore-weaver/"><u>In 2024, Undead Lore Weaver</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-hidden-potential-top-10-enhancing-plug-ins/"><u>In 2024, Unlock Hidden Potential  Top 10 Enhancing Plug-Ins</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-essence-filmoras-top-10-enchanting-features/"><u>In 2024, Unveiling the Essence  Filmora’s Top 10 Enchanting Features</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/invisible-interviewers-guide-stealthy-ios-and-android-tools-for-2024/"><u>Invisible Interviewer's Guide  Stealthy iOS & Android Tools for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713962438797-new-do-you-want-to-create-adjustment-layers-in-final-cut-pro-this-article-will-discuss-a-simple-yet-efficient-method-to-generate-adjustment-layers-in-final-/"><u>New Do You Want to Create Adjustment Layers in Final Cut Pro? This Article Will Discuss a Simple yet Efficient Method to Generate Adjustment Layers in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-costless-conundrum-of-final-cut-pro-access-for-2024/"><u>The Costless Conundrum of Final Cut Pro Access for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-insiders-look-at-configuring-a-powerful-zoom-room-for-2024/"><u>The Insider's Look at Configuring a Powerful Zoom Room for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-premier-guide-to-high-definition-android-viewing-tools-for-2024/"><u>The Premier Guide to High-Definition Android Viewing Tools for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-ranked-mobile-melody-design-experts-for-2024/"><u>Top-Ranked  Mobile Melody Design Experts for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-take-your-videos-to-the-next-level-free-sound-effects-for-final-cut-pro/"><u>Updated Take Your Videos to the Next Level Free Sound Effects for Final Cut Pro</u></a></li>
+</ul></div>

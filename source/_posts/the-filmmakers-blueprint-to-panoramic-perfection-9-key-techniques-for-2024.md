@@ -1,7 +1,7 @@
 ---
 title: "\"The Filmmaker's Blueprint to Panoramic Perfection  9 Key Techniques for 2024\""
-date: 2024-06-04T11:18:50.969Z
-updated: 2024-06-05T11:18:50.969Z
+date: 2024-07-23T06:32:15.512Z
+updated: 2024-07-24T06:32:15.512Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
 
 # 9 Tips You Must Know when Shooting a 360 Degree Video
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -32,18 +35,31 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
 
  It is important that you use a good camera so that you can capture high quality videos. And because it is a developing technology, there are lots of options available, as well as those which are still in development. If you are looking for a good one, then go for a GoPro. A 360 video mount usually allows up to six video cameras to be mounted on it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ### 2\. Prepare enough battery and SD card
 
  When shooting a 360 degree video, you need to have enough battery and SD card. When using a GoPro camera, it requires a lot of power and storage space, especially if you are going to make a long video. It is recommended that you buy battery packs to keep your cameras charged while shooting. You should also bring extra SD cards to ensure that you have adequate storage space.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Make sure all the settings are the same
 
  When using multiple cameras, it is important to make sure that all the setting of each GoPro camera is the same. It is recommended to use manual mode, and turn off white balance, ISO, and color temperature. You should also use 4:3 ratio to ensure you have the largest coverage. That way editing the 360 degree will be easier. There will be fewer corrections to be made with the individual videos.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ### 4\. Use unipod instead of a tripod
 
  You need an unipod to keep the camera setup stable at all times, and at the same time allow you to move with ease. Moving with a tripod can be hard. Another benefit of using a unipod is that it is easier to clean after the video shoot because it only has a single leg, compared to the tripod’s three legs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Keep device at the same height as your line of sight
 
  The placement of the camera can affect the experience of the viewers. If the camera is too low, the viewers will feel like they are two feet shorter. It will be like see the world as a mouse. And if the camera is too high, the viewers will feel like they are giants. And if the viewers will be watching the 360 video with a VR headset, the effect will be exaggerated a lot more. That’s why it is important to keep the camera level with your line of sight.
@@ -52,14 +68,33 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
 
  When the videos are recorded in the same timeline, it will make it easier to edit the video. It is recommended to turn on all the GoPro cameras at the same time. Avoid using a remote control for the cameras because it will cost a lot of power. Another suggestion is to clap your hand around the device. That way you can identify the frame and make it easier to keep the six videos in the same timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ### 7\. Use natural light when available
 
  When shooting a 360 degree video, you should consider using natural light or utilize a panoramic shooting studio. That way there will be no light device shown in the resulting video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### 8\. Hide the microphone
 
  For recording the audio, it is best to hide the camera. It is recommended to use a mini microphone when shooting the video. It will provide a more natural sound to other types of microphones. Hopefully in the future cameras are able to capture 360 degree sound that will make the sound shift as the viewer turns one’s head.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 9\. Keep an object in one camera
 
  It is important to keep the subject in one of the cameras or else it will be hard to stitch or edit the videos. Objects that are near the edge of the video should be static to make editing a lot easier.
@@ -80,6 +115,9 @@ Follow @Liza Brown
 
 [360 degree videos](https://tools.techidaily.com/wondershare/filmora/download/) are beginning to become mainstream, thanks to more affordable 360 video cameras out on the market today. Now enthusiasts and professionals alike are learning how to shoot a 360 degree video. And as technology continue to develop at a fast rate; the costs of making the videos will be reduced. And if you are new to shooting 360 degree videos, below are some tips to help you get started.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Select a good camera
 
  It is important that you use a good camera so that you can capture high quality videos. And because it is a developing technology, there are lots of options available, as well as those which are still in development. If you are looking for a good one, then go for a GoPro. A 360 video mount usually allows up to six video cameras to be mounted on it.
@@ -100,6 +138,9 @@ Follow @Liza Brown
 
  The placement of the camera can affect the experience of the viewers. If the camera is too low, the viewers will feel like they are two feet shorter. It will be like see the world as a mouse. And if the camera is too high, the viewers will feel like they are giants. And if the viewers will be watching the 360 video with a VR headset, the effect will be exaggerated a lot more. That’s why it is important to keep the camera level with your line of sight.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Keep all the videos in the same timeline for easier editing of the video
 
  When the videos are recorded in the same timeline, it will make it easier to edit the video. It is recommended to turn on all the GoPro cameras at the same time. Avoid using a remote control for the cameras because it will cost a lot of power. Another suggestion is to clap your hand around the device. That way you can identify the frame and make it easier to keep the six videos in the same timeline.
@@ -150,3 +191,37 @@ Follow @Liza Brown
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-sub-from-srt-effective-techniques-for-format-shift/"><u>[New] SUB From SRT  Effective Techniques for Format Shift</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/iktok-versus-youtube-shorts-assessing-personal-usage-value/"><u>[New] TikTok versus YouTube Shorts  Assessing Personal Usage Value</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-uncomplicated-technique-for-win-os-clown-sound-changes/"><u>[New] Uncomplicated Technique for Win-OS Clown Sound Changes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-secrets-of-gopro-chrono-photography/"><u>[New] Unveiling the Secrets of GoPro Chrono Photography</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-secrets-of-efficient-audio-recordings/"><u>2024 Approved  Unveiling the Secrets of Efficient Audio Recordings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-visual-extravaganza-detailed-examination-of-lg-ud88-uhd-tv-for-2024/"><u>A Visual Extravaganza  Detailed Examination of LG UD88-UHD TV for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-intro-creator-software-for-windows-and-mac/"><u>Best Intro Creator Software for Windows and Mac</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-12-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-14-interesting-text-animation-examples-you-can-try/"><u>In 2024, 14 Interesting Text Animation Examples You Can Try</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-networking-growth-sharing-facebook-content-via-whatsapp/"><u>In 2024, Networking Growth  Sharing Facebook Content via WhatsApp</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamlined-process-for-avi-transformations-into-web-friendly-gif-using-filmora/"><u>In 2024, Streamlined Process for AVI Transformations Into Web-Friendly GIF Using Filmora</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-system-prerequisites-for-running-big-sur-on-macs/"><u>In 2024, System Prerequisites for Running Big Sur on Macs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-future-of-packaging-experiential-gifting-excellence/"><u>In 2024, The Future of Packaging  Experiential Gifting Excellence</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-trending-14-moving-text-design-illustrations/"><u>In 2024, Trending 14 Moving Text Design Illustrations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-guide-to-7-superior-vids-on-mac/"><u>In 2024, Ultimate Guide to 7 Superior Vids on Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-melodious-mobile-organizer-android-version/"><u>In 2024, Ultimate Melodious Mobile Organizer, Android Version</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-new-dimensions-of-your-missing-iphone-x/"><u>In 2024, Unlock New Dimensions of Your Missing iPhone X</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/innovating-echoes-a-mac-studio-journey/"><u>Innovating Echoes  A Mac Studio Journey</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/mastering-audio-editing-a-comprehensive-guide-to-silencing-melodies-in-music-tracks/"><u>Mastering Audio Editing A Comprehensive Guide to Silencing Melodies in Music Tracks</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-detailed-tutorial-to-rotate-videos-in-cyberlink-powerdirector-for-2024/"><u>New Detailed Tutorial to Rotate Videos in Cyberlink PowerDirector for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/periscope-prodigy-from-beginner-to-expert-for-2024/"><u>Periscope Prodigy  From Beginner to Expert for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/subtlety-matters-fading-out-sounds-in-logic-pro-for-2024/"><u>Subtlety Matters  Fading Out Sounds in Logic Pro for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/supreme-comedic-picture-maker-for-2024/"><u>Supreme Comedic Picture Maker for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-essential-guide-to-youtube-time-tracking-for-2024/"><u>The Essential Guide to YouTube Time Tracking for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-5-best-action-cameras-for-hunting-for-2024/"><u>Top 5 Best Action Cameras for Hunting for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/unlock-the-power-of-voice-in-discord-a-tts-guide/"><u>Unlock the Power of Voice in Discord  A TTS Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-youtubes-potential-with-expert-picture-posting-techniques-for-2024/"><u>Unlock YouTube's Potential with Expert Picture Posting Techniques for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-potential-in-spotifys-ad-ecosystem-for-2024/"><u>Unlocking Potential in Spotify's Ad Ecosystem for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/video-illumination-editing-software-reviews-for-2024/"><u>Video Illumination Editing Software Reviews for 2024</u></a></li>
+</ul></div>

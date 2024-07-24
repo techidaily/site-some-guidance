@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate SRT File Craftsmanship Manual"
-date: 2024-06-04T12:48:26.211Z
-updated: 2024-06-05T12:48:26.211Z
+date: 2024-07-23T07:24:28.017Z
+updated: 2024-07-24T07:24:28.017Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,9 @@ The stepwise guide illustrated below will walk you through how to create an SRT 
 
 Step1 Start your Windows computer and open the Notepad program. Then create a new file.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![create a new file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-create-srt-file-1.jpg)
 
 Step2 Up next, play your video and listen to the first line of the dialogue. Then pause it and write your first subtitle in the note by doing the following;
@@ -72,6 +75,9 @@ _00:00:012,108 --> 00:00:16,357_
 
 _In this video, we'll be showing_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![an example of an srt subtitle](https://images.wondershare.com/filmora/article-images/2022/07/how-to-create-srt-file-for-video-on-windows-1.jpg)
 
 Step5 Review the subtitle and edit every error after you've completed it.
@@ -80,6 +86,9 @@ Step5 Review the subtitle and edit every error after you've completed it.
 
 Step6 Finally, save the file in .srt format by clicking **‘File’ > Save.** Then under **‘Save As’** enter the file name and add .srt as the preferred extension for your file. Click the ‘Save’ button to complete the task.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to create an SRT file for video on Mac?
 
 Are you using a Mac computer? Don't panic, we got you covered with the step-by-step instructions to create a .srt subtitle file and such a computer.
@@ -114,10 +123,16 @@ Step5 Review and edit the subtitle.
 
 Step6 To complete the operation, click **‘File’** at the top bar and select **Save** from the drop-down. Then navigate to ‘**Save As’** and type your file name, and change the extension from .txt to .srt.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![click on file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-create-srt-file-for-video-on-mac-2.jpg)
 
 Make sure you Uncheck the ‘Hide Extension’ and ‘If no extension is provided’ checkboxes. Then click the ‘Save’ button to complete the operation!
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pro Tips: DIY SRT Creation for Videos like a Pro After Creating
 
 Are you looking to make advanced editing on the SRT subtitles you created? [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the ideal tool to help you complete the action.
@@ -138,10 +153,17 @@ Step1 Download Filmora from the official website and install it on your computer
 
 Step2 Start the Filmora program and import the SRT file that you're looking to edit from your PC. Alternatively, you can just drag-n-drop the file.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start filmora program](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-srt-for-videos-1.jpg)
 
 Step3 Drag-n-drop the .srt file into the Timeline. Then right-click on it and select ‘Advanced Edit’ from the pop-up list.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![drag and drop srt file into timeline](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-srt-for-videos-2.jpg)
 
 Step4 Now, edit the SRT file as per requirements. The following editing operations you can perform with Filmora include;
@@ -159,6 +181,9 @@ Step5 Once you've successfully edited the SRT file. Navigate to the timeline and
 
 Filmora is the best choice for any kind of SRT editing. It doesn't matter if it's basic or advanced editing, all it takes is just a few clicks.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Final Words
 
 You need SRT to make your videos easy to understand. So, if you're looking to create SRT, this article has introduced all effective methods that you can always rely on to get the job done seamlessly.
@@ -190,3 +215,64 @@ Part 1: What are SRT subtitles?
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-adrevenue-on-youtube-unpacked-average-income-from-1000-viewers-engagement/"><u>[New] AdRevenue on YouTube Unpacked  Average Income From 1,000 Viewers' Engagement</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-crafting-cinematic-magic-essential-tips-for-creating-stunning-slow-motion-media-on-instagram-for-2024/"><u>[New] Crafting Cinematic Magic  Essential Tips for Creating Stunning Slow-Motion Media on Instagram for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-elevating-your-cinematic-expedition-through-border-techniques-for-2024/"><u>[New] Elevating Your Cinematic Expedition Through Border Techniques for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-embrace-virtual-worlds-must-have-gadgets-unveiled-for-2024/"><u>[New] Embrace Virtual Worlds  Must-Have Gadgets Unveiled for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-strategies-for-a-rising-number-of-youtubers-fans/"><u>[New] Strategies for a Rising Number of Youtubers' Fans</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tackling-massed-up-tiktoks-expert-edits-for-less-chaos/"><u>[New] Tackling Massed-Up TikToks  Expert Edits for Less Chaos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-path-to-prominence-elevating-brands-with-telegram-strategies/"><u>[New] The Path to Prominence  Elevating Brands with Telegram Strategies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-picking-prime-stream-services/"><u>[New] The Ultimate Guide to Picking Prime Stream Services</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-commercial-sky-storage-provider/"><u>[New] Ultimate Commercial Sky-Storage Provider</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-the-potential-of-ios-albums-ordering-and-cloud-syncing-essentials/"><u>[New] Unlocking the Potential of iOS Albums  Ordering & Cloud Syncing Essentials</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-drone-excellence-the-q500-experience/"><u>[New] Unveiling Drone Excellence  The Q500 Experience</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-how-to-authenticate-your-yt-account-a-hint-list/"><u>[Updated] 2024 Approved  How to Authenticate Your YT Account? A Hint List</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-proven-strategies-for-powerful-customer-success-stories-on-screen/"><u>[Updated] Proven Strategies for Powerful Customer Success Stories on Screen</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-shatter-the-status-quo-with-these-instagram-9-methods-for-stardom-for-2024/"><u>[Updated] Shatter the Status Quo with These Instagram #9 Methods for Stardom for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-strategizing-for-successful-youtube-ad-sponsorships-with-famebit-for-2024/"><u>[Updated] Strategizing for Successful YouTube Ad Sponsorships with FameBit for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-essential-collection-of-high-speed-monitor-tools/"><u>[Updated] The Essential Collection of High-Speed Monitor Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-essential-studio-handbook-xvideo-studio-guide/"><u>[Updated] The Essential Studio Handbook  XVideo Studio Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-path-to-professional-gopro-time-lapse-cinematography/"><u>[Updated] The Path to Professional GoPro Time-Lapse Cinematography</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-pc-speeds-choosing-the-right-extension-software/"><u>[Updated] Top PC Speeds  Choosing the Right Extension Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-trailblazers-in-auditory-and-visual-creation-list/"><u>[Updated] Trailblazers in Auditory & Visual Creation List</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-modern-techniques-for-gesture-interpretation/"><u>[Updated] Unveiling Modern Techniques for Gesture Interpretation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-secrets-of-medical-ad-success-on-fb/"><u>[Updated] Unveiling the Secrets of Medical Ad Success on FB</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-top-text-styling-portals-for-creatives/"><u>[Updated] Unveiling the Top Text Styling Portals for Creatives</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/18-best-tools-for-live-webcam-streaming-and-saving-for-2024/"><u>18 Best Tools for Live Webcam Streaming & Saving for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-emergency-recovery-for-a-misplaced-tiktok-refresh/"><u>2024 Approved  Emergency Recovery for a Misplaced TikTok Refresh</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-overcoming-sync-issues-ensuring-smooth-video-sharing-on-mobile-messengers/"><u>2024 Approved  Overcoming Sync Issues  Ensuring Smooth Video Sharing on Mobile Messengers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-elite-list-10-websites-with-superior-vectors/"><u>2024 Approved  The Elite List  10 Websites with Superior Vectors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-unseen-enthusiasts-blueprint-for-instagram-live-viewership/"><u>2024 Approved  The Unseen Enthusiast’s Blueprint for Instagram Live Viewership</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-7-camcorders-for-extreme-weather-and-splashes-review/"><u>2024 Approved  Top 7 Camcorders for Extreme Weather and Splashes Review</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-transform-your-twitch-broadcasts-for-youtube-viewers/"><u>2024 Approved  Transform Your Twitch Broadcasts for YouTube Viewers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-guide-to-the-best-10-cost-free-photo-hosters/"><u>2024 Approved  Ultimate Guide to the Best 10 Cost-Free Photo Hosters</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-haul-content-production-and-post-production-techniques/"><u>2024 Approved  Understanding Haul Content  Production & Post-Production Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-youtubes-potential-with-expert-picture-posting-techniques/"><u>2024 Approved  Unlock YouTube's Potential with Expert Picture Posting Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-utilizing-alternate-shots-to-elevate-film-quality/"><u>2024 Approved  Utilizing Alternate Shots to Elevate Film Quality</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/engage-viewers-directly-tips-for-live-video-screen-share-for-2024/"><u>Engage Viewers Directly  Tips for Live Video Screen-Share for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-oppo-a38-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Oppo A38</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-realme-12-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Realme 12 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-12-mini-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock iPhone 12 mini with/without SIM Card</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-enhance-your-xiaomi-experience-with-easy-record-screens/"><u>In 2024, Enhance Your Xiaomi Experience with Easy Record Screens</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-hasty-thumbnail-crafting-for-fortnite-gameplay/"><u>In 2024, Hasty Thumbnail Crafting for Fortnite Gameplay</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-a78-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo A78 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-mastering-audio-recording-and-integrating-narration-into-video-projects/"><u>In 2024, Mastering Audio Recording and Integrating Narration Into Video Projects</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-personalized-timeline-presentation-facebook-lookback-tips/"><u>In 2024, Personalized Timeline Presentation  Facebook Lookback Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-alchemy-of-aesthetics-top-1-written-by-an-experienced-graphic-designer/"><u>In 2024, The Alchemy of Aesthetics  Top 1 Written by an Experienced Graphic Designer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-basics-of-picture-in-picture-in-ff/"><u>In 2024, The Basics of Picture-in-Picture in FF</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-10-text-presets-for-visual-impact/"><u>In 2024, Top 10 Text Presets for Visual Impact</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-e-shops-for-unique-tailored-boxed-gifts-and-packages/"><u>In 2024, Top E-Shops for Unique, Tailored Boxed Gifts & Packages</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-strategies-to-tackle-vlc-challenges-on-macos/"><u>In 2024, Top Strategies to Tackle VLC Challenges on macOS</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-and-fabulous-the-5-best-online-tone-generators-out-there/"><u>New 2024 Approved Free and Fabulous The 5 Best Online Tone Generators Out There</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/open-source-tranquil-harmony/"><u>Open Source Tranquil Harmony</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/swift-searches-for-abandoned-reddit-discussions-for-2024/"><u>Swift Searches for Abandoned Reddit Discussions for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/swift-solutions-for-iphone-photography-misfocus-for-2024/"><u>Swift Solutions for iPhone Photography Misfocus for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/trendsetting-tactic-tech-savvy-mac-access-via-watch-for-2024/"><u>Trendsetting Tactic  Tech-Savvy Mac Access via Watch for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unite-chords-and-visuals-on-powerpoint-for-2024/"><u>Unite Chords and Visuals on PowerPoint for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlock-the-full-potential-of-pixiz-in-video-making/"><u>Unlock the Full Potential of Pixiz in Video Making</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-the-power-of-zoom-with-your-chrome-os-device-for-2024/"><u>Unlocking the Power of Zoom with Your Chrome OS Device for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unpacking-video-editing-excellence-is-inshot-at-the-top-in-2024/"><u>Unpacking Video Editing Excellence  Is InShot at the Top, In 2024</u></a></li>
+</ul></div>

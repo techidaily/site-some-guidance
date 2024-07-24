@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Streamlined Shots in the Sea  7 Easy-to-Follow Steps\""
-date: 2024-06-04T10:49:41.329Z
-updated: 2024-06-05T10:49:41.329Z
+date: 2024-07-23T06:13:29.940Z
+updated: 2024-07-24T06:13:29.940Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/d01c44a9ae23f7efe9fb5e1960e68d56b4d2035c8
 
 # How to Shoot Underwater Video Easily (with 7 Tips)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -32,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/d01c44a9ae23f7efe9fb5e1960e68d56b4d2035c8
 
  There are many tips you can learn from to get the results that you require, so read on to find out more about what you can do to shoot underwater video with ease.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## Tips on shooting video underwater
 
 #### 1\. Frame your shots
@@ -48,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/d01c44a9ae23f7efe9fb5e1960e68d56b4d2035c8
 
  This will also make your images clearer and more colourful.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![get closer](https://images.wondershare.com/filmora/article-images/get-closer-underwater.JPG)
 
 #### 3\. Lighting is important
@@ -58,6 +72,9 @@ thumbnail: https://thmb.techidaily.com/d01c44a9ae23f7efe9fb5e1960e68d56b4d2035c8
 
  You can instead make use of natural sunlight, which should help you get the excellence you require even when you’re shooting at more than 30 metres depth. Deeper white balancing can be helpful during cloudy days.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![lightinng](https://images.wondershare.com/filmora/article-images/lightinng-underwater.JPG)
 
 #### 4\. Stay steady
@@ -72,6 +89,9 @@ thumbnail: https://thmb.techidaily.com/d01c44a9ae23f7efe9fb5e1960e68d56b4d2035c8
 
  Unfortunately, other divers have a tendency to get in the way when you’re shooting footage underwater. Many video production professionals opt to intentionally include clips of divers in their footage so everything flows nicely and cuts work well together if their presence in other shots is unavoidable.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![careful driver](https://images.wondershare.com/filmora/article-images/careful-divers.JPG)
 
 #### 6\. Wide angle
@@ -98,6 +118,9 @@ thumbnail: https://thmb.techidaily.com/d01c44a9ae23f7efe9fb5e1960e68d56b4d2035c8
 
  If you’re planning on making a DVD of your work, consider adding extras to the product such as highlights or photos. Filmora is a popular editing software solution that will help you add an extra dash of magic to your work.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
@@ -144,6 +167,18 @@ Follow @Ollie Mattison
 
  You can instead make use of natural sunlight, which should help you get the excellence you require even when you’re shooting at more than 30 metres depth. Deeper white balancing can be helpful during cloudy days.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![lightinng](https://images.wondershare.com/filmora/article-images/lightinng-underwater.JPG)
 
 #### 4\. Stay steady
@@ -158,12 +193,18 @@ Follow @Ollie Mattison
 
  Unfortunately, other divers have a tendency to get in the way when you’re shooting footage underwater. Many video production professionals opt to intentionally include clips of divers in their footage so everything flows nicely and cuts work well together if their presence in other shots is unavoidable.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![careful driver](https://images.wondershare.com/filmora/article-images/careful-divers.JPG)
 
 #### 6\. Wide angle
 
  If you wish to include wide-angle shots in your work, make sure the camera is zoomed all the way out. Locking your elbows to your side, try to hold your breath to reduce the chances of shaking and pan shots slowly. You may need to shoot several takes to get it just right and will benefit from the use of a colour correcting filter.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wide angle](https://images.wondershare.com/filmora/article-images/wide-angle-underwater.JPG)
 
 #### 7\. Shoot the best colour
@@ -174,6 +215,9 @@ Follow @Ollie Mattison
 
 ![shoot shot](https://images.wondershare.com/filmora/article-images/shoot-colour.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Edit your footage
 
  To make your underwater videos good rather than great, it’s important that the editing process is of the highest quality.
@@ -186,6 +230,10 @@ Follow @Ollie Mattison
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -218,3 +266,43 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-full-screen-obs-complication-overcome-for-2024/"><u>[New] Full Screen OBS Complication Overcome for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-5-leading-edge-4k-tvs-for-gamers/"><u>[New] In 2024, 5 Leading Edge 4K TVs for Gamers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-complete-voice-change-blueprint-using-morphvox/"><u>[New] The Complete Voice Change Blueprint Using MorphVOX</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-newbies-guide-to-understanding-core-filming-techniques/"><u>[New] The Newbie's Guide to Understanding Core Filming Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-role-of-authenticity-in-client-generated-marketing/"><u>[New] The Role of Authenticity in Client-Generated Marketing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-boosting-views-on-tiktok-unboxings/"><u>[New] The Ultimate Guide to Boosting Views on TikTok Unboxings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-selection-high-quality-zero-price-free-luts/"><u>[New] The Ultimate Selection  High Quality, Zero Price Free LUTs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tracing-the-evolutionary-path-of-windows-movie-maker/"><u>[New] Tracing the Evolutionary Path of Windows Movie Maker</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultra-quick-photo-inspector-app/"><u>[New] Ultra-Quick Photo Inspector App</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-find-facebook-recently-watched-videos-in-2024/"><u>[Updated] How to Find Facebook Recently Watched Videos, In 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-strategies-to-become-a-top-notch-interviewer/"><u>[Updated] Strategies to Become a Top-Notch Interviewer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-words-on-the-screen-crafting-clear-concise-dialogue/"><u>[Updated] The Art of Words on the Screen  Crafting Clear, Concise Dialogue</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-director-of-dishes-behind-the-scenes-of-food-filming/"><u>[Updated] The Director of Dishes  Behind-the-Scenes of Food Filming</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-unparalleled-streaming-experience/"><u>[Updated] The Ultimate Guide to Unparalleled Streaming Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-path-to-podcast-success-through-seo-excellence/"><u>[Updated] The Ultimate Path to Podcast Success Through SEO Excellence</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-timing-the-tune-in-ideal-podcast-launches/"><u>[Updated] Timing the Tune-In  Ideal Podcast Launches</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-from-drama-to-film-shaping-realistic-dialogue/"><u>2024 Approved  From Drama to Film  Shaping Realistic Dialogue</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-chipset-selection-for-uhd-rendering/"><u>2024 Approved  Ideal Chipset Selection for UHD Rendering</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-syncing-songs-safely-with-insta-rules/"><u>2024 Approved  Syncing Songs Safely with Insta Rules</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/a-guide-to-navigating-vimeos-free-premium-and-pro-membership-levels-for-2024/"><u>A Guide to Navigating Vimeo’s Free, Premium & Pro Membership Levels for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/harmony-in-minutes-no-credit-due/"><u>Harmony in Minutes, No Credit Due</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From Apple iPhone 14 Pro Max?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-photo-funnies-the-ultimate-guide-to-chuckles-and-tech/"><u>In 2024, Photo Funnies  The Ultimate Guide to Chuckles & Tech</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-checklist-for-starting-a-live-feed/"><u>In 2024, The Ultimate Checklist for Starting a Live Feed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-guide-to-zooid-template-design/"><u>In 2024, Ultimate Guide to Zooid Template Design</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleashing-speed-in-facebook-videos-the-best-tools-and-tips/"><u>In 2024, Unleashing Speed in Facebook Videos  The Best Tools and Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-10-best-free-os-agnostic-video-solutions/"><u>In 2024, Unveiling the 10 Best Free OS-Agnostic Video Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-artistic-edge-premium-text-tools-for-adobe-after-effects-for-2024/"><u>The Artistic Edge  Premium Text Tools for Adobe After Effects for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-top-9-tools-for-making-gifs-for-2024/"><u>The Ultimate Guide  Top 9 Tools for Making GIFs for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/through-the-viewfinder-tips-for-artistic-photo-edits-for-2024/"><u>Through the Viewfinder  Tips for Artistic Photo Edits for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-intro-maker-for-panzoid-for-2024/"><u>Top 10 Intro Maker for Panzoid for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-20-unlimited-cloud-storage-solutions-up-to-1tb-for-2024/"><u>Top 20 Unlimited Cloud Storage Solutions, Up To 1TB for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-your-creative-potential-an-overview-of-final-cut-pro-for-2024/"><u>Unlock Your Creative Potential  An Overview of Final Cut Pro for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unraveling-the-sideway-video-phenomenon-on-ig-for-2024/"><u>Unraveling the Sideway Video Phenomenon on IG for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-top-10-free-video-compression-software-for-windows-10-users/"><u>Updated 2024 Approved Top 10 Free Video Compression Software for Windows 10 Users</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-premiere-pros-guide-to-decoupling-sound-elements-in-post-production/"><u>Updated Premiere Pros Guide to Decoupling Sound Elements in Post-Production</u></a></li>
+</ul></div>

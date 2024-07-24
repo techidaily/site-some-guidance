@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Venturing Virtuality  A Review of LG's 360 Headset\""
-date: 2024-06-04T18:00:01.789Z
-updated: 2024-06-05T18:00:01.789Z
+date: 2024-07-23T10:38:48.414Z
+updated: 2024-07-24T10:38:48.414Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
 
 # LG 360 VR Headset Review
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -32,14 +35,23 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
 
  The 360 VR does not look like other headsets present in the market and in this occurrence, this is not a good feature. Certainly, it is tough, maybe terrible even, to make someone look cool while having a VR headset on their head. But with the design of 360 VR, it is quite sure that engineers have made no attempt to resolve this issue. The headset sports a look similar to what common in the 1980s imagined a futuristic invention would look like. It actually looks like a product with a low-cost, NHS-prescribed article for modifying poor vision.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Accessories of LG 360 VR
 
  Since it is connected via USB Type-C connector, so the company provides it with the package. The adjustable lenses and their covers are present. A 3.5 mm jack is also present on the headset for the headphones which are also provided. Well, many other necessary things are also provided with.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Product Packaging of LG 360 VR
 
  Well, the packaging is quite simple as all the other products of LG. It comes in a simple box will all the accessories in it. It is okay to say that the packaging is safe, but should be dealt with care, in the end, it is a delicate product. Everything looks good until it is inside the box.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### How to Set up LG 360 VR headset
 
 * First of all, connect the USB connector of the headset on to your smartphone. It will take a few minutes. When the headset is on, the screen of your phone will become off, and now you can use your phone as a touchpad.
@@ -51,6 +63,9 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
 
  When you ponder that it is the LG G5 phone that is actually doing all the work in terms of actually driving the 360 VR's practices, you would at least assume steady performance. We know that the G5 is one of the most influential smartphones present in the market, including an Adreno 530 GPU, Snapdragon 820 and a 4GB RAM. Unfortunately, the first experience with the 360 VR’s performance is unsatisfactory to say the minimum. Having a 920 x 720 resolution per eye, this headset provides a much lower resolution rate as compared to all other virtual reality headsets present in the market. Although using it is a rollercoaster ride through various mixed experiences.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Key features of the LG 360 VR headset
 
 * It has 1.88 inches IPS LCD display.
@@ -98,6 +113,9 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
 
  In crux, LG’s this device isn't somewhat you'd want to attire in public, and when you ponder that one of the assistances of a mobile headset is that you are not tied to a luxurious gaming rig, LG certainly should have put in some more energy when it comes to the design of 360 VR. If we are going to turn out to be a realm of VR zombies with headsets continually tied to our skulls, then we would probably want those units which let us live in style.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -110,8 +128,14 @@ Follow @Benjamin Arango
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## First Impression of LG 360 VR
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Design of LG 360 VR
 
  The 360 VR does not look like other headsets present in the market and in this occurrence, this is not a good feature. Certainly, it is tough, maybe terrible even, to make someone look cool while having a VR headset on their head. But with the design of 360 VR, it is quite sure that engineers have made no attempt to resolve this issue. The headset sports a look similar to what common in the 1980s imagined a futuristic invention would look like. It actually looks like a product with a low-cost, NHS-prescribed article for modifying poor vision.
@@ -120,6 +144,10 @@ Follow @Benjamin Arango
 
  Since it is connected via USB Type-C connector, so the company provides it with the package. The adjustable lenses and their covers are present. A 3.5 mm jack is also present on the headset for the headphones which are also provided. Well, many other necessary things are also provided with.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Product Packaging of LG 360 VR
 
  Well, the packaging is quite simple as all the other products of LG. It comes in a simple box will all the accessories in it. It is okay to say that the packaging is safe, but should be dealt with care, in the end, it is a delicate product. Everything looks good until it is inside the box.
@@ -131,6 +159,9 @@ Follow @Benjamin Arango
 * The LG 360 VR turns off if your phone remains idle without playing any video or application for a minimum of 15 minutes in order to save the battery of your phone.
 * Other than that, the headset will connect to the phone if the battery of your phone is too low or the phone is too hot.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### LG 360 VR Performance
 
  When you ponder that it is the LG G5 phone that is actually doing all the work in terms of actually driving the 360 VR's practices, you would at least assume steady performance. We know that the G5 is one of the most influential smartphones present in the market, including an Adreno 530 GPU, Snapdragon 820 and a 4GB RAM. Unfortunately, the first experience with the 360 VR’s performance is unsatisfactory to say the minimum. Having a 920 x 720 resolution per eye, this headset provides a much lower resolution rate as compared to all other virtual reality headsets present in the market. Although using it is a rollercoaster ride through various mixed experiences.
@@ -214,3 +245,56 @@ Follow @Benjamin Arango
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mastering-instagram-stories-a-step-by-step-polling-guide/"><u>[New] 2024 Approved  Mastering Instagram Stories  A Step-by-Step Polling Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-tips-for-supercharging-tiktok-videos-with-professional-voiceovers/"><u>[New] 2024 Approved  Tips for Supercharging TikTok Videos with Professional Voiceovers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-complete-insights-into-utilizing-the-full-potential-of-macs-preview-features/"><u>[New] Complete Insights Into Utilizing the Full Potential of Mac's Preview Features</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-strengthening-video-impact-with-professional-audio-cues/"><u>[New] Strengthening Video Impact with Professional Audio Cues</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-iphone-photos-arrangement-strategies-and-icloud-coordination/"><u>[New] The Art of iPhone Photos  Arrangement Strategies and iCloud Coordination</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-role-of-competitive-intelligence-in-effective-market-research/"><u>[New] The Role of Competitive Intelligence in Effective Market Research</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-2024-general-facts-challenge-videos/"><u>[New] Top 2024 General Facts Challenge Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tricks-and-tips-for-mastering-your-new-win11-experience/"><u>[New] Tricks & Tips for Mastering Your New Win11 Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-uncluttered-focus-affinity-photos-cleanup-technique/"><u>[New] Uncluttered Focus  Affinity Photo's Cleanup Technique</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-xcreative-hub-potential-a-full-guide-review/"><u>[New] Unlocking XCreative Hub Potential - A Full Guide Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-value-capture-budget-cam-essentials/"><u>[New] Value Capture  Budget Cam Essentials</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-syncopated-sounds-discovering-crossfades/"><u>[Updated] Syncopated Sounds  Discovering Crossfades</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-next-wave-of-social-media-top-apps-as-periscope-alternates/"><u>[Updated] The Next Wave of Social Media  Top Apps as Periscope Alternates</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-mastering-multi-tasking-with-your-favorite-talk-shows/"><u>[Updated] The Ultimate Guide to Mastering Multi-Tasking With Your Favorite Talk Shows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-power-upgrades-for-os-x-and-win-with-srt-systems/"><u>[Updated] Top 10 Power Upgrades for OS X and Win with SRT Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-tier-free-memes-for-everyday-chuckles/"><u>[Updated] Top-Tier Free Memes for Everyday Chuckles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-student-potential-with-instructional-videos/"><u>[Updated] Unlocking Student Potential with Instructional Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-the-full-potential-of-googles-podcast-tools/"><u>[Updated] Unlocking the Full Potential of Google's Podcast Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-hidden-power-of-windows-11/"><u>[Updated] Unveiling the Hidden Power of Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-secrets-to-profitable-brands-partnerships-on-youtube/"><u>[Updated] Unveiling the Secrets to Profitable Brands Partnerships on YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-small-drone-models-today/"><u>2024 Approved  Best Small Drone Models Today</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-spotlight-on-cities-for-virtual-viewing/"><u>2024 Approved  Spotlight on Cities for Virtual Viewing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-srgb-vs-standard-rgb/"><u>2024 Approved  Srgb vs Standard Rgb</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-strategic-measures-efficiently-accessing-premium-banner-imagery/"><u>2024 Approved  Strategic Measures  Efficiently Accessing Premium Banner Imagery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-adding-podcasts-in-instagram-stories/"><u>2024 Approved  The Art of Adding Podcasts in Instagram Stories</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-oneplus-12r-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your OnePlus 12R to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-10-essential-considerations-for-selecting-the-best-video-to-audio-converter/"><u>In 2024, 10 Essential Considerations for Selecting the Best Video to Audio Converter</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-breaking-the-internet-with-these-hysterical-stickers/"><u>In 2024, Breaking the Internet with These Hysterical Stickers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-v29e-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo V29e</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-optimizing-video-playback-for-engaged-audiences/"><u>In 2024, Optimizing Video Playback for Engaged Audiences</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-pros-choice-a-list-of-17-superior-video-to-text-converters/"><u>In 2024, The Pro's Choice  A List of 17 Superior Video-to-Text Converters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-checklist-for-successful-onestream-live-streaming/"><u>In 2024, The Ultimate Checklist for Successful OneStream Live Streaming</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-digital-library-year-round-free-texts/"><u>In 2024, The Ultimate Digital Library  Year-Round Free Texts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-drone-buying-roadmap-pre-purchase-essentials/"><u>In 2024, The Ultimate Drone Buying Roadmap  Pre-Purchase Essentials</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-8-ios-and-pc-tools-for-effortlessly-altering-your-videos/"><u>In 2024, Top 8 iOS & PC Tools for Effortlessly Altering Your Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tread-lightly-in-the-digital-jungle-vr-fitness-machines-examined/"><u>In 2024, Tread Lightly in the Digital Jungle  VR Fitness Machines Examined</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-gopro-studio-steps-for-time-lapse-magic/"><u>In 2024, Ultimate GoPro Studio Steps for Time Lapse Magic</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-htc-u23-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from HTC U23 FRP Bypass</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-plugins-list-after-effects-edition/"><u>In 2024, Ultimate Plugins List  After Effects Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-kinemasters-full-potential-in-zoomed-sections/"><u>In 2024, Unlocking Kinemaster's Full Potential in Zoomed Sections</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-science-of-quantum-hdr-enhancement/"><u>In 2024, Unveiling the Science of Quantum HDR Enhancement</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-discovering-the-leading-mac-audio-mixers-a-complete-assessment/"><u>New Discovering the Leading Mac Audio Mixers - A Complete Assessment</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/sunlit-scenes-android-brighten-tips-for-2024/"><u>Sunlit Scenes  Android Brighten Tips for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-comprehensive-guide-to-crafting-impeccable-srt-files-for-2024/"><u>The Comprehensive Guide to Crafting Impeccable SRT Files for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-insiders-list-of-vr-terms/"><u>The Insider's List of VR Terms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transitioning-away-from-newest-sierra-version-back-to-1010-for-2024/"><u>Transitioning Away From Newest Sierra Version  Back to 10.10 for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/unchain-yourself-avoid-being-tagged-in-photos/"><u>Unchain Yourself: Avoid Being Tagged in Photos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleashing-iphones-customization-altering-ringtone-sounds-for-2024/"><u>Unleashing iPhone's Customization  Altering Ringtone Sounds for 2024</u></a></li>
+</ul></div>

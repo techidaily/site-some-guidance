@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering SRT File Playback on Both OSes"
-date: 2024-06-04T11:27:58.175Z
-updated: 2024-06-05T11:27:58.175Z
+date: 2024-07-23T06:38:04.176Z
+updated: 2024-07-24T06:38:04.176Z
 tags: 
   - screen-recording
   - ai video
@@ -24,6 +24,9 @@ Standing for SubRip Subtitle, an SRT file is a plain text file that contains all
 
 So, if you too have videos and movies with SRT and looks for ways on **how to open SRT file**, this article will be a good read. The content below will help you learn about the platforms that support the SRT files, and several tools and programs that help to open the SRT files on Windows and Mac systems.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![open srt file](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-01.jpg)
 
 ## Part 1: Which Platforms support SRT files?
@@ -55,28 +58,46 @@ Steps to **open subtitles SRT** files in Windows 10/11
 
 1. Select Word or Notepad in the Open with window. You can choose the option- “Always use the selected program to open this type of file” so that all the srt files are opened using this selected program.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![open srt on windows 2](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-03.jpg)
 
 1. Next click on the OK button and then double click on the file that will open in Notepad or WordPad as selected.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![open srt on windows 3](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-04.jpg)
 
 1. The SRT file will open in the text editor and you can even edit it if required.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Open SRT Files on Mac
 
 A multimedia player supporting the SRT feature will enable watching the videos with these subtitles. On the Mac system, there are several programs available that can be used for opening the SRT files like ObjectifMac, VLC Media Player, SubCleaner, and more. Also, you can even use the text editor-TextEdit for Mac. Simply find the desired SRT file and choose to open it using the TextEdit program. **QuickTime SRT** can also be used for opening and playing the SRT files.
 
 We recently covered some concrete methods in detail of **how to open SRT file on Mac**, we have now had the opportunity to test this with many people with different solutions and have found mixed results.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![text edit for mac](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-05.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Open the File with Online SRT Viewers \[Mac & Windows\]
 
 In addition to the desktop programs, there are several online tools available as well that allow opening the SRT subtitle files on your Windows and Mac systems. These online programs are simple tools that need no software download or installation and work straight from the browser. Though these online tools are simple to use, they are internet dependent and the features supported are also limited.
 
 One of the online tools that can be used for opening SRT subtitle files on your Windows, Mac, and other platform is Aspose. Using this program, you can view the SRT document pages as the images from your device. Since the SRT files are opened as images, they are protected from being edited or copied. You can open, navigate, zoom, and preview the original document as an image. The local file, as well as online ones using a URL, can be added to the interface to **read srt file.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![open srt using aspose](https://images.wondershare.com/filmora/article-images/2022/09/srt-file-how-to-open-srt-file-06.jpg)
 
 Steps to **open SRT file online** using Aspose
@@ -146,3 +167,46 @@ Part 2: How to Open SRT Files in Windows 10/11?
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-15-must-have-openers-for-maximum-youtube-engagement/"><u>[New] 15 Must-Have Openers for Maximum YouTube Engagement</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-best-concealed-vids-2023s-selective-8-software-guide/"><u>[New] 2024 Approved  Best Concealed Vids - 2023'S Selective 8 Software Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-best-low-cost-smartwatches-with-gaming-features/"><u>[New] Best Low-Cost Smartwatches with Gaming Features</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-subtle-sonic-softening-using-lumafusion/"><u>[New] The Art of Subtle Sonic Softening Using Lumafusion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-future-of-mp4s-seamless-srt-incorporation-techniques/"><u>[New] The Future of MP4s  Seamless SRT Incorporation Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-rankings-leading-gopro-case-models/"><u>[New] The Ultimate Rankings  Leading GoPro Case Models</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-2024-camcorders-for-quality-imaging/"><u>[New] Top 2024 Camcorders for Quality Imaging</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-total-gb-for-24-hour-movie-size/"><u>[New] Total GB for 24-Hour Movie Size</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleash-potential-essential-windows-10-skills-review/"><u>[New] Unleash Potential  Essential Windows 10 Skills Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleashing-iphones-customization-altering-ringtone-sounds/"><u>[New] Unleashing iPhone's Customization  Altering Ringtone Sounds</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-iphones-full-podcast-potential/"><u>[New] Unlocking iPhone's Full Podcast Potential</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-youtubes-srt-files-three-easy-methods/"><u>[New] Unlocking YouTube’s SRT Files  Three Easy Methods</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-open-world-opus-top-10-similar-video-games/"><u>[Updated] 2024 Approved  Open World Opus  Top 10 Similar Video Games</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-discovering-how-to-engage-in-discord-calls-easily-for-2024/"><u>[Updated] Discovering How to Engage in Discord Calls Easily for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-insiders-secrets-the-best-screen-capture-tools-for-w10w11/"><u>[Updated] In 2024, Insider's Secrets  The Best Screen Capture Tools for W10/W11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-master-stitching-gopro-content-in-extended-panorama-videos/"><u>[Updated] Master Stitching GoPro Content in Extended Panorama Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-step-into-the-archive-old-stories-on-facebook/"><u>[Updated] Step Into the Archive  Old Stories on Facebook</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-scream-loud-with-joy-our-picks-from-the-best-funny-youtubers/"><u>2024 Approved  Scream Loud with Joy  Our Picks From the Best Funny YouTubers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tales-of-timeless-togetherness-this-seasons-top-10/"><u>2024 Approved  Tales of Timeless Togetherness  This Season's Top 10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-complete-pacera-free-audio-liberation-handbook/"><u>2024 Approved  The Complete Pacera Free Audio Liberation Handbook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-perfect-blend-of-creativity-and-data-for-title-genius/"><u>2024 Approved  The Perfect Blend of Creativity & Data for Title Genius</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-10-leading-pc-vr-headsets/"><u>2024 Approved  The Ultimate Guide to 10 Leading PC VR Headsets</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-turn-up-the-scene-speed-on-your-iphone-filming-and-slowing-down-methods/"><u>2024 Approved  Turn Up the Scene Speed on Your iPhone  Filming & Slowing Down Methods</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-crossfade-magic-using-audacity-effectively/"><u>2024 Approved  Unlocking Crossfade Magic  Using Audacity Effectively</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-14-pro-max-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password On iPhone 14 Pro Max</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/how-to-rip-audio-from-instagram-reels-and-stories/"><u>How to Rip Audio From Instagram Reels and Stories</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-iphone-se-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on iPhone SE Safe and Legal</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-entering-the-world-of-content-creation-sign-up-tutorial/"><u>In 2024, Entering the World of Content Creation  Sign Up Tutorial</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-mastering-film-making-top-video-cameras/"><u>In 2024, Mastering Film Making  Top Video Cameras</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-comprehensible-guide-downloading-safe-free-vlc-on-macos/"><u>In 2024, The Comprehensible Guide  Downloading Safe, Free VLC on macOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-in-depth-look-at-nikons-4k-powerhouse-j5/"><u>In 2024, The In-Depth Look at Nikon's 4K Powerhouse - J5</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-free-premiere-pro-template-hacks/"><u>In 2024, The Ultimate Guide to Free Premiere Pro Template Hacks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-10-no-cost-image-servers-always-preserve-your-pics/"><u>In 2024, Top 10 No-Cost Image Servers, Always Preserve Your Pics</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-potential-ae-templates-for-aspiring-artists/"><u>In 2024, Unleash Potential  AE Templates for Aspiring Artists</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-speed-instant-signature-background-cleanup/"><u>In 2024, Unlocking Speed  Instant Signature Background Cleanup</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-the-full-potential-of-speech-recognition-in-ms-word-for-efficient-documentation/"><u>In 2024, Unlocking the Full Potential of Speech Recognition in MS Word for Efficient Documentation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/synergy-of-style-and-functionality-in-ae-plugins-for-2024/"><u>Synergy of Style and Functionality in AE Plugins for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-change-speed-of-video-in-final-cut-pro/"><u>Updated 2024 Approved How To Change Speed of Video in Final Cut Pro?</u></a></li>
+</ul></div>

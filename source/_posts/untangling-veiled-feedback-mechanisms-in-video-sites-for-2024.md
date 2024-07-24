@@ -1,7 +1,7 @@
 ---
 title: "Untangling Veiled Feedback Mechanisms in Video Sites for 2024"
-date: 2024-06-04T14:04:00.543Z
-updated: 2024-06-05T14:04:00.543Z
+date: 2024-07-23T08:11:01.261Z
+updated: 2024-07-24T08:11:01.261Z
 tags: 
   - screen-recording
   - ai video
@@ -85,6 +85,9 @@ Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
 Step2 Scroll down a little bit and click the **More** button.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
 
 Step3 Click the **Comments** section.
@@ -93,24 +96,39 @@ Step3 Click the **Comments** section.
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![your youtube comments date](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-comments-date.jpg)
 
 To see videos/comments you liked or disliked, please follow these steps as continuation:
 
 Step4 In the **Google My Activity** tab, click **Other activity**.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![other activity youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/other-activity-youtube-comments.jpg)
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![your comment likes and dislikes](https://images.wondershare.com/filmora/article-images/2022/11/your-comment-likes-and-dislikes.jpg)
 
 Now you will see the videos you liked or disliked and also the comments you liked or disliked, including the date when you liked or disliked the video/comment.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![date likes videos youtube](https://images.wondershare.com/filmora/article-images/2022/11/date-likes-videos-youtube.jpg)
 
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![likes comment received](https://images.wondershare.com/filmora/article-images/2022/11/likes-comment-received.jpg)
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
@@ -147,6 +165,9 @@ Because understanding how to comment is only one aspect of the issue; very impor
 
 Try making a joke, pointing out something amusing, providing helpful information, or expressing sympathy or concern for a fan. Additionally, a simple thumbs-up or heart can go a long way to demonstrate that you are paying attention even if you aren't feeling very friendly (we all have bad days, it's OK!).
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Did you know what a Highlighted comment is?
 
 A highlighted comment on YouTube aims to draw the content creator's attention with an automated feature.
@@ -185,3 +206,61 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-secret-sonic-snatchers-6-in-the-shadows-voice-recording-apps/"><u>[New] 2024 Approved  Secret Sonic Snatchers  6 In-the-Shadows Voice Recording Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-proven-strategies-for-implementing-visual-enhancements-in-media/"><u>[New] Proven Strategies for Implementing Visual Enhancements in Media</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-secrets-for-transcribing-twitter-videos-into-mp3-format/"><u>[New] Secrets for Transcribing Twitter Videos Into MP3 Format</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-fast-loading-facebook-videos/"><u>[New] The Art of Fast-Loading Facebook Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-future-is-in-your-cloud-price-rankings-and-bargains-2024/"><u>[New] The Future Is in Your Cloud  Price Rankings & Bargains 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-negative-narratives-of-virtual-reality-tech/"><u>[New] The Negative Narratives of Virtual Reality Tech</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-testimonial-toolkit-for-effective-promotion/"><u>[New] The Testimonial Toolkit for Effective Promotion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-high-quality-video-sequences-via-gopros-burst/"><u>[New] Unlocking High-Quality Video Sequences via GoPro's Burst</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-changes-in-sony-bdp-s670/"><u>[New] Unveiling Changes in Sony BDP-S670</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-capture-perfection-4-methods-of-saving-chromebook-screenshots/"><u>[Updated] 2024 Approved  Capture Perfection  4 Methods of Saving Chromebook Screenshots</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-choose-your-arena-top-platforms-without-cross-play-in-apex-legends/"><u>[Updated] In 2024, Choose Your Arena  Top Platforms Without Cross-Play in Apex Legends</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-stream-smarter-with-float-mastery-over-pip-on-netflix/"><u>[Updated] Stream Smarter with Float  Mastery Over PIP on Netflix</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-iphone-photography-shadow-techniques/"><u>[Updated] The Art of iPhone Photography  Shadow Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleashing-the-power-of-light-advanced-hdr-in-ps/"><u>[Updated] Unleashing the Power of Light  Advanced HDR in PS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-image-potential-the-importance-of-luts/"><u>[Updated] Unlocking Image Potential  The Importance of LUTs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-your-sound-potential-a-modern-look-at-pazeras-techniques/"><u>[Updated] Unlocking Your Sound Potential  A Modern Look at Pazera's Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-dji-phantom-3-professional-drones-secrets/"><u>[Updated] Unveiling the DJI Phantom 3 Professional Drone's Secrets</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-vector-journey-start-categories-tools-and-initial-steps/"><u>[Updated] Vector Journey Start  Categories, Tools, & Initial Steps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-symphonic-switch-up-reimagining-your-musical-lists/"><u>2024 Approved  Symphonic Switch-Up  Reimagining Your Musical Lists</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-syncopation-and-screenplay-directing-music-videos-with-ios/"><u>2024 Approved  Syncopation & Screenplay  Directing Music Videos with iOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-finest-unboxing-content-15-top-ranked-youtube-vids/"><u>2024 Approved  The Finest Unboxing Content  15 Top-Ranked YouTube Vids</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unique-14-motion-graphics-showcasing-text/"><u>2024 Approved  Unique 14 Motion Graphics Showcasing Text</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-universalaccess-tv-diverse-channels-with-a-local-twist/"><u>2024 Approved  UniversalAccess TV  Diverse Channels with a Local Twist</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-pinterests-treasure-trove-with-top-free-video-downloads/"><u>2024 Approved  Unlock Pinterest's Treasure Trove with Top Free Video Downloads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-full-capabilities-in-macs-preview-software/"><u>2024 Approved  Unlocking Full Capabilities in Mac's Preview Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unrivaled-script-authority-place/"><u>2024 Approved  Unrivaled Script Authority Place</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/ai-has-influenced-all-video-editors-to-speed-up-editing-this-article-discusses-the-significance-of-ai-slow-motion-and-the-tools-that-offer-it/"><u>AI Has Influenced All Video Editors to Speed up Editing. This Article Discusses the Significance of AI Slow Motion and the Tools that Offer It</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beyond-illusion-the-three-pillars-of-virtual-immersion-vr-ar-and-mr-for-2024/"><u>Beyond Illusion  The Three Pillars of Virtual Immersion (VR, AR, & MR) for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/complete-insights-into-the-updated-videoshow-app-for-24-for-2024/"><u>Complete Insights Into the Updated VideoShow App for '24 for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamlining-your-figma-project-eliminate-the-unwanted-background/"><u>In 2024, Streamlining Your Figma Project  Eliminate the Unwanted Background</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-supreme-creation-studio-test/"><u>In 2024, Supreme Creation Studio Test</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-testimonials-techniques-for-persuasive-video-credibility/"><u>In 2024, The Art of Testimonials  Techniques for Persuasive Video Credibility</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-importance-of-diversity-and-inclusion-in-market-research-samples/"><u>In 2024, The Importance of Diversity & Inclusion in Market Research Samples</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-photographers-guide-mobile-for-high-angle-views/"><u>In 2024, The Photographer's Guide  Mobile for High-Angle Views</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-role-of-arvr-in-medical-training/"><u>In 2024, The Role of AR/VR in Medical Training</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-resource-compendium-for-optimizing-on-screen-captioning/"><u>In 2024, The Ultimate Resource Compendium for Optimizing On-Screen Captioning</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-routine-for-large-files-journey-from-iphones-to-macs/"><u>In 2024, The Ultimate Routine for Large Files' Journey From iPhones to Macs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-5-video-tweaking-apps-for-social-networking/"><u>In 2024, Top 5 Video Tweaking Apps for Social Networking</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-picks-comprehensive-list-of-no-cost-webm-streaming-tools/"><u>In 2024, Top Picks  Comprehensive List of No-Cost WebM Streaming Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transform-your-imagination-into-visual-masterpieces-on-windows-10/"><u>In 2024, Transform Your Imagination Into Visual Masterpieces on Windows 10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-your-devices-new-tone-with-top-5-chrome-extensions/"><u>In 2024, Unleash Your Device's New Tone with Top 5 Chrome Extensions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-the-power-of-shareable-internet-humor/"><u>In 2024, Unlocking the Power of Shareable Internet Humor</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-whats-the-real-distinction-between-youtube-and-dailymention/"><u>In 2024, What's the Real Distinction Between YouTube and DailyMention?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-top-20-slideshow-makers-for-winmaconline-review/"><u>New Top 20 Slideshow Makers for Win/Mac/Online Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamline-your-projects-expert-techniques-for-mac-dvd-creation-for-2024/"><u>Streamline Your Projects  Expert Techniques for Mac DVD Creation for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-humor-in-minutes-kinemaster-techniques-for-2024/"><u>The Art of Humor in Minutes  KineMaster Techniques for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-ultimate-youtube-strategy-for-simultaneous-synchronization/"><u>The Ultimate Youtube Strategy for Simultaneous Synchronization</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-app-development-cutting-edge-editor-tools-for-2024/"><u>Top App Development Cutting-Edge Editor Tools for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-secrets-to-improve-your-gopro-videos-for-2024/"><u>Top Secrets to Improve Your GoPro Videos for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unraveling-the-itunes-radio-download-process-for-2024/"><u>Unraveling the iTunes Radio Download Process for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-steps-to-create-green-screen-videos-in-after-effects/"><u>Updated 2024 Approved Steps to Create Green Screen Videos in After Effects</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-expert-guide-to-displaying-audio-waves-and-adding-motion-graphics-in-premiere-pro/"><u>Updated Expert Guide to Displaying Audio Waves and Adding Motion Graphics in Premiere Pro</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-nokia-c110-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Nokia C110 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Sync Soundtracks Smoothly Into InShot's Ecosystem"
-date: 2024-06-04T11:26:26.001Z
-updated: 2024-06-05T11:26:26.001Z
+date: 2024-07-23T06:37:09.155Z
+updated: 2024-07-24T06:37:09.155Z
 tags: 
   - screen-recording
   - ai video
@@ -38,14 +38,27 @@ The answer to how to import music from Spotify to InShot is using a third-party 
 
 Step 1: First of all, launch Tunelf and find the music or album you want to convert from the music converter. Then, you should right-click on the Spotify item and copy its URL. Move to Tunelf interface and paste the URL in the search bar, and hit the "+" button.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add your spotify songs](https://images.wondershare.com/filmora/article-images/2021/import-music-to-inshot-video-editor-1.jpg)
 
 Step 2: You can customize the parameters of the song by selecting the ‘Menu’ option and then moving to "Preferences." From there, you have to hit the "Convert" option and set the parameters.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![set the songs output format](https://images.wondershare.com/filmora/article-images/2021/import-music-to-inshot-video-editor-2.jpg)
 
 Step 3: Once you have set the output parameters, you can now download the Spotify songs to any downloadable format by just clicking on the "Convert" button.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![spotify song is converting](https://images.wondershare.com/filmora/article-images/2021/import-music-to-inshot-video-editor-3.jpg)
 
 Step 4: For Android users, connect your mobile device to your laptops using a USB wire and then transfer the downloaded music to their mobile. In comparison, iOS users can use iTunes to transfer the music to their iPhones.
@@ -54,6 +67,10 @@ Step 5: Now, create a new project on InShot. Hit the "Video" title to create or 
 
 Step 6: At this point, hit the "Track" button and move to the "My Music" section. Now browse the song that you converted from Spotify and click on the ‘Use’ button to load it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![use spotify song in inshot](https://images.wondershare.com/filmora/article-images/2021/import-music-to-inshot-video-editor-4.jpg)
 
 ## Part 2\. How to Import Music from Apple Music to InShot?
@@ -64,6 +81,9 @@ The answer to this question is DRmare Apple Music Converter. This tool is used t
 
 Step 1: To start the process, set DRmare Apple Music Converter on your computer. Then open the convertor and start importing the already downloaded Apple Music files. This could be done by pressing the "Add Files" button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![import apple music](https://images.wondershare.com/filmora/article-images/2021/import-music-to-inshot-video-editor-5.jpg)
 
 Step 2: You can set the output audio format for the files. For this, move to the "Format" icon and click on it. A new window will appear in front of you. You can change the audio format, adjust the bit rate, audio channel, etc. Once satisfied, hit the ‘OK’ button to save the changes.
@@ -82,6 +102,9 @@ Step 6: Click on the "Track" button and select the option of "My Music." You can
 
 ![add your apple music to inshot](https://images.wondershare.com/filmora/article-images/2021/import-music-to-inshot-video-editor-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. How to Add Music to InShot Videos?
 
 The brilliant editing application InShot is available for both Android phones and iPhones. You can [edit your videos from Inshot platform](https://tools.techidaily.com/wondershare/filmora/download/) and also add songs to it so that your content becomes interesting. People who are new to this might think about how to add music to InShot videos. So, here we are to clarify all your questions and confusion.
@@ -92,6 +115,9 @@ Step 1: To start the process, you should first install the InShot application on
 
 Step 2: From the main screen, you have to select the "Video" menu. Once that is selected, then create a new editing project.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select the option of video](https://images.wondershare.com/filmora/article-images/2021/import-music-to-inshot-video-editor-9.jpg)
 
 Step 3: Once you are on the editing interface, locate and then import the video that you want to edit and add a song.
@@ -100,6 +126,9 @@ Step 3: Once you are on the editing interface, locate and then import the video 
 
 Step 4: Now, from the options at the bottom of the screen, move to the "Music" tab. Then click on the "Tracks" menu to select the song that you want to add to your video.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![tap on the option of music](https://images.wondershare.com/filmora/article-images/2021/import-music-to-inshot-video-editor-11.jpg)
 
 Step 5: You can either use the music provided by the InShot application by selecting the 'Featured' tab. Or else, by selecting the "My Music" tab, you can import your favorite music from your device to the app.
@@ -108,10 +137,16 @@ Step 5: You can either use the music provided by the InShot application by selec
 
 Step 6: Once you have selected your music, hit the "Use" button so that it is added to your video. Lastly, you can customize and adjust the song the way you like it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![insert music to your video](https://images.wondershare.com/filmora/article-images/2021/import-music-to-inshot-video-editor-13.jpg)
 
 Click here to learn [how to add transitions on Inshot](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Bottom Line
 
 The article talked about InShot musically and also taught you how to add music to InShot video on iPhone and Android, both phones. The article discussed in detail about how to use InShot but if you are looking for some other editors, then let us share about Wondershare Filmora.
@@ -132,6 +167,9 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 03 [How to Add Music to InShot Videos?](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1\. How to Import Music from Spotify to InShot?
 
 You can add music and sound effects to your videos with InShot. Multiple music applications could be used for this purpose, yet Spotify does not support this. Spotify is only available for online streaming on the application and the web player. You cannot import music from Spotify to InShot directly, but with an indirect medium, the job could be done.
@@ -156,8 +194,14 @@ Step 5: Now, create a new project on InShot. Hit the "Video" title to create or 
 
 Step 6: At this point, hit the "Track" button and move to the "My Music" section. Now browse the song that you converted from Spotify and click on the ‘Use’ button to load it.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use spotify song in inshot](https://images.wondershare.com/filmora/article-images/2021/import-music-to-inshot-video-editor-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2\. How to Import Music from Apple Music to InShot?
 
 Apple Music offers a variety of tracks to its users. The only drawback of using Apple Music tracks is its DRM protection. Due to this protection, the tracks from Apple Music cannot be used on other platforms like InShot. Here, a question arises about how to import music to InShot if you cannot use it directly from Apple Music.
@@ -174,6 +218,9 @@ Step 2: You can set the output audio format for the files. For this, move to the
 
 Step 3: Lastly, to download the converted files from DRmare Apple Music Converter, press the "Convert" button. You can find the converted files on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![apple music converted](https://images.wondershare.com/filmora/article-images/2021/import-music-to-inshot-video-editor-7.jpg)
 
 Step 4: To import the files to InShot, firstly connect your Android phone or iPhone to your computer using a USB cable. Then locate and transfer the converted music files to your phone.
@@ -184,6 +231,9 @@ Step 6: Click on the "Track" button and select the option of "My Music." You can
 
 ![add your apple music to inshot](https://images.wondershare.com/filmora/article-images/2021/import-music-to-inshot-video-editor-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. How to Add Music to InShot Videos?
 
 The brilliant editing application InShot is available for both Android phones and iPhones. You can [edit your videos from Inshot platform](https://tools.techidaily.com/wondershare/filmora/download/) and also add songs to it so that your content becomes interesting. People who are new to this might think about how to add music to InShot videos. So, here we are to clarify all your questions and confusion.
@@ -194,6 +244,9 @@ Step 1: To start the process, you should first install the InShot application on
 
 Step 2: From the main screen, you have to select the "Video" menu. Once that is selected, then create a new editing project.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![select the option of video](https://images.wondershare.com/filmora/article-images/2021/import-music-to-inshot-video-editor-9.jpg)
 
 Step 3: Once you are on the editing interface, locate and then import the video that you want to edit and add a song.
@@ -228,6 +281,9 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 
@@ -254,3 +310,48 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mastering-instagram-adding-borders-to-videos/"><u>[New] 2024 Approved  Mastering Instagram  Adding Borders to Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-comprehensive-listing-of-best-zero-cost-broadcasting-tech-for-all-platforms/"><u>[New] In 2024, Comprehensive Listing of Best Zero-Cost Broadcasting Tech for All Platforms</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-staying-legal-in-the-digital-space-youtubes-copyright-guide/"><u>[New] Staying Legal in the Digital Space  YouTube's Copyright Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-edge-enhancements-in-windows-10-release/"><u>[New] The Edge Enhancements in Windows 10 Release</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-intricacies-of-high-dynamic-range-quantum-hdr/"><u>[New] The Intricacies of High Dynamic Range (Quantum HDR)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-key-to-unlocking-a-vault-of-no-cost-clip-art/"><u>[New] The Key to Unlocking a Vault of No-Cost Clip Art</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-windows-8-guide-to-powerful-movie-maker-editing-techniques/"><u>[New] The Windows 8 Guide to Powerful Movie Maker Editing Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tomorrows-reflection-varied-solutions/"><u>[New] Tomorrow’s Reflection  Varied Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-toonsmax-app-insight-comprehensive-review-2024/"><u>[New] ToonsMax App Insight - Comprehensive Review 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-memes-with-a-smile-builder/"><u>[New] Top Memes with a Smile Builder</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transforming-everyday-alerts-how-to-create-customizable-tones-on-android-phones/"><u>[New] Transforming Everyday Alerts  How to Create Customizable Tones on Android Phones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unifying-online-collaboration-tools-skype-and-zoom/"><u>[New] Unifying Online Collaboration Tools  Skype & Zoom</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-uniting-zooms-power-with-facebook-live-streaming/"><u>[New] Uniting Zoom's Power with Facebook LIVE Streaming</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-the-full-potential-of-your-gopro-4k-recordings/"><u>[New] Unlock the Full Potential of Your GoPro 4K Recordings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-samsungs-image-editing-software-insights/"><u>[New] Unveiling Samsung's Image Editing Software Insights</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-creator-studio-unleashing-the-power-of-your-channel/"><u>[New] YouTube Creator Studio  Unleashing the Power of Your Channel</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-less-is-more-the-best-video-url-reducers-revealed-for-2024/"><u>[Updated] Less Is More  The Best Video URL Reducers Revealed for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-strategies-for-hiring-superior-cinematographers/"><u>[Updated] Strategies for Hiring Superior Cinematographers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-for-a-smart-4k-lens-upgrade/"><u>[Updated] The Ultimate Guide for a Smart 4K Lens Upgrade</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-best-lipos-a-drone-buyers-bible/"><u>[Updated] Unveiling the Best LiPos - A Drone Buyer's Bible</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-optimal-obs-configuration-for-budget-pcs/"><u>2024 Approved  Optimal OBS Configuration for Budget PCs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-lexicon-of-persuasion-in-business-communication/"><u>2024 Approved  The Lexicon of Persuasion in Business Communication</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-oppo-reno-11-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Oppo Reno 11 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-14-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 14</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-samsung-galaxy-a14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-reno-8t-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Oppo Reno 8T 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-secrets-of-finding-exclusive-youtube-design-archives/"><u>In 2024, Secrets of Finding Exclusive YouTube Design Archives</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamlining-video-creation-with-windows-movie-maker-on-windows-8/"><u>In 2024, Streamlining Video Creation with Windows Movie Maker on Windows 8</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-switching-up-your-iphones-call-sound-effectively/"><u>In 2024, Switching up Your iPhone's Call Sound Effectively</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-description-crafting-compelling-podcast-hooks/"><u>In 2024, The Art of Description  Crafting Compelling Podcast Hooks</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-ringers-guide-shaping-iphone-sounds/"><u>In 2024, The Ultimate Ringer's Guide  Shaping iPhone Sounds</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-turn-zip-into-srt-a-step-by-step-conversion-process/"><u>In 2024, Turn ZIP Into SRT  A Step-by-Step Conversion Process</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-turning-snapchat-into-cash-secrets-revealed/"><u>In 2024, Turning Snapchat Into Cash  Secrets Revealed</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-free-online-video-orientation-changer-best-options-for-2024/"><u>New Free Online Video Orientation Changer Best Options for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-top-15-audio-collections-matching-melodies-with-every-type-of-visual-narrative-for-2024/"><u>New Top 15 Audio Collections Matching Melodies with Every Type of Visual Narrative for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/pcandroid-friendly-methods-to-post-videos-on-facebook-successfully/"><u>PC/Android-Friendly Methods to Post Videos on Facebook Successfully</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-secrets-to-stellar-podcast-summaries-for-2024/"><u>The Secrets to Stellar Podcast Summaries for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-honor-x7b-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Honor X7b</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-realme-narzo-60x-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforming-media-landscape-an-exclusive-look-at-magix-vpx-for-2024/"><u>Transforming Media Landscape  An Exclusive Look at Magix VPX for 2024</u></a></li>
+</ul></div>

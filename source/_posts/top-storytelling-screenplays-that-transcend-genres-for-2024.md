@@ -1,7 +1,7 @@
 ---
 title: "\"Top Storytelling  Screenplays that Transcend Genres for 2024\""
-date: 2024-06-04T14:35:51.685Z
-updated: 2024-06-05T14:35:51.685Z
+date: 2024-07-23T08:30:43.156Z
+updated: 2024-07-24T08:30:43.156Z
 tags: 
   - screen-recording
   - ai video
@@ -41,6 +41,9 @@ Sure, we'd all love to write one of those big blockbusters, but it's going to ta
 
 As aspiring screenwriters, it is important for us to focus on markets where we can break through. Some genres don't necessarily require a huge budget or an A-list star to be successful, and that's good news. Making a movie is the beginning of the journey to getting hired to write a superhero movie.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## Part 2\. Scripts examples from 8 genre
 
 ### Best horror scripts
@@ -59,6 +62,9 @@ The screenplay was written by [**Gary Dauberman**](https://en.wikipedia.org/wiki
 
 **_2\. Halloween_**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![halloween](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-3.jpg)
 
 **Writer:** John Carpenter and Debra Hill
@@ -73,6 +79,9 @@ Part of its enduring appeal is the simplicity of its concept: A kid who murdered
 
 **_1\. 21 Jump Street_**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![21 jump street](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-4.jpg)
 
 **Writer:** [Michael Bacall](https://en.wikipedia.org/wiki/Michael%5FBacall), [Stephen J. Cannell](https://en.wikipedia.org/wiki/Stephen%5FJ.%5FCannell)
@@ -85,6 +94,9 @@ Download the script here: <https://www.scriptslug.com/script/21-jump-street-2012
 
 **_2\. The Edge of Seventeen_**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![the edge of seventeen](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-5.jpg)
 
 **Writer:** Kelly Fremon Craig
@@ -99,6 +111,9 @@ That's exactly what new screenwriter [**Kelly Fremon Craig**](https://en.wikiped
 
 _**1\. A Christmas Carol – Large Cast**_Every man has the power to do good.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![a christmas carol is large cast](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-6.jpg)
 
 _**Writer:**_ [Charles Dickens](https://en.wikipedia.org/wiki/Charles%5FDickens)
@@ -117,6 +132,9 @@ Angel, a child fairy, learns a valuable lesson about caring for the sick when sh
 
 **Download the script here:** <https://cf.ltkcdn.net/christmas/files/2502-angels-poinsettia.pdf>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Best promotional video scripts
 
 ![best promotional video scripts](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-8.jpg)
@@ -143,6 +161,9 @@ A short video (usually animated) that explains ideas, products, or services in a
 
 This template begins with a scene where a character is struggling with the same problem your audience is facing. Once you've established a connection, you present the solution, show how it works and the results it delivers, and wrap it up with a call to action.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best short drama scripts
 
 _**1\. A GIFT – TEN MINUTE PLAY FOR TWO ACTORS**_
@@ -183,6 +204,9 @@ Set: _A Park. Daytime in the present. It is a bucolic atmosphere in the middle o
 
 Level of difficulty: _6/10 – conversational, easy lines to remember and that also flow easily_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![a walk in the park](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-10.jpg)
 
 When Jack meets Esther in the park one day, he swears she looks familiar. Although Esther initially denies that she even knows him, she invites him to sit down and they start talking. Jack tells her a story about a girl he knew a long time ago, a girl he called "Essie", who helped him get over another girl who broke his heart a long time ago. A short five-minute game for seniors - one man and one woman.
@@ -193,6 +217,9 @@ When Jack meets Esther in the park one day, he swears she looks familiar. Althou
 
 **_1\. 2 Guns_**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![2 guns](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-11.jpg)
 
 **Writers:** Blake Masters (screenplay by) Steven Grant
@@ -203,6 +230,9 @@ This screenplay explores the relationship between two criminals – Denzel Washi
 
 _**2\. Casino Royale**_
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![casino royale](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-12.jpg)
 
 **Writers:** Robert Wade and Paul Haggis
@@ -215,6 +245,9 @@ Secret Agent James Bond sets out on a mission as 007 in a screenplay that can sh
 
 **_1\. PRIMER_**
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![primer](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-13.jpg)
 
 **Writer:** Shane Carruth
@@ -243,6 +276,14 @@ The film stands out in the now crowded genre by avoiding any cataclysmic showdow
 
 **_1\. Cinderella_(1950)**
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![cinderella 1950](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-15.jpg)
 
 **Writers:** William Peet, Ted Sears, Homer Brightman, Kenneth Anderson, Erdman Penner, Winston Hibler, Harry Reeves, Joe Rinaldi
@@ -281,8 +322,15 @@ The 4K editing support feature enables users to edit and export videos at a reso
 
 The [color tuning](https://tools.techidaily.com/wondershare/filmora/download/) feature enables users to adjust the white balance and dynamic range of their clips. The audio mixer feature enables changing the audio of each track. The advanced text editor allows editing the color, size, font, and even animation of the text. The screen recording feature enables recording the screen of the computer and webcam efficiently. The video stabilization feature eliminates the effects of camera shake.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![color tuning](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Creating video content that can potentially go viral is no longer a complicated process that takes an enormous amount of time and effort. Each of the scripts we featured in this article offers more than enough brilliant scripts that are going to impress your target audience. Make your own short movies and script plays using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and checks out additional features explained in the article.
@@ -312,3 +360,46 @@ Creating video content that can potentially go viral is no longer a complicated 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-beyond-clickbait-whats-real-about-instagram-reels/"><u>[New] In 2024, Beyond Clickbait  What's Real About Instagram Reels?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-synthesizing-creativity-with-magix-music-maker-2024-review/"><u>[New] Synthesizing Creativity with Magix Music Maker 2024 Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-iphone-photography-mastering-image-cropping/"><u>[New] The Art of iPhone Photography  Mastering Image Cropping</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-hidden-guide-watching-highly-engaged-comments-with-ease-on-youtube/"><u>[New] The Hidden Guide  Watching Highly Engaged Comments with Ease on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-smart-users-guide-to-enhancing-technology/"><u>[New] The Smart User's Guide to Enhancing Technology</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-iosandroid-apps-for-creative-photo-captions/"><u>[New] Top iOS/Android Apps for Creative Photo Captions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-tier-gaming-live-broadcast-tools/"><u>[New] Top-Tier Gaming Live Broadcast Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-make-reels-on-facebook/"><u>[Updated] How to Make Reels on Facebook?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-high-quality-video-sequences-via-gopros-burst/"><u>[Updated] Unlocking High-Quality Video Sequences via GoPro's Burst</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-complete-how-to-for-incorporating-media-onto-your-youtube-shelves/"><u>2024 Approved  The Complete How-To for Incorporating Media Onto Your YouTube Shelves</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-essential-seo-handbook-for-podcast-success/"><u>2024 Approved  The Essential Seo Handbook for Podcast Success</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-timing-translation-from-20mb-to-seconds-measurement/"><u>2024 Approved  Timing Translation  From 20Mb to Seconds Measurement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tiny-thesis-for-film-storyline/"><u>2024 Approved  Tiny Thesis for Film Storyline</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-top-notch-photo-cloud-storages-both-gratis-and-premium-options/"><u>2024 Approved  Ultimate Top-Notch Photo Cloud Storages  Both Gratis & Premium Options</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-virtual-reality-to-the-fullest-with-htc-vive-review/"><u>2024 Approved  Unleash Virtual Reality to the Fullest with HTC Vive Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-the-secrets-of-internet-humor-with-a-guide-on-9gag/"><u>2024 Approved  Unlock the Secrets of Internet Humor with a Guide on 9GAG</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/continuous-screenshot-providers/"><u>Continuous Screenshot Providers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/how-to-mute-google-meet-for-2024/"><u>How to Mute Google Meet for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Lava Blaze 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-moto-e13-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Motorola Moto E13 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-infinix-hot-40-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Infinix Hot 40 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-yuneec-typhoon-h-expert-drone-review/"><u>In 2024, Exploring the Yuneec Typhoon H  Expert Drone Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-securing-a-seamless-srt-upload-experience-on-social-networks/"><u>In 2024, Securing a Seamless SRT Upload Experience on Social Networks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamlining-your-way-through-youtubes-comment-forum/"><u>In 2024, Streamlining Your Way Through YouTube's Comment Forum</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superior-visual-treatment-applying-filters-to-videos/"><u>In 2024, Superior Visual Treatment  Applying Filters to Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-instagram-photo-tap-guide/"><u>In 2024, The Instagram Photo-Tap Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-walkthrough-for-movie-making-on-windows-8/"><u>In 2024, The Ultimate Walkthrough for Movie Making on Windows 8</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-10-power-upgrades-for-os-x-and-win-with-srt-systems/"><u>In 2024, Top 10 Power Upgrades for OS X and Win with SRT Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-8-best-free-and-paid-video-collage-apps-for-android/"><u>In 2024, Top 8 Best Free and Paid Video Collage Apps for Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-voice-changer-for-valorant-gamers-free-to-use/"><u>In 2024, Ultimate Voice Changer for Valorant Gamers – Free to Use</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-the-potential-of-your-notes-use-mematic/"><u>In 2024, Unleash the Potential of Your Notes - Use Mematic</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-top-8-premium-free-srt-translation-solutions/"><u>In 2024, Unveiling Top 8 Premium Free SRT Translation Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-upgrade-alert-navigate-changes-with-confidence/"><u>In 2024, Upgrade Alert  Navigate Changes with Confidence</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-the-most-recommended-natural-ai-hindi-voice-generator/"><u>New 2024 Approved The Most Recommended Natural AI Hindi Voice Generator</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-voice-capturing-made-easy-an-in-depth-look-at-vocaroos-functionality/"><u>New 2024 Approved Voice Capturing Made Easy An In-Depth Look at Vocaroos Functionality</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-ogg-conversion-made-easy-top-tools-and-tips/"><u>New In 2024, OGG Conversion Made Easy Top Tools and Tips</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleashing-the-power-of-preparedness-in-your-streams/"><u>Unleashing the Power of Preparedness in Your Streams</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-how-does-gain-staging-impact-the-overall-fidelity-of-recorded-tracks/"><u>Updated How Does Gain Staging Impact the Overall Fidelity of Recorded Tracks?</u></a></li>
+</ul></div>

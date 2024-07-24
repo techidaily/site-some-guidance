@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Toggle Your YouTube Video with Picture-in-Picture on iOS\""
-date: 2024-06-04T15:12:35.358Z
-updated: 2024-06-05T15:12:35.358Z
+date: 2024-07-23T08:54:23.027Z
+updated: 2024-07-24T08:54:23.027Z
 tags: 
   - screen-recording
   - ai video
@@ -32,11 +32,18 @@ On iOS 14.5 or 14.6, here is a simple step-by-step guide to enable Picture in Pi
 2. Tap the **Shortcut** extension in Settings
 3. Turn on **Allow Untrusted Shortcuts**. If this option is not available for your device, go to **Screen Time extension** and disable any screen time restrictions. So, you will proceed successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enable pip on iphone](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-1.jpg)
 
 1. If you require a **YouTube PIP** shortcut app on your device to proceed, you can download it from App Store or [the Shortcuts Gallery browser](https://shortcutsgallery.com/shortcuts/youtube-pip/) and then add it to your Shortcut Library.
 2. Open the **YouTube PIP** Shortcut and tap **Get Shortcut** on the App. You will be redirected to the shortcut application on your phone. If you don't have the shortcut application, you can download it from the App Store.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![shortcut application](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-2.jpg)
 
 1. Tap **Allow Untrusted Shortcuts** in the Shortcut Application on your device
@@ -51,10 +58,16 @@ On iOS 14.5 or 14.6, here is a simple step-by-step guide to enable Picture in Pi
 1. Tap on **View in App Store** on the screen that appears. This will direct you to the App Store.
 2. On the next screen that appears, download [**Scriptable App**](https://apps.apple.com/us/app/scriptable/id1405459188). Get back to the home screen and launch Scriptable App once.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![download scriptable app](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-4.jpg)
 
 1. Go to YouTube again and start any video. Tap the **Share icon**, scroll to the right and tap the **More icon**, go ahead and tap the YouTube PIP. And on the burner that pops up at the top of the screen of your phone, tap **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![floating screen](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-5.jpg)
 
 And there you go, now you will be able to watch your videos on a floating screen. This procedure may be pretty tedious, but it is all worth it if you follow keenly to the end. You will do it only once.
@@ -73,6 +86,9 @@ To use PIP on iPhone effectively, you may sometime need to deactivate it so that
 
 Picture in Picture is now a native quality utility feature on many Apps on different platforms. PIP has stayed for some time since it was developed and introduced for third-party utilization. However, YouTube is still left out of this. To enable PIP on Mac, you will need to go a step ahead to do it. Enjoying PIP on an iPad is also not a straightforward thing. All the same, Mac and iPad require very simple instructions to allow you to use Picture in Picture with them.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### PIP on iPad
 
 To activate PIP on your iPad, you only need your phone settings and a supported browser like Safari. However, you have to update your iPad to the iOS 14 version that fully supports the feature.
@@ -93,6 +109,9 @@ Before you use Picture in Picture in YouTube, you require two Apps on your devic
 
 ![floating window](https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### PIP on Mac
 
 On your Mac, there are two ways to get into Picture in Picture mode. You can use Control Command and Mouse together, or simply the mouse itself/touchpad. And here is how to do it with a Mouse only.
@@ -143,3 +162,54 @@ Picture in Picture is a computer utility feature in the USA. It has not been lau
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-understanding-ffpm-in-firefox-today/"><u>[New] In 2024, Understanding FFPM in Firefox Today</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamlining-photo-and-video-transfer-from-android/"><u>[New] Streamlining Photo & Video Transfer From Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-synching-youtube-songs-to-video-frameworks/"><u>[New] Synching YouTube Songs to Video Frameworks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-7-nft-maker-tools-for-digital-art-tokenization/"><u>[New] Top 7 NFT Maker Tools for Digital Art Tokenization</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tune-the-frame-diy-music-video-production-with-iphone/"><u>[New] Tune the Frame  DIY Music Video Production with iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-twitch-time-travel-regain-control-over-streams/"><u>[New] Twitch Time Travel  Regain Control Over Streams</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-elevate-your-sims-gaming-with-recording-expertise/"><u>[Updated] In 2024, Elevate Your Sims Gaming with Recording Expertise</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-pursuit-of-perfection-does-picku-outshine-other-android-tools/"><u>[Updated] In Pursuit of Perfection  Does PickU Outshine Other Android Tools?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tales-that-transcend-leading-academies-ranked-top-8/"><u>[Updated] Tales That Transcend  Leading Academies Ranked Top 8</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-10-best-android-and-ios-clock-apps-for-a-perfectly-countdownwedding/"><u>[Updated] The 10 Best Android & iOS Clock Apps for a Perfectly Countdownwedding</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-free-artistic-software-on-mac/"><u>[Updated] The Ultimate Guide to Free Artistic Software on Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-time-saving-tips-regaining-archived-reddit-posts/"><u>[Updated] Time-Saving Tips  Regaining Archived Reddit Posts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unraveling-iphones-audio-mystery-ringtone-adjustments/"><u>[Updated] Unraveling iPhone's Audio Mystery  Ringtone Adjustments</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-master-windows-10s-native-features-to-cut-videos-instantly/"><u>2024 Approved  Master Windows 10'S Native Features to Cut Videos Instantly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-fee-free-timing-devices/"><u>2024 Approved  Prime Fee-Free Timing Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-compreehers-guide-to-srt-file-flexibility/"><u>2024 Approved  The Compreeher’s Guide to SRT File Flexibility</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-path-to-profitable-product-placements-on-youtube/"><u>2024 Approved  The Path to Profitable Product Placements on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-iphone-multimedia-magic/"><u>2024 Approved  The Ultimate Guide to iPhone Multimedia Magic</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-pick-windows-10s-cutting-edge-apps-and-games/"><u>2024 Approved  Top Pick  Windows 10’S Cutting-Edge Apps & Games</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-creativity-with-gopros-time-lapse-technology/"><u>2024 Approved  Unleash Creativity with GoPro's Time-Lapse Technology</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-itel-a05s-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Itel A05s Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-insights-into-polarr-photo-enhancer/"><u>Comprehensive Insights Into Polarr Photo Enhancer</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cultural-etiquette-for-successful-socializing-in-south-america/"><u>Cultural Etiquette for Successful Socializing in South America</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/future-proof-audio-editing-platforms-top-choices/"><u>Future-Proof Audio Editing Platforms Top Choices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-apple-iphone-14-pro-max-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile Apple iPhone 14 Pro Max online without SIM Card?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-analysis-of-samsung-photo-editor-prospects-and-constraints/"><u>In 2024, Expert Analysis of Samsung Photo Editor Prospects & Constraints</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-immersion-in-metaverse-leading-hmds-reviewed/"><u>In 2024, Immersion in Metaverse  Leading HMDs Reviewed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-key-to-unlocking-a-vault-of-no-cost-clip-art/"><u>In 2024, The Key to Unlocking a Vault of No-Cost Clip Art</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-total-spend-on-a-single-youtubers-ads/"><u>In 2024, Total Spend on a Single Youtuber's Ads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-film-a-beginners-guide-to-essential-shots/"><u>In 2024, Understanding Film  A Beginner's Guide to Essential Shots</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-unlimited-christmas-classics-9-films-available-for-no-charge/"><u>In 2024, Unlimited Christmas Classics  9 Films Available for No Charge</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-venture-into-the-best-sites-for-innovative-text-manipulation-tools/"><u>In 2024, Venture Into the Best Sites for Innovative Text Manipulation Tools</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-the-ultimate-guide-to-top-8-online-havens-for-cost-free-sfx-and-impactful-audio-libraries/"><u>New The Ultimate Guide to Top 8 Online Havens for Cost-Free SFX & Impactful Audio Libraries</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/revolutionize-your-podcast-reach-with-smart-seo-for-2024/"><u>Revolutionize Your Podcast Reach with Smart SEO for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/superior-routes-converting-pinners-videos-into-music-files-for-2024/"><u>Superior Routes  Converting Pinners' Videos Into Music Files for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/supreme-writing-talents-through-genre-lenses-for-2024/"><u>Supreme Writing Talents Through Genre Lenses for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-easy-story-making-for-2024/"><u>The Art of Easy Story Making for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-science-of-display-understanding-srgb-vs-rgb-colors-for-2024/"><u>The Science of Display  Understanding Srgb vs Rgb Colors for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-iphone-15-pro-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or iPhone 15 Pro from iCloud</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforming-speeches-learn-no-cost-audio-effect-techniques-here-for-2024/"><u>Transforming Speeches  Learn No-Cost Audio Effect Techniques Here for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unbeatable-summer-movie-list-10-familial-classics-for-2024/"><u>Unbeatable Summer Movie List  10 Familial Classics for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-googles-ar-sticker-innovation-for-2024/"><u>Understanding Google's AR Sticker Innovation for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleash-creative-vocal-power-access-free-audio-effects-here-for-2024/"><u>Unleash Creative Vocal Power  Access Free Audio Effects Here for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-art-of-chroma-keying-in-fcp-x-expert-techniques-for-stunning-results/"><u>Updated 2024 Approved The Art of Chroma Keying in FCP X Expert Techniques for Stunning Results</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-best-photo-slideshow-maker-how-to-make-a-photo-slideshow/"><u>Updated In 2024, Best Photo Slideshow Maker How to Make a Photo Slideshow</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Vivo V27 Pro | Dr.fone</u></a></li>
+</ul></div>

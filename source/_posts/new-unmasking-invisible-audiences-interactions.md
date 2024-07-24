@@ -1,7 +1,7 @@
 ---
 title: "[New] Unmasking Invisible Audiences' Interactions"
-date: 2024-06-04T13:46:42.759Z
-updated: 2024-06-05T13:46:42.759Z
+date: 2024-07-23T08:00:36.426Z
+updated: 2024-07-24T08:00:36.426Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,9 @@ People nowadays can express their feelings and opinions online through social me
 
 People can watch, like, share, comment on, and upload videos using the YouTube service. You can access this video service on PCs, laptops, tablets, and mobile phones.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## What Are YouTube's Primary Purposes?
 
 * Users can look up and view videos.
@@ -65,6 +68,9 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## How to See Liked Comments on YouTube?
 
 YouTube is a service that is available for free, and it may be a terrific place for teenagers to find interest. Many young people use YouTube to watch comedy shows, how-to videos, recipes, hacks, and music videos. Teenagers also use the video-sharing platform to subscribe to other YouTubers and famous personalities and to follow their favorite vloggers (video bloggers).
@@ -81,18 +87,31 @@ But, if you want to retrace the videos you commented on and the videos/comments 
 
 Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![find your data in youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-your-data-in-youtube.jpg)
 
 Step2 Scroll down a little bit and click the **More** button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
 
 Step3 Click the **Comments** section.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![your youtube comments date](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-comments-date.jpg)
 
 To see videos/comments you liked or disliked, please follow these steps as continuation:
@@ -115,6 +134,9 @@ This article tells you that you can't see who liked or disliked a comment, but y
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -185,3 +207,49 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-complete-digest-exploring-google-podcast-apps-essence/"><u>[New] Complete Digest  Exploring Google Podcast App's Essence</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-20-word-formula-to-skyrocket-your-business-reach/"><u>[New] The 20-Word Formula to Skyrocket Your Business Reach</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-beginners-blueprint-mastering-telegram-web/"><u>[New] The Beginner's Blueprint  Mastering Telegram Web</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-srt-enhancements-maximizing-performance-on-both-platforms/"><u>[New] Top SRT Enhancements  Maximizing Performance on Both Platforms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tunes-to-timelapse-crafting-mobile-music-videos/"><u>[New] Tunes to Timelapse  Crafting Mobile Music Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-selection-of-free-streaming-options-reviewed/"><u>[New] Ultimate Selection of Free Streaming Options Reviewed</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unleash-the-power-of-stories-free-online-and-mobile-solutions-for-2024/"><u>[New] Unleash the Power of Stories – Free, Online & Mobile Solutions for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-spotifys-advertising-opportunities-a-roadmap/"><u>[New] Unlocking Spotify’s Advertising Opportunities  A Roadmap</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unraveling-virtual-physical-coexistence-what-is-mixed-reality/"><u>[New] Unraveling Virtual-Physical Coexistence  What Is Mixed Reality?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-navigating-video-capture-software-is-bandicam-superior-to-camtasia/"><u>[Updated] 2024 Approved  Navigating Video Capture Software  Is Bandicam Superior to Camtasia?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-canvas-mastery-top-10-editing-strategies-unveiled/"><u>[Updated] In 2024, Canvas Mastery  Top 10 Editing Strategies Unveiled</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-introducing-motion-blur-magic-in-your-iphone-photos/"><u>[Updated] Introducing Motion-Blur Magic in Your iPhone Photos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-pinpointing-the-10-most-discreet-story-advocates/"><u>[Updated] Pinpointing the 10 Most Discreet Story Advocates</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-prime-methods-for-youtube-content-into-mpeg/"><u>[Updated] Prime Methods for YouTube Content Into MPEG</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-superior-lineup-elite-webcam-mounts/"><u>[Updated] Superior Lineup  Elite Webcam Mounts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-connectors-companion-instagram-to-tiktok-guide/"><u>[Updated] The Connector's Companion  Instagram to TikTok Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-guide-top-10-preferred-gopro-housing/"><u>[Updated] Ultimate Guide  Top 10 Preferred GoPro Housing</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-a-producers-roadmap-pioneering-high-quality-asmr-content/"><u>2024 Approved  A Producer's Roadmap  Pioneering High-Quality ASMR Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-ace-gpodcs-most-popular-shows/"><u>2024 Approved  Ace GPodC's Most Popular Shows</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-charting-the-course-for-your-niche-in-the-youtube-world/"><u>2024 Approved  Charting the Course for Your Niche in the YouTube World</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-swiftly-resolve-freeze-and-crash-issues-with-tiktok-androidios/"><u>2024 Approved  Swiftly Resolve Freeze and Crash Issues with TikTok (Android/iOS)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-oppo-a38-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-realme-11-pro-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Realme 11 Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/engage-efficiently-strategies-for-surge-in-social-media-shares/"><u>Engage Efficiently  Strategies for Surge in Social Media Shares</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-nubia-red-magic-8s-proplus-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Nubia Red Magic 8S Pro+ Phone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-achieve-more-engagement-on-youtube-learn-the-best-thumbnail-size/"><u>In 2024, Achieve More Engagement on YouTube  Learn the Best Thumbnail Size</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unexplained-tilted-images-on-instagrams-video-section/"><u>In 2024, Unexplained Tilted Images on Instagram's Video Section</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-your-creativity-10-steps-for-new-photoshop-users/"><u>In 2024, Unleash Your Creativity  10 Steps for New Photoshop Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-secrets-of-iphone-podcast-integration/"><u>In 2024, Unveiling the Secrets of iPhone Podcast Integration</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-virtual-background-magic-a-streamers-guide-to-chroma-key/"><u>In 2024, Unveiling Virtual Background Magic  A Streamer's Guide to Chroma Key</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/list-of-recent-unfollowers-in-instagram/"><u>List of Recent Unfollowers in Instagram</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/online-meme-maker-for-2024/"><u>Online MEME Maker for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/perfect-livestream-match-10-top-tier-platform-recommendations-for-2024/"><u>Perfect Livestream Match  10 Top-Tier Platform Recommendations for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/er-choices-8-linux-editing-tools/"><u>Premier Choices  8 Linux Editing Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-oppo-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Oppo Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/the-complete-cheatsheet-to-make-a-collage-for-2024/"><u>The Complete Cheatsheet to Make a Collage for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-path-of-peacefulness-how-to-gently-dim-music-tracks-for-2024/"><u>The Path of Peacefulness  How To Gently Dim Music Tracks for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-ringers-guide-shaping-iphone-sounds-for-2024/"><u>The Ultimate Ringer's Guide  Shaping iPhone Sounds for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-5-premium-game-screens-in-high-definition-for-2024/"><u>Top 5 Premium Game Screens in High Definition for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultra-fast-picture-reader-for-windows-11-for-2024/"><u>Ultra-Fast Picture Reader for Windows 11 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unexpected-vertical-tilt-in-instagram-vids-for-2024-why/"><u>Unexpected Vertical Tilt in Instagram Vids for 2024 Why?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-whatsapps-potential-custom-ringtones-for-ios-android-for-2024/"><u>Unlocking WhatsApp's Potential  Custom Ringtones for iOS, Android for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"'The Goofy Way'  A Look Back at the 90S Comedy VHS for 2024\""
-date: 2024-06-04T11:10:53.278Z
-updated: 2024-06-05T11:10:53.278Z
+date: 2024-07-23T06:27:09.271Z
+updated: 2024-07-24T06:27:09.271Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,9 @@ Throughout their journey, Goofy and Max learn to communicate and understand each
 
 The movie brings joy and laughter to viewers of all ages. It teaches us that love and understanding can bridge the gap between generations. Furthermore, we can solve problems and even misunderstandings through communication. This timeless classic reminds us of the significance of cherishing our relationships. Lastly, Goofy and his son attended the rock music concert at the movie's end.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![goofy movie poster](https://images.wondershare.com/filmora/article-images/2023/goofy-vhs-movie-poster.jpg)
 
 **Add VHS Effect to Video**
@@ -38,10 +41,17 @@ Simply add video effects on Video with [Filmora Video Effect Editor](https://too
 
 [Apply VHS Effect](https://tools.techidaily.com/wondershare/filmora/download/) [Apply VHS Effect](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 ## Part 2: How Was VHS Technology Used in Old Movies?
@@ -80,6 +90,9 @@ Such tapes became a valuable resource for film education and study. Film schools
 
 [Add VHS Effect](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -96,12 +109,18 @@ Launch Wondershare Filmora and open the “Stock Media” tab. Locate “Solid C
 
 Drag and drop the "VHS Rewind" effect from the same tab onto the timeline. Further, place the effect over the previous layer and change its alpha value to 10\. Next, place the "Strong Glitch" effect over the previous layer, adjust its alpha value to 25, and click "OK."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add rewind and glitch](https://images.wondershare.com/filmora/article-images/2023/add-rewind-and-glitch.jpg)
 
 ##### Step 3Apply the Chromatic Aberration and VCR Distortion Effect
 
 Continue to drag and place the "Chromatic Aberration" effect over the previous layer. Set the parameters of Fade and Alpha, 0.05 and 60, respectively. Go to "Effects" and type "distortion" in the search bar and find the "VCR Distortion" effect. Then, drag the effect onto the timeline, place it over the previous layer, and change the alpha value to 25.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add chromatic aberration and distortion](https://images.wondershare.com/filmora/article-images/2023/add-chromatic-aberration-and-distortion.jpg)
 
 ##### Step 4Include the Glitch Distortion and Apply the Distort Effect
@@ -144,3 +163,77 @@ In conclusion, The Goofy Movie holds a special place in the hearts of 90s kids. 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-flawless-visual-cuts-mastering-in-and-out-techniques/"><u>[New] 2024 Approved  Flawless Visual Cuts  Mastering 'In and Out' Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-from-no-followers-to-a-million-top-15-tricks-to-become-an-instagram-phenomenon/"><u>[New] 2024 Approved  From No Followers to a Million  Top 15 Tricks to Become an Instagram Phenomenon</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-unwinding-utopia-premier-idle-games/"><u>[New] 2024 Approved  Unwinding Utopia  Premier Idle Games</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-beginners-blueprint-to-blend-brighten-and-balance/"><u>[New] Beginner's Blueprint to Blend, Brighten & Balance</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-boosting-tiktok-traffic-the-ultimate-list-of-engaging-usernames/"><u>[New] In 2024, Boosting TikTok Traffic  The Ultimate List of Engaging Usernames</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-superior-mkv-reader-laptoptablet-edition/"><u>[New] Superior MKV Reader (Laptop/Tablet Edition)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-experts-guide-to-instagrams-licensed-music-posting-policies/"><u>[New] The Expert’s Guide to Instagram's Licensed Music Posting Policies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-gradual-volume-curve-of-audio-reduction-in-fl-studio/"><u>[New] The Gradual Volume Curve of Audio Reduction in FL Studio</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-leading-10-clock-apps-to-time-your-wedding-ceremony/"><u>[New] The Leading 10 Clock Apps to Time Your Wedding Ceremony</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-capturing-internet-radio-with-14-methods/"><u>[New] The Ultimate Guide  Capturing Internet Radio with 14 Methods</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-timing-of-a-20mb-sized-video/"><u>[New] Timing of a 20MB-Sized Video</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-top-strategies-mastering-your-laptops-screen-recording-for-2024/"><u>[New] Top Strategies  Mastering Your Laptop's Screen Recording for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-overload-into-order-with-skillful-tiktok-saves-edits/"><u>[New] Transform Overload Into Order with Skillful TikTok Saves Edits</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-your-images-with-text-a-windowsmacos-expertise-guide/"><u>[New] Transform Your Images with Text  A Windows/MacOS Expertise Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unmatched-melodies-selector-android-companion/"><u>[New] Unmatched Melodies Selector, Android Companion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-secrets-of-jaunt-vr/"><u>[New] Unveiling the Secrets of Jaunt VR</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-utilizing-royalty-free-beats-in-your-youtube-clips/"><u>[New] Utilizing Royalty-Free Beats in Your YouTube Clips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-innovating-for-impact-your-profile-video-guide/"><u>[Updated] 2024 Approved  Innovating for Impact  Your Profile Video Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-jailbreak-joy-top-funny-faces-at-the-social-networks-limits/"><u>[Updated] 2024 Approved  Jailbreak Joy - Top Funny Faces at the Social Network’s Limits</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-capturemaster-x-overview-evaluation-for-2024/"><u>[Updated] CaptureMaster X Overview Evaluation for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-efficient-screen-capture-strategies-for-effective-facetime-recording-for-2024/"><u>[Updated] Efficient Screen-Capture Strategies for Effective FaceTime Recording for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-how-to-find-the-best-videographer/"><u>[Updated] How to Find the Best Videographer</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-creating-a-lasting-impression-the-ultimate-youtube-live-thumbnail-guide/"><u>[Updated] In 2024, Creating a Lasting Impression  The Ultimate YouTube Live Thumbnail Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-video-editing-tools-on-the-latest-windows-11/"><u>[Updated] Navigating Video Editing Tools on the Latest Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-comprehensive-guide-to-adding-a-link-in-your-tiktok-profile/"><u>[Updated] The Comprehensive Guide to Adding a Link in Your TikTok Profile</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-editors-toolkit-elevating-your-video-with-inshot-transitions/"><u>[Updated] The Editor's Toolkit  Elevating Your Video with Inshot Transitions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-virtuosos-journey-transforming-zoom-live-streams-on-youtube/"><u>[Updated] The Virtuoso's Journey  Transforming Zoom Live Streams on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-tips-for-maximizing-iphone-xs-cinematic-shots/"><u>[Updated] Top Tips for Maximizing iPhone X's Cinematic Shots</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transform-your-thought-processes-mematic-app/"><u>[Updated] Transform Your Thought Processes - Mematic App</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-conversion-handbook-srt-to-various-formats/"><u>[Updated] Ultimate Conversion Handbook  SRT to Various Formats</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-tv-for-virtual-concerts/"><u>[Updated] Ultimate TV for Virtual Concerts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimal-choices-for-endless-data-preservation/"><u>2024 Approved  Optimal Choices for Endless Data Preservation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-5-display-choices-to-enhance-ps5xbox-playtime/"><u>2024 Approved  Top 5 Display Choices to Enhance PS5/Xbox Playtime</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-live-streaming-hardware-encoder-and-equipment-you-should-know/"><u>2024 Approved  Top Live Streaming Hardware Encoder and Equipment You Should Know</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-spots-for-virtual-reality-experiences/"><u>2024 Approved  Top Spots for Virtual Reality Experiences</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-tracks-for-a-professional-unboxing-presentation/"><u>2024 Approved  Top Tracks for a Professional Unboxing Presentation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-iphones-full-potential-4-pro-tips-for-brightening-hdr-in-premiere/"><u>2024 Approved  Unlock iPhone's Full Potential  4 Pro Tips for Brightening HDR in Premiere</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/charting-your-youtube-trajectory-essential-tools-from-social-blade/"><u>Charting Your YouTube Trajectory  Essential Tools From Social Blade</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-continuity-of-settings-with-nvidia-control-panel-in-windows-11/"><u>Ensuring Continuity of Settings with NVidia Control Panel in Windows 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-problem-solving-essentials-top-tips-and-tricks/"><u>FCPX Problem-Solving Essentials Top Tips and Tricks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-8-plus-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 8 Plus with iTunes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-lava-blaze-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Lava Blaze Pro 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-mini-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 mini To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-facebook-video-orientation-dilemma/"><u>In 2024, Facebook  Video Orientation Dilemma?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-strategies-for-success-in-the-metaverse-space/"><u>In 2024, Strategies for Success in the Metaverse Space</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-supreme-4k-tvs-for-the-ultimate-gaming-experience/"><u>In 2024, Supreme 4K TVs for the Ultimate Gaming Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tailoring-photos-with-photoshops-dynamic-motion-blur-feature/"><u>In 2024, Tailoring Photos with Photoshop's Dynamic Motion Blur Feature</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essential-guide-to-ios-podcast-acquisition/"><u>In 2024, The Essential Guide to iOS Podcast Acquisition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-latest-take-on-the-sony-bd-play-s3700-review/"><u>In 2024, The Latest Take on the Sony BD PLAY S3700 Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-path-to-profitable-product-placements-on-youtube/"><u>In 2024, The Path to Profitable Product Placements on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-of-how-to-use-animoji-on-iphone-x/"><u>In 2024, The Ultimate Guide of How to Use Animoji on iPhone X</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-vivo-x-fold-2-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Vivo X Fold 2</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-vivo-y36i-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Vivo Y36i IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-6-top-voice-changer-for-zoom-to-make-your-voice-special-and-funny/"><u>New 2024 Approved 6 Top Voice Changer for Zoom to Make Your Voice Special and Funny</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-best-free-daws-for-music-production-expert-reviews-for-2024/"><u>New Best Free DAWs for Music Production Expert Reviews for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-echoes-of-purity-advanced-techniques-and-tools-to-maintain-clear-audio-amidst-background-noise-online-and-offline-for-2024/"><u>New Echoes of Purity Advanced Techniques and Tools to Maintain Clear Audio Amidst Background Noise, Online & Offline for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-bottom-line-best-practices-for-ogg-conversion/"><u>New In 2024, The Bottom Line Best Practices for OGG Conversion</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-top-10-premium-platforms-for-high-definition-video-wallpaper-acquisition-for-2024/"><u>New Top 10 Premium Platforms for High-Definition Video Wallpaper Acquisition for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/peeking-behind-the-scenes-deciphering-youtubes-unlisted-content-for-2024/"><u>Peeking Behind the Scenes  Deciphering YouTube's Unlisted Content for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/strategically-showcasing-achievements-for-2024/"><u>Strategically Showcasing Achievements for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/the-best-ai-video-makers-from-photos-to-create-captivating-videos-with-pictures/"><u>The Best AI Video Makers From Photos to Create Captivating Videos with Pictures</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-best-hd-video-screen-recorders/"><u>The Best HD Video Screen Recorders</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-future-of-imaging-embracing-quantum-hdr-for-2024/"><u>The Future of Imaging  Embracing Quantum HDR for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-infallible-technique-for-embedding-profile-urls-in-tiktok-for-2024/"><u>The Infallible Technique for Embedding Profile URLs in TikTok for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-sound-of-success-tailoring-audio-for-instagram-content/"><u>The Sound of Success  Tailoring Audio for Instagram Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-6-networks-transforming-how-firms-connect-and-engage-for-2024/"><u>Top 6 Networks Transforming How Firms Connect and Engage for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-picks-for-the-modern-buyer-advanced-360cams-for-2024/"><u>Top Picks for the Modern Buyer  Advanced 360Cams for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforming-single-shots-into-a-spectacular-tile-symphony-for-2024/"><u>Transforming Single Shots Into a Spectacular Tile Symphony for 2024</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-2024-approved-learn-how-to-make-architecture-animation/"><u>Updated 2024 Approved Learn How to Make Architecture Animation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/zooming-in-and-out-like-a-storytelling-pro-insta-tips/"><u>Zooming in and Out Like a Storytelling Pro  Insta Tips</u></a></li>
+</ul></div>

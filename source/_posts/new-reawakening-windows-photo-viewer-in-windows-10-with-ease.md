@@ -1,7 +1,7 @@
 ---
 title: "[New] Reawakening Windows Photo Viewer in Windows 10 with Ease"
-date: 2024-06-04T16:45:21.072Z
-updated: 2024-06-05T16:45:21.072Z
+date: 2024-07-23T09:53:38.142Z
+updated: 2024-07-24T09:53:38.142Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/0aeedb6f0e08290ddfa4945f77d0426cb986cac7f
 
 # How to Restore Windows Photo Viewer in Windows 10
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -36,6 +39,9 @@ Stay tuned to learn more!
 * [**Part2: Method 1 to restore Windows Photo Viewer**](#part2)
 * [**Part3: Method 2 to get Windows Photo Viewer back**](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Why you prefer Windows Photo Viewer
 
 We would like to explain why most people are still not over Windows Photo Viewer? The good old Photo Viewer has quiet loyal fans out there singing its glory. This portion of the article comprises of the highs about Windows Photo Viewer.
@@ -57,6 +63,10 @@ Here is why they want to restore Windows Photo Viewer –
 
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Method 1 to restore Windows Photo Viewer
 
 The first method speaks about, when you have upgraded from a Windows 7/8/8.1 computer to Windows 10\. You can easily swing back to your most loved Windows Photo Viewer within no time. Here is the detailed guide –
@@ -69,6 +79,9 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 2 to get Windows Photo Viewer back
 
 Here comes another way to restore Windows Photo Viewer on your computer. If your computer has been upgraded to Windows 10 from an older version, then Windows Photo Viewer might be lying around somewhere. You can retrieve it to view images.
@@ -81,18 +94,27 @@ Here is the detailed guide –
 
 **Step 3** – Keep scrolling towards the bottom of the screen to find out ‘Windows Photo Viewer’. If ‘Windows Photo Viewer’ is visible, then it has been installed there and you can use it without any problem.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 From the above article, we found out that restoring Windows Photo Viewer on your system is not a tough task. But, without having the proper knowledge you shouldn’t play around with your Photos app. So, this article guides you through a reliable method for restoring Windows Photo Viewer and view your photos like you always loved to. We hope you liked our efforts of enlightening you about Windows Photo Viewer and got the necessary information. Plus, if none of these work, you can use [Windows 10 Photos app alternatives](https://tools.techidaily.com/wondershare/filmora/download/). Thanks for reading! Do comment us below to let us know your views.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -115,6 +137,9 @@ Stay tuned to learn more!
 * [**Part2: Method 1 to restore Windows Photo Viewer**](#part2)
 * [**Part3: Method 2 to get Windows Photo Viewer back**](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Part 1: Why you prefer Windows Photo Viewer
 
 We would like to explain why most people are still not over Windows Photo Viewer? The good old Photo Viewer has quiet loyal fans out there singing its glory. This portion of the article comprises of the highs about Windows Photo Viewer.
@@ -142,6 +167,9 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 **Step 1**: Go to ‘Settings’ and open ‘Apps’. Click on ‘Default Apps’ and check ‘Photo Viewer’. The default photo viewer will be visible here.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
@@ -164,6 +192,9 @@ Here is the detailed guide –
 
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 ### Conclusion
@@ -204,3 +235,37 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-unraveling-the-mystery-what-does-pfp-mean-in-tiktok/"><u>[New] 2024 Approved  Unraveling the Mystery  What Does PFP Mean in TikTok?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-leading-digital-recorder-suites/"><u>[New] In 2024, Leading Digital Recorder Suites</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-navigating-the-world-of-digital-gifs/"><u>[New] In 2024, Navigating the World of Digital GIFs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-supercharge-your-video-subtitling-explore-leading-internet-tools-today/"><u>[New] Supercharge Your Video Subtitling  Explore Leading Internet Tools Today</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-new-era-of-advertising-embracing-the-metaverse/"><u>[New] The New Era of Advertising  Embracing the Metaverse</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-tier-video-editing-insights-with-vivacut-review-and-guide-2024/"><u>[New] Top-Tier Video Editing Insights with VivaCut Review & Guide 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-guide-to-top-video-recorders/"><u>[New] Ultimate Guide to Top Video Recorders</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-impressive-hdr-potential-with-our-tutorial/"><u>[New] Unlocking Impressive HDR Potential with Our Tutorial</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-leading-video-call-applications-for-conference-success-for-2024/"><u>[Updated] Leading Video Call Applications for Conference Success for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamline-your-footage-iphones-shortening-methods/"><u>[Updated] Streamline Your Footage  IPhone's Shortening Methods</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-cloudy-to-crisp-how-to-remove-background-in-picsart/"><u>2024 Approved  From Cloudy to Crisp  How to Remove Background in Picsart</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/harmonizing-audio-with-cinematic-footage/"><u>Harmonizing Audio with Cinematic Footage</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a05s-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A05s without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-vivo-t2-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Vivo T2 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-the-full-potential-of-pixiz-in-video-making/"><u>In 2024, Unlock the Full Potential of Pixiz in Video Making</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-your-creative-potential-an-overview-of-final-cut-pro/"><u>In 2024, Unlock Your Creative Potential  An Overview of Final Cut Pro</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-note-30-vip-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Note 30 VIP Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/mastering-teams-personalized-call-banners/"><u>Mastering Teams' Personalized Call Banners</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/podcast-perfection-editing-techniques-in-garageband-for-2024/"><u>Podcast Perfection  Editing Techniques in GarageBand for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tailoring-your-iphone-photographs-size-alteration-for-2024/"><u>Tailoring Your iPhone Photographs  Size Alteration for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-blueprint-for-stellar-unboxing-videos-on-tiktok-for-2024/"><u>The Blueprint for Stellar Unboxing Videos on TikTok for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-calming-chorus-proven-voices-aid-sleep-for-2024/"><u>The Calming Chorus  Proven Voices Aid Sleep for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-essential-handbook-for-iphone-vr-viewing-for-2024/"><u>The Essential Handbook for iPhone VR Viewing for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-mechanics-of-swift-content-on-facebook-for-2024/"><u>The Mechanics of Swift Content on Facebook for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-list-of-shopping-destinations-for-customizable-presents-for-2024/"><u>The Ultimate List of Shopping Destinations for Customizable Presents for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-heartening-films-for-optimism-and-power-for-2024/"><u>Top 10 Heartening Films for Optimism & Power for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unbeatable-deals-on-top-quality-budget-friendly-asmr-mics-for-2024/"><u>Unbeatable Deals on Top Quality, Budget-Friendly ASMR Mics for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/uncovering-the-practical-benefits-of-photo-stability-features-for-2024/"><u>Uncovering the Practical Benefits of Photo Stability Features for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-spotify-promotion-potential-for-2024/"><u>Unlocking Spotify Promotion Potential for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-best-hd-video-editors-top-picks/"><u>Updated Best HD Video Editors Top Picks</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Scope of Motion Tracking  From Simple to Complex\""
-date: 2024-06-04T12:43:59.609Z
-updated: 2024-06-05T12:43:59.609Z
+date: 2024-07-23T07:21:47.413Z
+updated: 2024-07-24T07:21:47.413Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,9 @@ In this article, we’ll discuss **Hand Tracking** technology, its various appli
 
 * [Use Filmora to demonstarte your Hand Tracking skill](#part4)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Part 1\. What Is Hand Tracking? Where Is It Applied?
 
 Hand Tracking refers to the process of tracking the position and movement of a user's hands in virtual reality. This is usually done using a combination of sensors, including cameras, infrared sensors, or ultrasonic sensors.
@@ -45,8 +48,14 @@ The Oculus Quest 2 is a virtual reality headset that immerses you in virtual wor
 
 With Hand Tracking, you can interact with the virtual world more naturally and intuitively. You can use your hands to pick up objects, draw, and even type on a virtual keyboard. Moreover, it opens up new possibilities for gameplay, allowing you to play games in new and innovative ways.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![hand tracking technology](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-technology.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. Types Of Hand Tracking
 
 There are two main types of Hand Tracking: with interface and without interface:
@@ -85,6 +94,9 @@ Before we go further about them, let us learn about Python quickly. Python is a 
 
 To get a deeper understanding of OpenCV, please read our article: _Opencv Tracking, a compete review_.（同期交付文章，请插入相关内链\~）
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What Is Media Pipe
 
 Media Pipe is an open-source framework by Google that provides a set of tools for working with multimedia data or media processing. It includes modules for handling audio, video, and images. Media Pipe also supports various codecs and file formats.
@@ -94,6 +106,9 @@ There are two stages for creating a Hand Tracking program using MediaPipe:
 1. **Palm Detection**: In the first stage, MediaPipe has to work with the entire input image, providing a cropped image of the hand.
 2. **Hand Landmarks Identification**: In the second stage, the framework works with the cropped image of the hand to find 21 hand landmarks.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![20 hand landmarks for identifiction – hand tracking](https://images.wondershare.com/filmora/article-images/2022/07/20-hand-landmarks-for-identifiction-hand-tracking.jpg)
 
 ### Guidance With Steps
@@ -104,6 +119,10 @@ Before starting to create Hand Tracking, you need to install the [Pycharm IDE](h
 
 Click the **“New Project”** option and select **“Create”** on the next Window. Open the **Terminal** to install the two libraries.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![install and launch the pycharm app on your pc](https://images.wondershare.com/filmora/article-images/2022/07/install-and-launch-the-pycharm-app-on-your-pc.jpg)
 
 Copy and paste the following command in the **Terminal** to install **OpenCV:**
@@ -112,6 +131,9 @@ Copy and paste the following command in the **Terminal** to install **OpenCV:**
 
 Now, to install **MediaPipe**, copy and paste the following command:
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![install mediapipe](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-2.jpg)
 
 **Coding**
@@ -140,6 +162,9 @@ Now, create a class for tracking and for the hands function to work, key in the 
 
 ##### Step4 Creating Method For Tracking Hands In Input Image
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![creating method for tracking hands](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-6.jpg)
 
 Afterward, use the above code to create a method for using specifically to identify hands in the input image. The code will also draw hand landmarks and hand connections.
@@ -162,6 +187,13 @@ Now, write the below dummy code to showcase what the module can do, i.e., identi
 
 To execute the main method, copy and paste the following code lines:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![main method execution](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-9.jpg)
 
 ##### Step8 Result
@@ -180,6 +212,14 @@ Learn more about Filmora:
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this article, we’ve explored Hand Tracking and its two types, i.e., tracking with interface and tracking without interface. Moreover, we provided step-by-step guidance on using Python, OpenCV, and MediaPipe to create a Hand Tracking module.
@@ -213,3 +253,44 @@ We hope this guide helped resolve your queries, and you can now create a Hand Tr
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-dissecting-the-narrative-in-youtube-dialogues-for-2024/"><u>[New] Dissecting the Narrative in YouTube Dialogues for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-harnessing-potential-how-to-excel-on-spotify-ads/"><u>[New] Harnessing Potential  How to Excel on Spotify Ads</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-quick-start-guide-dells-simple-screen-recording-methods/"><u>[New] In 2024, Quick Start Guide  Dell's Simple Screen Recording Methods</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-slowly-quieting-tracks-with-fl-studio/"><u>[New] In 2024, Slowly Quieting Tracks with FL Studio</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-masterclass-review-top-tier-professional-cameras-spin-full-circle-2023/"><u>[Updated] Masterclass Review  Top-Tier Professional Cameras Spin Full Circle - 2023</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-steering-soft-sound-cessation-with-audacity/"><u>[Updated] Steering Soft Sound Cessation with Audacity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-anticipation-elevating-the-unboxing-experience/"><u>[Updated] The Art of Anticipation  Elevating the Unboxing Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-blueprint-of-dynamic-dialogue-in-scripts/"><u>[Updated] The Blueprint of Dynamic Dialogue in Scripts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-metaverse-versus-multi-meva-comprehensive-differences-overviewed/"><u>[Updated] The Metaverse Versus Multi-Meva  Comprehensive Differences Overviewed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-selecting-9-superior-streamscape-filters/"><u>[Updated] The Ultimate Guide to Selecting 9 Superior Streamscape Filters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-15-masterpieces-in-stop-motion-cinema-history/"><u>[Updated] Top 15 Masterpieces in Stop-Motion Cinema History</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-power-of-photos-a-comprehensive-polarr-guide/"><u>[Updated] Unveiling the Power of Photos  A Comprehensive Polarr Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-demystifying-digital-experiences-vr-insights/"><u>2024 Approved  Demystifying Digital Experiences  VR Insights</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-effective-approaches-to-capturing-high-def-live-games/"><u>2024 Approved  Effective Approaches to Capturing High-Def Live Games</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-freecam-x-live-streaming-software-reviewed/"><u>2024 Approved  FreeCam X Live Streaming Software Reviewed</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-quick-resize-youtube-to-fit-mac-display-ratio/"><u>2024 Approved  Quick Resize  YouTube to Fit Mac Display Ratio</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-strategies-for-capturing-high-quality-periscope-broadcasts/"><u>2024 Approved  Strategies for Capturing High-Quality Periscope Broadcasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-selecting-podcasts-for-iphone-devices/"><u>2024 Approved  The Art of Selecting Podcasts for iPhone Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-compact-guide-to-joining-and-scheduling-zoom-on-your-android-phone/"><u>2024 Approved  The Compact Guide to Joining & Scheduling Zoom on Your Android Phone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tips-for-engaging-video-blog-storytelling/"><u>2024 Approved  Tips for Engaging Video Blog Storytelling</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-5-easy-android-image-fixes/"><u>2024 Approved  Top 5 Easy Android Image Fixes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-windows-11-visualizer-for-rapid-images/"><u>2024 Approved  Top Windows 11 Visualizer for Rapid Images</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-everyday-moments-with-ioss-complete-life-story/"><u>2024 Approved  Transforming Everyday Moments with iOS's Complete Life Story</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transition-techniques-decreasing-volume-gradually-in-pp/"><u>2024 Approved  Transition Techniques  Decreasing Volume Gradually in PP</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-uav-technology-unveiled-the-yuneec-4k-journey/"><u>2024 Approved  UAV Technology Unveiled  The Yuneec 4K Journey</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-phone-filters-and-camera-cases/"><u>2024 Approved  Ultimate Phone Filters & Camera Cases</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-practices-for-secondary-footage-management/"><u>In 2024, Best Practices for Secondary Footage Management</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-ephemeral-film-sculptor/"><u>In 2024, Ephemeral Film Sculptor</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oneplus-12r-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on OnePlus 12R Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-zte-axon-40-lite-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From ZTE Axon 40 Lite to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-plus-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 Plus Passcode without Computer?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-instagram-influencer-blueprint-from-few-to-a-thousand-fans/"><u>In 2024, The Instagram Influencer Blueprint  From Few to a Thousand Fans</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-effortless-conversion-selecting-the-ideal-youtube-to-mp4-software/"><u>New 2024 Approved Effortless Conversion Selecting the Ideal YouTube to MP4 Software</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-create-kinetice-typography-text-effect-in-filmora-for-2024/"><u>New Create Kinetice Typography Text Effect in Filmora for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/professionals-choice-top-10-camera-gimbals-compared-iphone-android-dslr-for-2024/"><u>Professional's Choice  Top 10 Camera Gimbals Compared - iPhone, Android, DSLR for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-windows-hdr-capabilities-for-cutting-edge-video-workflows-for-2024/"><u>Unlocking Windows' HDR Capabilities for Cutting-Edge Video Workflows for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-ultimate-tutorial-for-altering-audio-properties-in-cyberspace/"><u>Updated 2024 Approved The Ultimate Tutorial for Altering Audio Properties in Cyberspace</u></a></li>
+</ul></div>

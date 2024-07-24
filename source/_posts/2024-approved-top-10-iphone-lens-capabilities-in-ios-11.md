@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 10 iPhone Lens Capabilities in iOS 11\""
-date: 2024-06-04T10:08:00.727Z
-updated: 2024-06-05T10:08:00.727Z
+date: 2024-07-23T05:48:06.410Z
+updated: 2024-07-24T05:48:06.410Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
 
  Each iPhone photographer has to ask themselves the same question: 'Am I really using the full capacity of my camera?'If the answer is no, maybe these iPhone camera features can help you improve the quality of your photos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 10 iPhone Camera Features You Should Know in iOS 11
 
  The quality of your photos is in direct relation to your level of familiarity with the camera's features because the more you know about the camera the better you will be at finding the proper use for those features.
@@ -46,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
 
 #### 2\. Set the Focus and Exposure manually
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/set-focus-iphone.jpg)
 
  Image resource: iPhone Photography School
@@ -62,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
 
 #### 4\. Use the Timer to Stabilize Your Shots
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/use-timer-on-iphone.jpg)
 
  iPhone X weighs only 174 grams, which makes it nearly impossible to hold perfectly still. This complicates things even further in difficult light conditions, but the Timer feature on iPhone X can help you solve this problem. You can compose your shot and set the Timer for 3 or 10 seconds and the device will take ten photos in a row, which will enable you to select the sharpest photo and delete the others.
@@ -72,6 +81,9 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
 
 #### 6\. QR Codes Detection
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/qr-detection-iphone.jpg)
 
  Image resource: 9to5Mac
@@ -98,14 +110,27 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
 
 #### 10\. Portrait Lighting Lets You Adjust Light to Best Fit Your Subject - iPhone X/8
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/portrait-lighting-iphone.jpg)
 
  iPhone 8 Plus and iPhone X offer a new feature, specifically designed to let you find the perfect lighting for the subject of your photos. This feature doesn't work like a filter, but rather like a real-time light meter, that calculates the optimum light values on the face of the person or persons depicted in a photo.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Post Production Software for iPhone photography
 
  iPhone photographers, who would like to take their photos and videos a step further will unquestionably benefit from using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). The editor lets you create 9:16 aspect ratio images, designed to help mobile users who don't want to have the black bars alongside the edges of their vertically oriented photos and videos. Adding blur effects to your photos or videos, enhancing the colors or applying effects to your videos are just a few out of many possibilities provided by the Wondershare's software.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
@@ -126,6 +151,9 @@ Follow @Ollie Mattison
 
  Each iPhone photographer has to ask themselves the same question: 'Am I really using the full capacity of my camera?'If the answer is no, maybe these iPhone camera features can help you improve the quality of your photos.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10 iPhone Camera Features You Should Know in iOS 11
 
  The quality of your photos is in direct relation to your level of familiarity with the camera's features because the more you know about the camera the better you will be at finding the proper use for those features.
@@ -148,6 +176,9 @@ Follow @Ollie Mattison
 
 #### 3\. HDR Photos Have More Balanced Lightning
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/turn-on-hdr.jpg)
 
  Image resource: Gadget Bistro Malaysia
@@ -156,6 +187,9 @@ Follow @Ollie Mattison
 
 #### 4\. Use the Timer to Stabilize Your Shots
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/use-timer-on-iphone.jpg)
 
  iPhone X weighs only 174 grams, which makes it nearly impossible to hold perfectly still. This complicates things even further in difficult light conditions, but the Timer feature on iPhone X can help you solve this problem. You can compose your shot and set the Timer for 3 or 10 seconds and the device will take ten photos in a row, which will enable you to select the sharpest photo and delete the others.
@@ -186,6 +220,14 @@ Follow @Ollie Mattison
 
 #### 9\. Dual Optical Image Stabilization Lets you Take Better Photos - iPhone X/8
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/dual-image-stabilization-iphone.jpg)
 
  Keeping the moving objects in focus is a major concern regardless of the camera you are using. We were excited about the [dual camera feature in iPhone 7](https://tools.techidaily.com/wondershare/filmora/download/), now the Dual Optical Image Stabilization feature in iOS 11 reduces motion blur and it also decreases the impact the camera shakes have on your photos. iPhone 8's Optical Image Stabilization has been improved on iPhone X and it works alongside the image sensor to ensure that all pictures taken with this device are razor sharp.
@@ -196,6 +238,9 @@ Follow @Ollie Mattison
 
  iPhone 8 Plus and iPhone X offer a new feature, specifically designed to let you find the perfect lighting for the subject of your photos. This feature doesn't work like a filter, but rather like a real-time light meter, that calculates the optimum light values on the face of the person or persons depicted in a photo.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Post Production Software for iPhone photography
 
  iPhone photographers, who would like to take their photos and videos a step further will unquestionably benefit from using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). The editor lets you create 9:16 aspect ratio images, designed to help mobile users who don't want to have the black bars alongside the edges of their vertically oriented photos and videos. Adding blur effects to your photos or videos, enhancing the colors or applying effects to your videos are just a few out of many possibilities provided by the Wondershare's software.
@@ -234,3 +279,55 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-windows-11-a-step-by-step-upgrade-guide/"><u>[New] Mastering Windows 11  A Step-by-Step Upgrade Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-secrets-unveiled-perfect-your-360-youtube-live-experience/"><u>[New] Secrets Unveiled  Perfect Your 360° YouTube Live Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamline-visuals-integrating-filters-into-videos-pcmobile/"><u>[New] Streamline Visuals  Integrating Filters Into Videos (PC/Mobile)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-iphone-hdr-photo-perfection/"><u>[New] The Art of iPhone HDR Photo Perfection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-visual-excellence-leveraging-enhancer-22/"><u>[New] The Art of Visual Excellence - Leveraging Enhancer 2.2</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-economics-of-youtube-marketing-strategies/"><u>[New] The Economics of YouTube Marketing Strategies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-toontime-insightful-review-and-tutorials-2024/"><u>[New] ToonTime Insightful Review & Tutorials 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-troubleshooting-common-issues-when-uploading-to-apple/"><u>[New] Troubleshooting Common Issues When Uploading to Apple</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-slow-motion-instagram-a-reel-guide/"><u>[Updated] 2024 Approved  Mastering Slow-Motion Instagram  A Reel Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-mastering-the-basics-a-comprehensive-guide-to-yt-shorts/"><u>[Updated] 2024 Approved  Mastering the Basics  A Comprehensive Guide to YT Shorts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-marketers-should-use-hashtags-on-facebook-properly-for-2024/"><u>[Updated] How Marketers Should Use Hashtags on Facebook Properly for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamlining-virtual-meetings-in-google-mail/"><u>[Updated] Streamlining Virtual Meetings in Google Mail</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-syncing-melodies-with-video-in-premiere-pro/"><u>[Updated] Syncing Melodies with Video in Premiere Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-best-of-the-best-yts-premier-unboxing-sites/"><u>[Updated] The Best of the Best  YT's Premier Unboxing Sites</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-definitive-vivacut-video-editing-manual-for-24/"><u>[Updated] The Definitive VivaCut Video Editing Manual for '24</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-final-cut-editors-toolkit-10-plugin-winners/"><u>[Updated] The Final Cut Editor's Toolkit  10 Plugin Winners</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transform-your-airborran-viewing-20-free-dji-drone-luts-offer/"><u>[Updated] Transform Your Airborran Viewing - 20 FREE DJI Drone LUTS Offer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultrawide-vs-uhd-4k-monitors-which-to-choose/"><u>[Updated] UltraWide VS UHD 4K Monitors  Which to Choose</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-understanding-video-storage-in-24-hours/"><u>[Updated] Understanding Video Storage in 24-Hours</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-the-power-of-periscope-your-complete-manual/"><u>[Updated] Unlock the Power of Periscope  Your Complete Manual</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-syncing-audiovideo-online-collective/"><u>2024 Approved  Syncing Audio/Video Online Collective</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-animators-dream-tools-premium-choices-for-3d-mastery/"><u>2024 Approved  The Animator’s Dream Tools  Premium Choices for 3D Mastery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-saturation-and-contrast-in-gopro-editing/"><u>2024 Approved  The Art of Saturation and Contrast in GoPro Editing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-fastest-path-to-amazing-iphone-time-lapses/"><u>2024 Approved  The Fastest Path to Amazing iPhone Time-Lapses</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-path-to-personalization-adjusting-snapchat-videos-pace/"><u>2024 Approved  The Path to Personalization  Adjusting Snapchat Videos' Pace</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-magix-mixcrafts-features/"><u>2024 Approved  The Ultimate Guide to Magix Mixcraft's Features</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unusual-sideway-photos-in-instagram-storytelling/"><u>2024 Approved  Unusual Sideway Photos in Instagram Storytelling</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-utilizing-free-clip-art-for-graphic-designs/"><u>2024 Approved  Utilizing Free Clip Art for Graphic Designs</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/2024-approved-say-goodbye-to-shaky-footage-video-stabilization-in-adobe-premiere-pro-made-easy/"><u>2024 Approved Say Goodbye to Shaky Footage Video Stabilization in Adobe Premiere Pro Made Easy</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-htc-u23-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/audio-retrieval-techniques-extracting-audio-from-visual-media/"><u>Audio Retrieval Techniques Extracting Audio From Visual Media</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-iphone-14-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 14 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-apple-iphone-15-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On Apple iPhone 15 Pro Max? Heres the Best Fixes</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-realme-c51-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Realme C51 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-shutter-societys-top-six-elite-4k-dslr-picks/"><u>In 2024, Shutter Society's Top Six  Elite 4K DSLR Picks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-gaming-escape-lgs-virtual-reality-journey/"><u>In 2024, The Ultimate Gaming Escape  LG's Virtual Reality Journey</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-ios-image-files-conversion-to-pdfs/"><u>In 2024, The Ultimate Guide  IOS Image Files Conversion to PDFs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-innovations-best-vr-tech-for-drones/"><u>In 2024, Top Innovations  Best VR Tech for Drones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-online-spaces-for-youtube-traffic-increase/"><u>In 2024, Top Online Spaces for YouTube Traffic Increase</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transform-videos-for-free-leading-enhancement-pages/"><u>In 2024, Transform Videos for Free  Leading Enhancement Pages</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-uncover-the-10-most-trusted-wedding-timer-apps-androidios-of-2023/"><u>In 2024, Uncover the 10 Most Trusted Wedding Timer Apps (Android/iOS) of 2023</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-the-power-of-visuals-with-top-free-slideshow-designs/"><u>In 2024, Unleash the Power of Visuals with Top Free Slideshow Designs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-high-quality-audio-recording-with-these-top-5-windows-11-tips/"><u>In 2024, Unlock High-Quality Audio Recording with These Top 5 Windows 11 Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-the-full-potential-of-your-iphone-photos/"><u>In 2024, Unlock the Full Potential of Your iPhone Photos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mixer-connectivity-seamless-live-broadcast-on-macos-for-2024/"><u>Mixer Connectivity  Seamless Live Broadcast on macOS for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-ultimate-list-of-glitch-art-video-editing-apps-for-ios-and-android-for-2024/"><u>New The Ultimate List of Glitch Art Video Editing Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/reel-in-quality-essential-audio-devices-for-podcast-producers/"><u>Reel in Quality  Essential Audio Devices for Podcast Producers</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-v30-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Vivo V30 Lite 5G | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Evolution of Drone Remote Control Systems – Syma X8C\""
-date: 2024-06-04T11:42:22.523Z
-updated: 2024-06-05T11:42:22.523Z
+date: 2024-07-23T06:45:59.816Z
+updated: 2024-07-24T06:45:59.816Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
 
  During its first appearance, Syma X8C appears like [DJI Phantom 3](https://tools.techidaily.com/wondershare/filmora/download/) but the best part is that Syma is not that expensive. It becomes an affordable design with all new features due to addition of brushed motors and a fixed camera unit. Syma X8C lacks in GPS capabilities whereas the flight mode offers very basic control abilities. With the eye catching construction, this drone works with flip mode acrobatics and the larger size leads to offers highly stable flights. If you organize your flights in darkness or night hours then bottom Led will assist you with all location updates. The article below provides complete information about Syma X8C drone along with detailed specifications, pros and cons so that you can have better choice for your upcoming drone investment.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![syma x8c](https://images.wondershare.com/filmora/article-images/syma-x8c.jpg)
 
 **You may also like:** [Full review for Syma X5C >>](HTTPS://filmora.wondershare.com/drones/syma-x5c-drone-review.html)
@@ -55,6 +58,9 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
 
  There are loads of pros as well as cons related Syma H8C device but they appear different to various kinds of users. Professionals may be worried about its camera quality whereas beginners will find its controls little complex. But in case if you need something at low price with all acceptable features then Syma H8C is really a good choice for your needs.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Complete Review
 
 #### 1. Basic Specs Info
@@ -71,6 +77,9 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
 
 #### 2\.  Design
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![syma vs phantom design](https://images.wondershare.com/filmora/article-images/syma-vs-phantom-design.jpg)
 
  If we consider the appearance then it looks close to the Phantom drone but no doubt to say that few variations exists and they make it unique. The overall dimension of this drone unit is 20x20x6.5 whereas maximum weight goes up to 450 grams thus it cannot be called as a tiny drone. When weighted with camera and prop guards, then this unit has overall weight of 600 grams. This dimension and weight makes this drone much stable in air.
@@ -87,6 +96,9 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
 
 #### 5\.  Controller/Transmitter
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![syma x8c controller](https://images.wondershare.com/filmora/article-images/syma-x8c-controller.jpg)
 
  Controller or the transmitter of X8C device is small enough that fits perfectly in user’s hands. Construction is completed with ABS plastic material that leads to light weight structure and this controller makes use of 2.4GHz frequency band to send control signals towards drone in air. The best thing to know about Syma X8C is that it can cover the 100 meter range impressively.
@@ -101,6 +113,9 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
 
  By considering all above factors, we must say that Syma X8C is a well designed drone unit that can serve with much better results as an entry level aerial shoot recorder. As the price tag keeps it below $100 range so beginners find it most affordable for their learning needs and the gimbal protection leads to highly stable footage that can be shared on social media sites to impress friends. The control mechanisms is rated as highly responsive so will all these satisfactory features it becomes a must buy product for your air flight adventures.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -119,6 +134,9 @@ Follow @Max Wales
 
 **You may also like:** [Full review for Syma X5C >>](HTTPS://filmora.wondershare.com/drones/syma-x5c-drone-review.html)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## Pros and Cons of Syma X8C
 
 **Pros:**
@@ -184,10 +202,16 @@ Follow @Max Wales
 
  A drone cannot be complete without a camera mounted on its top; hence Syma has taken care of users need and they developed Syma X8C with a camera that can record everything in air. Although, it is not able to collect video information with HD quality but you will be glad to know that it is detachable and one can also make additional adjustments over its angles to adjust focus. All the recorded videos are stored inside a 4GB MicroSD card. Further, the attached gimbal assists in much stable footage.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
  By considering all above factors, we must say that Syma X8C is a well designed drone unit that can serve with much better results as an entry level aerial shoot recorder. As the price tag keeps it below $100 range so beginners find it most affordable for their learning needs and the gimbal protection leads to highly stable footage that can be shared on social media sites to impress friends. The control mechanisms is rated as highly responsive so will all these satisfactory features it becomes a must buy product for your air flight adventures.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -220,3 +244,57 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-produce-persuasive-facecover-videos/"><u>[New] Produce Persuasive FACEcover Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tailored-titles-for-your-youtube-success/"><u>[New] Tailored Titles for Your YouTube Success</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-teachers-handbook-bridging-traditional-and-digital-media/"><u>[New] Teacher's Handbook  Bridging Traditional & Digital Media</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-soundtrack-of-your-phone-classic-tones-download-site-guide/"><u>[New] The Soundtrack of Your Phone  Classic Tones Download Site Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-synergy-in-hybrid-realms-mixed-reality-explained/"><u>[New] The Synergy in Hybrid Realms  Mixed Reality Explained</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-list-8-ranked-android-video-tile-maker-options-freepaid/"><u>[New] The Ultimate List  #8 Ranked Android Video Tile Maker Options (Free/Paid)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-earning-through-youtube-navigating-revenue-without-ads/"><u>[Updated] Earning Through YouTube  Navigating Revenue Without Ads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-turn-on-or-off-comments-on-youtube-for-2024/"><u>[Updated] How to Turn on or Off Comments on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-is-it-lawful-to-screen-capture-youtube-content/"><u>[Updated] In 2024, Is It Lawful to Screen-Capture YouTube Content?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-master-picks-for-commercial-cloud-space/"><u>[Updated] Master Picks for Commercial Cloud Space</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-optimize-watching-incorporating-captions-into-wmp/"><u>[Updated] Optimize Watching  Incorporating Captions Into WMP</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-stream-like-a-champion-top-3-techniques-for-successful-lol-gameplay-capture/"><u>[Updated] Stream Like a Champion  Top 3 Techniques for Successful LOL Gameplay Capture</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-subtitles-that-shine-discover-the-best-free-online-tools/"><u>[Updated] Subtitles That Shine - Discover the Best Free Online Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-all-encompassing-guide-to-dji-phantom-4s-capabilities/"><u>[Updated] The All-Encompassing Guide to DJI Phantom 4'S Capabilities</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-essential-tutorial-for-making-memes-on-9gag/"><u>[Updated] The Essential Tutorial for Making Memes on 9GAG</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-photographers-guide-mobile-for-high-angle-views/"><u>[Updated] The Photographer's Guide  Mobile for High-Angle Views</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-time-saving-photo-enhancement-adding-dates-to-pictures/"><u>[Updated] Time-Saving Photo Enhancement  Adding Dates to Pictures</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-igniting-the-spark-selecting-top-youtube-videos-for-channels/"><u>2024 Approved  Igniting the Spark  Selecting Top YouTube Videos for Channels</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-comprehensive-list-top-rated-srt-translation-services-for-2024/"><u>A Comprehensive List  Top-Rated SRT Translation Services for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capture-creativity-best-plugins-and-websites-for-photoshopping-with-frames-for-2024/"><u>Capture Creativity  Best Plugins and Websites for Photoshopping with Frames for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/collaborative-sing-along-tiktok-feature/"><u>Collaborative Sing-Along TikTok Feature</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/high-quality-game-capture-apps-reviewed-for-2024/"><u>High-Quality Game Capture Apps Reviewed for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-nokia-c12-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Nokia C12’s lock screen pattern, PIN or password</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-change-frame-rate-in-premiere-pro-for-2024/"><u>How to Change Frame Rate in Premiere Pro for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-convert-slideshow-elements-to-visual-medium/"><u>In 2024, Convert Slideshow Elements to Visual Medium</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-perfecting-gopro-cinematography-with-these-15-luts/"><u>In 2024, Perfecting GoPro Cinematography with These 15 LUTs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-podcast-summary-genius-guidance-and-examples/"><u>In 2024, Podcast Summary Genius  Guidance & Examples</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-synthesize-vision-constructing-dynamic-photographic-ensembles/"><u>In 2024, Synthesize Vision  Constructing Dynamic Photographic Ensembles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-tempo-manipulating-video-speed-on-instagram/"><u>In 2024, The Art of Tempo  Manipulating Video Speed on Instagram</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-5-android-photo-enhancers/"><u>In 2024, Top 5 Android Photo Enhancers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-uninterrupted-airdrop-connections-in-the-world-of-iphones-and-macs/"><u>In 2024, Uninterrupted AirDrop Connections in the World of iPhones & Macs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unmatched-closure-in-cyberspace-quest/"><u>In 2024, Unmatched Closure in Cyberspace Quest</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-through-top-6-ideal-helmet-harnesses-for-gopros/"><u>Navigating Through Top 6 Ideal Helmet Harnesses for GoPros</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-and-paid-android-video-editing-apps-compared-top-10/"><u>New Free and Paid Android Video Editing Apps Compared Top 10</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-priorities-when-choosing-a-video-to-audio-conversion-software/"><u>New Top Priorities When Choosing a Video to Audio Conversion Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/premier-5-iphones-for-podcast-aficionados-for-2024/"><u>Premier 5 iPhones for Podcast Aficionados for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/stepping-up-advanced-techniques-for-w11-gamers/"><u>Stepping Up  Advanced Techniques for W11 Gamers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streaming-video-evaluation-report-for-2024/"><u>Streaming Video Evaluation Report for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamline-your-media-with-top-8-convertors-1-8-for-2024/"><u>Streamline Your Media with Top 8 Convertors #1-8 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tailoring-soundtracks-the-art-of-editing-in-garageband-for-2024/"><u>Tailoring Soundtracks  The Art of Editing in GarageBand for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-pros-guide-to-best-ever-360-degree-cams-2023-for-2024/"><u>The Pro’s Guide to Best-Ever 360-Degree Cams, 2023 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-roadmap-to-exceptional-spotify-ad-performance-for-2024/"><u>The Roadmap to Exceptional Spotify Ad Performance for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tinder-bio-hacks-steal-these-examples-and-get-swiped-right/"><u>Tinder Bio Hacks  Steal These Examples & Get Swiped Right</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-scriptural-ringtone-selections-for-faith-for-2024/"><u>Top 10 Scriptural Ringtone Selections for Faith for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-meizu-21-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Meizu 21 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tricks-and-tips-for-mastering-your-new-win11-experience-for-2024/"><u>Tricks & Tips for Mastering Your New Win11 Experience for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-discovering-the-hubs-of-fervent-fanfare/"><u>Updated Discovering the Hubs of Fervent Fanfare</u></a></li>
+</ul></div>

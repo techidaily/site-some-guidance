@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unmask Subject with Backdrop Blanket Removal\""
-date: 2024-06-04T12:07:01.855Z
-updated: 2024-06-05T12:07:01.855Z
+date: 2024-07-23T07:00:24.674Z
+updated: 2024-07-24T07:00:24.674Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,9 @@ No matter you are a professional content creator or a newbie, we'll be discussin
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Erase a White Background in Affinity Designer
 
 To erase a white background in Affinity Designer, do these steps:
@@ -56,6 +59,9 @@ Step5 In the last step, press the **"Delete"** key on your keyboard to remove th
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Remove a Busy Background in Affinity Designer
 
 If you want to remove a busy background of an image in the Affinity Designer software, follow these steps carefully:
@@ -81,16 +87,43 @@ Step5 In this last step, you must deselect the outline around your subject. For 
 
 Finally, click **"File"** and select the **"Export"** option from the drop-down menu. Then, in the Export Settings menu, choose PNG and click **"Export"** to save your file on your PC.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
@@ -109,6 +142,9 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 This article discusses **removing a background in Affinity Photo**, whether the image has a white or a busy BG.
@@ -143,3 +179,36 @@ Hopefully, this article and video can help you create ideal images!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-mastery-in-evasion-free-your-tiktok-account/"><u>[New] Mastery in Evasion  Free Your TikTok Account</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tackling-blurred-images-in-online-meetings-with-zoom-techniques/"><u>[New] Tackling Blurred Images in Online Meetings with Zoom Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-most-advanced-virtual-reality-engines-of-2023/"><u>[New] The Most Advanced Virtual Reality Engines of 2023</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-samsung-revolution-diving-deep-into-the-ue590-monitor-review/"><u>[New] The Samsung Revolution - Diving Deep Into the UE590 Monitor Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-drone-buying-roadmap-pre-purchase-essentials/"><u>[New] The Ultimate Drone Buying Roadmap  Pre-Purchase Essentials</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-your-thought-processes-mematic-app/"><u>[New] Transform Your Thought Processes - Mematic App</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-secrets-to-successful-zoom-calls-with-android/"><u>[New] Unveiling the Secrets to Successful Zoom Calls with Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-perfecting-screen-magnification-techniques-on-ms-teams/"><u>[Updated] Perfecting Screen Magnification Techniques on MS Teams</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-slow-motion-a-guide-to-photo-editing-tools/"><u>2024 Approved  Mastering Slow-Motion  A Guide to Photo Editing Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-panzoid-framework-assemblage/"><u>2024 Approved  Ultimate Panzoid Framework Assemblage</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-realme-gt-5-240w-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmonizing-screens-making-a-music-video-on-iphone-for-2024/"><u>Harmonizing Screens  Making a Music Video on iPhone for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-apple-iphone-xs-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or Apple iPhone XS Stuck On Activation Lock?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-nokia-c22-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Nokia C22 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-creatives-handbook-obtaining-stock-visuals-for-media/"><u>In 2024, The Creative's Handbook  Obtaining Stock Visuals for Media</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-fourfold-technique-to-achieve-a-blurred-look-in-iphone-photography/"><u>In 2024, The Fourfold Technique to Achieve a Blurred Look in iPhone Photography</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-key-to-accumulating-a-huge-collection-of-tiktok-videos/"><u>In 2024, The Key to Accumulating a Huge Collection of TikTok Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-tips-lipo-power-sources-for-aerial-vehicles/"><u>In 2024, Top Tips  LiPo Power Sources for Aerial Vehicles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-action-camera-selection-under-100/"><u>In 2024, Ultimate Action Camera Selection Under $100</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-top-10-live-streaming-hubs/"><u>In 2024, Unveiling the Top 10 Live Streaming Hubs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/live-streaming-simplified-a-guide-to-using-onestream-for-2024/"><u>Live Streaming Simplified  A Guide to Using OneStream for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-role-of-extras-in-creating-dynamic-storytelling-for-2024/"><u>The Role of Extras in Creating Dynamic Storytelling for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-action-hunting-gear-for-2024/"><u>The Ultimate Guide to Action Hunting Gear for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-rated-components-for-smooth-live-transmissions-for-2024/"><u>Top-Rated Components for Smooth Live Transmissions for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-infinix-smart-7-hd-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Infinix Smart 7 HD Screen | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-fcp-without-paying-tips-for-2024/"><u>Unlock FCP without Paying - Tips for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-the-potential-of-your-films-with-final-cut-pro-for-2024/"><u>Unlock the Potential of Your Films with Final Cut Pro for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/voicing-efficiency-a-comprehensive-review-of-the-top-6-auto-transcribing-software-systems/"><u>Voicing Efficiency A Comprehensive Review of the Top 6 Auto-Transcribing Software Systems</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/what-are-the-laws-around-youtube-video-capture-in-2024/"><u>What Are the Laws Around YouTube Video Capture, In 2024</u></a></li>
+</ul></div>

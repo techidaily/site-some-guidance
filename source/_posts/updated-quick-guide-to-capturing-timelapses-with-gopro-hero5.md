@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Quick Guide to Capturing Timelapses with GoPro Hero5"
-date: 2024-06-04T16:46:59.378Z
-updated: 2024-06-05T16:46:59.378Z
+date: 2024-07-23T09:54:41.425Z
+updated: 2024-07-24T09:54:41.425Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/e937c769751b4b8235d825da190a8de514c18ce6c
 
 # How to Shoot a Time-lapse Video with GoPro Hero5 Black
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -35,6 +38,9 @@ Are you an amateur travel photographer who has recently bought a GoPro cam and w
 * [Part 1:Shooting a time lapse video with GoPro Hero5](#part1)
 * [Part 2: Making time lapse videos with Wondershare Filmora](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## Part 1: Shooting a time lapse video with GoPro Hero5
 
 #### **1. The best time lapse settings in GoPro:**
@@ -78,6 +84,9 @@ Make use of good tripod, a fast and spacious SD card, a suction mount and always
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Making time lapse videos with Wondershare Filmora
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a powerful and easy to use software with which you can edit your time lapse videos. The Filmora action cam version is going to make your job a lot more easy. It comes with 2 new tools-
@@ -96,6 +105,9 @@ The Instant cutter tool on the other hand can be used for trimming and merging v
 * Now go to the Speed tab and bring the Playhead to the exact position where the speed effect is to be applied.
 * Click the Add Marker button. Click the speed marker and drag it onto either side of your timeline so as to choose a number of clips on your timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![speed-effect-speed-add-marke](https://images.wondershare.com/filmora/article-images/speed-effect-speed-add-marker.png)
 
 * The speed settings can be adjusted by clicking on the checkbox marked Speed. The speed slider can be moved forward to make it faster up to 20x for the time lapse effect.
@@ -167,6 +179,9 @@ Make use of good tripod, a fast and spacious SD card, a suction mount and always
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Making time lapse videos with Wondershare Filmora
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a powerful and easy to use software with which you can edit your time lapse videos. The Filmora action cam version is going to make your job a lot more easy. It comes with 2 new tools-
@@ -180,6 +195,9 @@ The Instant cutter tool on the other hand can be used for trimming and merging v
 * First, launch the Filmora app and then choose the ‘action cam tool’
 * Next, you need to click the ‘Import’ button or the ‘ Import an Action cam video’ button, so as to import your recorded video to Wondershare Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![1-action-cam-tool-fix-entrance](https://images.wondershare.com/filmora/article-images/filmora-splash-screen-0321.jpg)
 
 * Now go to the Speed tab and bring the Playhead to the exact position where the speed effect is to be applied.
@@ -224,3 +242,51 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-the-goofy-adventure-a-critical-appraisal-videotape-edition/"><u>[New] 'The Goofy Adventure' - A Critical Appraisal Videotape Edition</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-complete-guide-for-tiktok-elements/"><u>[New] 2024 Approved  Complete Guide for Tiktok Elements</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-aesthetic-alignment-for-online-glamour-content-for-2024/"><u>[New] Aesthetic Alignment for Online Glamour Content for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-chromes-pinnacle-path-for-picking-and-packing-fb-vids/"><u>[New] Chromes' Pinnacle Path for Picking and Packing Fb Vids</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-synchronizing-realism-advanced-green-screen-applications-for-viewers/"><u>[New] Synchronizing Realism  Advanced Green Screen Applications for Viewers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-complete-macos-11-big-sur-evolution-explained/"><u>[New] The Complete MacOS 11 Big Sur Evolution Explained</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-essential-guide-to-apple-podcasts-transferring/"><u>[New] The Essential Guide to Apple Podcasts Transferring</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-professionals-playbook-refined-gopro-video-production-techniques/"><u>[New] The Professional's Playbook  Refined GoPro Video Production Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-troubleshooting-tips-fixing-srt-from-premiere-freeze/"><u>[New] Troubleshooting Tips  Fixing SRT From Premiere Freeze</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-uncomplicated-approach-incorporating-flippy-sounds-into-your-windows-setup/"><u>[New] Uncomplicated Approach  Incorporating Flippy Sounds Into Your Windows Setup</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-the-secrets-to-becoming-an-exceptional-interviewer/"><u>[New] Unlocking The Secrets To Becoming An Exceptional Interviewer</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-instagram-new-algorithm-update-will-affect-you-for-2024/"><u>[Updated] How Instagram New Algorithm Update Will Affect You for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-elevate-your-content-mastery-in-live-streaming-screens/"><u>[Updated] In 2024, Elevate Your Content  Mastery in Live Streaming Screens</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-filmmakers-blueprint-to-panoramic-perfection-9-key-techniques/"><u>[Updated] The Filmmaker's Blueprint to Panoramic Perfection  9 Key Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-harmony-of-collaboration-brands-and-youtube-unite/"><u>[Updated] The Harmony of Collaboration  Brands & YouTube Unite</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-for-audio-editors-using-garageband/"><u>[Updated] The Ultimate Guide for Audio Editors Using GarageBand</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-professional-techniques-for-aps-hdr-creation/"><u>[Updated] Unveiling Professional Techniques for APS HDR Creation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-storytelling-through-scenery/"><u>[Updated] Unveiling Storytelling Through Scenery</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-m14-4g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy M14 4G</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-smoothmoves-recordwatcher-study/"><u>2024 Approved  SmoothMoves RecordWatcher Study</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-swift-skills-sharpen-your-windows-images/"><u>2024 Approved  Swift Skills  Sharpen Your Windows Images</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-essential-framework-for-saving-instagram-vids-from-desktop-systems/"><u>2024 Approved  The Essential Framework for Saving Instagram Vids From Desktop Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-final-verdict-on-vegas-pro-21-a-sports-enthusiasts-review/"><u>2024 Approved  The Final Verdict on Vegas Pro '21 - A Sports Enthusiast's Review</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-turning-the-tide-top-10-reasons-for-non-existent-youtube-views-and-solutions/"><u>2024 Approved  Turning the Tide  Top 10 Reasons for Non-Existent YouTube Views & Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-inshots-potential-with-your-own-songs/"><u>2024 Approved  Unlocking InShot's Potential with Your Own Songs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-burst-function-in-gopro-cameras/"><u>2024 Approved  Unveiling Burst Function in GoPro Cameras</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/elite-arena-showdown-best-of-the-royales-for-2024/"><u>Elite Arena Showdown  Best of the Royales for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-infinix-hot-40-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Hot 40 phone? | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-smooth-operator-the-top-free-online-video-stabilizers-compared/"><u>In 2024, Smooth Operator The Top Free Online Video Stabilizers Compared</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-quest-for-the-ultimate-virtual-world-starts-here-htc-vive/"><u>In 2024, The Quest for the Ultimate Virtual World Starts Here  HTC Vive</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-thriving-livestreams-strategies-for-beginners-with-low-followers/"><u>In 2024, Thriving Livestreams  Strategies for Beginners with Low Followers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-time-saving-strategies-for-srt-to-text-file-changes/"><u>In 2024, Time-Saving Strategies for SRT to Text File Changes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tips-and-insights-for-successful-spotify-marketing/"><u>In 2024, Tips and Insights for Successful Spotify Marketing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transform-your-phone-into-a-funimate-portal-via-apk/"><u>In 2024, Transform Your Phone Into a Funimate Portal via APK</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-list-of-leading-real-time-tv-streamers-compared/"><u>In 2024, Ultimate List of Leading Real-Time TV Streamers Compared</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-efficient-remote-streaming-via-vlc-media-player/"><u>In 2024, Unlock Efficient Remote Streaming via VLC Media Player</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mastering-instagrams-latest-features-reels-and-stories-for-2024/"><u>Mastering Instagram’s Latest Features  Reels & Stories for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/mastery-in-mixing-incorporating-emojis-into-discords-statuses/"><u>Mastery in Mixing  Incorporating Emojis Into Discord's Statuses</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-uncover-the-secrets-of-mp3-conversion-on-windows-a-compelling-read/"><u>New 2024 Approved Uncover the Secrets of Mp3 Conversion on Windows A Compelling Read</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tactics-for-snagging-free-visual-frame-content-for-2024/"><u>Tactics for Snagging Free Visual Frame Content for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tailored-audio-connector-for-podcasting-pros-for-2024/"><u>Tailored Audio Connector for Podcasting Pros for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/techniques-to-lower-audio-levels-in-os-xwindows-for-2024/"><u>Techniques to Lower Audio Levels in OS X/Windows for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/tune-into-trends-how-to-mix-music-in-storytelling-for-2024/"><u>Tune Into Trends  How to Mix Music in Storytelling for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unbeatable-summer-movie-list-10-familial-classics/"><u>Unbeatable Summer Movie List  10 Familial Classics</u></a></li>
+</ul></div>

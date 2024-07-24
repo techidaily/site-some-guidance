@@ -1,7 +1,7 @@
 ---
 title: "\"Velocity Victories  Olympics, Year 2022 for 2024\""
-date: 2024-06-04T19:00:42.557Z
-updated: 2024-06-05T19:00:42.557Z
+date: 2024-07-23T11:15:27.132Z
+updated: 2024-07-24T11:15:27.132Z
 tags: 
   - screen-recording
   - ai video
@@ -22,8 +22,14 @@ Putting aside the controversy of getting disqualified in 1000 meter short track 
 
 Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with controversy after the questionable disqualification of South Korean speed skaters - Hwang and Lee in 1000 meter skating. Paying no heed to the controversy and unfortunate loss, skater Hwang Dae-heon captured his first gold medal in his career and brought back everyone’s focus to the game. Check out the short track speed skating highlights and learn how to create a video with highlights of a tournament like Beijing 2022 Olympic Winter Games.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## Part 1\. Introduce some highlights in short track speed skating with images
 
 Here are the main highlights of 1500 meter short track speed skating held at the Capital Indoor Stadium in Beijing on Wednesday.
@@ -34,26 +40,55 @@ Short track speed skating Korea Hwang Dae-heon wins the gold medal.
 
 Canada’s Steven Dubois wins the silver medal.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
 
 Russia’s Semen Elistratov wins the bronze medal.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
 
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
 
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
 
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ren ziwei was disqualified](https://images.wondershare.com/filmora/article-images/ren-ziwei-was-disqualified.jpg)
 
 The last leg of competition among skaters before reaching the finishing line at men’s short track speed skating 1500m event.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![the last leg of competition](https://images.wondershare.com/filmora/article-images/the-last-leg-of-competition.jpg)
 
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
@@ -106,6 +141,9 @@ Step 6: When all the editing work is done, click on Export to save the video on 
 
 South Korean skater Hwang Dae-heon has won the gold medal in men’s short track speed skating 1500m. This has buried the controversy that cropped up due to South Korean disqualification in 1000m short track speed skating. If you want to make a video highlighting all the important scenes and moments of any sports event, we have illustrated how to make a professional-quality video with Wondershare Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1\. Introduce some highlights in short track speed skating with images
 
 Here are the main highlights of 1500 meter short track speed skating held at the Capital Indoor Stadium in Beijing on Wednesday.
@@ -124,14 +162,23 @@ Russia’s Semen Elistratov wins the bronze medal.
 
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
 
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
 
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![ren ziwei was disqualified](https://images.wondershare.com/filmora/article-images/ren-ziwei-was-disqualified.jpg)
 
 The last leg of competition among skaters before reaching the finishing line at men’s short track speed skating 1500m event.
@@ -172,6 +219,9 @@ For macOS 10.12 or later
 
 Step 1: Download and install Filmora on your computer. Launch the application and click on New Project.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
@@ -212,3 +262,51 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-easy-win-for-pc-basic-clownfish-sound-change-guide/"><u>[New] Easy-Win for PC  Basic Clownfish Sound Change Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-guide-turn-off-spotifys-recommended-listings/"><u>[New] Step-by-Step Guide  Turn Off Spotify's Recommended Listings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transition-techniques-elevating-your-kinemaster-filmography/"><u>[New] Transition Techniques  Elevating Your Kinemaster Filmography</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-format-fluidity-convert-srt-quickly/"><u>[New] Unlocking Format Fluidity  Convert SRT Quickly</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-build-a-loyal-audience-on-facebook-using-effective-growth-methods/"><u>[Updated] Build a Loyal Audience on Facebook Using Effective Growth Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-create-captivating-videos-with-free-intros/"><u>[Updated] Create Captivating Videos with Free Intros</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-elevate-your-audio-experience-with-audacity-on-the-mac/"><u>[Updated] Elevate Your Audio Experience with Audacity on the Mac</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-guide-to-iphone-voice-recording-techniques-for-2024/"><u>[Updated] Essential Guide to iPhone Voice Recording Techniques for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-quickly-create-a-youtube-animation-for-your-subscribe-button-with-filmora/"><u>[Updated] In 2024, Quickly Create a YouTube Animation for Your Subscribe Button with Filmora</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-intersection-of-business-and-immersive-vr-technology/"><u>[Updated] The Intersection of Business and Immersive VR Technology</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-role-of-gaming-in-e-commerce/"><u>[Updated] The Role of Gaming in E-Commerce</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-clean-image-borders-on-canva/"><u>[Updated] The Ultimate Guide to Clean Image Borders on Canva</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-8-immersive-virtual-reality-adventures-on-oculus/"><u>[Updated] Top 8 Immersive Virtual Reality Adventures on Oculus</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-group-video-chat-apps-for-video-conferences-and-meetings/"><u>[Updated] Top Group Video Chat Apps For Video Conferences and Meetings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-tier-vr-engine-software-a-comprehensive-review/"><u>[Updated] Top-Tier VR Engine Software  A Comprehensive Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transforming-images-with-the-best-color-adjustment-guides/"><u>[Updated] Transforming Images with the Best Color Adjustment Guides</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-insights-how-to-communicate-effectively-with-viewers/"><u>[Updated] Unlocking Insights  How to Communicate Effectively with Viewers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-secrets-of-iphone-x-resolving-face-recognition-issues/"><u>[Updated] Unlocking Secrets of iPhone X  Resolving Face Recognition Issues</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-logic-pro-x-guide-to-cohesive-track-transitions/"><u>2024 Approved  Logic Pro X Guide to Cohesive Track Transitions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-streamline-your-workflow-with-these-5-obs-editing-hacks/"><u>2024 Approved  Streamline Your Workflow with These 5 OBS Editing Hacks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-survey-spectrum-of-video-and-film-equipment/"><u>2024 Approved  Survey  Spectrum of Video and Film Equipment</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-techniques-in-producing-accelerated-video-narratives/"><u>2024 Approved  Techniques in Producing Accelerated Video Narratives</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-producing-attention-grabbing-podcast-openers/"><u>2024 Approved  The Art of Producing Attention-Grabbing Podcast Openers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-definitive-list-high-quality-costless-lut-options-explored/"><u>2024 Approved  The Definitive List  High-Quality, Costless LUT Options Explored</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-quickest-quads-2022-olympics-skate/"><u>2024 Approved  The Quickest Quads  2022 Olympics Skate</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-through-a-photographers-eye-our-best-10-lenses-list/"><u>2024 Approved  Through a Photographer's Eye  Our Best 10 Lenses List</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-8-webcam-filters-to-elevate-your-streaming/"><u>2024 Approved  Top 8 Webcam Filters to Elevate Your Streaming</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-uncomplicated-process-altering-clown-fish-voices-in-winos/"><u>2024 Approved  Uncomplicated Process  Altering Clown Fish Voices in WinOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unpacking-the-essence-of-digital-tales/"><u>2024 Approved  Unpacking the Essence of Digital Tales</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unravel-time-on-your-mobile-screen-with-videos/"><u>2024 Approved  Unravel Time on Your Mobile Screen with Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-mix-fold-3-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Mix Fold 3?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-stylish-and-functional-the-top-10-gear-for-sj4000-enthusiasts/"><u>In 2024, Stylish and Functional  The Top 10 Gear for SJ4000 Enthusiasts</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/monochrome-output-despite-color-settings/"><u>Monochrome Output Despite Color Settings</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-xiaomi-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Xiaomi , is it possible?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/sunset-symphony-cinematic-darkening-in-pro-for-2024/"><u>Sunset Symphony  Cinematic Darkening in Pro for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-description-crafting-compelling-podcast-hooks-for-2024/"><u>The Art of Description  Crafting Compelling Podcast Hooks for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-producing-attention-grabbing-podcast-openers-for-2024/"><u>The Art of Producing Attention-Grabbing Podcast Openers for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tracing-the-flow-of-money-in-consumer-opinions-for-2024/"><u>Tracing the Flow of Money in Consumer Opinions for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unleash-flawless-footage-overcome-instagram-video-hurdles/"><u>Unleash Flawless Footage  Overcome Instagram Video Hurdles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-ultimate-collection-of-42-premium-free-video-compression-tools-for-2024/"><u>Unveiling the Ultimate Collection of 42 Premium Free Video Compression Tools for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-audio-separation-technology-identifying-the-hottest-tools-to-extract-sounds-from-video/"><u>Updated Audio Separation Technology Identifying the Hottest Tools to Extract Sounds From Video</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/will-real-time-likes-elevate-my-video-visibility/"><u>Will Real-Time Likes Elevate My Video Visibility?</u></a></li>
+</ul></div>
