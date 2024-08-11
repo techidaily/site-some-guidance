@@ -1,0 +1,241 @@
+---
+title: Master the Remastered Yakuza 3 for PC with These Essential Stability Fixes
+date: 2024-08-10T21:23:28.342Z
+updated: 2024-08-11T21:23:28.342Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Master the Remastered Yakuza 3 for PC with These Essential Stability Fixes
+excerpt: This Article Describes Master the Remastered Yakuza 3 for PC with These Essential Stability Fixes
+thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2152da5539a4a5d5cb3e57e3.jpg
+---
+
+## F1 2021 for Windows Users - No More Crashes with These Easy Fixes
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![F1-2021-keeps-crashing](https://images.drivereasy.com/wp-content/uploads/2021/07/F1-2021-keeps-crashing.jpg)
+
+ In F1 2021, you’ll enjoy the thrilling story experience ‘Braking Point’, two-player Career, and get even closer to the grid with ‘Real-Season Start’.
+
+**F1 2021 keeps crashing on your PC** ? You’re not alone. Recently, we’ve seen many PC players reporting that F1 2021 keeps crashing on their PC, which makes the game unplayable. But don’t worry. You should be able to fix this issue on your own after reading this article.
+
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## The system requirements of F1 2021
+
+ Before trying anything more complicated, you should ensure that your PC meets the system requirements of F1 2021\. Take a quick glance at the system requirements of F1 2021 if you don’t know the system requirements:
+
+| System requirements | Minimum                                                                                | Recommended                                                                             |
+| ------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| **OS:**             | Windows 10 64-bit (Version 1709) \| For Ray Tracing: Windows 10 64-bit (Version 2004)  | Windows 10 64-bit (Version 1709) \| For Ray Tracing: Windows 10 64-bit (Version 2004)   |
+| **Processor:**      | Intel Core i3-2130 or AMD FX 4300                                                      | Intel Core i5 9600K or AMD Ryzen 5 2600X                                                |
+| **Memory:**         | 8 GB RAM                                                                               | 16 GB RAM                                                                               |
+| **Graphics:**       | NVIDIA GTX 950 or AMD R9 280 \| For Ray Tracing: GeForce RTX 2060 or Radeon RX 6700 XT | NVIDIA GTX 1660 Ti or AMD RX 590 \| For Ray Tracing: GeForce RTX 3070 or Radeon RX 6800 |
+| **DirectX:**        | Version 12                                                                             | Version 12                                                                              |
+| **Storage:**        | 80 GB available space                                                                  | 80 GB available space                                                                   |
+| **Sound Card:**     | DirectX Compatible                                                                     | DirectX Compatible                                                                      |
+
+ If your PC fails to meet the system requirements of the game, you may need to upgrade your PC first. If your PC meets the system requirements but F1 2021 still keeps crashing on your PC, just read on and try the fixes below.
+
+## Try these fixes
+
+ Although the causes of F1 2021 crashing issue vary, here we’ve put together the latest fixes that solved this issue for many PC gamers. Whether F1 2021 crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
+
+1. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Update DirectX and Visual C++ Redistributables](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
+6. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
+
+## Verify integrity of game files
+
+ Corrupted game files would lead to the game crashing issues. If it’s the case, follow the steps below to verify the game files in Steam:
+
+1. Launch **Steam** and go to your **Library** .
+2. **Right-click** on **F1 2021** and select **Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
+3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
+![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
+
+ Depending on the size of the game files, it may take some time to verify all your game files.
+
+ When the verifying process completed, launch F1 2021 and check if this fix works. If the game still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Update your graphics driver
+
+ Graphics driver is essential to the functioning of video games. If F1 2021 keeps crashing on your PC, it’s likely that you have the corrupted or outdated graphics driver on your PC. So you should update your drivers to see if it fixes the game crashing issues.
+
+ If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
+
+ You can update your drivers automatically with either the **[FREE](https://tools.techidaily.com/drivereasy/download/)**  or the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  of Driver Easy. But with the Pro version it takes just 2 steps (and you get full support and a 30-day money back guarantee):
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
+3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
+**Note** : You can do it for free if you like, but it’s partly manual.
+4. Restart your PC for the changes to take effect.
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+## Install the latest game patch
+
+ The developer of F1 2021 releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
+
+ If a patch is available, it will be detected by Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
+
+ Launch F1 2021 again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Update DirectX and Visual C++ Redistributables
+
+ To ensure compatibility, you will need to update your Microsoft C++ redistributables. If your PC is running on Windows 10, you just need to perform a Windows Update.
+
+Here’s how to do it:
+
+1. On your keyboard, press **the Windows logo key** and **I** at the same time to open **Windows Settings** . Then click **Update & Security** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/update1.jpg)
+2. Click **Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+![Check for updates Windows 10](https://images.drivereasy.com/wp-content/uploads/2021/05/Check-for-updates-Windows-10.jpg)
+
+ If there are no updates related to MS Visual C++, you can download its installation files via the links below on your own and manually install them on your PC.
+
+* [Visual C++ Redistributables](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0)
+
+ Restart your PC after you installed the Visual C++ Redistributables. Then run F1 2021 and see if the game crashes. If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
+
+## Temporarily disable anti-virus software
+
+ Some 3rd party antivirus software would block the game files, which may also lead to the game crashing issues.
+
+ You can try adding both the game folder and Steam as an exception to your third-party antivirus application. If necessary, try temporarily disabling your 3rd party antivirus software before playing the game.
+
+ Run F1 2021 and check if this issue persists after you disabled the anti-virus software on your PC.
+
+If this fix didn’t work, try the next fix to perform a clean boot.
+
+## Perform a clean boot
+
+ If there is a certain application conflicting with F1 2021, the game would also crash. To find out the problematic application that crashes the game, you need to perform a clean boot. Here’s how to do it:
+
+1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
+![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
+2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
+3. Select the **Startup** tab and click **Open Task Manager** .  
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
+4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
+5. Go back to the **System Configuration** window and click **OK** .  
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
+6. Click **Restart** to restart your PC.  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+**Restart** your PC and launch F1 2021 to check whether the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
+
+ After enabling each services, you need to restart your PC to apply the changes.
+
+ Once you find out the problematic software that crashes F1 2021, you need to **uninstall** it to avoid game crashing issues in the future.
+
+ If the game still crashes after you disabled all the 3rd party apps and services, try reinstalling F1 2021\. Normally, after reinstalling the game, you’ll be able to fix the crashing issue.
+
+**Tips:**
+
+ If these common fixes on this article didn’t help you fix the F1 2021 crashing issue, you can also try investigating Windows crash logs to analyze and troubleshoot the causes of the crash. For more details, see the article: [How to view crash logs in Windows 10](https://www.supereasy.com/how-to-view-crash-logs-in-windows-10/) .
+
+---
+
+ Hopefully, one of the fixes above helped you fix the F1 2021 crashing issue. Feel free to drop a line in the comment area below if you have any questions or suggestions. Thanks for reading!
+
+* [game crash](https://tools.techidaily.com/drivereasy/download/)
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-a-comprehensive-overview-recording-saving-and-sharing-youtube-videos-for-free-for-2024/"><u>[New] A Comprehensive Overview  Recording, Saving & Sharing YouTube Videos for Free for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-darkened-details-expert-techniques-for-night-photography-success/"><u>[New] Darkened Details  Expert Techniques for Night Photography Success</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-ranking-of-top-10-budget-friendly-video-calls-iphoneandroid/"><u>[New] In 2024, Ranking of Top 10 Budget-Friendly Video Calls (iPhone/Android)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-best-voice-altering-software-for-your-virtual-persona/"><u>[New] The Best Voice-Altering Software for Your Virtual Persona</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-filmmakers-choice-leading-15-creative-gopro-luts/"><u>[New] Ultimate Filmmaker's Choice  Leading 15 Creative GOPRO LUTs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-workshop-designers-app/"><u>[New] Ultimate Workshop Designer's App</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-creative-potential-with-filmora-answers/"><u>[New] Unlocking Creative Potential with Filmora Answers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-upload-wizardry-selecting-the-best-youtube-to-twitter-convertors/"><u>[New] Upload Wizardry  Selecting the Best YouTube to Twitter Convertors</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-bandicam-unveiled-a-comprehensive-screen-recorder-analysis-for-2024/"><u>[Updated] Bandicam Unveiled  A Comprehensive Screen Recorder Analysis for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unlocking-the-secrets-to-superior-gaming-on-android-with-kinemaster/"><u>[Updated] In 2024, Unlocking the Secrets to Superior Gaming on Android With KineMaster</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-non-playing-youtube-content-fixed-for-phonestablets-for-2024/"><u>[Updated] Non-Playing YouTube Content  Fixed for Phones/Tablets for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-quick-guide-accessorizing-windows-with-a-clownfish-speech-modifier/"><u>[Updated] Quick Guide  Accessorizing Windows with a Clownfish Speech Modifier</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-syncing-scores-youtube-musics-role-in-multimedia-content/"><u>[Updated] Syncing Scores  YouTube Music's Role in Multimedia Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-strategy-guide-to-digital-video-enhancement/"><u>[Updated] The Ultimate Strategy Guide to Digital Video Enhancement</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ultimate-selection-of-android-and-ios-wedding-timer-apps-reviewed-for-2024/"><u>[Updated] Ultimate Selection of Android and iOS Wedding Timer Apps Reviewed for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-subtext-converting-srt-to-sub/"><u>[Updated] Unlocking Subtext  Converting SRT to SUB</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-cutting-edge-techniques-pushing-boundaries-in-youtube-cinematography/"><u>2024 Approved  Cutting Edge Techniques  Pushing Boundaries in YouTube Cinematography</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-journey-into-the-metaverse-constructing-an-authentic-avatar/"><u>2024 Approved  Journey Into the Metaverse  Constructing an Authentic Avatar</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-comprehensible-method-for-ifunny-meme-downloads/"><u>2024 Approved  The Comprehensible Method for iFunny Meme Downloads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-iphone-hacks-for-capturing-stunning-skyline-shots/"><u>2024 Approved  Top iPhone Hacks for Capturing Stunning Skyline Shots</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-your-in-game-identity-with-these-free-free-fire-vocal-hacks/"><u>2024 Approved  Transform Your In-Game Identity with These Free Free Fire Vocal Hacks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-psd-style-boosting/"><u>2024 Approved  Ultimate PSD Style Boosting</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleashing-voice-windows-10-audio-basics/"><u>2024 Approved  Unleashing Voice  Windows 10 Audio Basics</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveil-the-true-image-learn-background-removal-on-photopea/"><u>2024 Approved  Unveil the True Image  Learn Background Removal on Photopea</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-7-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone 7? Find the Best Solution Here</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/capture-the-world-in-motion-the-power-and-versatility-of-powershot-sx70/"><u>Capture the World in Motion: The Power & Versatility of PowerShot SX70</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/facebook-photo-removal-a-comprehensive-guide-to-a-neater-profile/"><u>Facebook Photo Removal: A Comprehensive Guide to a Neater Profile</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-your-workflow-with-mac-preview-complete-guide/"><u>In 2024, Streamlining Your Workflow with Mac Preview  Complete Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-whats-in-it-for-a-million-youtube-viewers/"><u>In 2024, What’s in It for a Million YouTube Viewers?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-podcast-seo-the-essential-handbook-for-2024/"><u>Mastering Podcast SEO  The Essential Handbook for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/swift-navigation-for-iphone-zooming-features-for-2024/"><u>Swift Navigation for iPhone Zooming Features for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/sync-up-your-streams-zooming-into-facebook-lives-for-2024/"><u>Sync Up Your Streams  Zooming Into Facebook Lives for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-collage-apps-for-android-top-picks-for-2024/"><u>Top 10 Collage Apps for Android (Top Picks) for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-hidden-strategies-in-canvas-image-design-toolkit-for-2024/"><u>Top 10 Hidden Strategies in Canva's Image Design Toolkit for 2024</u></a></li>
+</ul></div>
