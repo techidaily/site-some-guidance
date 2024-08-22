@@ -1,7 +1,7 @@
 ---
 title: Enhance Website Performance Using the State-of-the-Art Cookiebot Solution
-date: 2024-08-20 21:59:42
-updated: 2024-08-22 10:56:50
+date: 2024-08-21T17:41:33.954Z
+updated: 2024-08-22T17:41:33.954Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8dec14c118d7ee81f46eabd3dcf3a5188bbf56bf80fdef23b5e5cacf3addecc5.jpg
@@ -29,6 +29,9 @@ There’s something in this release for all users, whether you’re a non-coder 
 
 ## Check out the ABBYY Vantage 2.2 highlight recording
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## An ever-growing catalog of ready-to-go document automations
 
 Last year, [we introduced the ABBYY Marketplace,](https://tools.techidaily.com/abbyy/products/) providing every user with access to a catalog of trained skills and other intelligent document process assets like connectors. In this release, we’re excited to let you know that the marketplace has now grown to over 100 assets, including 15 new document skills that jumpstart automation projects to process a variety of different document types.
@@ -37,6 +40,9 @@ All document skill automations, connectors, and other assets are built by ABBYY 
 
 ![](https://static1.abbyy.com/abbyycommedia/35730/scanning.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The latest set of automations include document skills that are production ready:
 
 * [**Remittance Advice**](https://tools.techidaily.com/abbyy/products/)– process proof of payment documents sent by a customer to a business, including capturing all header, footer, and line-item details.
@@ -89,6 +95,9 @@ Built to connect into [ABBYY Timeline](https://tools.techidaily.com/abbyy/produc
 * Analyze and monitor end-to-end flow of work
 * Get an end-to-end view by combining document transactional process data with other key systems
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## Get started today!
 
 At ABBYY we are moving fast, and we continue to focus on advancing our core AI technology and deliver the best no-code / low-code IDP platform. It’s why our IDP solutions have been [recognized as a leader by Everest Group’s IDP PEAK Matrix 2022, read about it here](https://tools.techidaily.com/abbyy/products/).
@@ -101,6 +110,9 @@ If you have a trial of [Vantage](https://tools.techidaily.com/abbyy/products/) i
 
 ![Bill Galusha ABBYY](https://static5.abbyy.com/abbyycommedia/25718/billgalusha-99x99.png)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 Bill Galusha
 
 ### Like, share or repost
@@ -155,6 +167,9 @@ Connect with us
 
 ![](https://static3.abbyy.com/abbyycommedia/35718/everest-2022-blog-cover2-848x444.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### New innovative capabilities drive greater process efficiencies across all business areas for automating document processes
 
 When discussing intelligent automation with our customers, one key challenge that rises to the top of the conversation is how the data trapped in their documents is the lifeline to many of their processes. They lack the ability to automatically identify the documents, extract the data, and connect it to their employees and processes, and they’re feeling the pain both in back-office operations and on the customer experience.
@@ -165,6 +180,9 @@ There’s something in this release for all users, whether you’re a non-coder 
 
 ## Check out the ABBYY Vantage 2.2 highlight recording
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## An ever-growing catalog of ready-to-go document automations
 
 Last year, [we introduced the ABBYY Marketplace,](https://tools.techidaily.com/abbyy/products/) providing every user with access to a catalog of trained skills and other intelligent document process assets like connectors. In this release, we’re excited to let you know that the marketplace has now grown to over 100 assets, including 15 new document skills that jumpstart automation projects to process a variety of different document types.
@@ -185,6 +203,9 @@ The latest set of automations include document skills that are production ready:
 
 Additionally, a new set of framework skills for processing 1040 ([Schedule C](https://tools.techidaily.com/abbyy/products/), [Schedule E](https://tools.techidaily.com/abbyy/products/), [Schedule F](https://tools.techidaily.com/abbyy/products/), Schedule K-1), [lease agreements](https://tools.techidaily.com/abbyy/products/), [W8-BEN](https://tools.techidaily.com/abbyy/products/), and [Sick Notes (German)](https://marketplace.abbyy.com/root/german-sick-note-arbeitsunfahigkeitsbescheinigung/) are available in the ABBYY Marketplace for users to try out.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## Introducing ID Skill to accelerate client onboarding and servicing
 
 Every business wants to deliver a seamless online mobile experience to customers. The ability to verify the identity of an individual is becoming increasingly important. With the new Identity Document (ID) skill, ABBYY is delivering the most comprehensive trained model that extracts information from passports, US driver licenses, and many more. In fact, the new ID skill recognizes and extracts information from 10,000 different document types in 248 countries. 
@@ -193,6 +214,9 @@ Using the Vantage Mobile App, users can snap a photo of the ID (front and back) 
 
 To request a license and try out the new ID Skill, visit the [ABBYY Marketplace](https://tools.techidaily.com/abbyy/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## More flexibility and higher accuracy with document training
 
 In this release, we have introduced several capabilities designed to give users more control over training document skills using the Vantage Advanced Designer. The result is more advanced flexibility in how you can combine activities in the training pipeline to get the optimal extraction results from even the most complex unstructured documents.
@@ -213,6 +237,9 @@ For businesses in Japan, you will be excited to know OCR improvements have been 
 
 Finally, image quality is a challenge, and we see early AI vendor companies struggling to find the right solution. Through pretrained models, we’ve overcome challenges related to documents with complex backgrounds like birth certificates, IDs, or any document that embeds watermarks and other types of document marks that make it difficult to recognize the data.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Monitor and optimize document processes
 
 If data is the lifeline to your business, then second up is knowing that operationally the systems and processes are performing optimally. To have that visibility we have introduced a new data warehouse into Vantage that stores all process transactional data, and in the future, quality analytics data will be available.
@@ -239,6 +266,9 @@ If you have a trial of [Vantage](https://tools.techidaily.com/abbyy/products/) i
 
 Bill Galusha
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share
@@ -257,3 +287,57 @@ Share
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-exploring-mukbang-culture-in-live-video-formats/"><u>[New] In 2024, Exploring Mukbang Culture in Live Video Formats</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-join-the-metaverse-meme-revolution-quick-tips-for-original-creators/"><u>[New] Join the Metaverse Meme Revolution - Quick Tips for Original Creators</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-strategizing-success-the-open-door-approach/"><u>[New] Strategizing Success  The Open Door Approach</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-science-of-quadcopters-understanding-their-flight-patterns/"><u>[New] The Science of Quadcopters  Understanding Their Flight Patterns</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-visionary-educators-guide-to-multimedia-use/"><u>[New] The Visionary Educator's Guide to Multimedia Use</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-rated-zero-price-after-effects-samples/"><u>[New] Top-Rated, Zero-Price After Effects Samples</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-asmrs-secrets-for-optimal-wellness/"><u>[New] Unlocking ASMR's Secrets for Optimal Wellness</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-zoom-features-on-windows-11-pcs/"><u>[New] Unlocking Zoom Features on Windows 11 PCs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-hidden-accessing-youtube-video-comments/"><u>[New] Unveiling the Hidden  Accessing YouTube Video Comments</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamlining-zoom-features-on-your-chromebook/"><u>[Updated] Streamlining Zoom Features on Your Chromebook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-supercharge-videos-with-dynamic-titles/"><u>[Updated] Supercharge Videos with Dynamic Titles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-essential-guide-to-timeless-stop-motion-classics/"><u>[Updated] The Essential Guide to Timeless Stop-Motion Classics</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-expert-approach-to-negative-picture-tones/"><u>[Updated] The Expert Approach to Negative Picture Tones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-verdict-on-vllo-performance/"><u>[Updated] The Verdict on VLLO Performance</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-screenplay-creation-hub/"><u>[Updated] Top Screenplay Creation Hub</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-understanding-camera-shake-in-photographyvideo/"><u>[Updated] Understanding Camera Shake in Photography/Video</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleashing-vibrance-grading-secrets-in-ps/"><u>[Updated] Unleashing Vibrance  Grading Secrets in PS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlining-massive-video-transfers-iphone-mac-edition/"><u>2024 Approved  Streamlining Massive Video Transfers  IPhone-Mac Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-synchronizing-tracks-through-effective-crossfading/"><u>2024 Approved  Synchronizing Tracks Through Effective Crossfading</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-assembly-crafting-your-personalized-4k-video-editor-pc/"><u>2024 Approved  The Art of Assembly  Crafting Your Personalized 4K Video Editor PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-edited-essence-unlocking-techniques-for-visual-impact/"><u>2024 Approved  The Edited Essence  Unlocking Techniques for Visual Impact</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-picks-comprehensive-list-of-gopro-mounts-6-onwards/"><u>2024 Approved  The Ultimate Picks  Comprehensive List of GoPro Mounts, #6 Onwards</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-tech-stream-cam-gear-reviewed-for-youtube-and-facebook-use/"><u>2024 Approved  Top Tech  Stream Cam Gear Reviewed for YouTube & Facebook Use</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-guide-top-7-superior-wet-proof-camcorders/"><u>2024 Approved  Ultimate Guide  Top 7 Superior Wet-Proof Camcorders</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-phone-and-camera-mounts-precision-focus-tracking/"><u>2024 Approved  Ultimate Phone & Camera Mounts  Precision Focus Tracking</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-connectivity-windows-plus-playstation-3-pad/"><u>Effortless Connectivity: Windows + PlayStation 3 Pad</u></a></li>
+<li><a href="https://games-able.techidaily.com/free-games-just-a-click-away-on-series-xs/"><u>Free Games, Just a Click Away on Series X|S</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-epson-et-2750-printer-driver-for-windows-installed/"><u>Get Your Epson ET-2750 Printer Driver for Windows Installed</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/harmonizing-online-presence-across-facebook-linkedin-and-youtube-platforms/"><u>Harmonizing Online Presence Across Facebook, LinkedIn and YouTube Platforms</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-14-plus-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 14 Plus Data From iOS iCloud? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-samsung-galaxy-a05-by-drfone-android/"><u>How to Show Wi-Fi Password on Samsung Galaxy A05</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-oneplus-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On OnePlus Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-audiophiles-companion-to-top-tier-audio-equipment/"><u>In 2024, The Audiophile's Companion to Top-Tier Audio Equipment</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-top-cloud-stores-on-android/"><u>In 2024, The Ultimate Guide to Top Cloud Stores on Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tips-for-optimizing-tiktok-video-sharing-on-zoom/"><u>In 2024, Tips for Optimizing TikTok Video Sharing on Zoom</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-mac-speech-to-text-apps-youre-not-aware-of/"><u>In 2024, Top Mac Speech-to-Text Apps You're Not Aware Of</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-realme-12-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Realme 12 5G FRP Bypass</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-creative-photos-using-pexels-effectively/"><u>In 2024, Unlocking Creative Photos  Using Pexels Effectively</u></a></li>
+<li><a href="https://driver-error.techidaily.com/lenovos-blue-tooth-mastery-in-win11-environment/"><u>Lenovo’s Blue-Tooth Mastery in WIN11 Environment</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/livestreaming-sovereigns-clash-for-2024/"><u>LiveStreaming Sovereigns Clash for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/perfecting-the-art-of-media-preservation-macs-dvd-burn-guide-for-2024/"><u>Perfecting the Art of Media Preservation  Mac's DVD Burn Guide for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/pixels-personal-soundtrack-a-selection-guide-for-2024/"><u>Pixel's Personal Soundtrack  A Selection Guide for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-protocol-for-reporting-bad-players-in-xbox/"><u>The Protocol for Reporting Bad Players in Xbox</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-companion-for-podcast-name-crafting-top-10-tools-for-2024/"><u>The Ultimate Companion for Podcast Name Crafting  Top 10 Tools for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforming-the-modern-workspace-into-a-powerhouse-of-productivity-for-2024/"><u>Transforming the Modern Workspace Into a Powerhouse of Productivity for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforming-videos-for-twitter-success-expert-convertors-guide-for-2024/"><u>Transforming Videos for Twitter Success  Expert Convertors Guide for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-funimate-the-ultimate-video-guide-for-2024/"><u>Unveiling Funimate  The Ultimate Video Guide for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unwind-twitch-feeds-immediately-for-2024/"><u>Unwind Twitch Feeds Immediately for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721267690826-stellar/"><u>ファストで完璧に写真をリペア - Stellarの使用案内</u></a></li>
+</ul></div>

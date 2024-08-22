@@ -1,7 +1,7 @@
 ---
 title: Optimizing Bill Management - ABBYY's OCR Tech in Action for Adactus Residential Services
-date: 2024-08-20 12:54:41
-updated: 2024-08-22 10:46:58
+date: 2024-08-21T17:40:47.216Z
+updated: 2024-08-22T17:40:47.216Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721f41a9cf0edd89a122f69cd4.jpg
@@ -63,10 +63,21 @@ Adactus Housing owns and manages over 12,600 homes across 25 local authority are
 
 paper invoices are normally received each year
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### **24** suppliers
 
 represent 50% of the transactions stream
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### **4** full time staff
 
 minimum intervention in invoice processing
@@ -113,14 +124,23 @@ The benefit of introducing this solution is a slicker way of working which limit
 
 [![FlexiCapture](https://static2.abbyy.com/abbyycommedia/21380/4-flexicapture.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FlexiCapture](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![Accounts Payable Automation](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://tools.techidaily.com/abbyy/products/) [Accounts Payable](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![PDF Version](https://static1.abbyy.com/abbyycommedia/14325/1a-adactus-1-real-estate-en_small.jpg)](https://static1.abbyy.com/abbyycommedia/7463/case-study-adactus-1-real-estate-en.pdf "PDF version") [PDF version](https://static1.abbyy.com/abbyycommedia/7463/case-study-adactus-1-real-estate-en.pdf "PDF version") 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [read more](https://static1.abbyy.com/abbyycommedia/7463/case-study-adactus-1-real-estate-en.pdf "PDF version") 
 
 ###### Like, share or repost
@@ -131,6 +151,9 @@ Share  True ?  : ""
 
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -151,3 +174,60 @@ We'd love to help you along your automation journey.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-building-a-powerful-brand-presence-with-instagrams-biz-tools/"><u>[New] 2024 Approved  Building a Powerful Brand Presence with Instagram's Biz Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-instantaneous-effortless-podcast-live/"><u>[New] Instantaneous Effortless Podcast Live</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-introductory-tips-gradual-amplification-techniques/"><u>[New] Introductory Tips  Gradual Amplification Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-authenticity-on-instagrams-platform-for-2024/"><u>[New] Mastering Authenticity on Instagram's Platform for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premium-scenery-selections-for-streams/"><u>[New] Premium Scenery Selections for Streams</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-editors-edge-secrets-to-professional-photo-refining/"><u>[New] The Editor's Edge  Secrets to Professional Photo Refining</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-funny-photo-editor/"><u>[New] Ultimate Funny Photo Editor</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-mkv-player-for-windows-and-mobile/"><u>[New] Ultimate MKV Player for Windows & Mobile</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unravel-the-secrets-of-top-tier-video-editing-with-vivacut-24/"><u>[New] Unravel the Secrets of Top-Tier Video Editing with VivaCut '24</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-navigating-past-moments-using-android-videos/"><u>[Updated] Navigating Past Moments Using Android Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-secure-and-updated-altering-numbers-in-tiktok-profiles/"><u>[Updated] Secure and Updated  Altering Numbers in TikTok Profiles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamline-conferencing-top-tactics-using-zoom-coder/"><u>[Updated] Streamline Conferencing  Top Tactics Using Zoom Coder</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-essentials-of-high-quality-audio-interfaces-in-podcasting/"><u>[Updated] The Essentials of High-Quality Audio Interfaces in Podcasting</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-crafting-breathtaking-time-lapses-with-gopro/"><u>[Updated] The Ultimate Guide to Crafting Breathtaking Time-Lapses with GoPro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-overlay-solutions-for-your-videos/"><u>2024 Approved  Best Overlay Solutions for Your Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-how-to-use-telegram-web-step-by-step-guide/"><u>2024 Approved  How To Use Telegram Web  Step-By-Step Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-incorporating-visual-media-into-free-writings/"><u>2024 Approved  Incorporating Visual Media Into Free Writings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tailoring-image-sizes-in-photos-for-ios-devices/"><u>2024 Approved  Tailoring Image Sizes in Photos for iOS Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-evolution-of-audio-liberation-pazeras-advanced-techniques-2e/"><u>2024 Approved  The Evolution of Audio Liberation  Pazera's Advanced Techniques (2E)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-final-word-on-vegaspro-2019/"><u>2024 Approved  The Final Word on VegasPro 2019</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-improved-zoom-video-quality/"><u>2024 Approved  The Ultimate Guide to Improved Zoom Video Quality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-picking-prime-stream-services/"><u>2024 Approved  The Ultimate Guide to Picking Prime Stream Services</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-time-lapse-magic-a-samsung-photo-guide/"><u>2024 Approved  Time-Lapse Magic  A Samsung Photo Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-android-and-ios-timers-for-effortless-wedding-countdown-management/"><u>2024 Approved  Top 10 Android and iOS Timers for Effortless Wedding Countdown Management</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transformative-teleportation-effects-techniques/"><u>2024 Approved  Transformative Teleportation Effects Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-efficiency-the-editors-guide-to-speed-control/"><u>2024 Approved  Unlock Efficiency  The Editor's Guide to Speed Control</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveil-the-power-leveraging-windows-11-and-zoom-maximum/"><u>2024 Approved  Unveil the Power  Leveraging Windows 11 and Zoom Maximum</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-top-7-nft-creators-for-your-artwork/"><u>2024 Approved  Unveiling the Top 7 NFT Creators for Your Artwork</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-of-dell-audio-device-drivers/"><u>Effortless Installation of Dell Audio Device Drivers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/elevate-your-social-score-best-tools-for-post-and-engagement-for-2024/"><u>Elevate Your Social Score  Best Tools for Post and Engagement for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-14-pro-max-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone 14 Pro Max to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-strategies-to-skyrocket-like-counts-in-tiktok-unpack-videos/"><u>In 2024, Strategies to Skyrocket 'Like' Counts in TikTok Unpack Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-sync-up-your-streams-zooming-into-facebook-lives/"><u>In 2024, Sync Up Your Streams  Zooming Into Facebook Lives</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-7-sites-for-swapping-outringtone-files-on-snapchat/"><u>In 2024, Top 7 Sites for Swapping Outringtone Files on Snapchat</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transforming-footage-into-high-quality-content/"><u>In 2024, Transforming Footage Into High-Quality Content</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-tecno-spark-10-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Tecno Spark 10 Pro FRP Bypass</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-the-secrets-of-selecting-a-powerful-podcast-name/"><u>In 2024, Unlocking the Secrets of Selecting a Powerful Podcast Name</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-magic-behind-shooting-images-with-iphones-hdr/"><u>In 2024, Unveiling the Magic Behind Shooting Images with iPhone’s HDR</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-technology-behind-whatsapp-voice-calls/"><u>In 2024, Unveiling the Technology Behind WhatsApp Voice Calls</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/market-opening-innovations-for-2024/"><u>Market-Opening Innovations for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mobile-and-desktop-no-cost-magnifier-toolkit-for-2024/"><u>Mobile & Desktop  No-Cost Magnifier Toolkit for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/navigating-speed-settings-for-snapchat-content-for-2024/"><u>Navigating Speed Settings for Snapchat Content for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-gopro-editors-handbook-mac-edition/"><u>New 2024 Approved The GoPro Editors Handbook Mac Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-cut-cinematic-concept-for-2024/"><u>Quick Cut Cinematic Concept for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Spoofing Life360 How to Do it on Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/superior-app-dev-editors-top-15-selection-for-2024/"><u>Superior App Dev Editors  Top 15 Selection for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-definitive-srt-file-generation-manual-for-2024/"><u>The Definitive SRT File Generation Manual for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tips-for-sharpened-scene-during-google-meet-calls-for-2024/"><u>Tips for Sharpened Scene During Google Meet Calls for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-memes-with-a-smile-builder-for-2024/"><u>Top Memes with a Smile Builder for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforming-your-phones-alerts-with-tailored-audio-choices-for-android-for-2024/"><u>Transforming Your Phone's Alerts with Tailored Audio Choices for Android for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-the-impact-activating-auto-hdr-feature-on-windows-11-for-2024/"><u>Understanding the Impact  Activating Auto HDR Feature on Windows 11 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-novel-window-11-secrets-for-enhanced-usage-for-2024/"><u>Unveiling Novel WINDOW 11 Secrets for Enhanced Usage for 2024</u></a></li>
+</ul></div>

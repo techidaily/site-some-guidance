@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enhanced: Boost Your Site's Traffic with Advanced Analytics Tools"
-date: 2024-08-19 15:53:47
-updated: 2024-08-22 12:10:58
+date: 2024-08-21T17:40:10.246Z
+updated: 2024-08-22T17:40:10.246Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/fb282d9804e61f76170ce10cf4356b1c491a6302864785ed4f9f0f7226141ae1.jpg
@@ -33,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/fb282d9804e61f76170ce10cf4356b1c491a63028
 
 Journal of Biomedical Informaticsは、Eric Rojas らによるヘルスケアにおけるプロセスマイニングの現在の採用を分析するレビューで、ヘルスケアへのプロセスマイニングの利用の最先端はヨーロッパにあり、現在の調査、実施研究の73％がここで行われていることを明らかにしました。 2020年の[プロセスマイニングとRPAの現状に関する最近の調査](https://tools.techidaily.com/abbyy/products/)によると、フランスの企業がプロセスマイニングの面で先導しており、回答者の78％がすでにそのようなツールを使用していると述べています。
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ### では、プロセスマイニングはどのように動くのでしょうか？
 
 プロセスマイニングは、任意の数の記録システムからイベントログをキャプチャし、このデータを処理して、プロセスを検出、監視、視覚化、および最終的に業務プロセスを改善できるようにするテクニックです。
@@ -49,12 +52,18 @@ Prof. Dr. ir Will Van der Aalst らによる「ヘルスケアにおけるプロ
 
 ![rpaプロセスマイニング](https://static1.abbyy.com/abbyycommedia/30414/healthcare-process.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 医療専門家は、プロセスマイニングを使用して、[医療におけるプロセス改善](https://tools.techidaily.com/abbyy/products/)の最適な候補を特定できます。これは、複雑で、時間的にシビアであることが多いのですが、一歩踏み込んで患者の顧客体験を改善したり、コンプライアンスリスクを避けたり、次世代プロセスマイニングソリューションであるプロセスインテリジェンスを使って効率を上げたりすることが可能です。
 
 ABBYYのプロセスインテリジェンスプラットフォームは、プロセスのマッピングと理解、タスクマイニング、AIプロセス予測機能など、高度なプロセスマイニングテクノロジーを活用してプロセスを変革します。 詳細については、[こちら](https://tools.techidaily.com/abbyy/products/) をクリックしてください。なお今回のソリューションにあたるABBYY Timelineの[体験版申し込みはこちら](https://tools.techidaily.com/abbyy/products/)から承っております。
 
 [DX（デジタルトランスフォーメーション）](https://tools.techidaily.com/abbyy/products/) [ヘルスケア](https://tools.techidaily.com/abbyy/products/) [デジタルインテリジェンス](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### いいね！、シェア、再投稿
 
 シェア 
@@ -117,3 +126,52 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-an-insiders-guide-to-flawlessly-integrating-tracks-on-youtube/"><u>[New] An Insider's Guide to Flawlessly Integrating Tracks on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-nikon-d500-a-revolution-in-4k-uhd-photography/"><u>[New] Nikon D500  A Revolution in 4K UHD Photography</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-quintessential-ae-text-styles-for-emphasis/"><u>[New] Quintessential AE Text Styles for Emphasis</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-essential-guide-to-zooming-with-gmail-emails-professionally/"><u>[New] The Essential Guide to Zooming with Gmail Emails Professionally</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-collection-of-film-scripts-by-genre/"><u>[New] The Ultimate Collection of Film Scripts by Genre</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-10-tools-revolutionizing-the-art-of-virtual-performer-sound-design/"><u>[New] Top 10 Tools Revolutionizing the Art of Virtual Performer Sound Design</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-guide-to-convert-srt-to-txt-in-minutes/"><u>[New] Ultimate Guide to Convert SRT to TXT in Minutes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleashing-potential-windows-10s-new-upgrades/"><u>[New] Unleashing Potential  Windows 10'S New Upgrades</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-essential-steps-for-recording-on-facebook-live-for-2024/"><u>[Updated] Essential Steps for Recording on Facebook Live for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-essential-tips-for-using-instagrams-sound-emojis/"><u>[Updated] Essential Tips for Using Instagram's Sound Emojis</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-expert-tips-for-smooth-win11-meetings-via-zoom-for-2024/"><u>[Updated] Expert Tips for Smooth Win11 Meetings via Zoom for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-novice-writers-best-enhancements-for-gopro/"><u>[Updated] Novice’ Writers  Best Enhancements for GoPro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-optimal-methods-for-controlling-video-pace-on-snapchat/"><u>[Updated] Optimal Methods for Controlling Video Pace on Snapchat</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-reel-in-your-audience-with-professional-ipadiphone-podcasting-hacks/"><u>[Updated] Reel in Your Audience with Professional IPad/iPhone Podcasting Hacks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-best-budget-camera-stabilizers-for-youtube-stars/"><u>[Updated] The Best Budget Camera Stabilizers for YouTube Stars</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-playbook-iphone-downloading-for-podcast-enthusiasts/"><u>[Updated] The Ultimate Playbook  IPhone Downloading for Podcast Enthusiasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-3-twitter-video-tools-for-easy-uploads/"><u>[Updated] Top 3 Twitter Video Tools for Easy Uploads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-online-seminar-title-crafter/"><u>[Updated] Ultimate Online Seminar Title Crafter</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-creative-potential-garageband-editing-guide/"><u>[Updated] Unlocking Creative Potential  GarageBand Editing Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-optimize-visual-output-with-free-luts-in-your-obs-studio-setup/"><u>2024 Approved  Optimize Visual Output with Free LUTs in Your OBS Studio Setup</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tactics-and-techniques-for-thriving-in-spotifys-adverse/"><u>2024 Approved  Tactics and Techniques for Thriving in Spotify's Adverse</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-and-technique-of-professional-android-time-lapses/"><u>2024 Approved  The Art and Technique of Professional Android Time-Lapses</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-pioneers-guide-to-vr-terminology/"><u>2024 Approved  The Pioneer's Guide to VR Terminology</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-playwriting-workshop/"><u>2024 Approved  Ultimate Playwriting Workshop</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-v30-lite-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo V30 Lite 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/breathe-easy-with-knowledge-of-asmr-advantages/"><u>Breathe Easy with Knowledge of ASMR Advantages</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-itel-s23plus-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Itel S23+ Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-realme-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Realme Without PUK Codes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-best-tiktok-video-editing-tips/"><u>In 2024, Best Tiktok Video Editing Tips</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superior-srt-upgrades-a-comparative-analysis-of-pc-and-macos/"><u>In 2024, Superior SRT Upgrades  A Comparative Analysis of PC & macOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-fastest-route-for-srt-to-text-file-conversion/"><u>In 2024, The Fastest Route for SRT to Text File Conversion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-image-editor-repertoire-for-text-addition/"><u>In 2024, The Ultimate Image Editor Repertoire for Text Addition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-toggle-between-normal-and-pip-views-for-youtube-app-on-ios/"><u>In 2024, Toggle Between Normal and PIP Views for Youtube App on iOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-places-for-free-text-visual-enhancements/"><u>In 2024, Top Places for Free Text Visual Enhancements</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-turning-live-radio-into-a-personal-archive-step-by-step-instructions/"><u>In 2024, Turning Live Radio Into a Personal Archive  Step-by-Step Instructions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-your-movies-gratis-player-for-windowsmacos/"><u>In 2024, Unlock Your Movies  Gratis Player for Windows/MacOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-language-top-8-free-and-accurate-srt-translators/"><u>In 2024, Unlocking Language  Top 8 Free & Accurate SRT Translators</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-vector-fundamentals-unpacked-for-novices-categories-and-software/"><u>In 2024, Vector Fundamentals Unpacked for Novices, Categories & Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-differences-between-copilot-and-copilot-pro-should-you-consider-an-upgrade-for-enhanced-performance/"><u>Navigating the Differences Between Copilot & Copilot Pro – Should You Consider an Upgrade for Enhanced Performance?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-easy-peasy-guide-to-using-ifunnys-meme-app-for-2024/"><u>The Easy-Peasy Guide to Using iFunny's Meme App for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-futures-in-your-hands-with-powerdirector-24-unleashed-for-2024/"><u>The Future's in Your Hands with PowerDirector '24 Unleashed for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transforming-the-look-of-your-pc-with-a-different-taskbar-shade-in-windows-10/"><u>Transforming the Look of Your PC with a Different Taskbar Shade in Windows 10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleash-the-power-of-digital-beats-with-our-free-tools-for-2024/"><u>Unleash the Power of Digital Beats with Our Free Tools for 2024</u></a></li>
+</ul></div>

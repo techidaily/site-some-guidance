@@ -1,7 +1,7 @@
 ---
 title: Empowering Your Automated Staff with Intelligent Decision-Making Skills - Insights From ABBYY
-date: 2024-08-20 22:21:43
-updated: 2024-08-22 12:53:44
+date: 2024-08-21T17:41:31.267Z
+updated: 2024-08-22T17:41:31.267Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/26c79816e74e12a8f414621a79d8575a6f7513edd59ad13bbdba2af26e7005b7.jpg
@@ -43,6 +43,9 @@ _You can almost hear the days ticking away…_
 
 That’s exactly what I want to illustrate today. By adding both Process Intelligence and Content Intelligence skills to the digital worker, we can have this hiccup in the process handled on autopilot.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## Process aware
 
 Now let’s start by making our digital worker process aware. To do this, we are going to leverage the capabilities of Process Intelligence to trigger the digital worker and have them execute the task whenever needed in the process. Within our process, there are certain steps for this loan approval. One of them being that all the supporting documents are available and that the review process of these documents cannot take longer than 1 hour. We call this a protocol.
@@ -53,12 +56,18 @@ With alerts and active run time operations monitoring using Process Intelligence
 
 The mitigation steps here require the digital worker to be able to understand the document-based content that is presented by the customer and use that to further solve the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Content aware
 
 But how do we make our digital worker do that, you ask? With the easy-to-use Content Intelligence skills, you can enable your digital workers to be content aware.
 
 By adding this skill, the digital worker is able to efficiently process the required documents needed to automatically complete the required loan approval steps. Being able to process and extract business value from any kind of document, with the ease of dropping in a particular Content Intelligence Skill, brings us one step closer to process excellence.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Digital workers aren’t going to take over, but they will grow to help more in the workplace
 
 As we bring more and more skills to digital workers using ABBYY’s Digital Intelligence technologies, we’ll be able to automate more tedious tasks, which in turn provide better customer experiences. The importance of this is paramount, because as traditional services are becoming a commodity, having the better customer experience can make the difference. Let’s all be honest, even if you provide an exceptional service, if the journey to use that service isn’t great, customers will drop and your customer acquisition costs will rise.
@@ -71,6 +80,18 @@ Learn more about getting next-level intelligence for digital workers using ABBYY
 
 ![](https://static3.abbyy.com/abbyycommedia/37004/maxime-vermeir_110x110-1.png)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Maxime Vermeir
 
 Senior Director of AI Strategy
@@ -79,6 +100,9 @@ With a decade of experience in product and technology, Maxime Vermeir is an entr
 
 Connect with Max on [LinkedIn](https://www.linkedin.com/in/maximevermeir/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
@@ -141,3 +165,40 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-cease-playback-failures-fix-facebook-videos-for-2024/"><u>[New] Cease Playback Failures - Fix Facebook Videos for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-easy-steps-to-audit-your-favorite-tiktok-sessions-for-2024/"><u>[New] Easy Steps to Audit Your Favorite TikTok Sessions for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-balance-of-serene-visuals/"><u>[New] The Balance of Serene Visuals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-designing-captivating-podcast-logos/"><u>[New] The Ultimate Guide to Designing Captivating Podcast Logos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-thrifty-tech-finds-best-cameras-on-a-dime/"><u>[New] Thrifty Tech Finds  Best Cameras on a Dime</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-selection-showcase-the-premier-15-unboxing-channel-sites-2024-edition/"><u>[New] Ultimate Selection Showcase  The Premier 15 Unboxing Channel Sites, 2024 Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-secrets-to-amazing-photo-collages/"><u>[New] Unveiling Secrets to Amazing Photo Collages</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-game-modders-and-tutorial-content-leaders/"><u>[Updated] 2024 Approved  Game Modders & Tutorial Content Leaders</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-digital-decor-best-platforms-and-software-for-photo-frameups/"><u>[Updated] Digital Decor  Best Platforms & Software for Photo Frameups</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-strategy-breakthroughs-in-packaging/"><u>[Updated] Strategy Breakthroughs in Packaging</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamlined-guide-5-efficient-windows-11-audio-recording-tips/"><u>[Updated] Streamlined Guide  5 Efficient Windows 11 Audio Recording Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-techniques-for-stronger-video-content-with-b-clips/"><u>[Updated] Techniques for Stronger Video Content with B-Clips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-crafting-compelling-spotify-ads/"><u>[Updated] The Art of Crafting Compelling Spotify Ads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-8-affordable-srt-services-for-flawless-translation/"><u>[Updated] Top 8 Affordable SRT Services for Flawless Translation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-expert-guide-to-skype-recordings-the-most-effective-free-and-paid-ways/"><u>2024 Approved  Expert Guide to Skype Recordings - The Most Effective Free & Paid Ways</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-lost-video-playback-sony-a6400-problems-explored/"><u>2024 Approved  Lost Video Playback  Sony A6400 Problems Explored</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-strategies-for-downloading-twitter-video-content-to-mp3/"><u>2024 Approved  Strategies for Downloading Twitter Video Content to MP3</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-speed-instant-signature-background-cleanup/"><u>2024 Approved  Unlocking Speed  Instant Signature Background Cleanup</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/advance-web-analytics-with-cookiebot-the-secret-ingredient-to-conversion-mastery/"><u>Advance Web Analytics with Cookiebot – The Secret Ingredient to Conversion Mastery</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-apple-iphone-13-pro-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your Apple iPhone 13 Pro Apple ID and Apple Pay</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-style-meets-function-essential-sj4000-gear-selection/"><u>In 2024, Style Meets Function  Essential SJ4000 Gear Selection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-and-technique-of-professional-android-time-lapses/"><u>In 2024, The Art and Technique of Professional Android Time-Lapses</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-superior-viewing-with-a-closer-examination-of-p2715q/"><u>In 2024, Unveiling Superior Viewing with a Closer Examination of P2715Q</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/lut-lovers-delight-complimentary-sets-for-djis-miniair2-for-2024/"><u>LUT Lovers Delight  Complimentary Sets for DJI's Mini/Air2 for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-your-home-network-with-the-synology-rt2600ac-long-range-performance-meets-robust-parental-oversight/"><u>Mastering Your Home Network with the Synology RT2600ac - Long Range Performance Meets Robust Parental Oversight</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mirthful-montage-mastering-7-comical-video-vignettes-for-2024/"><u>Mirthful Montage  Mastering 7 Comical Video Vignettes for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-new-and-vintage-windows-for-firmware-updates/"><u>Navigating New and Vintage Windows for Firmware Updates</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-mac-video-editors-similar-to-vsdc/"><u>New Top Mac Video Editors Similar to VSDC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/strategies-for-purchasing-clear-visual-content-for-2024/"><u>Strategies for Purchasing Clear Visual Content for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamline-your-experience-with-youtubes-comment-features-for-2024/"><u>Streamline Your Experience with YouTube's Comment Features for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-list-of-online-havens-for-free-tamil-ringtones-for-2024/"><u>The Ultimate List of Online Havens for Free Tamil Ringtones for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforming-unboxing-into-art-for-2024/"><u>Transforming Unboxing Into Art for 2024</u></a></li>
+</ul></div>

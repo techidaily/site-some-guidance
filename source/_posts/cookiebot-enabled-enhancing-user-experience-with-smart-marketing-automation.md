@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enabled: Enhancing User Experience with Smart Marketing Automation"
-date: 2024-08-20 18:54:44
-updated: 2024-08-22 11:34:28
+date: 2024-08-21T17:41:20.353Z
+updated: 2024-08-22T17:41:20.353Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/87c61f765040c8533bc15b7b64ecc936c1a1ca311366f831bc1f4f0913b3fbac.jpg
@@ -67,6 +67,10 @@ From your perspective and from ABBYY's perspective, how can OCR, invoice scannin
 
 And for that, you need to have good insights into what your businesses are doing. And especially finance leaders need elevate the conversation in thinking about what's driving your team; what value is my team delivering? Is that entering data—or is that thinking about our processes delivering the accounting, giving insights to the business? I think it's the latter. 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ### The Changing Role of the Finance Leader
 
 ABBYY Chief Financial Officer James Ritter shares insights on how finance leaders can adapt to the changing business landscape with the help of intelligent automation.
@@ -107,6 +111,9 @@ A lot of great conversation today, Max. But before we go, is there anything else
 
 ![](https://static3.abbyy.com/abbyycommedia/37004/maxime-vermeir_110x110-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 Maxime Vermeir
 
 Senior Director of AI Strategy
@@ -115,14 +122,23 @@ With a decade of experience in product and technology, Maxime Vermeir is an entr
 
 Connect with Max on [LinkedIn](https://www.linkedin.com/in/maximevermeir/).
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### Related posts
 
 ![](https://static1.abbyy.com/abbyycommedia/37736/idp-scheme-848x444-b.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [What Is Intelligent Document Processing, and How Does It Work?](https://tools.techidaily.com/abbyy/products/) 
 
 #### Subscribe for blog updates
@@ -183,3 +199,48 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-from-past-to-present-a-detailed-tiktok-username-overhaul-guide-for-2024/"><u>[New] From Past to Present  A Detailed TikTok Username Overhaul Guide for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-immersive-worlds-unveiled-jaunt-vr-in-focus/"><u>[New] In 2024, Immersive Worlds Unveiled  Jaunt VR in Focus</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-jest-jar-imgur-meme-tool/"><u>[New] Jest Jar  Imgur Meme Tool</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-syncing-soundscapes-to-pixelated-portraits/"><u>[New] Syncing Soundscapes to Pixelated Portraits</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-impact-of-music-on-a-trailers-emotional-pull/"><u>[New] The Impact of Music on a Trailer's Emotional Pull</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-mvps-of-frugal-filmmaking-tech/"><u>[New] The MVPs of Frugal Filmmaking Tech</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-join-the-live-revolution-fb-streaming-tips/"><u>[Updated] 2024 Approved  Join the Live Revolution  FB Streaming Tips</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-turning-popular-sounds-on-tiktok-into-personal-cellphone-alarms/"><u>[Updated] 2024 Approved  Turning Popular Sounds on TikTok Into Personal Cellphone Alarms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-premier-destinations-amplifying-youtube-videos/"><u>[Updated] Premier Destinations Amplifying YouTube Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-compreayer-guide-to-iphone-hdr-mastery/"><u>[Updated] The Compreayer Guide to iPhone HDR Mastery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-compilation-of-hd-android-video-apps/"><u>[Updated] The Ultimate Compilation of Hd Android Video Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-must-have-accessories-for-sj4000/"><u>[Updated] Top 10 Must Have Accessories for SJ4000</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-chuckles-on-a-budget-memetic-creators-guide/"><u>[Updated] Unlocking Chuckles on a Budget - Memetic Creator’s Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-top-7-crypto-creators-for-nft-conversion/"><u>[Updated] Unveiling Top 7 Crypto-Creators for NFT Conversion</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-metaverse-perspectives-a-30-quote-collection/"><u>2024 Approved  Innovative Metaverse Perspectives  A 30-Quote Collection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-lut-techniques-for-professional-color-grading-and-correction/"><u>2024 Approved  LUT Techniques for Professional Color Grading and Correction</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-checklist-for-compelling-audio-intros/"><u>2024 Approved  The Ultimate Checklist for Compelling Audio Intros</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-cloud-picks-price-and-performance-comparison/"><u>2024 Approved  Top Cloud Picks  Price & Performance Comparison</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-trailblaze-with-our-list-of-the-top-9-resources-for-dynamic-3d-fonts/"><u>2024 Approved  Trailblaze with Our List of The Top 9 Resources for Dynamic 3D Fonts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-hidden-details-roblox-closeup-secrets/"><u>2024 Approved  Unlocking Hidden Details  Roblox Closeup Secrets</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unplug-and-replay-twitch-livestream-techniques/"><u>2024 Approved  Unplug and Replay  Twitch Livestream Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-apple-podcast-submission-process/"><u>2024 Approved  Unveiling the Apple Podcast Submission Process</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/a-critical-look-at-the-ultimate-mobile-upgrade-apple-iphone-12/"><u>A Critical Look at the Ultimate Mobile Upgrade - Apple iPhone 12</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/best-investments-for-electric-vehicle-batteries-top-priced-high-performance-options-reviewed/"><u>Best Investments for Electric Vehicle Batteries : Top-Priced, High Performance Options Reviewed</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-honor-magic-6-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Honor Magic 6</u></a></li>
+<li><a href="https://fox-access.techidaily.com/correcting-gopros-fish-eye-distortion-techniques-for-2024/"><u>Correcting GoPro's Fish Eye Distortion Techniques for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-and-install-dell-latitude-e6420-drivers-in-no-time-with-these-tricks/"><u>Find and Install Dell Latitude E6420 Drivers in No Time with These Tricks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-foundations-of-cinematography-15-must-know-shot-types/"><u>In 2024, Foundations of Cinematography  15 Must-Know Shot Types</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-memorable-narratives-in-book-videos/"><u>In 2024, Memorable Narratives in Book Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-text-transformation-tactics-avoiding-3d-missteps/"><u>In 2024, Text Transformation Tactics  Avoiding 3D Missteps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-pick-cross-platform-devices-ideal-entry-editor/"><u>In 2024, Top Pick  Cross-Platform Devices' Ideal Entry Editor</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tutorial-windows-movie-maker-for-effective-animation-designs/"><u>In 2024, Tutorial  Windows Movie Maker for Effective Animation Designs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unraveling-details-a-closer-look-at-your-roblox-world/"><u>In 2024, Unraveling Details  A Closer Look at Your Roblox World</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-g2-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of G2</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/swift-and-secure-video-shipment-sending-oversized-content-from-ios-for-2024/"><u>Swift & Secure Video Shipment  Sending Oversized Content From iOS for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-comprehensible-approach-to-multisnapping-videos/"><u>The Comprehensible Approach to Multisnapping Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-future-of-flight-hubsans-revolutionary-h501s-explored-for-2024/"><u>The Future of Flight - Hubsan's Revolutionary H501S Explored for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tips-for-gaining-attention-via-snapchat-star-for-2024/"><u>Tips for Gaining Attention via Snapchat Star for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/twirl-forge-instruments-for-2024/"><u>Twirl Forge Instruments for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-vr-technology-and-its-impact-on-us-for-2024/"><u>Understanding VR Technology and Its Impact on Us for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleashing-windows-11s-full-visual-potential-with-automatic-hdr-mode-for-2024/"><u>Unleashing Windows 11'S Full Visual Potential with Automatic HDR Mode for 2024</u></a></li>
+</ul></div>

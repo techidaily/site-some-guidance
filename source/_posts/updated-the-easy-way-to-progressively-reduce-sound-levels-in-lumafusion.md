@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Easy Way to Progressively Reduce Sound Levels in Lumafusion"
-date: 2024-07-23T11:24:55.004Z
-updated: 2024-07-24T11:24:55.004Z
+date: 2024-08-21T17:50:19.815Z
+updated: 2024-08-22T17:50:19.815Z
 tags: 
   - screen-recording
   - ai video
@@ -132,3 +132,43 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-accurate-mac-photography-mastery-of-five-proven-snapshot-ways-for-2024/"><u>[New] Accurate Mac Photography  Mastery of Five Proven Snapshot Ways for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamlining-tiktok-production-zooms-role/"><u>[New] Streamlining TikTok Production  Zoom's Role</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transformative-visuals-unleash-the-power-of-6-video-types/"><u>[New] Transformative Visuals  Unleash the Power of 6 Video Types</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleash-creative-potential-effortless-backdrop-elimination-on-canvas/"><u>[New] Unleash Creative Potential  Effortless Backdrop Elimination on Canvas</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unraveling-the-packaging-a-marketing-approach/"><u>[New] Unraveling the Packaging  A Marketing Approach</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-5-compelling-literary-video-tts/"><u>[New] Unveiling 5 Compelling Literary Video TTs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-vdq-quickscreen-recorder-report-in-depth-analysis/"><u>[New] VDQ QuickScreen Recorder Report  In-Depth Analysis</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-introduce-circular-smoothing-transition-via-adobe-photoshop/"><u>[Updated] Introduce Circular Smoothing Transition via Adobe Photoshop</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-oculus-favorites-the-8-highest-selling-games/"><u>[Updated] Oculus Favorites  The 8 Highest-Selling Games</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-essential-guide-to-iphone-reflections-in-landscapes/"><u>[Updated] The Essential Guide to iPhone Reflections in Landscapes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-hdtv-showdown-selecting-the-best-8k-models/"><u>[Updated] The Ultimate HDTV Showdown  Selecting the Best 8K Models</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-most-affordable-cloud-vendors-listed/"><u>[Updated] Top 10 Most Affordable Cloud Vendors Listed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-uncover-top-affordable-video-enhancement-platforms-a-comprehensive-guide/"><u>[Updated] Uncover Top Affordable Video Enhancement Platforms - A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-uninterrupted-airdrop-connections-in-the-world-of-iphones-and-macs/"><u>[Updated] Uninterrupted AirDrop Connections in the World of iPhones & Macs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-strategic-insights-for-optimal-tech-upgrades/"><u>2024 Approved  Strategic Insights for Optimal Tech Upgrades</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-striding-forward-a-comprehensive-review-of-vr-walkers/"><u>2024 Approved  Striding Forward  A Comprehensive Review of VR Walkers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-insiders-guide-to-captivating-youtube-headlines/"><u>2024 Approved  The Insider's Guide to Captivating YouTube Headlines</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-guide-sharing-your-private-youtube-snippets-via-email/"><u>2024 Approved  The Ultimate Guide  Sharing Your Private YouTube Snippets via Email</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-ultimate-guide-to-audiofreexer-extraction-for-2-point-zero-two-four/"><u>2024 Approved  The Ultimate Guide to AudioFreexer Extraction for 2 Point Zero Two Four</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-turning-compressed-files-into-srt-speaking-texts-quickly/"><u>2024 Approved  Turning Compressed Files Into .Srt Speaking Texts Quickly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-guide-to-securing-photographic-backdrops/"><u>2024 Approved  Ultimate Guide to Securing Photographic Backdrops</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-oppo-reno-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-science-and-magic-behind-full-circle-films/"><u>In 2024, The Science and Magic Behind Full Circle Films</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transform-your-images-proven-pixlr-strategies/"><u>In 2024, Transform Your Images  Proven Pixlr Strategies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocked-treasures-art-without-intellectual-property-restrictions/"><u>In 2024, Unlocked Treasures  Art Without Intellectual Property Restrictions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-magix-video-pro-x-capabilities/"><u>In 2024, Unveiling Magix Video Pro X Capabilities</u></a></li>
+<li><a href="https://extra-support.techidaily.com/launching-videos-efficiently-with-free-intros-for-2024/"><u>Launching Videos Efficiently with FREE Intros for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/power-and-style-synergy-the-leading-windows-laptops-of-24/"><u>Power & Style Synergy: The Leading Windows Laptops of '24</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/simple-steps-modify-windows-speech-of-sea-creatures/"><u>Simple Steps  Modify Windows Speech of Sea Creatures</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/superior-sound-swap-technology-the-top-free-option-for-valorant-gamers-for-2024/"><u>Superior Sound Swap Technology  The Top Free Option for Valorant Gamers for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/techniques-for-downloading-converting-and-saving-vids-on-twitter-as-mp3s-for-2024/"><u>Techniques for Downloading, Converting, and Saving Vids on Twitter as MP3s for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-5-easy-steps-for-altering-game-voices-in-pubg-for-2024/"><u>The 5 Easy Steps for Altering Game Voices in PUBG for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/transfer-secrets-top-5-tactics-to-move-files-onto-your-pc-for-2024/"><u>Transfer Secrets  Top 5 Tactics to Move Files Onto Your PC for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-steps-for-windows-10-photos-freeze-for-2024/"><u>Troubleshooting Steps for Windows 10 Photos Freeze for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-list-action-cameras-ideal-mics-for-2024/"><u>Ultimate List  Action Camera's Ideal Mics for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-full-potential-with-final-cut-pro-for-2024/"><u>Unlocking Full Potential with Final Cut Pro for 2024</u></a></li>
+</ul></div>
