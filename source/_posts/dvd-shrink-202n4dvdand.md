@@ -1,7 +1,7 @@
 ---
 title: 【DVD-Shrink 使い方202n4】ダウンロード・セットアップ・日本語化・最適なDVDコピー&圧縮テクニック
-date: 2024-08-25 20:47:19
-updated: 2024-08-27 10:48:31
+date: 2024-08-27T00:35:42.374Z
+updated: 2024-08-28T00:35:42.374Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53f4cf1942b1dcf1c240fc190.jpg
@@ -102,6 +102,9 @@ DVD Shrink使い方2：DVD Shrinkインストール手順
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## （三）DVD Shrink日本語化：DVDシュリンクを日本語にしたい
 
 DVD Shrinkは10年以上前に開発が終了したため、DVDシュリンク日本語版配信も終了してしまった。
@@ -116,6 +119,9 @@ DVD Shrinkは10年以上前に開発が終了したため、DVDシュリンク�
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## （四）DVD Shrink使い方：DVD Shrink設定方法を詳しくご紹介
 
 DVD Shrinkを使う前、初期設定を変更する必要がある。下記では、DVD Shrink設定方法について詳しくご紹介する。
@@ -134,6 +140,9 @@ DVD Shrink各種設定といった画面が表示される。ここでは「各�
 **「ファイルI/O」**：初期設定のままでOK。  
 ![DVD Shrink設定方法](https://www.macxdvd.com/blog/img/dvd-shrink-setting-0718.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 それ以外、音声言語と音声形式/字幕言語の設定、出力ファイルの制限除去や特性設定、音声プレビューモードの選択とDirectX Video Rendererの選択の設定などの項目があり、使用用途に合わせて、細かく設定することができる。
 
 
@@ -150,6 +159,9 @@ DVD Shrink3.2を起動したら、「ディスクを開く」アイコンをク�
 また、DVDが付く[コピーガードを解除](https://tools.techidaily.com/macxdvd/products/)できないなら、DVD Shrinkエラーが出て、DVDを読み込めないケースがよくある。  
 ![DVD ShrinkでDVDを追加](https://www.macxdvd.com/blog/img/smart-how-to-use-dvd-shrink1.jpg)
 * Step2：フルディスクでコピー・圧縮でコピーへの設定  
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 フルディスクでコピーとは、つまり、ディスクの中身、本編や字幕・音声や特典映像などすべてをそのままでコピーすることである。一方、圧縮でコピーとは、個人的な使用用途に合わせて、異なる圧縮率でDVDをコピーすることである。  
 **フルディスクでコピーへの設定：**上部メニューで「フルディスク」をクリックして圧縮設定界面での「ビデオ」項目から「非圧縮」を選ぶ。  
 **圧縮でコピーへの設定：**すべて自動モードで簡単に圧縮バックアップするなら、上部メニューで「フルディスク」をクリックし、「DVD構成」で1番上のタイトル部分をクリックし反転させる 次に圧縮設定の「ビデオ」項目を「自動」にする。  
@@ -187,6 +199,9 @@ DVDをDVD Shrinkで書き込み作業を行う場合、「バックアップ」�
 最後、以上出力プロファイルと保存先の設定が終わったら、「OK」ボタンを押して、DVDコピーが開始。DVD書き込みが終了したら、プレーヤーで正常に再生できるかをご確認ください  
 ![DVD ShrinkでDVDを書き込む](https://www.macxdvd.com/blog/img/smart-use-dvd-shrink-to-burn-dvd-solution3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [DVD Shrink書き込みできない対処法](https://tools.techidaily.com/macxdvd/products/)
 
 
@@ -199,6 +214,9 @@ DVD Shrinkはちょっと古くても、使い勝手が良くて大勢の日本�
 
 [![](https://www.macxdvd.com/blog/new-fourteen/nfree-down-mac.png)](https://tools.techidaily.com/macxdvd/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 100%安全
 
 [![](https://www.macxdvd.com/blog/new-fourteen/nfree-down-win.png)](https://tools.techidaily.com/macxdvd/products/) 
@@ -215,6 +233,9 @@ DVD Shrinkはちょっと古くても、使い勝手が良くて大勢の日本�
 「RUN」ボタンをクリックして、Windows＆MacでDVDをコピー開始。任意の時点で一時停止或いは変換プロセスを停止できる。そして、出力映像をちゃんと保存して、大切にすることができる。  
 ![DVD Shrinkエラーへの対策](https://www.macxdvd.com/blog/img/zql-2018-03-06-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 使い方から見ると、DVD Shrinkより、MacX DVD Ripper Proの方が楽だろう。
 
 [DVD Ripper for Windows使い方](https://tools.techidaily.com/macxdvd/products/)
@@ -223,14 +244,23 @@ DVD Shrinkはちょっと古くても、使い勝手が良くて大勢の日本�
 
 ![](https://www.macxdvd.com/blog/../mobile/img/link_icon_blue.png) **[DVD Shrink DVD Decrypter連携の使い方やエラーの対策](https://tools.techidaily.com/macxdvd/products/)** 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 DVD Shrink DVD Decrypter連携、DVDコピーできない時の対策。
 
 ![](https://www.macxdvd.com/blog/../mobile/img/link_icon_blue.png) **[DVD Shrink保存先わからない対策](https://tools.techidaily.com/macxdvd/products/)** 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 DVD Shrink保存先分からない・見つからない時の対策おすすめ
 
 ![](https://www.macxdvd.com/blog/../mobile/img/link_icon_blue.png) **[DVD Shrinkエラーで読み込め・コピーできない](https://tools.techidaily.com/macxdvd/products/)** 
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 DVD Shrink3.2がエラーが出て、うまくいかない時に対する対策！
 
 ![](https://www.macxdvd.com/blog/../mobile/img/link_icon_blue.png) **[DVD Decrypter書き込みへの対処法](https://tools.techidaily.com/macxdvd/products/)** 
@@ -255,3 +285,64 @@ DVD Decrypterで書き込みできない理由と解決策を詳しく解説！
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-the-complete-playbook-for-youtube-beginners/"><u>[New] 2024 Approved  The Complete Playbook for YouTube Beginners</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-craft-your-channel-studio-or-beta-innovation-comparison/"><u>[New] In 2024, Craft Your Channel  Studio or Beta Innovation Comparison</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/s-your-channels-income-regular-via-youtube-for-2024/"><u>[New] Is Your Channel's Income Regular via YouTube for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-librecam-x-live-streaming-experience-analyzed/"><u>[New] LibreCam X Live Streaming Experience Analyzed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-leading-social-media-hash-tracking-software-for-fb-tweet-and-insta/"><u>[Updated] 2024 Approved  Leading Social Media Hash Tracking Software for FB, Tweet & Insta</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-streamline-your-online-experience-insights-into-ffxp/"><u>[Updated] 2024 Approved  Streamline Your Online Experience  Insights Into FFXP</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-discovering-charismatic-faces-on-your-snaps/"><u>[Updated] In 2024, Discovering Charismatic Faces on Your Snaps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-best-screen-time-for-peaceful-phone-puzzles/"><u>2024 Approved  Best Screen-Time for Peaceful Phone Puzzles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/cookiebot-enabled-enhance-your-website-traffic-with-advanced-analytics/"><u>Cookiebot-Enabled: Enhance Your Website Traffic with Advanced Analytics</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/cookiebot-enabled-enhance-your-websites-conversion-rates-with-our-advanced-analytics-tools/"><u>Cookiebot-Enabled: Enhance Your Website's Conversion Rates with Our Advanced Analytics Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/cookiebot-enabled-enhancing-user-experience-with-smart-marketing-automation/"><u>Cookiebot-Enabled: Enhancing User Experience with Smart Marketing Automation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/cookiebot-enhanced-sites-boost-your-web-traffic-with-smart-tracking/"><u>Cookiebot-Enhanced Sites: Boost Your Web Traffic with Smart Tracking</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/cookiebot-fueled-analytics-boosting-website-engagement/"><u>Cookiebot-Fueled Analytics: Boosting Website Engagement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/devolution-des-taches-une-etude-de-labbyy-revele-que-les-francais-preferent-confier-du-travail-aux-robots/"><u>Dévolution Des Tâches: Une Étude De L'ABBYY Révèle Que Les Français Préfèrent Confier Du Travail Aux Robots</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/driven-by-ai-optimizing-your-website-with-cutting-edge-cookiebot-technology/"><u>Driven By AI: Optimizing Your Website with Cutting-Edge Cookiebot Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/easing-the-challenge-write-permissions-for-steam-folders/"><u>Easing the Challenge: Write Permissions for Steam Folders</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/efficient-automation-of-bill-management-in-large-property-associations-with-abbyy-solutions/"><u>Efficient Automation of Bill Management in Large Property Associations with ABBYY Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effiziente-dateneingabelosung-durch-automatisierte-prozesse-bei-der-berliner-abfallentsorgungsgesellschaft/"><u>Effiziente Dateneingabelösung Durch Automatisierte Prozesse Bei Der Berliner Abfallentsorgungsgesellschaft</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effiziente-treibstoffquelle-um-die-geschaftsleistung-anzukurbeln/"><u>Effiziente Treibstoffquelle, Um Die Geschäftsleistung Anzukurbeln</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-guide-to-updating-windows-battery-driver-software/"><u>Effortless Guide to Updating Windows Battery Driver Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/empower-your-tech-savviness-with-confident-data-management-password-restoration-tips-and-skill-expansion-wisdom-from-within-abbyy/"><u>Empower Your Tech Savviness with Confident Data Management, Password Restoration Tips, and Skill Expansion | Wisdom From Within ABBYY</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/empowering-your-automated-staff-with-intelligent-decision-making-skills-insights-from-abbyy/"><u>Empowering Your Automated Staff with Intelligent Decision-Making Skills - Insights From ABBYY</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enhance-user-engagement-with-cookiebot-driven-custom-experiences/"><u>Enhance User Engagement with Cookiebot-Driven Custom Experiences</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enhance-website-performance-using-the-state-of-the-art-cookiebot-solution/"><u>Enhance Website Performance Using the State-of-the-Art Cookiebot Solution</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enhance-your-online-presence-with-optimized-website-pages-strategies/"><u>Enhance Your Online Presence with Optimized Website Pages Strategies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enhance-your-site-with-cookiebots-advanced-tracking-solutions/"><u>Enhance Your Site with Cookiebot's Advanced Tracking Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enhanced-analytics-with-cookiebot-integration-for-better-website-performance/"><u>Enhanced Analytics with Cookiebot Integration for Better Website Performance</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enhanced-site-interactivity-with-the-power-of-cookiebot-technology/"><u>Enhanced Site Interactivity with the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enhanced-traffic-insights-with-the-help-of-cookiebot-technology/"><u>Enhanced Traffic Insights with the Help of Cookiebot Technology</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enhanced-web-traffic-with-cookiebot-the-ultimate-marketing-booster/"><u>Enhanced Web Traffic with Cookiebot: The Ultimate Marketing Booster</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enhancing-user-insights-using-cookiebot-solutions/"><u>Enhancing User Insights Using Cookiebot Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhancing-visual-performance-a-tutorial-on-graphics-card-replacement/"><u>Enhancing Visual Performance: A Tutorial on Graphics Card Replacement</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ensuring-smooth-playback-of-mobile-video-content/"><u>Ensuring Smooth Playback of Mobile Video Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/harness-the-power-of-cookiebot-technology-for-targeted-marketing-insights/"><u>Harness the Power of Cookiebot Technology for Targeted Marketing Insights</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/harnessing-personalization-with-cookiebot-technology-for-improved-engagement/"><u>Harnessing Personalization with Cookiebot Technology for Improved Engagement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/harnessing-the-power-of-cookiebot-for-enhanced-user-experience/"><u>Harnessing the Power of Cookiebot for Enhanced User Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-abbyy-became-the-pioneering-leader-in-intelligent-docutech-for-2n21-according-to-the-isg-provider-lens-study/"><u>How ABBYY Became the Pioneering Leader in Intelligent DocuTech for 2N21, According to the ISG Provider Lens™ Study</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-auditing-video-content-monetization-success/"><u>In 2024, Auditing Video Content Monetization Success</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-best-free-youtube-ending-creators-top-6-picks/"><u>In 2024, Best Free YouTube Ending Creators - Top 6 Picks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-seamless-skype-call-recordings-a-cross-platform-approach/"><u>In 2024, Seamless Skype Call Recordings  A Cross-Platform Approach</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/innovative-artificial-intelligence-enhancing-digital-tax-preparation/"><u>Innovative Artificial Intelligence Enhancing Digital Tax Preparation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-espnpluss-operation-how-to-navigate-and-enjoy-online-sports-broadcasting/"><u>Inside ESPN+'s Operation: How to Navigate and Enjoy Online Sports Broadcasting</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/iphone-scanning-app-convert-documents-and-images-with-ocr-technology/"><u>IPhone Scanning App - Convert Documents & Images with OCR Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-world-creation-in-writing-through-chatgpt-techniques/"><u>Mastering World Creation in Writing Through ChatGPT Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/maximize-efficiency-integrating-abbyy-and-blue-prism-in-your-automation-hub-webinar/"><u>Maximize Efficiency: Integrating ABBYY & Blue Prism in Your Automation Hub Webinar</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/maximize-online-presence-through-cookiebots-advanced-analytics-solutions/"><u>Maximize Online Presence Through Cookiebot's Advanced Analytics Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/navigating-healthcares-ai-revolution-steering-clear-of-top-three-hazards/"><u>Navigating Healthcare's AI Revolution: Steering Clear of Top Three Hazards</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/optimized-with-cookiebot-technology-for-smarter-visitor-engagement/"><u>Optimized with Cookiebot Technology for Smarter Visitor Engagement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/pepsico-simplifie-la-gestion-de-ses-factures-avec-abbyy-flexicapture-pour-une-automatisation-efficace/"><u>PepsiCo Simplifie La Gestion De Ses Factures Avec ABBYY FlexiCapture Pour Une Automatisation Efficace</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/revolutionize-your-marketing-strategy-using-the-advanced-power-of-cookiebot/"><u>Revolutionize Your Marketing Strategy Using the Advanced Power of Cookiebot</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/seamless-abyzy-and-alterx-integration-strategies/"><u>Seamless ABYZY and AlterX Integration Strategies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamlining-e-invoicing-with-smart-automation-zero-touch-strategy-through-advanced-document-processing-by-abbyy/"><u>Streamlining E-Invoicing with Smart Automation: 'Zero Touch' Strategy Through Advanced Document Processing by ABBYY</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-importance-of-process-understanding-in-managing-non-standardized-workflows/"><u>The Importance of Process Understanding in Managing Non-Standardized Workflows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-10-strategies-boost-your-linkedin-job-search-with-chatgpt/"><u>Top 10 Strategies: Boost Your LinkedIn Job Search with ChatGPT</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforming-justice-navigating-new-horizons-in-law-practice-insights-from-abbyy/"><u>Transforming Justice: Navigating New Horizons in Law Practice - Insights From ABBYY</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-the-secrets-of-winning-hackathons-fostering-creativity-and-maximizing-outcomes/"><u>Unlocking the Secrets of Winning Hackathons: Fostering Creativity & Maximizing Outcomes</u></a></li>
+</ul></div>
