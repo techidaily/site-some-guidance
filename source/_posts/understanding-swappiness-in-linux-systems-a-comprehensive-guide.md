@@ -1,7 +1,7 @@
 ---
 title: "Understanding Swappiness in Linux Systems: A Comprehensive Guide"
-date: 2024-08-28 19:56:42
-updated: 2024-08-29 11:10:31
+date: 2024-08-31T06:10:30.064Z
+updated: 2024-09-01T06:10:30.064Z
 tags:
   - desktop
 categories:
@@ -34,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
 
  Simple. We're going to prove it.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Your RAM is Split Into Zones
 
  Linux doesn't think of your RAM as one big homogenous pool of memory. It considers it to be divided into a number of different regions called zones. Which zones are present on your computer depends on whether it is [32-bit](https://en.wikipedia.org/wiki/32-bit) or [64-bit](https://en.wikipedia.org/wiki/64-bit%5Fcomputing). Here's a simplified description of the possible zones on an [x86 architecture computer](https://en.wikipedia.org/wiki/X86).
@@ -53,6 +56,9 @@ getconf PAGESIZE
 
 ![getconf PAGESIZE](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/6-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Zones Are Attached to Nodes
 
  Zones are attached to nodes. Nodes are associated with a [Central Processing Unit (CPU)](https://www.howtogeek.com/367931/htg-explains-how-does-a-cpu-actually-work/). The kernel will try to allocate memory for a process running on a CPU from the node associated with that CPU.
@@ -84,6 +90,9 @@ Node 0, zone DMA 1 1 1 0 2 1 1 0 1 1 3
 
  But really, the only reason we're looking at this information is to see the relationship between nodes and zones.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  File Pages and Anonymous Pages
 
  Memory mapping uses sets of [page table entries](https://en.wikipedia.org/wiki/Page%5Ftable) to record which memory pages are used, and for what.
@@ -98,6 +107,9 @@ Node 0, zone DMA 1 1 1 0 2 1 1 0 1 1 3
 
  For swappiness, we need only concern ourselves with the first two in the list: file pages and anonymous pages.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ##  Swappiness
 
  Here's the description of swappiness [from the Linux documentation](https://github.com/torvalds/linux/blob/v5.0/Documentation/sysctl/vm.txt#L809) on [GitHub](https://github.com/):
@@ -129,6 +141,9 @@ file_prio = 200 - anon_prio;`
     
  That's interesting. Two distinct values are derived from `swappiness`. The `anon_prio` and `file_prio` variables hold these values. As one increases, the other decreases, and vice versa. The Linux swappiness value actually sets the ratio between two values.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Golden Ratio
 
  File pages hold data that can be easily retrieved if that memory is freed. Linux can just read the file again. As we've seen, if the file data has been changed in RAM, those changes must be written to the file before the file page can be freed. But, either way, the file page in RAM can be repopulated by reading data from the file. So why bother adding these pages to the swap partition or swap file? If you need that data again, you might as well read it back from the original file instead of a redundant copy in the swap space. So file pages are not stored in swap. They're "stored" back in the original file. With anonymous pages, there is no underlying file associated with the values in memory. The values in those pages have been dynamically arrived at. You can't simply read them back in from a file. The only way anonymous page memory values can be recovered is to store the data somewhere before freeing the memory. And that's what swap holds. Anonymous pages that you are going to need to reference again. But note that for both file pages and for anonymous pages, freeing up the memory may require a hard drive write. If the file page data or the anonymous page data has changed since it was last written to the file or to swap, a file system write is required. To retrieve the data will require a file system read. Both types of page reclaim are costly. Trying to reduce hard drive input and output by minimizing the swapping of anonymous pages only increases the amount of hard drive input and output that is required to deal with file pages being written to, and read from, files. As you can see from the last code snippet, there are two variables. One called `file_prio` for "file priority", and one called `anon_prio` for "anonymous priority".
@@ -143,6 +158,9 @@ file_prio = 200 - anon_prio;`
 
  So you can see that you cannot use the Linux swappiness value to influence swap's behavior with respect to RAM usage. It just doesn't work like that.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What Should Swapiness Be Set To?
 
  This depends on hardware, workload, hard drive type, and whether your computer is a desktop or a server. Obviously, this isn't going to be a one size fits all type of setting. And you have to bear in mind that swap isn't just used as a mechanism to free up RAM when you're running out of memory space. Swap is an important part of a well functioning system, and without it, sane memory management becomes very difficult for Linux to achieve. Changing the Linux swappiness value has an instant effect; you don't need to reboot. So you can make small adjustments and monitor the effects. Ideally, you'd do this over a period of days, with different types of activity on your computer, to try to find the closest to an ideal setting that you can. These are some points to consider:
@@ -186,3 +204,46 @@ vm.swappiness=35
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-asmr-sound-mastery-selecting-the-ideal-microphone/"><u>[New] 2024 Approved  ASMR Sound Mastery  Selecting the Ideal Microphone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-behind-the-scenes-of-gamers-elite-setup/"><u>[New] 2024 Approved  Behind the Scenes of Gamers' Elite Setup</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-filming-perfecting-the-chroma-key-effect/"><u>[New] 2024 Approved  Instagram Filming  Perfecting the Chroma Key Effect</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-leading-the-pack-in-multi-media-posting-on-instagram/"><u>[New] In 2024, Leading the Pack in Multi-Media Posting on Instagram</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-simple-strategies-for-recording-on-youtube/"><u>[New] In 2024, Simple Strategies for Recording on YouTube</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-professional-voice-capture-on-mac-compiling-the-best-5-apps/"><u>[New] Professional Voice Capture on Mac  Compiling The Best 5 Apps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-social-soundtrack-top-10-music-videos-on-facebook/"><u>[New] Social Soundtrack  Top 10 Music Videos on Facebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fine-tune-youtube-video-pacing-desktopmobile/"><u>[Updated] 2024 Approved  Fine-Tune YouTube Video Pacing - Desktop/Mobile</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-directscreen-w11-instant-recording-on-windows-11-for-2024/"><u>[Updated] DirectScreen W11  Instant Recording on Windows 11 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-official-macx-pro-powerful-dvd-ripping-and-video-conversion-suite-for-macos-with-features-including-apple-device-support/"><u>1. Official MacX Pro: Powerful DVD Ripping & Video Conversion Suite for macOS with Features Including Apple Device Support</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-ultimate-guide-transforming-heic-photos-into-jpg-format-best-6-techniques/"><u>1. Ultimate Guide: Transforming HEIC Photos Into JPG Format - Best 6 Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-unconventional-perspectives-in-photos/"><u>2024 Approved  Exploring Unconventional Perspectives in Photos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-your-playlist-import-music-into-inshot/"><u>2024 Approved  Streamline Your Playlist  Import Music Into InShot</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-lava-blaze-curve-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Lava Blaze Curve 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/4-simple-methods-to-watch-mkv-videos-on-your-mac-a-step-by-step-guide/"><u>4 Simple Methods to Watch MKV Videos on Your Mac: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-20-video-downloaders-for-ios-and-android-devices-a-comprehensive-guide/"><u>Best 20 Video Downloaders for iOS and Android Devices: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-and-install-virtualdub-for-mac-a-comprehensive-tutorial/"><u>Download & Install VirtualDub for Mac - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-high-definition-versions-of-top-2021-mtv-vma-winners-music-videos/"><u>Download High Definition Versions of Top 2021 MTV VMA Winners' Music Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emotional-assistance-responsible-ai-application/"><u>Emotional Assistance: Responsible AI Application</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/essential-laugh-out-loud-flicks-featuring-hollywoods-finest-talent/"><u>Essential Laugh-Out-Loud Flicks Featuring Hollywood's Finest Talent</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Pro without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-t2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-send-oversized-videos-on-whatsapp-bypassing-the-size-limit/"><u>How to Send Oversized Videos on WhatsApp : Bypassing the Size Limit</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/iphonepcadblock-avgle/"><u>IPhoneやPCのAdBlock時にアビール視聴回避手段: Avgle広告無添加再生</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macosmp4mkvavchdmacx-ipod-ipod/"><u>MacOS上での高性能MP4/MKV/AVCHD変換：MacX iPod動画コンバーター - iPod用ビデオ移行ツール</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/moving-ios-tunes-onto-mac-seamless-transfer-techniques-for-macbook-pro-air-and-imac-systems/"><u>Moving iOS Tunes Onto Mac: Seamless Transfer Techniques for MacBook Pro, Air and iMac Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/quelles-sont-les-meilleures-alternatives-au-lecteur-de-dvd-powerdvd-sur-un-ordinateur-mac-des-suggestions-de-telechargement/"><u>Quelles Sont Les Meilleures Alternatives Au Lecteur De DVD PowerDVD Sur Un Ordinateur Mac ? Des Suggestions De Téléchargement !</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/save-big-get-macx-dvd-ripper-pro-at-a-steep-discount-shop-now/"><u>Save Big: Get MacX DVD Ripper Pro at a Steep Discount - Shop Now!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sharpviewzoomx7-professional-photo-size-controls/"><u>SharpViewZoomX7  Professional Photo Size Controls</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/smooth-viewing-experience-ultimate-tricks-to-block-advertisements-on-youtube/"><u>Smooth Viewing Experience: Ultimate Tricks to Block Advertisements on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-process-of-watching-mkv-videos-on-your-iphone-8-or-plus-device/"><u>Step-by-Step Process of Watching MKV Videos on Your iPhone 8 or Plus Device</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/struggling-to-share-your-videos-on-fb-try-out-our-top-10-rapid-remedies-for-easy-uploads/"><u>Struggling to Share Your Videos on FB? Try Out Our Top 10 Rapid Remedies for Easy Uploads!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-comprehensive-blueprint-for-vimeo-video-logging-for-2024/"><u>The Comprehensive Blueprint for Vimeo Video Logging for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-empfohlene-serie-und-filmwunschliste-fur-kostenloses-streamen-im-internet/"><u>Top-Empfohlene Serie Und Filmwunschliste Für Kostenloses Streamen Im Internet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-rangige-mac-videokonvertierer-programme-getestet-und-bewertet/"><u>Top-Rangige Mac Videokonvertierer Programme Getestet Und Bewertet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-ranking-no-cost-mac-dvd-ripper-transform-your-disc-files-into-avi-format-seamlessly/"><u>Top-Ranking No Cost Mac DVD Ripper: Transform Your Disc Files Into AVI Format Seamlessly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-streaming-hd-dvd-movies-with-your-home-theater-pc/"><u>Ultimate Guide to Streaming HD DVD Movies with Your Home Theater PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-tutorial-on-syncing-iphone-content-directly-with-your-mac-system-no-itunes-needed/"><u>Ultimate Tutorial on Syncing iPhone Content Directly with Your Mac System - No iTunes Needed!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/usb-funktionsnutzen-von-ipad-und-iphone-ohne-itunes-oder-safeunlock/"><u>USB-Funktionsnutzen Von iPad Und iPhone Ohne ITUNES Oder SafeUnlock</u></a></li>
+</ul></div>

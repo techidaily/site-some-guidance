@@ -1,7 +1,7 @@
 ---
 title: "Mastering Swap Settings on Linux: What You Need to Know and Adjustments for Optimal Performance"
-date: 2024-08-27 15:41:42
-updated: 2024-08-29 11:15:46
+date: 2024-08-31T06:11:09.936Z
+updated: 2024-09-01T06:11:09.936Z
 tags:
   - desktop
 categories:
@@ -43,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 * **Normal**: On 64-bit computers, normal memory is all of the RAM above 4GB (roughly). On 32-bit machines, it is RAM between 16 MB and 896 MB.
 * **HighMem**: This only exists on 32-bit Linux computers. It is all RAM above 896 MB, including RAM above 4 GB on sufficiently large machines.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  The PAGESIZE Value
 
  RAM is allocated in pages, which are of a fixed size. That size is determined by the kernel at boot time by detecting the architecture of the computer. Typically the page size on a Linux computer is 4 Kbytes.
@@ -53,6 +56,12 @@ getconf PAGESIZE
 
 ![getconf PAGESIZE](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/6-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ##  Zones Are Attached to Nodes
 
  Zones are attached to nodes. Nodes are associated with a [Central Processing Unit (CPU)](https://www.howtogeek.com/367931/htg-explains-how-does-a-cpu-actually-work/). The kernel will try to allocate memory for a process running on a CPU from the node associated with that CPU.
@@ -65,6 +74,9 @@ less /proc/buddyinfo
 
 ![less /proc/buddyinfo in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
  This is the output from the 64-bit computer this article was researched on:
 
 Node 0, zone DMA 1 1 1 0 2 1 1 0 1 1 3
@@ -129,6 +141,9 @@ file_prio = 200 - anon_prio;`
     
  That's interesting. Two distinct values are derived from `swappiness`. The `anon_prio` and `file_prio` variables hold these values. As one increases, the other decreases, and vice versa. The Linux swappiness value actually sets the ratio between two values.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Golden Ratio
 
  File pages hold data that can be easily retrieved if that memory is freed. Linux can just read the file again. As we've seen, if the file data has been changed in RAM, those changes must be written to the file before the file page can be freed. But, either way, the file page in RAM can be repopulated by reading data from the file. So why bother adding these pages to the swap partition or swap file? If you need that data again, you might as well read it back from the original file instead of a redundant copy in the swap space. So file pages are not stored in swap. They're "stored" back in the original file. With anonymous pages, there is no underlying file associated with the values in memory. The values in those pages have been dynamically arrived at. You can't simply read them back in from a file. The only way anonymous page memory values can be recovered is to store the data somewhere before freeing the memory. And that's what swap holds. Anonymous pages that you are going to need to reference again. But note that for both file pages and for anonymous pages, freeing up the memory may require a hard drive write. If the file page data or the anonymous page data has changed since it was last written to the file or to swap, a file system write is required. To retrieve the data will require a file system read. Both types of page reclaim are costly. Trying to reduce hard drive input and output by minimizing the swapping of anonymous pages only increases the amount of hard drive input and output that is required to deal with file pages being written to, and read from, files. As you can see from the last code snippet, there are two variables. One called `file_prio` for "file priority", and one called `anon_prio` for "anonymous priority".
@@ -143,6 +158,9 @@ file_prio = 200 - anon_prio;`
 
  So you can see that you cannot use the Linux swappiness value to influence swap's behavior with respect to RAM usage. It just doesn't work like that.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  What Should Swapiness Be Set To?
 
  This depends on hardware, workload, hard drive type, and whether your computer is a desktop or a server. Obviously, this isn't going to be a one size fits all type of setting. And you have to bear in mind that swap isn't just used as a mechanism to free up RAM when you're running out of memory space. Swap is an important part of a well functioning system, and without it, sane memory management becomes very difficult for Linux to achieve. Changing the Linux swappiness value has an instant effect; you don't need to reboot. So you can make small adjustments and monitor the effects. Ideally, you'd do this over a period of days, with different types of activity on your computer, to try to find the closest to an ideal setting that you can. These are some points to consider:
@@ -186,3 +204,48 @@ vm.swappiness=35
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-advanced-strategies-for-precise-vr-gameplay-recording/"><u>[New] Advanced Strategies for Precise VR Gameplay Recording</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-video-camera-selections-for-superior-recording/"><u>[New] Prime Video Camera Selections for Superior Recording</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-sharpscope-zoommax7-precision-in-size-adjustment-for-2024/"><u>[New] SharpScope ZoomMax7  Precision in Size Adjustment for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-audio-engagement-exploration-delving-into-the-world-of-podcasts-vs-youtube/"><u>[Updated] Audio Engagement Exploration  Delving Into the World of Podcasts Vs. YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-to-simplified-gs-yt-cta-implementation/"><u>[Updated] In 2024, Guide to Simplified GS-YT CTA Implementation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-perfect-gifs-essential-virtual-meet-scenes-for-2024/"><u>[Updated] Perfect GIFs  Essential Virtual Meet Scenes for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1724766467237-dvd/"><u>「カーナビ用DVDの視聴可能なフォーマットと再生失敗時の解決策」</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024cprmcopy-one-time/"><u>2024年度更新版：専門的なガイドで「CPRM/Copy One Time」ロックを解除する手順の全容解明</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1724765896655-dvd/"><u>安全にDVDスリック（日本版）ダウンロード苦労していますか? 解決策はこちら!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/alternatives-to-mkv2vob-on-mac-seamless-conversion-from-mkv-to-vob-compatible-with-playstation-5-and-4/"><u>Alternatives to MKV2VOB on Mac: Seamless Conversion From MKV to VOB Compatible with PlayStation 5 and 4</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-free-converters-for-mac-pro-users-easy-avchd-to-mp4-with-macx-solution/"><u>Best Free Converters for Mac Pro Users: Easy AVCHD to MP4 with MacX Solution</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/can-you-transfer-a-dvd-onto-an-ipad-using-handbrake/"><u>Can You Transfer a DVD Onto an iPad Using Handbrake?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/cpu-versus-gpu-encoding-speeds-the-ultimate-showdown-for-performance-efficiency/"><u>CPU Versus GPU Encoding Speeds: The Ultimate Showdown for Performance Efficiency</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-make-mkv-gratis-su-mac-esegui-facile-le-tue-copie-di-dvd-e-blu-ray/"><u>Download Make MKV Gratis Su Mac – Esegui Facile Le Tue Copie Di DVD E Blu-Ray</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvd-macx-dvd-ripper-for-macos-dvdmacipad/"><u>DVDコピーレス変換: MacX 無料 DVD Ripper for macOS - DVDのプロテクトさえ解除して、Macで簡単にiPad用ファイルへ変換する方法</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/efficient-techniques-for-conversion-of-gotomeeting-video-files-to-mp4-with-g2mm4-encoding-utility/"><u>Efficient Techniques for Conversion of GoToMeeting Video Files to MP4 with G2MM4 Encoding Utility</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/efficient-ways-to-seamlessly-update-your-2017-macbook-pro-comprehensive-solutions-inside/"><u>Efficient Ways to Seamlessly Update Your 2017 MacBook Pro – Comprehensive Solutions Inside!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-strategies-for-an-engaging-zoom-youtube-live-session/"><u>Expert Strategies for an Engaging Zoom YouTube Live Session</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/explore-the-best-mac-friendly-options-to-replace-mediacoder-seamless-video-transformation-solutions/"><u>Explore the Best Mac-Friendly Options to Replace MediaCoder: Seamless Video Transformation Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-screenshots-to-art-the-8-best-photo-collage-tools-for-2024/"><u>From Screenshots to Art  The 8 Best Photo Collage Tools for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/high-quality-video-transformation-quickly-adapt-hd-movies-and-audio-files-for-your-ipad-apple-tv-and-more-using-the-macx-converter/"><u>High-Quality Video Transformation: Quickly Adapt HD Movies and Audio Files for Your iPad, Apple TV, and More Using the MacX Converter!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-nokia-c02-easily-by-drfone-android/"><u>In 2024, How To Unlock a Nokia C02 Easily?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/leading-no-cost-convert-heic-images-to-jpg-expert-opinions-and-guides/"><u>Leading No-Cost Convert HEIC Images to JPG: Expert Opinions & Guides</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mac-drm-free-solutions-unlocking-your-itunes-media-libraries/"><u>Mac DRM-Free Solutions: Unlocking Your iTunes Media Libraries</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macxdvd-special-holiday-edition-april-2024-release/"><u>MacXDVD Special Holiday Edition - April 2024 Release</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-final-cut-pro-essential-compression-techniques-troubleshooting-strategies-and-solutions/"><u>Mastering Final Cut Pro: Essential Compression Techniques, Troubleshooting Strategies & Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/navigating-the-transition-from-macos-catalina-to-macos-big-sur-timely-advice-on-upgrading-your-system/"><u>Navigating the Transition From macOS Catalina to macOS Big Sur: Timely Advice on Upgrading Your System</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-art-of-pitch-correction-in-audacity-enhancing-sound-worthily-for-2024/"><u>New The Art of Pitch Correction in Audacity Enhancing Sound Worthily for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-playback-jitters-fast/"><u>Resolve Playback Jitters Fast</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ripper-e-conversione-gratuita-di-dvd-su-macos-passaggio-mp4-senza-spese/"><u>Ripper E Conversione Gratuita Di DVD Su macOS: Passaggio MP4 Senza Spese</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/score-big-savings-on-macx-mediatrans-buy-with-exclusive-online-discounts-today/"><u>Score Big Savings on MacX MediaTrans: Buy With Exclusive Online Discounts Today!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/seamless-conversion-switching-from-mkv-to-m4v-format-on-macos-and-windows-without-loss-of-quality/"><u>Seamless Conversion: Switching From MKV to M4V Format on macOS and Windows Without Loss of Quality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/seamless-format-upgrades-for-ios-devices-and-apple-tv-with-macx-convert-movs-to-mp4m4vmp3aac-on-macos-effortlessly/"><u>Seamless Format Upgrades for iOS Devices & Apple TV with MacX: Convert MOVs to MP4/M4V/MP3/AAC on macOS Effortlessly!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/solving-your-iphone-ringtone-issues-a-comprehensive-guide/"><u>Solving Your iPhone Ringtone Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-to-converting-dvds-with-handbrake-easy-tips-for-your-pc/"><u>Step-by-Step Guide to Converting DVDs with Handbrake - Easy Tips for Your PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-picks-ultimate-family-friendly-christmas-films-and-free-downloads/"><u>Top Picks: Ultimate Family-Friendly Christmas Films & Free Downloads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/topos-les-plus-performants-de-telechargement-video-gratuits-pour-macos-sur-youtube/"><u>Topos Les Plus Performants De Téléchargement Vidéo Gratuits Pour macOS Sur Youtube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-face-id-issues-on-your-iphone-x-xs-or-xr-effective-solutions-explored/"><u>Troubleshooting Face ID Issues on Your iPhone X, XS, or XR: Effective Solutions Explored</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-the-full-potential-of-gpt-3-with-chatbot-liberation-techniques/"><u>Unleashing the Full Potential of GPT-3 with Chatbot Liberation Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-secret-savers-of-your-insta-content/"><u>Unveiling the Secret Savers of Your Insta Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/upgrade-your-dvd-creation-experience-on-mac-secure-full-access-and-a-free-latest-version-of-macxdvd-tools/"><u>Upgrade Your DVD Creation Experience on Mac: Secure Full Access and a FREE Latest Version of MacXDVD Tools!</u></a></li>
+</ul></div>

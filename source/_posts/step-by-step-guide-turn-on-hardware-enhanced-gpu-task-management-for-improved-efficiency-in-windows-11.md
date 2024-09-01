@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Turn On Hardware-Enhanced GPU Task Management for Improved Efficiency in Windows 11"
-date: 2024-08-28 20:33:42
-updated: 2024-08-29 10:26:53
+date: 2024-08-31T06:13:33.989Z
+updated: 2024-09-01T06:13:33.989Z
 tags:
   - deals
 categories:
@@ -39,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/b8fca16a34b5411c86475482e61fa021f5aeb0294
 
  The only reason you shouldn't use this feature is if you experience any issues after enabling it. If your apps suddenly stop working or you have [graphics-related problems](https://video-capture.techidaily.com/new-essential-scripting-instant-stopwatch-integration-in-obs-for-2024/) after turning it on, then GPU scheduling is best left disabled. Fortunately, disabling the feature after testing it is as easy as turning it on. 
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What You'll Need to Make This Feature Work
 
  Though this feature debuted with [Windows 10 May 2020 Update](https://hardware-tips.techidaily.com/navigating-the-digital-realm-with-toms-computing-wisdom/), it still comes disabled in Windows 10 and Windows 11\. Also, your computer needs to have an NVIDIA (GTX 10-series and later) or AMD (5600 series or later) [graphics card](https://android-unlock.techidaily.com/unlock-vivo-s17-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/) with the latest graphics driver.
@@ -51,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/b8fca16a34b5411c86475482e61fa021f5aeb0294
 
  There are two ways to enable Hardware-Accelerated GPU Scheduling on Windows 10: use the Settings app or the Registry Editor. Both accomplish the same thing, though the Settings app is much easier. 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  Using Settings
 
  Start by [launching the Settings app](https://facebook-video-footage.techidaily.com/updated-2024-approved-5-easy-ways-to-multiply-your-youtube-follower-base/) on your PC. You can do this by pressing Windows+i.
@@ -75,6 +81,9 @@ thumbnail: https://thmb.techidaily.com/b8fca16a34b5411c86475482e61fa021f5aeb0294
 
  Close the Settings app and [reboot your PC](https://article-posts.techidaily.com/comparing-the-creme-de-la-creme-gopro-hero5-black-to-hero4-silver-for-2024/) to bring your changes into effect.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ###  Using the Registry Editor
 
  To enable Hardware-Accelerated GPU Scheduling via [the Registry Editor](https://extra-lessons.techidaily.com/the-ultimate-hdtv-showdown-selecting-the-best-8k-models/), [open the Run box](https://android-location-track.techidaily.com/top-9-oppo-k11x-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/) by pressing Windows+R, then type the following and press Enter:
@@ -95,6 +104,9 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers
 
 ![Enter "2" into the Value Data field, then click "OK."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-change-value-to-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the future, to disable the feature, enter `1` in the "Value Data" field, choose "Hexadecimal," and select "OK."
 
  Close Registry Editor, restart your PC, and you have Hardware-Accelerated GPU Scheduling enabled on your computer. Enjoy!
@@ -105,18 +117,33 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers
 
 ![Select the 'System' tab, then click 'Display.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1-13.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  From the "Related Settings" section, select "Graphics."
 
 ![Select 'Graphics' under Related Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-12.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Choose "Change Default Graphics Settings."
 
 ![Select' Change Default Graphics Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
  Then, toggle on the switch under "Hardware-Accelerated GPU Scheduling" and select "Yes" from the User Access Control prompt that shows up.
 
 ![Click the toggle under Hardware-accelerated GPU scheduling.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
  If you decide you want to disable GPU scheduling later, simply toggle off the "Hardware-Accelerated GPU Scheduling" option.
 
  After that, you can close the "Settings" app and restart your PC to apply the change.
@@ -139,3 +166,54 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-ignite-discussion-with-custom-creative-story-inquiries/"><u>[New] 2024 Approved  Ignite Discussion with Custom, Creative Story Inquiries</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-compelling-spotify-campaigns-a-compreran-guide/"><u>[New] Crafting Compelling Spotify Campaigns  A Compreran Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-pro-camera-addons-buyers-insider-guide/"><u>[New] Pro-Camera Addons  Buyer's Insider Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-are-video-selfies-on-instagram-really-genuine/"><u>[Updated] Are Video Selfies on Instagram Really Genuine?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-bending-words-in-media-landscapes/"><u>[Updated] Bending Words in Media Landscapes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capturing-action-in-hd-with-ultimate-sj-cam-s6-review/"><u>[Updated] Capturing Action in HD with Ultimate SJ-CAM S6 Review</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-keeping-the-memories-efficiently-taking-screenshots-on-xbox-one-for-2024/"><u>[Updated] Keeping the Memories  Efficiently Taking Screenshots on Xbox One for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-maximize-your-engagement-with-full-screen-facebook-videos/"><u>[Updated] Maximize Your Engagement with Full-Screen Facebook Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/videodownloadhelper-firefox/"><u>「VideoDownloadHelper Firefox 拡張機能の詳細：ダウンロード手順・安全性に関する包括的解説！」</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-comprehensive-guide-seamlessly-moving-your-itunes-collection-to-your-iphone/"><u>1. Comprehensive Guide: Seamlessly Moving Your iTunes Collection to Your iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-ultimate-guide-free-dvd-ripper-apps-for-mac-users/"><u>1. Ultimate Guide: Free DVD Ripper Apps for Mac Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1724765510657-macx-dvd-ripper-pro-windows/"><u>官方網站 MacX DVD Ripper Pro Windows版 - 高保障性影像備份工具</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-guides-and-reviews-on-pc-hardware-by-toms-experts/"><u>Advanced Guides and Reviews on PC Hardware by Tom's Experts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-16-no-cost-mac-screen-capturing-tools-top-picks/"><u>Best 16 No-Cost Mac Screen Capturing Tools: Top Picks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-complimentary-fitness-and-sports-apps-compatible-with-ios-android-and-apple-watch/"><u>Best Complimentary Fitness and Sports Apps Compatible with iOS, Android, and Apple Watch</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-mac-compatible-facebook-downloaders-top-5-picks/"><u>Best Mac-Compatible Facebook Downloaders: Top 5 Picks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/break-boundaries-get-free-vob-handling-toolset-pc-and-mac-for-2024/"><u>Break Boundaries  Get Free VOB Handling Toolset (PC & Mac) for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comparing-codecs-exploring-key-distinctions-between-x264-and-x2-groper-codec/"><u>Comparing Codecs: Exploring Key Distinctions Between X264 & X2 Groper Codec.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/complete-macxdvd-software-suite-upgrade-to-pro-version-at-no-cost/"><u>Complete MacXDVD Software Suite – Upgrade to Pro Version at No Cost</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comprehensive-tutorial-on-how-to-safely-acquire-1080p-resolution-moviesvideos-from-popular-websites-including-youtube-dailymotion-and-facebook/"><u>Comprehensive Tutorial on How to Safely Acquire 1080P Resolution Movies/Videos From Popular Websites Including YouTube, Dailymotion, and Facebook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvd-to-iphoneipad-transfer-for-macos-protected-dvd-to-mp4-conversion-with-macx-ripper-pro/"><u>DVD-to-iPhone/iPad Transfer for macOS: Protected DVD to MP4 Conversion with MacX Ripper Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/efficient-movie-file-format-converters-beyond-zamzar-a-comprehensive-guide/"><u>Efficient Movie File Format Converters Beyond Zamzar: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortless-iphone-data-movement-seamlessly-shift-files-between-iphones-computers-and-android-devices/"><u>Effortless IPhone Data Movement: Seamlessly Shift Files Between iPhones, Computers & Android Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/i-migliori-5-giocatori-di-video-in-4k-guida-definitiva-ai-giochi-a-risoluzione-ultra-hd/"><u>I Migliori 5 Giocatori Di Video in 4K: Guida Definitiva Ai Giochi a Risoluzione Ultra HD</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-htc-frp-bypass-by-drfone-android/"><u>In 2024, About HTC FRP Bypass</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-nubia-red-magic-9-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Nubia Red Magic 9 Pro? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/mastering-free-and-paid-tools-for-vimeo-video-downloads/"><u>Mastering Free & Paid Tools for Vimeo Video Downloads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/optimal-mac-conversion-software-expert-guide-to-handbrake-alternatives/"><u>Optimal Mac Conversion Software: Expert Guide to Handbrake Alternatives</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/optimizing-your-youtube-content-how-to-ensure-full-platform-compatibility-and-overcome-upload-restrictions/"><u>Optimizing Your YouTube Content: How to Ensure Full Platform Compatibility and Overcome Upload Restrictions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/playing-avi-files-on-your-ipad-without-the-need-for-conversion/"><u>Playing AVI Files on Your iPad Without the Need for Conversion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/scarica-un-buon-substituto-di-powerdvd-se-non-e-compatibile-con-il-tuo-mac/"><u>Scarica Un Buon Substituto Di PowerDVD Se Non È Compatibile Con Il Tuo Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/seamless-file-sharing-a-step-by-step-guide-on-moving-data-from-iphone/"><u>Seamless File Sharing: A Step-by-Step Guide on Moving Data From iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/smart-speaker-showdown-determining-if-apples-homepod-or-amazons-echo-suits-your-needs-better/"><u>Smart Speaker Showdown: Determining if Apple's HomePod or Amazon's Echo Suits Your Needs Better</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-to-reducing-the-size-of-wmv-videos-for-webmail-use-on-apple-and-pc-systems/"><u>Step-by-Step Guide to Reducing the Size of WMV Videos for Webmail Use on Apple & PC Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/strategies-to-resolve-the-error-in-moderation-issue-with-chatgpt/"><u>Strategies to Resolve the 'Error in Moderation' Issue with ChatGPT</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-top-choice-of-video-inputs-for-imovie-a-guide-to-editing-videos-with-imovie-on-macos/"><u>The Top Choice of Video Inputs for iMovie: A Guide to Editing Videos with iMovie on macOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-tutorial-on-crafting-unique-iphone-x-ringtone-melodies-from-any-song-you-love/"><u>The Ultimate Tutorial on Crafting Unique iPhone X Ringtone Melodies From Any Song You Love</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-rated-ssd-options-for-macbook-pro-boost-your-performance-with-zero-lag-storage/"><u>Top Rated SSD Options for MacBook Pro: Boost Your Performance with Zero-Lag Storage</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-encryption-errors-in-handbrake-a-comprehensive-guide-to-unscrambling-videos-on-pc-and-mac-platforms/"><u>Troubleshooting Encryption Errors in Handbrake: A Comprehensive Guide to Unscrambling Videos on PC and Mac Platforms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-macx-video-converter-pro-rapid-and-perfect-4k-hd-sd-transformations-for-all-devices/"><u>Ultimate Guide to MacX Video Converter Pro: Rapid and Perfect 4K, HD, SD Transformations for All Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-splitting-videos-in-full-hd-keeping-quality-and-resolution-intact/"><u>Ultimate Guide to Splitting Videos in Full HD - Keeping Quality and Resolution Intact</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-the-best-5-dvd-copying-apps-for-mac-users-looking-for-movie-safety/"><u>Ultimate Guide to the Best 5 DVD Copying Apps for Mac Users Looking for Movie Safety</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-the-finest-video-converters-on-android-devices-optimize-your-phonetablet-experience/"><u>Ultimate Guide to the Finest Video Converters on Android Devices: Optimize Your Phone/Tablet Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-list-of-top-compact-audio-gadgets-for-music-lovers/"><u>Ultimate List of Top Compact Audio Gadgets for Music Lovers!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-digiarty-solutions-comprehensive-guide-to-pricing-licensing-upgrades-collaboration-tech-support-and-offerings/"><u>Understanding Digiarty Solutions: Comprehensive Guide to Pricing, Licensing, Upgrades, Collaboration, Tech Support & Offerings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-dvd-content-with-handbrake-a-guide-to-downloading-and-using-libdvdcss/"><u>Unlocking DVD Content with Handbrake - A Guide to Downloading and Using Libdvdcss</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-translate-video-from-english-to-arabic-with-ease-for-2024/"><u>Updated Translate Video From English to Arabic with Ease for 2024</u></a></li>
+</ul></div>

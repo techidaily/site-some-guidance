@@ -1,7 +1,7 @@
 ---
 title: "How ChatGPT Elevated My Linux Skills: A Personal Journey"
-date: 2024-08-27 15:21:28
-updated: 2024-08-29 12:16:39
+date: 2024-08-31T06:09:58.551Z
+updated: 2024-09-01T06:09:58.551Z
 tags:
   - desktop
 categories:
@@ -53,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 
  Unlike other resources, I can tailor ChatGPT responses to my level of knowledge and understanding, making my learning more effective and easy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ##  Understanding Linux Commands in Depth
 
  Part of using Linux involves learning the command line and [important Linux commands](https://buynow-help.techidaily.com/misinterpretation-of-gram-staining-results-can-lead-to-incorrect-identification-affecting-treatment-decisions-in-clinical-settings/). Whether [using the terminal is a must on Linux](https://screen-activity-recording.techidaily.com/acclaimed-nature-friendly-filming-equipment-insights/) is a different discussion. However, there's no doubt that using the [command line is the way to get the most out of your Linux experience](https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/).
@@ -63,6 +67,9 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 
 ![ChatGPT explaning the mkfs command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-explaning-the-mkfs-command.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
  As a Linux user, there will be many times you'll have to copy and paste large commands from the internet. Sometimes, there will be no explanation of what that command does. You can copy the command and ask ChatGPT what it does before you run it on your Linux system.
 
  When I was new to Linux, I was having a hard time understanding what **sudo apt update && sudo apt upgrade** did. But ChatGPT now makes it easy to understand. Here's another example.
@@ -73,12 +80,27 @@ find /var/log -type f -mtime +30 -exec rm {} \;
 
 ![ChatGPT breakdowns a command used for deleting old log files](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-breakdowns-a-command-used-for-deleting-old-log-files.png) 
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Fun fact, with a bit of prompting, you could use ChatGPT as a Linux terminal simulator. A Reddit user named [cyb3rofficial](https://www.reddit.com/user/cyb3rofficial/) shared a long prompt that could turn your ChatGPT conversation into a Linux terminal session. This can be useful when you'd like to learn what a command will do in your system without running it on a real device. Here's the prompt:
 
 > I want you to act as a Linux terminal. I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. Do not write explanations. Do not type commands unless I instruct you to do so. When I need to tell you something in English I will do so by putting text inside curly brackets {like this}. My first command is pwd.
 
 ![ChatGPT acting as a Linux terminal where the user can input Linux commands](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-acting-as-a-linux-terminal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Troubleshooting Linux Errors
 
  Whether you're a new Linux user or an experienced one, you've likely faced errors while navigating the Linux world. Be it the "[Too many open files](https://vp-tips.techidaily.com/updated-the-ultimate-guide-to-enhancing-reels-with-harmonious-tunes/)" or the "[sudo: command not found](https://vp-tips.techidaily.com/in-2024-expert-tips-for-cutting-and-splicing-360-degree-footage-in-adobe-premiere/)" error, troubleshooting them will become a chore as you continue using Linux.
@@ -89,6 +111,9 @@ find /var/log -type f -mtime +30 -exec rm {} \;
 
 ![ChatGPT explaining the Waiting for cache lock error on Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-explaining-the-waiting-for-cache-lock-error-on-linux.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Then, of course, you can ask ChatGPT for different methods of solving the issue. Another great use I've found for ChatGPT when resolving errors is that sometimes you may find the solution for one distro. You can share that solution with ChatGPT and ask it to tweak the solution for your distro. Here's a simple example where I provided it with a command for installing software on Ubuntu and asked it to show the same command on openSUSE.
 
 ![ChatGPT demonstrating the command for installing software on openSUSE](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-demonstrating-the-command-for-installing-software-on-opensuse.png) 
@@ -103,6 +128,9 @@ find /var/log -type f -mtime +30 -exec rm {} \;
 
 ![ChatGPT giving Linux alternatives of Windows Task Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-giving-linux-alternatives-of-windows-task-manager.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
  So it gives you all the Linux alternatives to Task Manager. Likewise, you can ask ChatGPT for any step-by-step process of doing an activity on Linux, and it'll show you how to do that.
 
 ##  Creating Bash Scripts to Automate Tasks
@@ -113,12 +141,18 @@ find /var/log -type f -mtime +30 -exec rm {} \;
 
 ![ChatGPT creating a Bash script for monitoring memory and CPU usage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-creating-a-bash-script-for-monitoring-memory-and-cpu-usage.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
  It created a Bash script with proper comments on what's happening in the code. It went further and also provided instructions on using the script, customizing it, and running it in the background. Pretty neat!
 
  Without the AI tool, you'd have to learn Bash syntax in depth, know how to create good scripts, and make sure there are no errors (and if there are, look for them). Talk about saving time to save more time!
 
  Again, I'll have to remind you though. ChatGPT can make mistakes. And when it comes to running code or scripts on a real system, you should be more cautious.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ##  Navigating Linux With ChatGPT
 
  Embracing Linux no longer means you need to do it alone. When a great and free tutor like ChatGPT exists, even the most technical terminologies and complex commands become approachable, making a steep learning curve a fun journey.
@@ -137,3 +171,54 @@ find /var/log -type f -mtime +30 -exec rm {} \;
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-secrets-to-successful-live-sessions-obs-and-streaming-platforms/"><u>[New] In 2024, Secrets to Successful Live Sessions  OBS and Streaming Platforms</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unlock-your-videos-potential-with-these-7-audio-treasures/"><u>[Updated] 2024 Approved  Unlock Your Video's Potential with These 7 Audio Treasures</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-seamless-media-magic-turning-xml-ssa-into-dynamic-srts/"><u>[Updated] The Seamless Media Magic  Turning XML, SSA Into Dynamic SRTs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-ultimate-guide-transforming-heic-photos-into-jpg-format-best-6-techniques/"><u>1. Ultimate Guide: Transforming HEIC Photos Into JPG Format - Best 6 Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-collage-insights-for-instagram-success/"><u>2024 Approved  Quick Collage Insights for Instagram Success</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-retro-radeon-tech-boost/"><u>2024 Approved  Retro Radeon Tech Boost</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-honor-x7b-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Honor X7b to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvd-video-converter-pro-pack/"><u>特別割引プロモーション - DVD Video Converter Pro Packオンライン購入</u></a></li>
+<li><a href="https://article-helps.techidaily.com/audiophiles-dilemma-podcast-or-youtube-dominance/"><u>Audiophile's Dilemma  Podcast or YouTube Dominance</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-20-video-downloaders-for-ios-and-android-devices-a-comprehensive-guide/"><u>Best 20 Video Downloaders for iOS and Android Devices: A Comprehensive Guide</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-traffic-and-ranking-leveraging-cookiebot-for-marketing-mastery/"><u>Boost Traffic and Ranking: Leveraging Cookiebot for Marketing Mastery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comment-telecharger-et-utiliser-makemkv-gratuit-sur-mac-pour-extraire-des-films-en-hd/"><u>Comment Télécharger Et Utiliser MakeMKV Gratuit Sur Mac Pour Extraire Des Films en HD</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/countering-harshness-maintaining-poise-online/"><u>Countering Harshness  Maintaining Poise Online</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-and-install-virtualdub-for-mac-a-comprehensive-tutorial/"><u>Download & Install VirtualDub for Mac - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1724766592677-dvddvd/"><u>DVDダビング完全ガイド:任意のDVDに対しても利用可能な、シンプルで使いやすい手順</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-performance-and-cost-the-ultimate-guide-to-microsoft-surface-studio-2/"><u>Evaluating Performance & Cost - The Ultimate Guide to Microsoft Surface Studio 2</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/experience-flawless-video-editing-with-macxs-no-cost-quicktime-editor-top-rated-for-smooth-macos-compatibility-and-versatile-media-support/"><u>Experience Flawless Video Editing with MacX's No-Cost QuickTime Editor - Top Rated for Smooth macOS Compatibility and Versatile Media Support</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fresh-release-latest-graphics-driver-for-nvidias-rtx-2060-on-windows-systems-windows-111087/"><u>Fresh Release: Latest Graphics Driver for Nvidia's RTX 2060 on Windows Systems (Windows 11/10/8/7)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/get-ultimate-performance-free-m4v-format-decoder-bundle-for-crisp-clear-video-playback/"><u>Get Ultimate Performance: Free M4V Format Decoder Bundle for Crisp, Clear Video Playback</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-fix-iphones-stuck-on-ios-1711-update-easy-solutions-you-should-know/"><u>How To Fix iPhones Stuck On IOS 17.11 Update: Easy Solutions You Should Know</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-restore-mobile-connection-solutions-for-iphoneipad-cellular-data-problems/"><u>How to Restore Mobile Connection: Solutions for iPhone/iPad Cellular Data Problems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/i-migliori-8-rippers-gratuiti-per-dvd-su-macos-il-tuo-riferimento-completo/"><u>I Migliori 8 Rippers Gratuiti per DVD Su macOS: Il Tuo Riferimento Completo</u></a></li>
+<li><a href="https://fox-info.techidaily.com/imaginarium-collagecraft-cutting-edge-assembler/"><u>Imaginarium CollageCraft  Cutting-Edge Assembler</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-accessing-global-hitters-the-1-6-short-video-downloaders/"><u>In 2024, Accessing Global Hitters  The #1-#6 Short Video Downloaders</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimal-solutions-for-webp-to-jpg-image-transformation/"><u>In 2024, Optimal Solutions for WebP-to-JPG Image Transformation</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-poco-x6-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Poco X6 and Browser | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/iphone-mp3/"><u>IPhone用音楽編集ガイド: MP3加工・クリップ作成・サウンドミキシング入門</u></a></li>
+<li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macosmp4mkvavchdmacx-ipod-ipod/"><u>MacOS上での高性能MP4/MKV/AVCHD変換：MacX iPod動画コンバーター - iPod用ビデオ移行ツール</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macxdvd-by-digiarty/"><u>MacXDVD by Digiarty: お問い合わせ手順と支援リンク</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-free-green-screen-magic-top-10-apps-for-android-and-ios-users/"><u>New 2024 Approved Free Green Screen Magic Top 10 Apps for Android and iOS Users</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/sony-ws623-review-questionable-aesthetics-discussed/"><u>Sony WS623 Review: Questionable Aesthetics Discussed</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-guide-for-reinstalling-astro-drivers-in-windows/"><u>Step-by-Step Guide for Reinstalling Astro Drivers in Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-process-of-watching-mkv-videos-on-your-iphone-8-or-plus-device/"><u>Step-by-Step Process of Watching MKV Videos on Your iPhone 8 or Plus Device</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-tutorial-bypassing-dvd-copy-protection-for-mac-users/"><u>Step-by-Step Tutorial: Bypassing DVD Copy Protection for Mac Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-using-your-iphone-as-an-external-sd-card-for-free/"><u>The Ultimate Guide to Using Your iPhone as an External SD Card for Free</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/three-top-ranked-free-websites-for-easy-mkv-to-mp4-file-conversion/"><u>Three Top-Ranked Free Websites for Easy MKV to MP4 File Conversion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-empfohlene-serie-und-filmwunschliste-fur-kostenloses-streamen-im-internet/"><u>Top-Empfohlene Serie Und Filmwunschliste Für Kostenloses Streamen Im Internet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-rangige-mac-videokonvertierer-programme-getestet-und-bewertet/"><u>Top-Rangige Mac Videokonvertierer Programme Getestet Und Bewertet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-ranking-no-cost-mac-dvd-ripper-transform-your-disc-files-into-avi-format-seamlessly/"><u>Top-Ranking No Cost Mac DVD Ripper: Transform Your Disc Files Into AVI Format Seamlessly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-high-quality-video-compression-using-handbrake/"><u>Ultimate Guide: High-Quality Video Compression Using HandBrake</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-top-rated-avi-video-players-for-seamless-viewing-experience-on-your-mac/"><u>Ultimate Guide: Top Rated AVI Video Players for Seamless Viewing Experience on Your Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-tutorial-on-syncing-iphone-content-directly-with-your-mac-system-no-itunes-needed/"><u>Ultimate Tutorial on Syncing iPhone Content Directly with Your Mac System - No iTunes Needed!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-the-macxdvd-eula-terms-and-conditions-for-users/"><u>Understanding the MacXDVD EULA: Terms and Conditions for Users</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-unleash-your-creativity-easy-video-editing-with-gopro-quik-for-macbook/"><u>Updated 2024 Approved Unleash Your Creativity Easy Video Editing with GoPro Quik for MacBook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/usb-funktionsnutzen-von-ipad-und-iphone-ohne-itunes-oder-safeunlock/"><u>USB-Funktionsnutzen Von iPad Und iPhone Ohne ITUNES Oder SafeUnlock</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/44ot44o844oq44oz44kw44ko44oh44kj44od44oiioocueocvplusodvoocvplusodvoplus8muw6gpluswriuochoocpuocqeodvoocvplusodvoodnuodvoocrplusobquoblplusobppluswlleeuuplu12/"><u>ローリングエディット スターター：広告やウォーターマークなしで動画をカスタムする方法</u></a></li>
+</ul></div>

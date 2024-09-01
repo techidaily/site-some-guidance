@@ -1,7 +1,7 @@
 ---
 title: Rediscovering My Love for the Arts with Help From AI Tech - My Personal Journey
-date: 2024-08-27 20:16:30
-updated: 2024-08-29 10:33:18
+date: 2024-08-31T06:15:32.172Z
+updated: 2024-09-01T06:15:32.172Z
 tags:
   - cutting-edge
 categories:
@@ -39,6 +39,9 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  But here’s the twist—words were never my biggest passion. I always felt a stronger affinity towards music and art. So why didn’t I prioritize those over writing? Simple answer: I couldn’t!
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Creative Hobbies Have a Barrier To Entry
 
 ![People caught behind a gate, barrier to entry](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-people-caught-behind-a-gate-barrier-to-entry.png) 
@@ -69,10 +72,16 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  So, investing years in just learning the ropes felt too much of a commitment. I told myself—maybe in another life—and I just gave up! That is until AI came into the picture.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ##  How Generative AI Tools Broke These Barriers
 
 ![People cheering a robot who has opened a gate](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-people-cheering-a-robot-who-has-opened-a-gate.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Dibakar Ghosh / How-To Geek | Midjourney
 
  Generative AI has been a game changer for my creative hobbies. It rekindled the lost spark and helped explore new art forms and music styles.
@@ -81,6 +90,9 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
 ![Midjourney web app image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-midjourney-web-app-image.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
  I quickly revisited my old notebook (yes, I have a notebook with my earlier ideas because digitizing them was a lot of work) and started _playing_ with Midjourney.
 
  Then, about a year later, [Suno v3](https://extra-skills.techidaily.com/updated-select-15-professional-luts-to-boost-gopro-cinematography/) dropped, followed by [Udio](https://extra-lessons.techidaily.com/cutting-to-perfection-the-science-of-online-photo-trimming/). I have been using these AI text-to-song generators for three-four months now and have already [generated over 1000 songs](https://fox-friendly.techidaily.com/new-in-2024-top-10-compact-dvd-viewers-on-a-go/) with them. It’s extremely fun and addictive.
@@ -103,6 +115,18 @@ a cat in space.
 
 ![A cat in space](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10-a-cat-in-space.png) 
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Dibakar Ghosh / How-To Geek | Midjourney
 
  It looks cool, no doubt, but it isn’t what I had in mind. I was envisioning the cat wearing an astronaut suit, looking at me, while climbing up towards me on the International Space Station. So, to actually get what I want, I need to be [more articulate with my prompt](https://facebook-record-videos.techidaily.com/snappy-fortnite-visuals-in-no-time-for-2024/). Kind of like this:
@@ -120,6 +144,9 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
 ![a cartoon cat in space](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/12-a-cartoon-cat-in-space.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 Dibakar Ghosh / How-To Geek | Midjourney
 
  Unfortunately, it’s still not what I have in mind—and this is the essential issue with generative AI: AI can help you visualize an idea but not materialize a visualization.
@@ -168,3 +195,64 @@ Your browser does not support the video tag.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-raw-footage-to-final-cut-chroma-mastery/"><u>[New] In 2024, From Raw Footage to Final Cut  Chroma Mastery</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-rise-to-prominence-6-game-changing-approaches-for-instagram-verification-and-fan-increase/"><u>[Updated] 2024 Approved  Rise to Prominence  6 Game-Changing Approaches for Instagram Verification & Fan Increase</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-top-5-slick-online-apps-for-direct-gif-to-video-updates/"><u>[Updated] 2024 Approved  Top 5 Slick Online Apps for Direct GIF to Video Updates</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-a-beginners-guide-to-instagram-story-feature-for-2024/"><u>[Updated] A Beginner's Guide to Instagram Story Feature for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-convert-your-avis-to-impactful-gifs-using-filmora-on-windowsmacos-for-2024/"><u>[Updated] Convert Your AVIs to Impactful GIFs Using Filmora on Windows/MacOS for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-get-into-a-friends-live-showcase-effortlessly-for-2024/"><u>[Updated] Get Into a Friend's Live Showcase Effortlessly for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-a-comprehensive-guide-to-instagrams-music-copyright-rules/"><u>[Updated] In 2024, A Comprehensive Guide to Instagram's Music Copyright Rules</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-listenlogic-evaluating-alternatives-to-dacast-for-2024/"><u>[Updated] ListenLogic  Evaluating Alternatives to DaCast for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/44cm6luk5yaf44ok44ot44k344k544og44og44gn5yuv55s744ks5qw944gx44kb44kl5pa55rov44o76kal44kj44km44gq44ge5ac05zci44gu5aplusplus562w44cn/"><u>「車内ナビシステムで動画を楽しめる方法・見られない場合の対策」</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-shrinking-high-definition-mp4-mkv-and-avi-videos-a-comprehensive-guide/"><u>1. Shrinking High-Definition MP4, MKV, and AVI Videos: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-unlocking-high-quality-content-a-comprehensive-guide-to-macx-dvd-ripper-pro-and-safe-conversion-for-ios-and-android-devices/"><u>1. Unlocking High-Quality Content: A Comprehensive Guide to MacX DVD Ripper Pro and Safe Conversion for iOS & Android Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/10-easy-methods-for-uploading-images-from-your-iphone-to-a-mac-computer/"><u>10 Easy Methods for Uploading Images From Your iPhone to a Mac Computer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mac/"><u>世界最速のMac動画変換ソフトはこれが初公開!ハードウェアアクセラレーションで革新</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-top-rated-action-films-from-hollywood-streaming-and-downloading-options/"><u>Best Top-Rated Action Films From Hollywood: Streaming & Downloading Options</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/commanding-the-crowd-on-igtv-5-tips-to-gain-traction/"><u>Commanding the Crowd on IGTV  5 Tips to Gain Traction</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comparing-ultra-hd-uhd-and-true-4k-resolutions-what-sets-them-apart/"><u>Comparing Ultra HD (UHD) and True 4K Resolutions – What Sets Them Apart?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dealing-with-a-frozen-ps4-effective-fixes-and-troubleshooting-steps/"><u>Dealing with a Frozen PS4: Effective Fixes and Troubleshooting Steps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-macx-premium-free-webm-and-mov-converter-for-macos/"><u>Download MacX - Premium Free WebM & MOV Converter for MacOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-macx-dvd-ripper-pro-for-free-convert-and-transfer-your-dvds-to-mobile-devices/"><u>Download MacX DVD Ripper Pro for Free - Convert & Transfer Your DVDs to Mobile Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-the-official-2018-fifa-world-cup-theme-song-by-jason-derulo-available-in-multiple-formats/"><u>Download the Official 2018 Fifa World Cup Theme Song by Jason Derulo - Available in Multiple Formats</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/easy-instructions-for-viewing-webm-media-on-mac-computers-running-big-sur-and-earlier-os-releases/"><u>Easy Instructions for Viewing WebM Media on Mac Computers Running Big Sur & Earlier OS Releases</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortless-techniques-for-shrinking-quicktime-videos-a-simple-guide/"><u>Effortless Techniques for Shrinking QuickTime Videos - A Simple Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortlessly-switch-between-formats-top-methods-for-mp4-to-m4v-conversion-on-pc-and-mac-no-cost-involved/"><u>Effortlessly Switch Between Formats: Top Methods for MP4 to M4V Conversion on PC and MAC - No Cost Involved</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/evaluating-iphone-8-series-advantages-and-disadvantages-unveiled/"><u>Evaluating iPhone 8 Series: Advantages and Disadvantages Unveiled</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/fixing-dvd-playback-issues-on-apple-devices-solutions-for-macbook-imac-and-air/"><u>Fixing DVD Playback Issues on Apple Devices: Solutions for MacBook, iMac & Air</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-focusrite-scarlett-18i20-driver-download-for-pc/"><u>Free Focusrite Scarlett 18I20 Driver Download for PC</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-realme-gt-3-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-facile-pour-la-conversion-de-videos-vob-en-mp4-gratuites-et-claires-sur-macintosh/"><u>Guide Facile Pour La Conversion De Vidéos VOB en MP4 Gratuites Et Claires Sur Macintosh</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/high-quality-mp4-conversion-from-dat-files-seamless-transformation-for-windows-and-macos/"><u>High-Quality MP4 Conversion From DAT Files: Seamless Transformation for Windows & macOS</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-windows-this-device-is-being-used-by-another-application-audio-error/"><u>How to Fix Windows' This Device Is Being Used by Another Application Audio Error</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/huge-savings-alert-for-black-friday-buyers-can-get-up-to-70-off-on-macxdvds-premium-3-in-1-media-suite-package/"><u>Huge Savings Alert for Black Friday: Buyers Can Get Up to 70%% Off on MacXDVD's Premium 3-in-1 Media Suite Package!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/imovie-export-woes-heres-how-to-fix-improper-video-exporting-on-your-apple-devices/"><u>IMovie Export Woes? Here’s How to Fix Improper Video Exporting on Your Apple Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-xiaomi-redmi-note-12-pro-4g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Xiaomi Redmi Note 12 Pro 4G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masterclass-in-choosing-your-best-live-streamer/"><u>In 2024, Masterclass in Choosing Your Best Live Streamer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-quality-quilting-turning-photographic-patterns-into-cartoons/"><u>In 2024, Quick Quality Quilting  Turning Photographic Patterns Into Cartoons</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-tecno-camon-20-premier-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Tecno Camon 20 Premier 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-itel-p40plus-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Itel P40+ Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macro-functions-n-indicates-a-new-line-for-readability-use-macros-to-automate-repetitive-tasks-such-as-importing-files-or-applying-formatting-changes-across5/"><u>Macro Functions (\\N Indicates a New Line for Readability): Use Macros to Automate Repetitive Tasks, Such as Importing Files or Applying Formatting Changes Across Multiple Slides. Access the Macro Editor From Tools > Macro Editor.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-narrative-skills-with-chatgpt-a-step-by-step-guide/"><u>Mastering Narrative Skills with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/pcdvd-dvd-rental-copying-tips/"><u>PC不要のレンタルDVDコピー手順ガイド | DVD Rental Copying Tips</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-and-easy-methods-for-saving-youtube-channel-songs/"><u>Quick & Easy Methods for Saving YouTube Channel Songs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/step-into-the-world-of-slowed-motion-a-comprehensive-ig-reel-guide/"><u>Step Into the World of Slowed-Motion  A Comprehensive IG Reel Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-how-to-erase-photographic-backgrounds/"><u>Step-by-Step  How to Erase Photographic Backgrounds</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-moving-your-iphone-films-over-to-a-mac/"><u>Step-by-Step Guide: Moving Your iPhone Films Over to a Mac</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-samsung-galaxy-f54-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Samsung Galaxy F54 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-3-methods-for-creating-an-iso-image-from-a-dvd-on-your-mac-including-big-sur/"><u>Top 3 Methods for Creating an ISO Image From a DVD on Your Mac: Including Big Sur</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-methods-for-quick-and-high-quality-dvd-conversion-to-h264-on-your-mac/"><u>Top Methods for Quick & High-Quality DVD Conversion to H.264 On Your Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-itunes-connection-issues-with-your-ipod-a-complete-walkthrough/"><u>Troubleshooting iTunes Connection Issues with Your iPod: A Complete Walkthrough</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-resolving-windows-media-player-issues-cant-play-avi-files/"><u>Ultimate Guide: Resolving Windows Media Player Issues - Can't Play AVI Files?</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-honor-x50iplus-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Honor X50i+.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-digital-rights-management-drm-a-guide-and-methods-for-removing-dvd-copy-protections/"><u>Understanding Digital Rights Management (DRM): A Guide & Methods for Removing DVD Copy Protections</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-best-video-dubbing-apps/"><u>Unleash Your Creativity Best Video Dubbing Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlimited-free-access-audiovideo-content-in-mp3-mp4-and-hd-format-perfect-for-ipads/"><u>Unlimited Free Access - Audio/Video Content in MP3, MP4 & HD Format Perfect for iPads</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-how-to-add-stickers-to-whatsapp-the-ultimate-guide/"><u>Updated How to Add Stickers to WhatsApp-The Ultimate Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/upgrade-to-premium-download-and-activate-complete-macxdvd-suite-at-no-cost/"><u>Upgrade to Premium: Download & Activate Complete MacXDVD Suite at No Cost</u></a></li>
+</ul></div>

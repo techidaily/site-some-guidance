@@ -1,7 +1,7 @@
 ---
 title: "Origin-940 Brisk It Reviewed: The Intelligent Cigar Humidor with Minimal Supervision Needed"
-date: 2024-08-27 21:13:54
-updated: 2024-08-29 12:10:26
+date: 2024-08-31T06:07:41.447Z
+updated: 2024-09-01T06:07:41.447Z
 tags:
   - product-reviews
 categories:
@@ -91,10 +91,16 @@ Expand
 
 [$1099.99 at Brisk It](https://briskitgrills.com/collections/all/products/brisk-it-origin-940-smart-grill) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Look of a Smart Grill
 
 ![Showing the Brisk It Origin-940 with the lid open and empty](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/43711392-3d97-43b7-9a5e-4282b13fcca0.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  The Origin-940 is Brisk It’s second grill. It joins the smaller [Origin-580 model](https://briskitgrills.com/collections/all/products/origin-580-smart-pellet-grill), primarily adding more cooking space without changing the formula too much. In fact, using the Origin-940 felt a lot like using the Origin-580\. It was noticeably bigger while loading it with meat, but the unit didn’t overly consume my suburban backyard. Apartment dwellers with tiny patios should stick to the smaller model, but anyone with some space could go with either option.
@@ -115,10 +121,16 @@ Tyler Hayes / How-To Geek
 
  The unit never felt unstable, but overall, it’s a more barebones product than some other wood pellet smokers on the market. It’s not the most polished, but it’s also an outdoor grill. I didn't mind its simple look and configuration.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Cooking With the Origin-940 Smoker
 
 ![A view of the Brisk It Origin-940 from the side with the pellet hopper door open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/358e870c-386d-4369-83f4-4c960be54420.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  I usually try to cook a wide range of foods when testing smokers. From shorter commitments like burgers and steaks to longer smoking sessions for pulled pork and brisket. The Origin-940 had much more space than I needed to cook burgers for my family, but it worked surprisingly well. The ignition process and getting the grill going takes longer than using propane, but other than that, it works similarly. I think burgers have a little better taste, too.
@@ -153,12 +165,18 @@ Close
 
 ![A side view of the Brisk It Origin-940 showing the screen and controls](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/0987dde7-51a8-43dc-96d8-65355837e5ab.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  It's not just the Brisk It grills that have added Wi-Fi. Plenty of cooking appliances are adding wireless connectivity to assist in smart cooking. Being alerted when the food needs attention is too convenient not to have on all kinds of devices.
 
  Brisk It is less subtle about its wireless connection than Traeger, but it seemed subjectively more reliable. Unlike Traeger’s hidden connection point, Brisk It attaches a black antenna underneath its grills, in plain sight, that can then be angled and repositioned. Potentially unsightly? Maybe. In this case, more stability is a better substitute.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Brisk It Mobile App
 
 Close 
@@ -185,6 +203,9 @@ Tyler Hayes / How-To Geek
 
 ![briskit grill](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/briskit-grill-fixed.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
 #####  Brisk It Origin-940
@@ -211,3 +232,60 @@ Remotely manage your Origin-940 from your mobile phone with confidence—anytime
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-securing-your-digital-quest-with-savvy-screenshots/"><u>[New] 2024 Approved  Securing Your Digital Quest with Savvy Screenshots</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-guide-to-establishing-a-vlog-centered-on-merchandise-assessments/"><u>[New] A Guide to Establishing a Vlog Centered on Merchandise Assessments</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-interoperable-iptv-networking-for-2024/"><u>[New] Interoperable IPTV Networking for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-8-filter-packs-for-dynamic-video-streaming/"><u>[Updated] Best 8 Filter Packs for Dynamic Video Streaming</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-download-youtube-thumbnail-in-3-waysonlinewinmac/"><u>[Updated] How to Download Youtube Thumbnail in 3 Ways[Online/Win/Mac]</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-guide-to-edges-pip-functionality/"><u>[Updated] Step-by-Step Guide to Edge’s PIP Functionality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-unlocking-high-quality-content-a-comprehensive-guide-to-macx-dvd-ripper-pro-and-safe-conversion-for-ios-and-android-devices/"><u>1. Unlocking High-Quality Content: A Comprehensive Guide to MacX DVD Ripper Pro and Safe Conversion for iOS & Android Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/10-easy-methods-for-uploading-images-from-your-iphone-to-a-mac-computer/"><u>10 Easy Methods for Uploading Images From Your iPhone to a Mac Computer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-of-low-budget-cinema-free-downloads-of-iconic-b-films-ranked-1-to-100/"><u>Best of Low-Budget Cinema: Free Downloads of Iconic 'B' Films Ranked #1 to #100</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-top-rated-action-films-from-hollywood-streaming-and-downloading-options/"><u>Best Top-Rated Action Films From Hollywood: Streaming & Downloading Options</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/budget-friendly-cinema-experience-your-guide-to-free-movie-access-both-online-and-in-person/"><u>Budget-Friendly Cinema Experience: Your Guide to Free Movie Access Both Online & in Person</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/die-top-6-beliebtesten-dvd-extraktionswerkzeuge-fur-eine-optimale-nutzung/"><u>Die Top 6 Beliebtesten DVD-Extraktionswerkzeuge Für Eine Optimale Nutzung</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-macx-premium-free-webm-and-mov-converter-for-macos/"><u>Download MacX - Premium Free WebM & MOV Converter for MacOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-macx-dvd-ripper-pro-for-free-convert-and-transfer-your-dvds-to-mobile-devices/"><u>Download MacX DVD Ripper Pro for Free - Convert & Transfer Your DVDs to Mobile Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-superior-quality-mp3s-from-youtube-a-guide-to-finding-and-using-the-premier-video-to-audio-tool/"><u>Download Superior Quality MP3s From YouTube - A Guide to Finding and Using the Premier Video to Audio Tool</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-the-official-2018-fifa-world-cup-theme-song-by-jason-derulo-available-in-multiple-formats/"><u>Download the Official 2018 Fifa World Cup Theme Song by Jason Derulo - Available in Multiple Formats</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvd-shrink-and-dvd-decrypter/"><u>DVD Shrink & DVD Decrypterを完全ガイド: 接続方法とエラー対策詳しく解説</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/easy-guide-for-optimizing-and-posting-high-quality-gopro-footage-on-youtube/"><u>Easy Guide for Optimizing and Posting High-Quality GoPro Footage on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/easy-instructions-for-viewing-webm-media-on-mac-computers-running-big-sur-and-earlier-os-releases/"><u>Easy Instructions for Viewing WebM Media on Mac Computers Running Big Sur & Earlier OS Releases</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/efficient-methods-for-quickly-moving-4k-footage-from-your-iphone-onto-a-mac-computer/"><u>Efficient Methods for Quickly Moving 4K Footage From Your iPhone Onto a Mac Computer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortless-techniques-for-shrinking-quicktime-videos-a-simple-guide/"><u>Effortless Techniques for Shrinking QuickTime Videos - A Simple Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/evaluating-iphone-8-series-advantages-and-disadvantages-unveiled/"><u>Evaluating iPhone 8 Series: Advantages and Disadvantages Unveiled</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/explore-the-8-premium-websites-for-free-3d-text-psd-files-for-2024/"><u>Explore the 8 Premium Websites for FREE 3D Text PSD Files for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/facile-conversion-du-fichier-mkv-au-format-mp4-sur-macos-transformation-rapide-sans-compromettre-la-qualite/"><u>Facile Conversion Du Fichier MKV Au Format MP4 Sur macOS - Transformation Rapide Sans Compromettre La Qualité</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/fixing-dvd-playback-issues-on-apple-devices-solutions-for-macbook-imac-and-air/"><u>Fixing DVD Playback Issues on Apple Devices: Solutions for MacBook, iMac & Air</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-facile-pour-la-conversion-de-videos-vob-en-mp4-gratuites-et-claires-sur-macintosh/"><u>Guide Facile Pour La Conversion De Vidéos VOB en MP4 Gratuites Et Claires Sur Macintosh</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/handbrake-compatibility-with-m1-apple-silicon-solutions-and-troubleshooting/"><u>Handbrake Compatibility with M1 Apple Silicon: Solutions & Troubleshooting</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/high-quality-mp4-conversion-from-dat-files-seamless-transformation-for-windows-and-macos/"><u>High-Quality MP4 Conversion From DAT Files: Seamless Transformation for Windows & macOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/huge-savings-alert-for-black-friday-buyers-can-get-up-to-70-off-on-macxdvds-premium-3-in-1-media-suite-package/"><u>Huge Savings Alert for Black Friday: Buyers Can Get Up to 70%% Off on MacXDVD's Premium 3-in-1 Media Suite Package!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-vivo-y100-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Vivo Y100 5G Unlock Without Password</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-live-cricket-livestreams/"><u>In 2024, Mastering the Art of Live Cricket Livestreams</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-selecting-superior-free-online-srt-translation-services-tips-and-tricks/"><u>In 2024, Selecting Superior Free Online SRT Translation Services  Tips & Tricks</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-views-that-pay-the-bills-the-youtube-metric/"><u>In 2024, Views That Pay the Bills  The Youtube Metric</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/key-challenges-and-concerns-facing-the-new-iphone-xs-insider-information-for-consumers/"><u>Key Challenges and Concerns Facing the New iPhone XS – Insider Information for Consumers</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/leverage-automated-marketing-excellence-with-cookiebot-integration-solutions/"><u>Leverage Automated Marketing Excellence with Cookiebot Integration Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macx-dvd/"><u>MacX DVD使用方法と支払納付プロセスについて知りたければ、クレジットカードでご利用-デジアーティ・ソフトウェア</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-itunes-the-ideal-video-file-type-for-seamless-playback-on-apples-platform/"><u>Mastering iTunes: The Ideal Video File Type for Seamless Playback on Apple's Platform</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigate-video-landscape-3-pros-of-using-zoom-altering-tools/"><u>Navigate Video Landscape  3 Pros of Using Zoom Altering Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/next-level-techniques-outperforming-fbx-recording-for-2024/"><u>Next-Level Techniques Outperforming FBX Recording for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/revamp-your-google-group-chats-with-4-tips/"><u>Revamp Your Google Group Chats with 4 Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-complete-iphone-handbook-expert-strategies-for-seamless-data-movement-and-error-solutions/"><u>The Complete iPhone Handbook: Expert Strategies for Seamless Data Movement & Error Solutions</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-realme-11x-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-free-mac-software-convert-avi-files-to-3gp-format-at-no-cost/"><u>Top Free Mac Software: Convert AVI Files to 3GP Format at No Cost</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-mac-dvd-ripping-tools-compared-rivet-vs-handbrake-comprehensive-review/"><u>Top Mac DVD Ripping Tools Compared: Rivet vs HandBrake - Comprehensive Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-methods-for-quick-and-high-quality-dvd-conversion-to-h264-on-your-mac/"><u>Top Methods for Quick & High-Quality DVD Conversion to H.264 On Your Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-new-film-releases-now-available-on-blu-ray-and-dvd/"><u>Top New Film Releases Now Available on Blu-Ray and DVD</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-your-call-of-duty-warzone-quick-fixes-for-directx-trouble-in-4-easy-steps/"><u>Troubleshoot Your Call of Duty Warzone: Quick Fixes for DirectX Trouble in 4 Easy Steps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-itunes-connection-issues-with-your-ipod-a-complete-walkthrough/"><u>Troubleshooting iTunes Connection Issues with Your iPod: A Complete Walkthrough</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-solutions-to-fixed-up-hp-beats-audio-driver-issues-on-various-windows-versions/"><u>Ultimate Solutions to Fixed-Up HP Beats Audio Driver Issues on Various Windows Versions</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-how-to-record-and-edit-an-animoji-or-memoji-karaoke-music-video/"><u>Updated 2024 Approved How to Record and Edit an Animoji or Memoji Karaoke Music Video?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/upgrade-to-premium-download-and-activate-complete-macxdvd-suite-at-no-cost/"><u>Upgrade to Premium: Download & Activate Complete MacXDVD Suite at No Cost</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dmm/"><u>コツを学べ！DMMで購入したりダウンロードした動画の最善再生＆録画技術</u></a></li>
+</ul></div>

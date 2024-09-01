@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Basics: A Novice's Roadmap to Configuring a Windows PC with Essential Tips"
-date: 2024-08-27 11:15:18
-updated: 2024-08-29 11:55:10
+date: 2024-08-31T06:11:42.917Z
+updated: 2024-09-01T06:11:42.917Z
 tags:
   - desktop
 categories:
@@ -38,8 +38,14 @@ thumbnail: https://thmb.techidaily.com/cf29c28ece4619a4babae69368aabca262cca3e64
 
 ![Disabling startup apps from Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-disabling-a-startup-apps-from-task-manager.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Some applications automatically add themselves to the startup list when installed. So, periodically review their startup list and remove any unnecessary programs.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## 3  Pin Frequently Used Apps to the Taskbar 
 
  Web browsers, email clients, word processors, and media players are some of the frequently used apps that the person you're setting up the Windows device for will likely use often. While they can search for the required app in Windows Search, you can [pin these apps to the taskbar](https://tech-hub.techidaily.com/understanding-the-five-main-causes-of-chatgpt-prohibitions-in-businesses/) for easier access.
@@ -48,6 +54,15 @@ thumbnail: https://thmb.techidaily.com/cf29c28ece4619a4babae69368aabca262cca3e64
 
 ![Pinning an app to the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-pinning-an-app-to-the-taskbar.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
  Likewise, remove any apps already pinned to the taskbar that they won’t use. To do that, right-click on the item and select "Unpin from Taskbar."
 
 ![Unpinning Microsoft Edge from the taskbar on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-unpinning-microsoft-edge-from-the-taskbar-on-windows-11.jpg) 
@@ -60,10 +75,16 @@ thumbnail: https://thmb.techidaily.com/cf29c28ece4619a4babae69368aabca262cca3e64
 
  One option is OneDrive, though it only backs up specific folders. For more thorough backups, [consider a premium backup service like Backblaze](https://audio-shaping.techidaily.com/in-2024-probing-sound-clarity-an-updated-analysis-of-cambridges-cxu-series/) that can back up their entire computer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5  Foolproof the System's Security 
 
 ![A hand increasing the security level using a knob.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-hand-increasing-the-security-level-using-a-knob.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
 Lucas Gouveia / How-To Geek | Shutterstock.AI
 
@@ -77,6 +98,18 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
  Afterward, you should install helpful apps to enhance their computer experience. For example, you could add Everything to make file searching easier, Auto Dark Mode to automatically switch between dark and light modes at different times of the day, ShareX for capturing screenshots and recording videos, and other [helpful apps and tools](https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-honor-90-drfone-by-drfone-virtual-android/).
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7  Customize Screen Element Sizes to Their Preferences 
 
  Check with the person to see if they’re comfortable with the default size of text, icons, mouse cursor, and other display elements. If not, adjust the display settings according to their preferences. To do this, right-click the Start button and select "Settings." Then, go to System > Display and modify the Scale and Display Resolution.
@@ -91,6 +124,9 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
 ![Enabling the magnifier, narrator and captions in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-enabling-the-magnifier-narrator-and-captions-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 8  Teach Them Basic Windows Actions 
 
  Although this isn’t strictly a setup step, it’s essential to teach a few basic skills to someone new to Windows. You can show them how to use Task Manager to find and close processes consuming too many resources. You can also teach them to [check for and install Windows updates](https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-v30-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/), connect to Wi-Fi or Ethernet, and [adjust brightness](https://win-blog.techidaily.com/wwe-2k22-pc-performance-issues-understanding-and-solving-sudden-game-exits/) and volume.
@@ -115,3 +151,52 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-fcps-ultimate-editing-aid-best-10-plug-ins/"><u>[New] FCP's Ultimate Editing Aid  Best 10 Plug-Ins</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-playful-prodigies-the-ultimate-kids-game-compilation/"><u>[New] Playful Prodigies  The Ultimate Kids' Game Compilation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-audireview-listening-and-recording-evaluation/"><u>[Updated] 2024 Approved  Audireview  Listening & Recording Evaluation</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-top-15-science-youtube-channels-to-expand-knowledge/"><u>[Updated] 2024 Approved  Top 15 Science YouTube Channels to Expand Knowledge</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-best-youtube-video-to-text-converters-on-line-for-2024/"><u>[Updated] Best YouTube Video to Text Converters On-Line for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-easy-peasy-youtube-tutorials-making-content-that-works-for-all-for-2024/"><u>[Updated] Easy-Peasy YouTube Tutorials  Making Content That Works for All for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-expertsnap-recording-tool-win-10-version/"><u>[Updated] ExpertSnap Recording Tool, Win 10 Version</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-logitechs-4k-webcam-masterclass-a-complete-review-for-2024/"><u>[Updated] Logitech’s 4K Webcam Masterclass - A Complete Review for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-rapid-growth-tactics-hit-and-maintain-a-stellar-10000-views-mark/"><u>[Updated] Rapid Growth Tactics  Hit and Maintain a Stellar 10,000 Views Mark</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1724766467237-dvd/"><u>「カーナビ用DVDの視聴可能なフォーマットと再生失敗時の解決策」</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024cprmcopy-one-time/"><u>2024年度更新版：専門的なガイドで「CPRM/Copy One Time」ロックを解除する手順の全容解明</u></a></li>
+<li><a href="https://solve-news.techidaily.com/abbyy-ocr-software-development-kit-optimierte-realzeitoptimierung-fur-dateneingabeaufgaben/"><u>ABBYY OCR Software Development Kit: Optimierte Realzeitoptimierung Für Dateneingabeaufgaben</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/alternatives-to-mkv2vob-on-mac-seamless-conversion-from-mkv-to-vob-compatible-with-playstation-5-and-4/"><u>Alternatives to MKV2VOB on Mac: Seamless Conversion From MKV to VOB Compatible with PlayStation 5 and 4</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-free-converters-for-mac-pro-users-easy-avchd-to-mp4-with-macx-solution/"><u>Best Free Converters for Mac Pro Users: Easy AVCHD to MP4 with MacX Solution</u></a></li>
+<li><a href="https://extra-information.techidaily.com/budget-friendly-multiview-cameras-for-professional-use/"><u>Budget-Friendly Multiview Cameras for Professional Use</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/can-you-transfer-a-dvd-onto-an-ipad-using-handbrake/"><u>Can You Transfer a DVD Onto an iPad Using Handbrake?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/capture-dynamic-artistry-top-9-tools-for-perfect-windows-gifs/"><u>Capture Dynamic Artistry  Top 9 Tools for Perfect Windows GIFs</u></a></li>
+<li><a href="https://network-issues.techidaily.com/comparative-analysis-amd-graphics-cards-versus-competitors/"><u>Comparative Analysis: AMD Graphics Cards Versus Competitors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/cpu-versus-gpu-encoding-speeds-the-ultimate-showdown-for-performance-efficiency/"><u>CPU Versus GPU Encoding Speeds: The Ultimate Showdown for Performance Efficiency</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-make-mkv-gratis-su-mac-esegui-facile-le-tue-copie-di-dvd-e-blu-ray/"><u>Download Make MKV Gratis Su Mac – Esegui Facile Le Tue Copie Di DVD E Blu-Ray</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvd-macx-dvd-ripper-for-macos-dvdmacipad/"><u>DVDコピーレス変換: MacX 無料 DVD Ripper for macOS - DVDのプロテクトさえ解除して、Macで簡単にiPad用ファイルへ変換する方法</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/efficient-techniques-for-conversion-of-gotomeeting-video-files-to-mp4-with-g2mm4-encoding-utility/"><u>Efficient Techniques for Conversion of GoToMeeting Video Files to MP4 with G2MM4 Encoding Utility</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/efficient-ways-to-seamlessly-update-your-2017-macbook-pro-comprehensive-solutions-inside/"><u>Efficient Ways to Seamlessly Update Your 2017 MacBook Pro – Comprehensive Solutions Inside!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/explore-the-best-mac-friendly-options-to-replace-mediacoder-seamless-video-transformation-solutions/"><u>Explore the Best Mac-Friendly Options to Replace MediaCoder: Seamless Video Transformation Solutions</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/free-and-fabulous-best-video-special-effects-apps-for-iphone-and-android-for-2024/"><u>Free and Fabulous Best Video Special Effects Apps for iPhone and Android for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/high-quality-video-transformation-quickly-adapt-hd-movies-and-audio-files-for-your-ipad-apple-tv-and-more-using-the-macx-converter/"><u>High-Quality Video Transformation: Quickly Adapt HD Movies and Audio Files for Your iPad, Apple TV, and More Using the MacX Converter!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-stream-your-windows-pc-screen-onto-a-television-using-chromecast/"><u>How To Stream Your Windows PC Screen Onto A Television Using Chromecast</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leveraging-health-data-in-online-healthcare-ads/"><u>In 2024, Leveraging Health Data in Online Healthcare Ads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/leading-no-cost-convert-heic-images-to-jpg-expert-opinions-and-guides/"><u>Leading No-Cost Convert HEIC Images to JPG: Expert Opinions & Guides</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mac-drm-free-solutions-unlocking-your-itunes-media-libraries/"><u>Mac DRM-Free Solutions: Unlocking Your iTunes Media Libraries</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macxdvd-special-holiday-edition-april-2024-release/"><u>MacXDVD Special Holiday Edition - April 2024 Release</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-final-cut-pro-essential-compression-techniques-troubleshooting-strategies-and-solutions/"><u>Mastering Final Cut Pro: Essential Compression Techniques, Troubleshooting Strategies & Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/navigating-the-transition-from-macos-catalina-to-macos-big-sur-timely-advice-on-upgrading-your-system/"><u>Navigating the Transition From macOS Catalina to macOS Big Sur: Timely Advice on Upgrading Your System</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-intuitive-vocal-modification-mechanisms-an-insight-into-operational-aspects-standards-and-workarounds/"><u>New In 2024, Intuitive Vocal Modification Mechanisms An Insight Into Operational Aspects, Standards, and Workarounds</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ripper-e-conversione-gratuita-di-dvd-su-macos-passaggio-mp4-senza-spese/"><u>Ripper E Conversione Gratuita Di DVD Su macOS: Passaggio MP4 Senza Spese</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/score-big-savings-on-macx-mediatrans-buy-with-exclusive-online-discounts-today/"><u>Score Big Savings on MacX MediaTrans: Buy With Exclusive Online Discounts Today!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/seamless-conversion-switching-from-mkv-to-m4v-format-on-macos-and-windows-without-loss-of-quality/"><u>Seamless Conversion: Switching From MKV to M4V Format on macOS and Windows Without Loss of Quality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/seamless-format-upgrades-for-ios-devices-and-apple-tv-with-macx-convert-movs-to-mp4m4vmp3aac-on-macos-effortlessly/"><u>Seamless Format Upgrades for iOS Devices & Apple TV with MacX: Convert MOVs to MP4/M4V/MP3/AAC on macOS Effortlessly!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/solving-your-iphone-ringtone-issues-a-comprehensive-guide/"><u>Solving Your iPhone Ringtone Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-xiaomi-13t-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-picks-ultimate-family-friendly-christmas-films-and-free-downloads/"><u>Top Picks: Ultimate Family-Friendly Christmas Films & Free Downloads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-face-id-issues-on-your-iphone-x-xs-or-xr-effective-solutions-explored/"><u>Troubleshooting Face ID Issues on Your iPhone X, XS, or XR: Effective Solutions Explored</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-and-testing-the-latest-samsung-galaxy-budsplus-wireless-earphones/"><u>Unboxing & Testing the Latest Samsung Galaxy Buds+ Wireless Earphones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/upgrade-your-dvd-creation-experience-on-mac-secure-full-access-and-a-free-latest-version-of-macxdvd-tools/"><u>Upgrade Your DVD Creation Experience on Mac: Secure Full Access and a FREE Latest Version of MacXDVD Tools!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722969724051-usb-cam-connection-made-easy-get-the-right-drivers-today/"><u>USB Cam Connection Made Easy: Get the Right Drivers Today!</u></a></li>
+</ul></div>

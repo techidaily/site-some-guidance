@@ -1,7 +1,7 @@
 ---
 title: "Adding Text to Files in Linux: A Comprehensive Guide - 7 Effective Methods"
-date: 2024-08-27 13:16:48
-updated: 2024-08-29 12:53:23
+date: 2024-08-31T06:09:33.982Z
+updated: 2024-09-01T06:09:33.982Z
 tags:
   - desktop
 categories:
@@ -45,6 +45,9 @@ cat append.txt
 
  You won't get any output as currently, there is no content in the file. Now that we have an empty file, we can add some lines to it.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  1\. Using echo to Append Text to a File
 
  The [echo command](https://facebook.techidaily.com/cut-out-controversy-refresh-your-feed-focus/) is mostly used for displaying text on the terminal, but you can also use it to add text to a file. Here's the basic syntax:
@@ -69,6 +72,9 @@ echo "Trying to append a line to the file" > append.txt
 
 ![Linux terminal showcasing how the echo command can override the content of a text file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
  So how to overcome this? Simple. To append some text to a file without overriding its content, use another redirection operator (>>), like this:
 
 echo "Trying to append a line to the file" >> append.txt
@@ -77,6 +83,9 @@ echo "Trying to append a line to the file" >> append.txt
 
  This time, the line will get appended to the file, as expected.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ##  2\. Using cat to Append Text to a File
 
  The [cat command](https://facebook-record-videos.techidaily.com/techniques-to-achieve-crystal-clear-youtube-soundtracks-for-2024/), as we've seen previously, displays the content of a file on the terminal. The basic syntax of the command is:
@@ -103,6 +112,12 @@ cat employee1.txt employee2.txt employee3.txt >> employees.txt
 
 ![The Linux terminal shows how to use the cat command to combine the contents of several files and append them to another file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  3\. Using printf to Add Text at the End of a File
 
  You may be familiar with printf if you have experience with the C programming language. But did you know that [printf](https://tech-hub.techidaily.com/truthgpt-debut-revealed-and-police-raid-at-mullvad-vpn-examined-the-best-selection-of-free-gaming-on-computers-plus-mastering-mechanical-keyboard-features.m27/) is a Linux tool as well? As the name suggests, it lets you print text or data to the standard output. Here's the basic syntax:
@@ -115,6 +130,9 @@ printf "Using printf to append text" >> append.txt
 
 ![The Linux terminal displaying the use of the printf command to append text to a file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  However, as you can see, unlike the echo command, there was no new line appended to the text. This means you need to do it manually. You can use the "\\n" escape character at the end of your text. So let's use that now.
 
 printf "Using printf to append text with a new line\n" >> append.txt
@@ -147,8 +165,14 @@ sed -i '4 a Appended after the fourth line' append.txt
 
 ![The Linux terminal demonstrating the sed command used to append a text line at a specific position of a file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/10-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This time, the line was added exactly after the fourth line.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ##  5\. Using tee to Append Text to a File
 
  The [tee command](https://buynow-help.techidaily.com/microsoft-surface-pro-7-examined-reliable-upgrade-with-familiar-features/) lets you read from standard input and write the output to files. The basic syntax is as follows:
@@ -163,6 +187,9 @@ tee -a append.txt
 
 ![The Linux terminal showing the use of the tee command to append a line to a file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/12-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
  In the other method, the terminal won't repeat the string you type in, making the process much cleaner. Other than that, it works in the same way. Here's the command:
 
 tee >> append.txt
@@ -171,6 +198,9 @@ tee >> append.txt
 
  As you can see, when we typed in a string, it wasn't displayed in the terminal again.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ##  6\. Using awk
 
  The [awk command](https://facebook-videos.techidaily.com/new-in-2024-revolutionizing-advertising-on-facebook-with-the-best-video-tactics/) is extremely powerful when it comes to text manipulation. With some tweaking, you can add text to files using this command. Here's the syntax for the command:
@@ -195,6 +225,9 @@ nano <filename>
 
  To append a line, all we need to do is use the down arrow key to go to the bottom of the file. If you need to create a new line, do that by pressing Enter. Then enter any text you want. Finally, save the file using Ctrl+O and exit the editor using Ctrl+X.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Redirect the Output of a Command to a File
 
  If you want to save the output of a command to a file, you can do that using the redirection operators (>>). Suppose you run the [ls command](https://extra-tips.techidaily.com/in-2024-capturecraft-hd-top-10-freepaid-filters-list/) to get the contents of the present directory. You want to save the list to a file called command.txt. For that, run the below command:
@@ -231,3 +264,40 @@ command >> file.txt 2>&1
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-mastery-of-screen-recording-top-6-on-mac-systems/"><u>[New] In 2024, Mastery of Screen Recording  Top 6 on Mac Systems</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-innovative-list-of-top-10-affordable-video-chat-platforms-for-companies-and-institutions/"><u>[New] Innovative List of Top 10 Affordable Video Chat Platforms for Companies & Institutions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-journeys-best-tools-top-10-vr-peripherals-guide/"><u>[New] Journey's Best Tools  Top 10 VR Peripherals Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-visual-diary-unparalleled-tips-for-documenting-your-sims-stories-in-sims-4-for-2024/"><u>[New] The Ultimate Visual Diary  Unparalleled Tips for Documenting Your Sims' Stories in Sims 4 for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-viral-potential-in-tiktok-unboxer-videos/"><u>[Updated] Mastering Viral Potential in TikTok Unboxer Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-ultimate-dvd-ripper-and-video-editor-convert-edit-and-create-professional-videos-from-dvds-or-streaming/"><u>1. Ultimate DVD Ripper and Video Editor: Convert, Edit, & Create Professional Videos From DVDs or Streaming</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-streamlined-techniques-to-capture-webinars-efficiently-windows-mac/"><u>2024 Approved  Streamlined Techniques to Capture Webinars Efficiently (Windows, Mac)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/6-in-handbrake-a-comprehensive-guide/"><u>6 in Handbrake: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/complete-guide-eliminating-the-wondershare-video-converter-threat-steps-to-clean-your-computer/"><u>Complete Guide: Eliminating the Wondershare Video Converter Threat - Steps to Clean Your Computer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-free-bunny-and-egg-themed-wallpapers-for-pc-mobile-devices-and-smartphones/"><u>Download Free Bunny and Egg-Themed Wallpapers for PC, Mobile Devices, and Smartphones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effizientes-entsperren-von-dvd-videos-auf-einem-mac-eine-erfolgreiche-anleitung/"><u>Effizientes Entsperren Von DVD-Videos Auf Einem Mac - Eine Erfolgreiche Anleitung</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortless-video-editing-made-simple-flip-and-rotate-footage-using-handbrake/"><u>Effortless Video Editing Made Simple: Flip and Rotate Footage Using Handbrake</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enjoy-unlimited-cinema-discover-top-rated-free-movie-downloading-apps-for-iphone-8-and-plus/"><u>Enjoy Unlimited Cinema: Discover Top-Rated Free Movie Downloading Apps for iPhone 8 & Plus</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/exclusive-macxdvd-discounts-save-up-to-58-off-for-affiliate-partners/"><u>Exclusive MacXDVD Discounts: Save Up to 58%% Off for Affiliate Partners!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-fix-a-non-functional-youtube-live-broadcast/"><u>How to Fix a Non-Functional YouTube Live Broadcast</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-motorola-g54-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Motorola G54 5G?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-best-practice-video-placement-on-facebook-vh/"><u>In 2024, Best Practice  Video Placement on Facebook (V/H)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-success-while-catching-up-on-all-the-latest-talks/"><u>In 2024, Crafting Success While Catching Up on All the Latest Talks</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-into-googles-pixelbook-go-stellar-execution-high-expense-evaluation/"><u>In-Depth Look Into Google's Pixelbook Go: Stellar Execution, High Expense Evaluation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macmacx-dvd-ripper-pro-v20/"><u>Macユーザー向け最強リッピングツール「Macx DVD Ripper Pro V2.0」アップデート披露</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-the-shift-a-step-by-step-guide-to-successfully-upgrading-from-macos-monterey-to-ventura/"><u>Mastering the Shift: A Step-by-Step Guide to Successfully Upgrading From macOS Monterey to Ventura</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/melodic-mastery-for-game-dominance-in-free-fire-for-2024/"><u>Melodic Mastery for Game Dominance in Free Fire for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/quick-and-easy-mp4-editor-non-reencoding-techniques-for-precise-segment-trimming-and-cutting/"><u>Quick & Easy MP4 Editor: Non-Reencoding Techniques for Precise Segment Trimming & Cutting</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/schnell-und-einfach-mac-fotos-auf-iphoneipad-ubertragen-anleitung-fur-eine-perfekte-migration/"><u>Schnell Und Einfach: Mac Fotos Auf IPhone/iPad Übertragen – Anleitung Für Eine Perfekte Migration</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/solve-your-youtube-playback-problems-a-step-by-step-guide-to-eliminating-video-lags/"><u>Solve Your YouTube Playback Problems: A Step-by-Step Guide to Eliminating Video Lags</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/taking-the-lead-in-resolution-wars-how-10k-superiority-outshines-4k-and-8k/"><u>Taking the Lead in Resolution Wars: How 10K Superiority Outshines 4K & 8K</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-list-of-top-3-free-tools-similar-to-ffmpeg-you-should-consider-downloading/"><u>The Ultimate List of Top 3 Free Tools Similar to FFmpeg You Should Consider Downloading</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-tutorial-on-extracting-tv-series-episodes-from-dvds-and-transforming-them-to-various-video-codecs-including-mp4-avi-and-mkv/"><u>The Ultimate Tutorial on Extracting TV Series Episodes From DVDs and Transforming Them to Various Video Codecs Including MP4, AVI & MKV</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-youtube-clips-into-mp3s-instantly-discover-the-ultimate-tool-for-quick-and-accurate-music-conversion/"><u>Transform YouTube Clips Into MP3s Instantly - Discover the Ultimate Tool for Quick and Accurate Music Conversion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshoot-and-fix-vlc-player-issues-with-mkv-files-for-seamless-viewing/"><u>Troubleshoot & Fix VLC Player Issues with MKV Files for Seamless Viewing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-converting-imovie-projects-into-hd-quality-mp4-format/"><u>Ultimate Guide: Converting iMovie Projects Into HD-Quality MP4 Format</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-how-to-remove-entire-picture-collection-from-your-iphone/"><u>Ultimate Guide: How to Remove Entire Picture Collection From Your iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvdsdusbhdd/"><u>お使いのDVDを保存する方法：SDカード/USBメモリ/外付けHDDに素早くコピーする手順</u></a></li>
+</ul></div>

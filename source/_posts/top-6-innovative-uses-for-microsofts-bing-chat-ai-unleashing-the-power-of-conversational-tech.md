@@ -1,7 +1,7 @@
 ---
 title: "Top 6 Innovative Uses for Microsoft's Bing Chat AI: Unleashing the Power of Conversational Tech"
-date: 2024-08-28 21:53:16
-updated: 2024-08-29 12:40:10
+date: 2024-08-31T06:15:44.116Z
+updated: 2024-09-01T06:15:44.116Z
 tags:
   - cutting-edge
 categories:
@@ -54,6 +54,9 @@ Opening a .CSV file in Excel with data pasted from Bing's CSV export
 
  Again, you should always check Bing's citations to make sure the information is correct. For example, with tech products like iPhones, I've found Bing often citing old articles about rumored details rather than finalized specifications or product pages.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ##  Multi-step Web Searches
 
  Bing's greatest strength might be its ability to convey information in a single response that normally takes several web searches. For example, let's say I'm watching Star Trek: Enterprise, and I see [a character](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU202470/https://www.youtube.com/watch?v=GbpNgKUP6n4) who I recognize as being played by the actor who played the android Data in Star Trek: The Next Generation, but the character in this show is not Data.
@@ -62,6 +65,9 @@ Opening a .CSV file in Excel with data pasted from Bing's CSV export
 
 !["Data is a character from Star Trek: The Next Generation and its spin-off movies, not Star Trek: Enterprise12. He is an android created by Dr. Noonian Soong3, who is a descendant of Arik Soong, a geneticist who appeared in three episodes of Star Trek: Enterprise3. Are you looking for those episodes?"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-07-at-3.55.58-PM.png) 
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
  Meanwhile, I asked Bing "There's someone who looks like Data in Star Trek Enterprise, which episodes does he appear in?" Bing Chat correctly identified that Spiner plays [Arik Soong](https://memory-alpha.fandom.com/wiki/Arik%5FSoong) in Star Trek Enterprise, and why he was cast in the role: "\[Data\] is an android created by Dr. Noonian Soong, who is a descendant of Arik Soong, a geneticist who appeared in three episodes of Star Trek: Enterprise." Bing then provided a list of episodes with Arik Soong, citing IMDB and various fan wikis.
 
  There are other examples of this with more practical purposes, but if it's an important question, you need to double-check Bing's logic. I asked Bing to tell me the minimum box size I would need to ship a Nintendo Switch Lite and an M1 MacBook Air, and it checked the web for the dimensions of both devices to produce an answer: 8.51 by 8.18 by 1.43 inches. The answer didn't include padding, which would definitely be needed if I was shipping those items, but Bing did in fact tell me "you may also want to consider adding some padding or cushioning materials."
@@ -78,8 +84,14 @@ Related: [Bing Chat AI Is a Surprisingly Good Travel Agent](https://fox-friendly
 
 ![Bing ASCII car art](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-06-at-4.17.36-PM.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Maybe the lines could be arms? It looks more like a person standing next to a tent. Oh well.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ##  Date and Time Conversions
 
  Time zone conversions can be tricky, especially when the difference is enough to shift the date, or when one place is following Daylight Savings Time (DS) and another place is not. Bing can easily handle these conversions, usually while explaining the logic involved.
@@ -92,6 +104,9 @@ Opening a .CSV file in Excel with data pasted from Bing's CSV export
 
  I still prefer Time.is for most time-related tasks, especially since [the link for an event](https://time.is/compare/0800AM%5F16%5FJuly%5F2024%5Fin%5FParis) can be shared, but I haven't noticed Bing providing incorrect data for time conversions yet.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Turn Web Pages Into Quizzes
 
  Multiple-choice quizzes or flash cards can be a helpful tool for studying, but the process of converting notes, web resources, or book chapters into actionable data can be time-intensive. That process in itself can sometimes help you memorize information, but Bing can also quiz you on any provided data.
@@ -108,6 +123,9 @@ Opening a .CSV file in Excel with data pasted from Bing's CSV export
 
  I've still encountered a few bugs in this mode where data is pulled from elsewhere -- Bing asked me about the core temperature of the Sun from a How-To Geek article about [collecting DVDs](https://extra-lessons.techidaily.com/instantaneous-infiltration-of-lost-reddit-threads/). There's a chance Microsoft has fixed those problems by the time you read this article.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ##  Get Up to Speed on Current Events
 
  Every once in a while, there will be something that everyone is talking about and simultaneously requires a detailed explanation of context to understand. If it's a news topic, recent articles usually include recent context as you read past the first few sentences, but not always. Bing can be helpful in circumstances where you have no clue what is going on, and recent news coverage isn't helping.
@@ -130,3 +148,52 @@ Opening a .CSV file in Excel with data pasted from Bing's CSV export
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-harmonizing-audio-with-visuals-adding-melodies-to-powerpoint/"><u>[New] 2024 Approved  Harmonizing Audio with Visuals  Adding Melodies to PowerPoint</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-premium-enterprise-sky-saver-guide/"><u>[New] 2024 Approved  Premium Enterprise Sky Saver Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-step-into-innovation-top-10-youtube-vr-creations/"><u>[New] Step Into Innovation  Top 10 YouTube VR Creations</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-elevate-your-creativity-6-aplus-apps-for-instagram-reels/"><u>[Updated] Elevate Your Creativity  6 A+ Apps for Instagram Reels</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-navigating-xbox-broadcasts-to-facebook-streams/"><u>[Updated] Navigating Xbox Broadcasts to Facebook Streams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-androids-premium-music-video-watching-apps/"><u>[Updated] The Ultimate Guide to Android's Premium Music Video Watching Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-drone-racings-secrets-and-surpassing-fpv-drones/"><u>[Updated] Unveiling Drone Racing's Secrets & Surpassing FPV Drones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/animeflv/"><u>【究極レポ】アニメフラッシュビデオ(AnimeFLV) 安全確保・正しい利用法・万が一見られなくなった時の対策解説！</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/11ios-12/"><u>11/IOS 12</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-best-5-programs-for-snagging-facebook-feeds/"><u>2024 Approved  The Best 5 Programs for Snagging Facebook Feeds</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-virtual-quest-a-jaunt-vr-exploration/"><u>2024 Approved  The Virtual Quest  A Jaunt VR Exploration</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-top-fareless-webcam-viewer-with-recording/"><u>2024 Approved  Top Fareless Webcam Viewer with Recording</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvdmac-iphoneipadandroid2024/"><u>市販DVDをMacから取り込んで、無料でリッピング! IPhone、iPad、Androidで再生する方法2024年版指南</u></a></li>
+<li><a href="https://fox-info.techidaily.com/breaking-the-silence-crafting-powerful-film-dialogues/"><u>Breaking the Silence  Crafting Powerful Film Dialogues</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/captivating-cinematic-experience-video-filters-for-pcmobile/"><u>Captivating Cinematic Experience  Video Filters for PC/Mobile</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/come-master-copying-a-protected-or-unprotected-dvd-on-your-mac-with-original-quality/"><u>Come Master Copying a Protected or Unprotected DVD on Your Mac with Original Quality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/complete-guide-to-iphone-to-iphone-transfer-app-easily-move-files-onto-your-computer-or-android-phone/"><u>Complete Guide to iPhone-to-iPhone Transfer App: Easily Move Files Onto Your Computer or Android Phone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/deciding-on-a-smartphone-champion-comparing-iphones-with-android-devices-for-optimal-user-experience/"><u>Deciding on a Smartphone Champion: Comparing iPhones with Android Devices for Optimal User Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-the-ultimate-macx-pro-unlimited-no-cost-psp-video-transformation-tool/"><u>Download the Ultimate MacX Pro: Unlimited, No-Cost PSP Video Transformation Tool</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortless-guide-top-10-methods-to-shift-images-from-iphone-to-your-mac/"><u>Effortless Guide: Top 10 Methods to Shift Images From iPhone to Your Mac</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-tips-for-navigating-and-organizing-your-android-file-system/"><u>Essential Tips for Navigating and Organizing Your Android File System</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/exploring-video-codecs-comparing-the-features-of-mp4-and-mov-for-optimal-use/"><u>Exploring Video Codecs: Comparing the Features of MP4 and MOV for Optimal Use</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-how-to-enable-your-gpu-for-cyberpunk-2077-on-windows-11/"><u>Fix: How to Enable Your GPU for Cyberpunk 2077 on Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/frei-herunterladen-mit-makemkv-auf-mac-die-perfekte-losung-zum-rippen-und-konvertieren-von-filmen-aus-blu-raysdvds/"><u>Frei Herunterladen Mit MakeMKV Auf Mac: Die Perfekte Lösung Zum Rippen Und Konvertieren Von Filmen Aus Blu-Rays/DVDs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-to-managing-web-videos-online-uploading-downloading-converting-and-editing-techniques/"><u>Guide to Managing Web Videos Online: Uploading, Downloading, Converting, and Editing Techniques</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-how-to-download-vimeo-videos-withwithout-software-100-useful/"><u>In 2024, How to Download Vimeo Videos With/Without Software [100%% Useful]</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/massive-savings-macx-all-in-one-multimedia-suite-at-a-steal-with-65-off-this-holiday-season/"><u>Massive Savings: MacX All-in-One Multimedia Suite at a Steal with 65%% Off This Holiday Season!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-audio-file-transformation-turn-your-m2ts-videos-into-mp3-on-macos/"><u>Mastering Audio File Transformation: Turn Your M2TS Videos Into MP3 on macOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/preserve-and-upload-the-ultimate-guide-to-moving-all-music-from-iphone-to-itunes-effortlessly/"><u>Preserve and Upload: The Ultimate Guide to Moving All Music From iPhone to iTunes Effortlessly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/quick-and-simple-guide-how-to-swiftly-move-your-ipod-tunes-without-a-hitch/"><u>Quick & Simple Guide: How to Swiftly Move Your iPod Tunes Without a Hitch</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/resolved-insufficient-storage-issue-in-ios-applications-like-imovie-on-your-mac-iphone-or-ipad/"><u>Resolved: Insufficient Storage Issue in iOS Applications Like iMovie on Your Mac, iPhone, or iPad</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/resolving-itunes-backup-failure-issues-innovative-fixes-and-strategies/"><u>Resolving 'iTunes Backup Failure Issues: Innovative Fixes and Strategies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/save-big-on-high-quality-media-transfers-secure-macx-mediatrans-now/"><u>Save Big on High-Quality Media Transfers – Secure MacX MediaTrans Now!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/simple-steps-seamlessly-syncing-your-iphone-playlists-with-itunes/"><u>Simple Steps: Seamlessly Syncing Your iPhone Playlists with iTunes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/simplified-steps-seamlessly-adding-hdsd-content-to-youtube-from-your-mac-device/"><u>Simplified Steps: Seamlessly Adding HD/SD Content to YouTube From Your Mac Device</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-creating-a-beautifully-edited-wedding-slide-show-set-to-music-perfect-for-youtube/"><u>Step-by-Step Guide: Creating a Beautifully Edited Wedding Slide Show Set to Music, Perfect for YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-how-to-transform-avchd-mts-hd-video-footage-into-avi-using-a-macbookimac-system/"><u>Step-by-Step Guide: How to Transform AVCHD MTS HD Video Footage Into AVI Using a MacBook/iMac System</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/telechargement-gratuit-de-mac-x-dvd-ripper-professional-sur-internet/"><u>Téléchargement Gratuit De Mac X DVD Ripper Professional Sur Internet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-top-5-guide-high-efficiency-video-coding-players-for-enjoying-4k-movies-on-pc-and-mac-systems/"><u>The Ultimate Top 5 Guide: High-Efficiency Video Coding Players for Enjoying 4K Movies on PC and Mac Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-macx-dvd-to-avi-transcoder-seamless-mac-based-dvd-to-avi-conversion-experience/"><u>Top MacX DVD to AVI Transcoder: Seamless Mac-Based DVD to AVI Conversion Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/trois-convertisseurs-de-videos-premium-gratuits-sur-mac-boostez-vos-videos-facilement/"><u>Trois Convertisseurs De Vidéos Premium Gratuits Sur Mac : Boostez Vos Vidéos Facilement !</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-iphone-charger-issues-expert-solutions-and-tips/"><u>Troubleshooting iPhone Charger Issues: Expert Solutions & Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-audiovideo-bitrate-modifier-speed-up-conversion-of-mp4s-audios-with-ease/"><u>Ultimate Audio/Video Bitrate Modifier - Speed Up Conversion of MP4s, Audios with Ease</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-the-best-of-laughs-enjoy-exclusive-free-cat-compilation-from-youtube-today/"><u>Unlock the Best of Laughs: Enjoy Exclusive Free Cat Compilation From YouTube Today!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-truth-behind-bambu-labs-promised-updates-to-printer-firmware/"><u>Unveiling the Truth Behind Bambu Lab’s Promised Updates to Printer Firmware</u></a></li>
+</ul></div>

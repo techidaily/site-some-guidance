@@ -1,7 +1,7 @@
 ---
 title: Discovering the Joy in Reading with Kobo Clara Colour – A User-Friendly and Colorful Digital Book Companion
-date: 2024-08-27 21:35:35
-updated: 2024-08-29 10:35:52
+date: 2024-08-31T06:07:15.169Z
+updated: 2024-09-01T06:07:15.169Z
 tags:
   - product-reviews
 categories:
@@ -104,6 +104,9 @@ Expand
 
 ![The Kobo Clara Colour inside a case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-kobo-clara-colour-inside-a-case_53656171453_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Jerome Thomas / How-To Geek
 
  Having previously reviewed [Rakuten's Kobo Elipsa 2E](https://driver-download.techidaily.com/troubleshooting-guide-seamless-download-and-update-process-for-windows-rndis-drivers/), the Kobo Clara Colour's interface felt familiar, but its body size differed. The Elipsa 2E's 10.3-inch screen would feel massive next to this compact device. Picking up the thin 6-inch device felt like a mass-market paperback rather than a trade paperback (Google the difference for a visual). I was pleased to feel how easy it was to hold, as my main complaint with larger eReaders is how uncomfortable they can be when held for long periods.
@@ -128,10 +131,16 @@ Jerome Thomas / How-To Geek
 
  If you don't already own a Kobo eReader and find a color display enticing, this may be its main selling point. As a reader, I found the color a fantastic (albeit secondary) feature that made reading specific types of books and articles more enjoyable.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Reading with the Kobo Clara Colour
 
 ![The Kobo Clara Colour mark up feature.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-kobo-clara-colour-mark-up-feature-2_53655071967_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  On other Kobo devices, I experienced significant lag when tapping to turn the page and some occasional text ghosting. The Kobo Clara Colour was speedy when I tapped to go to the next page, and only on rare occasions did I notice any text or image ghosting. The simple, streamlined reading experience compared to other eReaders was welcome. The Kobo interface was less cluttered on the Clara Colour (fewer bottom tabs and useless Beta features), which made navigation more accessible and more beginner-friendly. (Or for people like me who want to tap and read rather than get lost in a mire of excessive extra features.)
@@ -140,10 +149,16 @@ Jerome Thomas / How-To Geek
 
  From reading Jane Austen's unfinished novel "Sanditon" in an Urgent Care (don't ask) to exploring Great Depression era "Cannery Row" by John Steinbeck in various locations, reading on the Kobo Clara Colour was relaxing, engaging, and downright fun. Helpful features like adjusting the brightness with a quick up or down swipe along the left margin of the screen made it practical, and the ability to customize the color temperature of the display was also helpful for nighttime reading when I wanted warm, amber backlighting.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  The Rakuten Kobo Bookstore
 
 ![The Kobo Clara Colour bookstore.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-kobo-clara-colour-bookstore_53656171458_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Of all the features I enjoyed least, it was, sadly, perusing the Rakuten Kobo bookstore on the device. Why? Because it's basic (yet cluttered), and searching through recommended lists and other categories felt like falling into an online shopping black hole. Specifically, browsing Kobo Plus options was a black hole of what looked to be self-published romances. (If that's your thing, awesome. For me, it was a pain in the butt to sift through.) I found most luck sifting through a list of classics or changing the filter options to "Most Popular," where I did find some gems like books by Joyce Carol Oates and older bestsellers.
@@ -156,6 +171,9 @@ Jerome Thomas / How-To Geek
 
 ![The Kobo Clara Colour inside a case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-kobo-clara-colour-inside-a-case-2_53655071982_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  When I first received the Kobo Clara Colour, I charged it fully, which took about two hours. After that, I didn't need to charge the eReader again. It lasted a full two weeks and hit about 20% on the 14th day. This was with light to moderate reading throughout the period, with some days reading less than 30 minutes and others reading an hour or two at a time. I typically kept the brightness at around 70 to 80% in the daytime and hovered around 40% or less at bedtime. This aligns with Rakuten's estimate that you could get up to 42 days of reading on a single charge (at 30% brightness consistently), though I don't know how many people would keep the screen brightness so low. So, a better estimate for the average reader would be around two to three weeks of battery life (less if you're an extremely heavy reader).
@@ -170,6 +188,9 @@ Jerome Thomas / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 #####  Rakuten Kobo Clara Colour eReader
 
 8/ 10 
@@ -192,3 +213,52 @@ The Kobo Clara Colour features a 6-inch E ink Kaleido 3 screen, 16 GB of storage
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-compre-written-guide-youtube-video-distribution-on-fb/"><u>[New] In 2024, Compre Written Guide  YouTube Video Distribution on FB</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-setting-up-your-first-livestream-successfully/"><u>[New] Setting Up Your First Livestream Successfully</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-innovative-advanced-gaming-monitoring-tools-for-a-better-experience/"><u>[Updated] In 2024, Innovative, Advanced Gaming Monitoring Tools for a Better Experience</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-pubg-tones-in-minutes/"><u>[Updated] Mastering PUBG Tones in Minutes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-auditory-adventure-navigating-soundtracks-for-unboxing-content/"><u>2024 Approved  Auditory Adventure  Navigating Soundtracks for Unboxing Content</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-step-by-step-guide-iphone-picture-perfection/"><u>2024 Approved  Step-by-Step Guide  IPhone Picture Perfection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvd-video-converter-pro-pack/"><u>特別割引プロモーション - DVD Video Converter Pro Packオンライン購入</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1724766127617-windows-10-dvd/"><u>圧倒的好評 Windows 10 DVD 書き込み手順解明!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comment-telecharger-et-utiliser-makemkv-gratuit-sur-mac-pour-extraire-des-films-en-hd/"><u>Comment Télécharger Et Utiliser MakeMKV Gratuit Sur Mac Pour Extraire Des Films en HD</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-to-restore-link-functionality-in-pc-version-of-granblue-fantasy/"><u>Comprehensive Guide to Restore Link Functionality in PC Version of Granblue Fantasy</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/convert-your-flv-videos-on-mac-with-the-powerful-and-easy-to-use-macx-free-video-converter/"><u>Convert Your FLV Videos on Mac with the Powerful & Easy-to-Use MacX Free Video Converter</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/critical-reasons-to-skip-immediate-video-format-conversion-with-online-tools-insider-tips-first/"><u>Critical Reasons to Skip Immediate Video Format Conversion with Online Tools - Insider Tips First!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1724766592677-dvddvd/"><u>DVDダビング完全ガイド:任意のDVDに対しても利用可能な、シンプルで使いやすい手順</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/experience-flawless-video-editing-with-macxs-no-cost-quicktime-editor-top-rated-for-smooth-macos-compatibility-and-versatile-media-support/"><u>Experience Flawless Video Editing with MacX's No-Cost QuickTime Editor - Top Rated for Smooth macOS Compatibility and Versatile Media Support</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/experience-stunning-4k-clarity-macx-video-converter-delivers-unmatched-speed-and-quality/"><u>Experience Stunning 4K Clarity: MacX Video Converter Delivers Unmatched Speed & Quality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/get-ultimate-performance-free-m4v-format-decoder-bundle-for-crisp-clear-video-playback/"><u>Get Ultimate Performance: Free M4V Format Decoder Bundle for Crisp, Clear Video Playback</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guida-passo-passo-alla-conversione-di-dvd-in-formato-iso-utilizzando-un-computer-mac-anche-per-macos-big-sur/"><u>Guida Passo-Passo Alla Conversione Di DVD in Formato ISO Utilizzando Un Computer Mac, Anche per macOS Big Sur</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Xiaomi 14? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-fix-iphones-stuck-on-ios-1711-update-easy-solutions-you-should-know/"><u>How To Fix iPhones Stuck On IOS 17.11 Update: Easy Solutions You Should Know</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-restore-mobile-connection-solutions-for-iphoneipad-cellular-data-problems/"><u>How to Restore Mobile Connection: Solutions for iPhone/iPad Cellular Data Problems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-seamlessly-move-music-from-an-ipod-to-macos/"><u>How to Seamlessly Move Music From an iPod to macOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/i-migliori-8-rippers-gratuiti-per-dvd-su-macos-il-tuo-riferimento-completo/"><u>I Migliori 8 Rippers Gratuiti per DVD Su macOS: Il Tuo Riferimento Completo</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/importing-mtsm2ts-videos-into-itunes-on-your-mac-a-step-by-step-guide/"><u>Importing MTS/M2TS Videos Into iTunes on Your Mac - A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-huawei-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Huawei? Try These Fixes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-depth-comparison-of-h264-vs-mpeg4-for-optimal-video-encoding/"><u>In-Depth Comparison of H.264 Vs MPEG4 for Optimal Video Encoding</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/iphone-mp3/"><u>IPhone用音楽編集ガイド: MP3加工・クリップ作成・サウンドミキシング入門</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1724766400265-itunessd/"><u>ITunesからSDカードに移動:他のデバイス上で音楽と映画を再生可能にする手順</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macxdvd-by-digiarty/"><u>MacXDVD by Digiarty: お問い合わせ手順と支援リンク</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-the-art-of-musical-wedding-video-montages-easy-tutorials-and-best-practices-for-sharing-your-love-story-on-youtube/"><u>Mastering the Art of Musical Wedding Video Montages - Easy Tutorials & Best Practices for Sharing Your Love Story on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/no-cost-mac-software-for-converting-dvd-tracks-into-mp3s-effortless-audio-extraction/"><u>No-Cost Mac Software for Converting DVD Tracks Into MP3s - Effortless Audio Extraction</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-separate-audio-and-video-glitches-on-youtube-using-chrome-or-firefox-techniques/"><u>Solve Separate Audio and Video Glitches on YouTube Using Chrome or Firefox Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-tutorial-bypassing-dvd-copy-protection-for-mac-users/"><u>Step-by-Step Tutorial: Bypassing DVD Copy Protection for Mac Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/strategies-for-time-travel-visualization/"><u>Strategies for Time Travel Visualization</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-using-your-iphone-as-an-external-sd-card-for-free/"><u>The Ultimate Guide to Using Your iPhone as an External SD Card for Free</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/three-top-ranked-free-websites-for-easy-mkv-to-mp4-file-conversion/"><u>Three Top-Ranked Free Websites for Easy MKV to MP4 File Conversion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-ranking-no-cost-mac-dvd-ripper-transform-your-disc-files-into-avi-format-seamlessly/"><u>Top-Ranking No Cost Mac DVD Ripper: Transform Your Disc Files Into AVI Format Seamlessly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-itunes-when-it-cant-link-to-your-iphone-due-to-a-missing-value/"><u>Troubleshooting iTunes When It Can’t Link to Your iPhone Due to a Missing Value</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-converting-hevc-videos-into-mp4-with-advanced-h264-codec-best-tools-reviewed/"><u>Ultimate Guide to Converting HEVC Videos Into MP4 with Advanced H.264 Codec – Best Tools Reviewed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-high-quality-video-compression-using-handbrake/"><u>Ultimate Guide: High-Quality Video Compression Using HandBrake</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-top-rated-avi-video-players-for-seamless-viewing-experience-on-your-mac/"><u>Ultimate Guide: Top Rated AVI Video Players for Seamless Viewing Experience on Your Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-tutorial-on-syncing-iphone-content-directly-with-your-mac-system-no-itunes-needed/"><u>Ultimate Tutorial on Syncing iPhone Content Directly with Your Mac System - No iTunes Needed!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-the-macxdvd-eula-terms-and-conditions-for-users/"><u>Understanding the MacXDVD EULA: Terms and Conditions for Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/videos-und-audios-auf-dem-iphone-7-plus-kompatible-formate-mit-ios-10/"><u>Videos Und Audios Auf Dem iPhone 7 Plus - Kompatible Formate Mit iOS 10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/44ot44o844oq44oz44kw44ko44oh44kj44od44oiioocueocvplusodvoocvplusodvoplus8muw6gpluswriuochoocpuocqeodvoocvplusodvoodnuodvoocrplusobquoblplusobppluswlleeuuplu12/"><u>ローリングエディット スターター：広告やウォーターマークなしで動画をカスタムする方法</u></a></li>
+</ul></div>

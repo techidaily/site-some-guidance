@@ -1,7 +1,7 @@
 ---
 title: Why Shifting Data Infrastructure to the Cosmos Is a Game-Changer for Tech Companies
-date: 2024-08-27 11:53:13
-updated: 2024-08-29 12:27:21
+date: 2024-08-31T06:14:52.670Z
+updated: 2024-09-01T06:14:52.670Z
 tags:
   - cutting-edge
 categories:
@@ -31,34 +31,56 @@ Related: [5 Space Movies Where Space Is More Than a Cheap Backdrop](https://disc
 
  The European Commission Horizon program has contracted Thales Alenia Space to lead a [feasibility study](https://www.datacenterdynamics.com/en/news/thales-alenia-space-wins-eu-feasibility-study-for-ascend-space-data-centers/) for data centers in orbit, exploring whether such a move could help countries reach carbon neutrality by 2050.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Energy Efficiency
 
  In space, solar power is not only abundant but also more efficient. On Earth, sunlight is diffused and absorbed by the atmosphere, reducing the energy that reaches solar panels. In space, however, solar panels can capture the full intensity of the sun's rays, increasing their energy output. This means data centers in space could be powered more efficiently and reliably even than solar data centers on Earth's surface, reducing the strain on Earth's energy resources.
 
  In fact, space-based solar power is so much more efficient that the UK government is considering putting[solar power stations in space](https://www.energymonitor.ai/tech/innovation/can-solar-panels-in-space-power-the-race-to-net-zero/) and beaming that power down to antennas using radio waves.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ##  Cost Savings
 
  The cost of launching payloads into orbit could reach as little as $33/kg by 2040, according to a [report by CitiGPS](https://www.businesswire.com/news/home/20220512005099/en/Citi-GPS-Report-Space-Launch-Costs-to-Fall-to-100kg-by-2040-Driving-New-Industries-and-Facilitating-Monitoring-of-GHG-Emissions-Deforestation-and-Biodiversity#:~:text=Biodiversity%20%7C%20Business%20Wire-,Citi%20GPS%20Report%3A%20Space%20Launch%20Costs%20to%20Fall%20to%20%24100,GHG%20Emissions%2C%20Deforestation%2C%20and%20Biodiversity&text=LONDON%2D%2D%28BUSINESS%20WIRE%29%2D%2D,Dawn%20of%20a%20New%20Age.). Once established, space data centers' maintenance and energy costs could be significantly lower than their terrestrial counterparts. Companies like [SpaceX](https://www.reviewgeek.com/149347/spacex-rocket-captures-a-stunning-timelapse-of-earth/) are consistently working on technologies that make space launches cheaper and more reliable.
 
  With solar power providing constant energy and the vacuum of space offering natural cooling, operational costs could be significantly reduced in the long run. As electricity prices continue to rise, with data centers in London reaching [$1 for every watt of power consumed](https://cjcit.com/insight/energy-costs-and-data-centres-a-threat-to-cloud-market-data-operations/), the potential cost savings are substantial.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Natural Cooling Advantage
 
  Data centers produce a lot of heat, and a significant portion of their energy consumption on Earth goes toward cooling. In space, the dynamics of heat management change drastically. Although the vacuum of space is an excellent insulator, it allows for heat dissipation through radiation.
 
  Radiators can be designed to maximize this effect, turning the challenge of space's insulating properties into an advantage. For example, on the International Space Station's thin metal cooling plates dump waste heat from within the station as infrared light.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  It's Faster and More Secure
 
  Light travels faster in the vacuum of space than it does through the fiber optic cables that currently carry our data. After all, the universal speed limit, C, is the speed of light as measured in a vacuum.
 
  This could mean faster data transmission times between space-based data centers and their earthbound users. Additionally, data transmitted through space is also potentially more secure. Interfering with or intercepting data sent via [satellite](https://desktop-recording.techidaily.com/new-2024-approved-first-steps-in-virtual-conferencing-with-zoom/) is significantly more challenging than tapping into terrestrial data lines, offering an additional layer of security. Intercepting laser-based point-to-point communication between data centers in orbit would pose an even greater challenge.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Better Edge Computing
 
 [Edge computing](https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-11-pro-to-ipad-drfone-by-drfone-ios/) is about processing data as close to the source as possible, reducing latency and bandwidth usage. As our world becomes more connected --- from self-driving cars to IoT devices --- the need for edge computing grows. Space-based data centers, combined with a network of communication satellites, could provide global edge computing capabilities, offering low-latency services to even the most remote locations on Earth.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ##  To the Moon?
 
  So, are we really about to move our data centers off Earth and into the cosmos? The idea might not be as far-fetched as it sounds. Microsoft has announced a new space software developer kit for its cloud platform, Azure, and a [partnership](https://www.geekwire.com/2022/leocloud-microsoft-team-up-with-axiom-space-to-put-cloud-infrastructure-in-orbit/) with space-based infrastructure-as-a-service (IaaS) start-up LEOcloud. This initiative aims to deliver space-based cloud services onboard Axiom Space's space stations. At the same time, IBM is developing a [partnership with Sierra Space](https://newsroom.ibm.com/2022-10-26-Sierra-Space-and-IBM-Collaborate-on-the-Next-Generation-of-Space-Technology-and-Software-Platforms) to create a space computing infrastructure.
@@ -83,3 +105,43 @@ Related: [What Is Starlink Internet, and Should You Use It?](https://desktop-rec
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-exclusive-access-prime-video-downloader-picks/"><u>[New] 2024 Approved  Exclusive Access  Prime Video Downloader Picks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-in-class-elite-4k-televisions/"><u>[New] Best in Class  Elite 4K Televisions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-select-a-youtube-gaming-introduction-maker-free-or-paid-edition-for-2024/"><u>[New] How to Select a YouTube Gaming Introduction Maker  Free or Paid Edition for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-no-more-complications-easy-instagram-to-mp4-tools-for-mac-and-pc/"><u>[Updated] 2024 Approved  No More Complications! Easy Instagram to MP4 Tools for Mac & PC</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-beyond-single-pictures-creating-a-story-with-montages/"><u>[Updated] In 2024, Beyond Single Pictures  Creating a Story with Montages</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-depth-guide-to-optimizing-photos-using-polarr-for-2024/"><u>[Updated] In-Depth Guide to Optimizing Photos Using Polarr for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-depth-look-10-must-have-terraria-mods/"><u>[Updated] In-Depth Look  10 Must-Have Terraria Mods</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-official-macx-pro-unlimited-free-tool-for-converting-rip-protected-dvds-into-hd-files-compatible-with-iphone-xs-xr-and-more/"><u>1. Official MacX Pro: Unlimited Free Tool for Converting Rip-Protected DVDs Into HD Files Compatible with iPhone XS, XR & More</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2019/"><u>2019</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-cinematic-introductions/"><u>2024 Approved  Exclusive Cinematic Introductions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/acoustic-additions-for-your-chat-status-for-2024/"><u>Acoustic Additions for Your Chat Status for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/adopting-advanced-advertising-approaches-metaverse/"><u>Adopting Advanced Advertising Approaches  Metaverse</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/claim-your-complimentary-macxmediatrans-and-revolutionize-iphone-backups-with-macxdvd/"><u>Claim Your Complimentary MacXMediaTrans & Revolutionize iPhone Backups with MacXDVD!</u></a></li>
+<li><a href="https://facebook.techidaily.com/community-conquest-raising-the-bar-for-your-fb-group/"><u>Community Conquest: Raising the Bar for Your Fb Group</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortless-guide-creating-a-musical-photo-slideshow-for-youtube-success/"><u>Effortless Guide: Creating a Musical Photo Slideshow for YouTube Success</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evaluating-the-quiet-dominance-of-the-deepcool-assassin-4s-in-asic-mining-rigs/"><u>Evaluating the Quiet Dominance of the DeepCool Assassin 4S in ASIC Mining Rigs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/expert-techniques-for-editing-images-in-macos-a-comprehensive-photos-tutorial/"><u>Expert Techniques for Editing Images in macOS: A Comprehensive Photos Tutorial</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/giggle-away-with-babies-comedy-moments-from-youngsters-get-them-for-free/"><u>Giggle Away with Babies: Comedy Moments From Youngsters - Get Them for Free!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-easily-convert-your-favorite-youtube-content-to-high-quality-mp4-files/"><u>How To Easily Convert Your Favorite YouTube Content to High-Quality MP4 Files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-nokia-g42-5g-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Nokia G42 5G?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/pause-your-avg-antivirus-software-free-edition-version-2015-instructions-for-users/"><u>Pause Your AVG Antivirus Software (Free Edition, Version 2015): Instructions for Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/pausing-your-avg-antivirus-free-version-2015-simple-instructions-for-users/"><u>Pausing Your AVG Antivirus Free Version 2015: Simple Instructions for Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/quick-guide-bulk-deleting-images-on-your-iphone-8-plus-or-x-top-five-methods/"><u>Quick Guide: Bulk Deleting Images on Your iPhone 8, Plus or X – Top Five Methods</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/resolve-access-denied-when-attempting-to-run-temp-files-overcome-error-5/"><u>Resolve 'Access Denied' When Attempting to Run Temp Files - Overcome Error 5</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/resolving-sound-failures-and-installation-hiccups-in-the-windows-10-creators-patch/"><u>Resolving Sound Failures and Installation Hiccups in the Windows 10 Creators Patch</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/seamlessly-stream-or-play-dvds-on-apples-latest-tablets-mini-pro-and-air-tips/"><u>Seamlessly Stream or Play DVDs on Apple's Latest Tablets: Mini, Pro & Air Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/stay-informed-with-macxdvds-press-announcements-latest-industry-trends-and-product-launches/"><u>Stay Informed with MacXDVD's Press Announcements - Latest Industry Trends and Product Launches!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-executing-a-fresh-boot-on-windows-11/"><u>Step-by-Step Guide: Executing a Fresh Boot on Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-setting-up-system-restore-on-windows-11/"><u>Step-by-Step Guide: Setting Up System Restore on Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-tutorial-for-setting-up-restore-points-in-windows-11/"><u>Step-by-Step Tutorial for Setting Up Restore Points in Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/supercharged-macx-mediatrans-lightning-fast-iphone-photography-backup/"><u>Supercharged MacX MediaTrans: Lightning-Fast iPhone Photography Backup</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-release-of-stable-diffusion-v2-mixed-reactions-spark-debate/"><u>The Release of Stable Diffusion v2: Mixed Reactions Spark Debate</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-dvd-9-collection-quick-tips-for-shrinking-files-down-to-dvd-5-size/"><u>Transform Your DVD-9 Collection: Quick Tips for Shrinking Files Down to DVD-5 Size!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windows-10-calculator-not-working-solved/"><u>Windows 10 Calculator Not Working [Solved]</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-10-guide-correcting-hardware-errors-and-avoiding-the-critical-stop-blue-screen/"><u>Windows 10 Guide: Correcting Hardware Errors & Avoiding the Critical Stop Blue Screen</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windows-11-insider-preview-build-15031-download-stuck-at-initializing-solved/"><u>Windows 11 Insider Preview Build 15031 Download Stuck at Initializing [Solved]</u></a></li>
+</ul></div>

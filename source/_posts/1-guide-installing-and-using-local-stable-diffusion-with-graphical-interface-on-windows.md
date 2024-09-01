@@ -1,7 +1,7 @@
 ---
 title: "1. Guide: Installing and Using Local Stable Diffusion with Graphical Interface on Windows"
-date: 2024-08-28 17:14:59
-updated: 2024-08-29 12:20:20
+date: 2024-08-31T06:14:53.898Z
+updated: 2024-09-01T06:14:53.898Z
 tags:
   - cutting-edge
 categories:
@@ -36,6 +36,9 @@ Related: [Stable Diffusion Brings Local AI Art Generation to Your PC](https://ex
 
  The last point is really the important issue here. Traditionally, [Stable Diffusion is installed and run via a command-line interface](https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-xiaomi-redmi-k70-phone-by-drfone-android/). It works, but it can be clunky, unintuitive, and it is a significant barrier to entry for people that would otherwise be interested. But, since it is an open source project, the community quickly created multiple user interfaces for it and began adding their own augmentations, including optimizations to minimize video ram ([VRAM](https://extra-support.techidaily.com/new-premium-selection-of-apple-and-android-camera-slow-motion-apps/)) usage and build in upscaling and masking.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What Do You Need to Run This Version of Stable Diffusion?
 
  We're going to cover two different forks (offshoots) of Stable Diffusion of [the main repository (repo) created and maintained by Stability.ai](https://github.com/CompVis/stable-diffusion). They both have a [graphical user interface (GUI)](https://twitter-videos.techidaily.com/updated-2024-approved-from-novice-to-pro-conquering-twitter-streams/) — making them easier to use than the regular Stable Diffusion, which only has a [command-line interface](https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/) — and an installer that'll handle most of the setup automatically. They both provide the same basic functionality, but the user experience is quite different. AUTOMATIC1111's WebUI is very intuitive, and the easiest to learn and use, but ComfyUI offers an interesting and powerful node-based user interface that will appeal to power users and anyone that wants to chain multiple models together. 
@@ -68,10 +71,16 @@ Related: [Stable Diffusion Brings Local AI Art Generation to Your PC](https://ex
 
 ![Click &quot;Windows Installer (64-bit).&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/windows-installer-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Click the executable you [downloaded](https://buynow-info.techidaily.com/hp-stream-14-analysis-affordable-windows-laptop-with-trade-offs-explored/) and go through the prompts. If you already have Python installed (and you most certainly do), just click "Upgrade." Otherwise follow along with the recommended prompts.
 
  Make certain that you add Python 3.10.6 to the PATH if you get an option for that. 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ###  Install Git and Download the GitHub Repo
 
  You need to [download and install Git on Windows](https://techtrends.techidaily.com/ultimate-guide-to-popular-samsung-smart-tv-apps-of-2024/) before the Stable Diffusion installer can be run. Just download the [64-bit Git executable](https://git-scm.com/download/win), run it, and use the recommended settings unless you have something specific in mind.
@@ -84,6 +93,9 @@ Related: [How to Install Git on Windows](https://techtrends.techidaily.com/ultim
 
 ![Click the green &quot;Code&quot; button then click &quot;Download ZIP.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/clcik-code-click-download-zip.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
  If you want to take ComfyUI out for a spin, scroll down to the "[Installing](https://github.com/comfyanonymous/ComfyUI#installing)" section, and click "Direct Link to Download."
 
 ![The direct download link for ComfyUI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/direct.png) 
@@ -92,6 +104,10 @@ Related: [How to Install Git on Windows](https://techtrends.techidaily.com/ultim
 
 ![Drag the &quot;stable-diffusion-webui-master&quot; folder wherever you want it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/drag-and-drop.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
  Make sure you don't accidentally drag "stable-diffusion-webui-master" or "ComfyUI\_windows\_portable" onto another folder rather than empty space — if you do, it'll drop into that folder, not the parent folder you intended.
 
 ###  Download All The Checkpoints
@@ -112,6 +128,9 @@ Related: [How to Install Git on Windows](https://techtrends.techidaily.com/ultim
 
 ![The WebUI client downloading and installing all of the assets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/looks-like-this.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When it is done, the console will display:
 
 Running on local URL: http://[127.0.0.1](https://hardware-help.techidaily.com/1722958692600-get-your-canon-mx49n-printer-up-to-date-with-new-windows-drivers-here/):7860 To create a public link, set `share=True` in `launch()`
@@ -130,6 +149,9 @@ Related: [What Is the 127.0.0.1 IP Address, and How Do You Use It?](https://ipho
 
 ![The front page of the WebUI client in Google Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/SD_MAIN_SCREEN_UPDATE.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
  If you've used Stable Diffusion before, these settings will be familiar to you, but here is a brief overview of what the most important options mean:
 
 * **Prompt:** The description of what you'd like to create.
@@ -160,6 +182,9 @@ Related: [What Is the 127.0.0.1 IP Address, and How Do You Use It?](https://ipho
 
  Select it, and then click "Send to Inpaint."
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ##  How to Mask Images You Create to Inpaint
 
  Inpainting is a fantastic feature. Normally Stable Diffusion is used to create entire images from a prompt, but inpainting allows you selectively generate (or regenerate) parts of the image. There are two critical options here: inpaint masked, inpaint not masked.
@@ -208,6 +233,9 @@ CFG Scale: 5
 
 ![The default ComfyUI workflow](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/comfyui.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  It looks worse than it really is. Here's what each node does:
 
 * **Load Checkpoint:** Loads the trained model.
@@ -235,10 +263,16 @@ CFG Scale: 5
 
 ![The Empty Latent Image node has three fields: image width, height, and batch size.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2023-08-01_18h58_27.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
  Now you're done. Click "Queue Prompt" to initiate image generation. You will see each node light up while it is active. 
 
 ![Click "Queue Prompt" to generate an image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/queue-prompt.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
  Here is one of the images we got:
 
 ![A cute cow.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/comfyui_00003_.png) 
@@ -249,6 +283,9 @@ CFG Scale: 5
 
  You can add as many model and modification nodes as you want, but keep in mind that every step in the process, every node you add, will increase computational time. The Stable Diffusion community has created a huge number of pre-built node arrangements (called workflows, usually) that allow you to fine-tune your results. We've tested a few and found they can often significantly improve your results. As always, be cautious downloading and using community resources — the Stable Diffusion community is fairly safe, but you can never be too careful. 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Fix the "CUDA Out Of Memory" Error in AUTOMATIC1111's WebUI
 
  The bigger the image you make, the more video memory is required. The first thing you should try is generating smaller images. Stable Diffusion produces good — albeit very different — images at 256x256.
@@ -263,6 +300,10 @@ Related: [How to Write a Batch Script on Windows](https://android-location-track
 
 ![Notepad with opt_split_attention argument.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/notepad.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
  Then click File > Save. Alternatively, you can hit Ctrl+S on your keyboard.
 
  If you're still getting memory errors, try adding `--medvram` to the list of command line arguments (COMMANDLINE\_ARGS).
@@ -287,3 +328,50 @@ Related: [How to Write a Batch Script on Windows](https://android-location-track
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-engaging-story-starter-toolkit/"><u>[New] 2024 Approved  Engaging Story Starter Toolkit</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-essential-guide-to-screen-capture-windows/"><u>[New] 2024 Approved  Essential Guide to Screen Capture Windows</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-easy-windows-11-screen-capturing-package/"><u>[New] Easy Windows 11 Screen Capturing Package</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-creating-accessible-multilingual-content-on-igtv/"><u>[Updated] Creating Accessible Multilingual Content on IGTV</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-expert-guide-to-enhancing-video-subtitles-through-web-apps-for-2024/"><u>[Updated] Expert Guide to Enhancing Video Subtitles Through Web Apps for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windows-11-dvd-top10/"><u>「Windows 11 DVD コピーを簡単に!無料のベストツール集Top10掲載」</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-dvd-dvd5/"><u>2024 年の無料 DVD 書き込み、埋め込み、DVD制作ソフトウェアベスト5ランキングをご紹介</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-seamless-transitions-the-art-of-canon-time-lapses/"><u>2024 Approved  Crafting Seamless Transitions  The Art of Canon Time-Lapses</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-socialites-secret-accelerate-your-fame-on-insta-with-our-top-15-hacks/"><u>2024 Approved  Socialite's Secret  Accelerate Your Fame on Insta with Our Top 15 Hacks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-techniques-for-stunning-shadow-photography-on-your-iphone/"><u>2024 Approved  Techniques for Stunning Shadow Photography on Your iPhone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitter-video-thumbnail-add-and-change-thumbnails-of-twitter-videos/"><u>2024 Approved  Twitter Video Thumbnail | Add and Change Thumbnails of Twitter Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/alternatives-to-powerdvd-on-mac-best-free-and-paid-options/"><u>Alternatives to PowerDVD on Mac: Best Free and Paid Options</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazons-best-deal-on-e-readers-the-reliable-and-economical-kindle-of-2019/"><u>Amazon's Best Deal on E-Readers - The Reliable and Economical Kindle of 2019</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/building-tailored-apple-playlists-with-ease-for-ios-devices/"><u>Building Tailored Apple Playlists with Ease for iOS Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/die-besten-lol-filmen-finden-herunterladen-oder-online-ansehen-unsere-empfehlungen/"><u>Die Besten LOL-Filmen Finden, Herunterladen Oder Online Ansehen - Unsere Empfehlungen</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/downloads-vs-streams-showdown-which-is-superior-for-watching-videos-online/"><u>Downloads Vs. Streams Showdown: Which Is Superior for Watching Videos Online?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1724766421493-dvd/"><u>DVD複写時に発生する容量超過問題解決法 - 成功体系公開</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-methods-for-replacing-or-removing-a-cell-phone-screen-guard/"><u>Easy Methods for Replacing or Removing a Cell Phone Screen Guard</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortless-macx-dvd-ripper-convert-your-movies-seamlessly-from-dvds-to-apple-tv-format-on-mac/"><u>Effortless MacX DVD Ripper - Convert Your Movies Seamlessly From DVDs to Apple TV Format on Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/fixing-imovies-audio-video-desynchronization-problem-a-step-by-step-guide-including-visual-assistance/"><u>Fixing iMovie's Audio-Video Desynchronization Problem: A Step-by-Step Guide Including Visual Assistance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-rainbow-six-siege-issue-resolving-error-code-3-0x0001000b/"><u>Fixing Rainbow Six Siege Issue: Resolving Error Code 3-0X0001000B</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-guide-streaming-4k-content-on-imac-and-macbook-your-ultimate-netflix-setup/"><u>Free Guide: Streaming 4K Content on iMac and MacBook - Your Ultimate Netflix Setup</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/gigglegallery-log-in-and-make-magic-videos/"><u>GiggleGallery  Log In and Make Magic Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-easily-transfer-and-backup-your-ios-data-by-turning-your-iphone-into-a-storage-drive/"><u>Guide: Easily Transfer and Backup Your iOS Data by Turning Your iPhone Into a Storage Drive</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xr-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XR to Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-realme-gt-neo-5-se-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Realme GT Neo 5 SE FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/lossless-conversion-tactics-transforming-hd-m2ts-files-into-high-quality-mkv-format/"><u>Lossless Conversion Tactics: Transforming HD M2TS Files Into High-Quality MKV Format</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mac-dvd-duplication-guide-achieving-perfect-bit-by-bit-replicas/"><u>Mac DVD Duplication Guide: Achieving Perfect Bit-by-Bit Replicas</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macx-hd-master-converter-tool-for-windows-10-seamless-mkvavchdmp4-transformation-upload-ready-videos-for-all-devices/"><u>MacX HD Master Converter Tool for Windows 10 - Seamless MKV/AVCHD/MP4 Transformation, Upload-Ready Videos for All Devices!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macx-ultimate-video-transcoder-activation-codes-and-serial-keys-2022/"><u>MacX Ultimate Video Transcoder: Activation Codes and Serial Keys 2022</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macxdvds-festive-bonanza-score-20k-free-copies-of-the-pro-version-of-macx-dvd-ripper-this-thanksgiving-holiday-season/"><u>MacXDVD's Festive Bonanza: Score 20K Free Copies of the Pro Version of MacX DVD Ripper This Thanksgiving Holiday Season!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/pushing-boundaries-camera-capabilities-in-ios-11-for-2024/"><u>Pushing Boundaries  Camera Capabilities in iOS 11 for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-easy-installation-download-your-pioneer-dj-ddj-sx2-software/"><u>Quick and Easy Installation: Download Your Pioneer DJ DDJ-SX2 Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-lag-and-freezing-in-fortnite-optimized-tips-for-smooth-gameplay/"><u>Resolving Lag and Freezing in Fortnite: Optimized Tips for Smooth Gameplay</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/revolutionize-your-media-conversions-with-macx-video-converter-pro-v59-the-ultimate-in-high-speed-efficiency-through-innovative-hardware-acceleration/"><u>Revolutionize Your Media Conversions with MacX Video Converter Pro v5.9 - The Ultimate in High-Speed Efficiency Through Innovative Hardware Acceleration!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/secure-your-macx-dvd-ripper-pro-at-a-bargain-shop-now-with-special-offers/"><u>Secure Your MacX DVD Ripper Pro at a Bargain - Shop Now With Special Offers!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/shortcuts-to-turn-off-instagrams-igtv-for-2024/"><u>Shortcuts to Turn Off Instagram's IGTV for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-tutorial-on-ripping-and-transforming-pal-dvds-into-mp4-files-for-ntsc-playback/"><u>Step-by-Step Tutorial on Ripping and Transforming PAL DVDs Into MP4 Files for NTSC Playback</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tiktokiphoneandroid/"><u>TikTok動画を安全に保管・ダウンロードする方法｜iPhone/Androidユーザー向けガイド</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-methods-for-seamlessly-moving-images-from-your-iphone-onto-a-mac/"><u>Top 10 Methods for Seamlessly Moving Images From Your iPhone Onto a Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-rated-family-christmas-films-a-timeless-selection-for-children/"><u>Top-Rated Family Christmas Films: A Timeless Selection for Children</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transfer-your-memories-top-10-methods-for-shifting-pictures-from-iphone-to-mac/"><u>Transfer Your Memories: Top 10 Methods for Shifting Pictures From iPhone to Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-mac-os-x-comprehensive-definition-and-key-attributes/"><u>Understanding Mac OS X: Comprehensive Definition & Key Attributes</u></a></li>
+</ul></div>

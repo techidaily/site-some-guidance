@@ -1,7 +1,7 @@
 ---
 title: Unboxing the Lenovo ThinkBook Plus Gen 4 – A Surprising Overhaul of What's Expected From a 2-in-1 Laptop?
-date: 2024-08-26 15:10:29
-updated: 2024-08-29 12:55:37
+date: 2024-08-31T06:06:59.178Z
+updated: 2024-09-01T06:06:59.178Z
 tags:
   - product-reviews
 categories:
@@ -118,6 +118,9 @@ A photo taken with the Lenovo ThinkBook Plus Gen 4's webcam
 
  You’ll also find heat-venting grilles along the rear bezel of the keyboard housing, as well as underneath.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Display(s): The E-Ink Screen is Haunted
 
 ![The Lenovo ThinkBook Plus Gen 4 being used as a tablet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/lenovo-thinkbook-plus-gen-4-color-display-tablet-modejpg_53188636212_o.jpg) 
@@ -134,6 +137,10 @@ Joe Robinson / How-To Geek
 
 ![A person taking notes on the Lenovo ThinkBook Plus Gen 4's e-ink display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/lenovo-thinkbook-plus-gen-4-eink-display-tablet-mode-in-usejpg_53189718678_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  At 2,560 x 1600, (a step up from the ThinkBook Gen 2's black-and-white E-Ink panel), the ThinkBook’s enhanced pixel count and colorized display were more than I expected from an E-Ink display. I certainly appreciated my read-through of Poe’s "The Tell-Tale Heart" on the E-Ink screen, but there’s a big difference between recreational reading and urgent workplace needs.
@@ -142,6 +149,9 @@ Joe Robinson / How-To Geek
 
  Lenovo did think to include a manual refresh button, but at best, it only clears up around 60% of the temporary ghosting at a time. Admittedly, I switched to the OLED to finish reading "Tell-Tale"because I was so tired of all the refreshing I had to do.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Audio: Satisfactory
 
  The ThinkBook has two down-firing speakers that push a decent amount of sound. I put the laptop through some hard-hitting late '80s live Metallica, mostly to see how the speakers could handle max volume with heavier genres. I was impressed, to say the least. There wasn’t any distortion, even at the highest volume level. Somewhere between a 40 and 50 percent volume is going to be comfortable for most folks.
@@ -166,6 +176,18 @@ Joe Robinson / How-To Geek
 
  A word of warning: The ThinkBook got _very_ warm. I wasn’t expecting my throw-everything-at-it test to return cool-to-the-touch results, but even when I just had a couple of tabs open, with one of them displaying a PDF, I thought the laptop was toasty. The temperature climbed even higher when I plugged in the ThinkBook’s 65W charger.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Battery: Don't Leave Home Without a Charger
 
  I think one of the big calling cards of the ThinkBook’s E-Ink display is that it’s supposed to be great at preserving the laptop’s battery life. Unfortunately, that’s not really the case. Whether you’re using the OLED screen or the E-Ink panel, the ThinkBook absolutely _devours_ battery.
@@ -176,6 +198,9 @@ Joe Robinson / How-To Geek
 
  During one charging test, I plugged the ThinkBook in at 5:15PM with 24 percent battery remaining. At 5:59PM, the battery was up to 77%. It’s also nice to have the 65W brick on hand for smartphones and other gear.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the Lenovo ThinkBook Plus Gen 4?
 
  The [Lenovo ThinkBook Plus Gen 4](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkbook%2Fthinkbook-plus%2Flenovo-thinkbook-plus-gen-4-%2813-inch-intel%29%2Flen101b0031%2F) is an odd combination of “too much” and “too little.” Lenovo's asking for too much dough from a very niche demographic, and the inclusion of two screens just isn't necessary. The E-Ink screen is also pretty much impossible to operate in the first place.
@@ -184,6 +209,9 @@ Joe Robinson / How-To Geek
 
 ![The Lenovo ThinkBook Plus Gen 4 2-in-1 Laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/lenovo-thinkbook-plus-gen-4-product-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 #####  Lenovo ThinkBook Plus Gen 4 2-in-1 Laptop
 
 6/ 10 
@@ -206,3 +234,58 @@ The Lenovo ThinkBook Plus Gen 4 is fun to use, but beyond its arresting OLED dis
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-essential-tools-for-perfect-images-for-2024/"><u>[New] Essential Tools for Perfect Images for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-get-started-with-ease-facebook-insight-basics-for-2024/"><u>[New] Get Started with Ease  Facebook Insight Basics for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unmasking-the-potential-of-recordcast-for-2024/"><u>[New] Unmasking the Potential of RecordCast for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-efficient-routines-for-video-game-screening/"><u>[Updated] Efficient Routines for Video Game Screening</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-inside-look-at-youtubes-creator-studio-interface/"><u>[Updated] Inside Look at YouTube's Creator Studio Interface</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-merge-soundtracks-and-cinematography-in-premiere-pro-for-2024/"><u>[Updated] Merge Soundtracks and Cinematography in Premiere Pro for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-snapedit-101-simple-steps-to-stunning-photos-for-2024/"><u>[Updated] Snapedit 101  Simple Steps to Stunning Photos for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/digiarty-seo/"><u>【標準】Digiartyプログラムの利用規定 - SEO対策配信</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-frequency-capture-digital-sound-files/"><u>2024 Approved  Frequency Capture  Digital Sound Files</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-look-at-iphones-top-watermarking-software-choices/"><u>2024 Approved  In-Depth Look at iPhone's Top Watermarking Software Choices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/a-streamers-checklist-for-flawless-twitch-live-recordings-for-2024/"><u>A Streamer's Checklist for Flawless Twitch Live Recordings for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/alternatives-to-nero-expertly-skip-copyright-restrictions-on-mac-for-legal-media-creation/"><u>Alternatives to Nero: Expertly Skip Copyright Restrictions on Mac for Legal Media Creation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/compare-iphone-8-and-iphone-7-whats-the-difference-between-these-two-devices/"><u>Compare iPhone 8 and iPhone 7: What's the Difference Between These Two Devices?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comprehensive-guide-top-pick-mac-x-dvd-ripper-pro-mac-dvdripper-pro-and-mac-the-ripper-compared/"><u>Comprehensive Guide: Top Pick - Mac X DVD Ripper Pro, Mac DVDRipper Pro & Mac The Ripper Compared</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1724766453304-digiarty-18/"><u>DigiArty: 祝開店18週年！記念特別推薦作品集</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/drm-iphonedrm/"><u>DRM無視: IPhone用最強DRM解除ツールを紹介！初心者でもストレスなく実行可能</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1724766480746-dvd/"><u>DVD コピー規制について知りたい？日本ではどうか？合法的なコピー方法と罰則を解明します。</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvdiphone/"><u>DVDをiPhoneへ移行するための簡単な手順：ユーザーフレンドリー解説書</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/easy-steps-get-bollywood-movies-hindi-songs-and-mp3-tracks-for-free/"><u>Easy Steps: Get Bollywood Movies' Hindi Songs & MP3 Tracks For Free</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/edit-compact-and-share-high-quality-4k-hdvideos-effortlessly-with-free-macxvideo-tool/"><u>Edit, Compact, and Share High-Quality 4K HDVideos Effortlessly with Free macXvideo Tool</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/grosste-und-beste-anime-serie-seiten-fur-kostenlose-streams-2016/"><u>Größte Und Beste Anime-Serie-Seiten Für Kostenlose Streams (2016)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-fix-iphoto-crashes-post-macos-update-restoring-stability-in-the-latest-version/"><u>How to Fix IPhoto Crashes Post macOS Update: Restoring Stability in the Latest Version</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-safely-install-anydvd-tool-with-a-keygen-comprehensive-guide-and-potential-pitfalls/"><u>How to Safely Install AnyDVD Tool with a Keygen: Comprehensive Guide & Potential Pitfalls</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-a-look-at-earnings-understanding-your-monthly-income-from-youtubes-adsense/"><u>In 2024, A Look at Earnings  Understanding Your Monthly Income From YouTube's AdSense</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-ringers-paradise-top-downloads-for-skype-sounds/"><u>In 2024, Ringer's Paradise  Top Downloads for Skype Sounds</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-samsung-galaxy-a54-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Samsung Galaxy A54 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-machine-learning-for-personalized-content/"><u>Leveraging Machine Learning for Personalized Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mac-iphoneipadapple-tvitunesmp4mov/"><u>Mac上の優れたビデオコンバータ: IPhone、iPad、Apple TV、iTunes、MP4、MOV形式へ容易に変換可能</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-the-art-of-screenshot-edits-effortless-cropping-techniques-for-apple-users/"><u>Mastering the Art of Screenshot Edits: Effortless Cropping Techniques for Apple Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mfc42ddll-error-expert-tips-to-find-and-repair-the-missing-file/"><u>mfc42d.dll Error: Expert Tips to Find and Repair the Missing File</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mk4-a-mp4-in-pochissimo-tempo-con-garanzia-di-alta-fedelta-visiva-su-macos-tutorial-completo/"><u>Mk4 a Mp4 in Pochissimo Tempo, Con Garanzia Di Alta Fedeltà Visiva Su macOS: Tutorial Completo</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/multilingual-feature-update-now-available-for-macx-dvd-downloaders-with-eight-language-options/"><u>Multilingual Feature Update: Now Available for MacX DVD Downloaders with Eight Language Options</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/protect-your-video-quality-a-guide-to-cleaning-up-background-sound-without-harm/"><u>Protect Your Video Quality: A Guide to Cleaning Up Background Sound Without Harm</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/quick-guide-speeding-up-your-vimeo-uploads-with-effective-video-compression-techniques/"><u>Quick Guide: Speeding Up Your Vimeo Uploads with Effective Video Compression Techniques</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-windows-10s-hal-setup-failure-expert-tips-and-solutions/"><u>Resolving Windows 10'S HAL Setup Failure: Expert Tips and Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/seamless-and-free-the-ultimate-quicktime-video-conversion-tool-for-mac-os-x-with-macxs-advanced-features-and-compatibility/"><u>Seamless & FREE: The Ultimate QuickTime Video Conversion Tool for Mac OS X with MacX's Advanced Features and Compatibility</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/seamless-steps-transferring-your-dvd-collection-from-itunes-to-ios-devices/"><u>Seamless Steps: Transferring Your DVD Collection From iTunes to iOS Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-tutorial-mastering-the-art-of-top-quality-dvd-duplication-on-macos-devices/"><u>Step-by-Step Tutorial: Mastering the Art of Top-Quality DVD Duplication on macOS Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/strategies-efficaces-denregistrement-de-videos-ininterrompues-sur-apple-machines/"><u>Stratégies Efficaces D'Enregistrement De Vidéos Ininterrompues Sur Apple Machines</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-setup-windows-graphics-device/"><u>Successful Setup: Windows Graphics Device</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/taste-titans-must-follow-culinary-creators-online/"><u>Taste Titans  Must-Follow Culinary Creators Online</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/techniques-to-fix-silent-hp-multi-fax-printers/"><u>Techniques to Fix Silent HP Multi-Fax Printers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-videos-with-macx-ultra-hd-conversion-at-lightning-fast-speeds-without-compromising-on-quality/"><u>Transform Your Videos with MacX: Ultra HD Conversion at Lightning-Fast Speeds without Compromising on Quality</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-fixing-modern-warfare-stutter-and-pauses-in-pc-version/"><u>Troubleshooting Guide: Fixing 'Modern Warfare' Stutter & Pauses in PC Version</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-tips-for-resolving-iphoto-malfunctions-after-upgrading-to-the-newest-macos/"><u>Troubleshooting Tips for Resolving IPhoto Malfunctions After Upgrading to the Newest macOS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-guide-top-8-tripods-for-4k-video-enthusiasts/"><u>Ultimate Guide  Top 8 Tripods for 4K Video Enthusiasts</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-c12-plus-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from C12 Plus.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-every-mac-dvd-encryption-with-our-ultimate-decrypting-strategy-for-guaranteed-results/"><u>Unlock Every Mac DVD Encryption with Our Ultimate Decrypting Strategy for Guaranteed Results</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlocking-youtube-writers-royalties-with-ad-driven-earnings-cpm-for-2024/"><u>Unlocking YouTube' Writers' Royalties with Ad-Driven Earnings (CPM) for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1724766198890-ps5/"><u>プレミアムPS5情報:発売日、性能詳細、お得な商品が次々登場!新機能も披露します</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Access and Interact with Countless AI-Powered Conversational Agents On Your Desktop Through This Innovative Software
-date: 2024-08-28 15:40:19
-updated: 2024-08-29 11:26:37
+date: 2024-08-31T06:09:32.593Z
+updated: 2024-09-01T06:09:32.593Z
 tags:
   - desktop
 categories:
@@ -39,6 +39,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Now that you know what LM Studio is and what you need to run it, let's explore how you can start using it on your Windows PC.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Quick Setup, Quick Start
 
  To use LM Studio on Windows to run different local AI chatbots, you need to download the program. Head over to [LMStudio.ai](http://lmstudio.ai) and select "Download LM Studio for Windows".
@@ -57,10 +60,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Searching for llama 3 on LM Studio.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/click-dl.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
  If you're unsure, select the most popular result. LM Studio filters by compatibility, so it should work on your system. For more information, click the "What's the difference between all these files? Which one should I download?" button. It explains each model and helps you decide.
 
 ![The search results for Qwen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/qwen-ai-model-search-lmstudio.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
  For example, Llama 3 powers the "Messenger AI" feature on Facebook and matches the intelligence of tools like ChatGPT and Google Gemini.
 
 ![LM Studio giving me advice.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/lm-studio-advice.jpg) 
@@ -69,6 +79,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![LM Studio writing a poem.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/lm-studio-poem.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Also, don’t overlook Mistral. It’s fast, free, and adaptable. Whether you need to process large amounts of text with Mistral 7B or handle more complex tasks with Mistral Large, just search "Mistral" in LM Studio, and you're set.
 
  There's plenty more to discover! Dive into the "Home" section of LM Studio, pick something that catches your eye, and hit "Download."
@@ -79,10 +92,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Selecting the AI Chat button in LM Studio.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/select-ai-chat-button-lm-studio.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
  In the chat window, press the big purple button that says "Select a model," and choose the model you want to interact with—like Llama 3, Gemma, or Mistral — and start your conversation.
 
 ![Choosing the LM Studio model.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/lm-studio-choose-model.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  When you type your message, LM Studio will process your text using your computer’s resources. Remember, the speed of the response depends on your computer’s capabilities. If you're working with limited RAM or an older graphics card, responses might take longer.
 
 ##  Privacy First, Always
@@ -93,6 +112,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If concerns about the privacy implications of technologies like Co-Pilot, ChatGPT, and Gemini weigh on you, LM Studio offers a secure alternative that keeps your interactions private.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How I Use LM Studio
 
  I use LM Studio for several purposes, and one of the most useful is to automate my daily setup on Windows 11\. I've developed a PowerShell script with LM Studio that launches my preferred applications—Firefox, Windows Terminal, Ghostwriter (my favorite writing tool), Spotify, and others when I want to get to work. This automation skips the hassle of opening each program individually and helps me jump straight into my tasks.
@@ -117,3 +148,46 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-saving-smiles-techniques-for-capturing-twitters-gifs/"><u>[New] 2024 Approved  Saving Smiles  Techniques for Capturing Twitter's GIFs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-become-an-instagram-broadcast-pro-learning-through-obs/"><u>[New] Become an Instagram Broadcast Pro  Learning Through OBS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-best-screen-capture-apps-for-android-devices-reviewed/"><u>[New] In 2024, Best Screen Capture Apps for Android Devices Reviewed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevating-your-contents-reach-without-breaching-laws/"><u>[New] In 2024, Elevating Your Content's Reach Without Breaching Laws</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-sketch-serious-snickers/"><u>[New] Sketch Serious Snickers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unbeatable-method-for-permanent-bio-link-integration-in-tiktok/"><u>[New] Unbeatable Method for Permanent Bio-Link Integration in TikTok</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-designing-powerful-youtube-screens-a-step-by-step-guide/"><u>[Updated] 2024 Approved  Designing Powerful YouTube Screens  A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-quick-engagement-techniques-for-zooms-camera-shots/"><u>[Updated] In 2024, Quick Engagement Techniques for Zoom’s Camera Shots</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macmp4movaacipadapple-tv/"><u>移動式電影文件傳輸工具 - 高清/標準畫面從Mac系統將MP4、MOV、AAC音頻等轉送到iPad和Apple TV</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/av-dvd/"><u>最新手段でAVコピーガードを解除: アダルトDVDコピーへの完全ガイド</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-free-platforms-for-streaming-and-downloading-ultra-hd-movies-in-4k-quality/"><u>Best Free Platforms for Streaming and Downloading Ultra HD Movies in 4K Quality</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/bringing-up-the-height-editing-instagram-content-with-fcpx/"><u>Bringing Up the Height  Editing Instagram Content with FCPX</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/complete-tutorial-on-converting-and-watching-mtsm2ts-hd-videos-on-an-ipad-device/"><u>Complete Tutorial on Converting and Watching MTS/M2TS HD Videos on an iPad Device</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effective-strategies-for-detecting-and-deleting-the-wondershare-video-converter-virus-on-windows-and-mac-systems/"><u>Effective Strategies for Detecting and Deleting the Wondershare Video Converter Virus on Windows & Mac Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortlessly-transforming-apples-m4p-tracks-into-crisp-clear-mp3-format-without-quality-compromise/"><u>Effortlessly Transforming Apple's M4P Tracks Into Crisp, Clear MP3 Format without Quality Compromise</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/finding-legal-music-a-producers-manual/"><u>Finding Legal Music  A Producer's Manual</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/fix-your-dvd-players-system-error-69889-with-our-expert-tips/"><u>Fix Your DVD Player's System Error 69889 with Our Expert Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-easter-hymns-guide-how-to-select-and-download-the-most-inspiring-praise-songs-for-a-memorable-service-this-holiday/"><u>Free Easter Hymns Guide: How to Select & Download the Most Inspiring Praise Songs for a Memorable Service This Holiday</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-discs-to-streaming-unveiling-netflixs-beginning-as-a-dvd-rental-service/"><u>From Discs to Streaming: Unveiling Netflix's Beginning as a DVD Rental Service</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-choose-the-best-macx-dvd-ripper-pro-for-windows-expert-tips-and-purchase-advice/"><u>How to Choose the Best MacX DVD Ripper Pro for Windows – Expert Tips and Purchase Advice</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-fix-itunes-store-load-problems-expert-advice-and-solutions/"><u>How to Fix iTunes Store Load Problems: Expert Advice & Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-save-data-from-your-iphone-to-a-mac-music-movies-and-images/"><u>How to Save Data From Your iPhone to a Mac: Music, Movies, and Images</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-pro-max-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 14 Pro Max Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macx-windowsmacx-dvd-ripper-pro-macx-hd-video-converter-pro/"><u>MacXのソフトウェアスイートが大幅に割引! Windows版MacX DVD Ripper Pro, MacX HD Video Converter Proを格安で手に入れよう。限定価格セール直行！</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-conversation-design-with-these-7-online-prompt-crafting-platforms/"><u>Mastering Conversation Design with These 7 Online Prompt Crafting Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-multiplayer-how-to-resolve-error-code-84-in-fortnite-and-reconnect-with-your-squad/"><u>Mastering Multiplayer: How to Resolve Error Code 84 in Fortnite & Reconnect with Your Squad</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mp4-file-compression-techniques-on-a-mac-preserving-high-quality-output/"><u>MP4 File Compression Techniques on a Mac: Preserving High-Quality Output</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/seamless-hd-conversion-made-simple-unveiling-the-best-mac-os-compatible-avchd-converter/"><u>Seamless HD Conversion Made Simple: Unveiling the Best MAC OS Compatible AVCHD Converter</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/setze-deine-personliche-musik-als-anrufbeantworter-ton-auf-ihrem-iphone-xs-xs-max-oder-xr/"><u>Setze Deine Persönliche Musik Als Anrufbeantworter-Ton Auf Ihrem iPhone XS, XS Max Oder XR</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/simple-steps-mastering-video-rotation-techniques-with-imovie-on-iphone-and-pc/"><u>Simple Steps: Mastering Video Rotation Techniques with iMovie on iPhone & PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-16-free-movies-downloading-sites-the-ultimate-selection/"><u>Top 16 Free Movies Downloading Sites - The Ultimate Selection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-5-superb-alternatives-to-makemkv-on-pc-and-mac-os-x-macos-from-dvds-to-mkv/"><u>Top 5 Superb Alternatives to MakeMKV on PC and Mac OS X (macOS): From DVDs to MKV</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-audiovideo-format-problems-in-quicktime-for-avi-support/"><u>Troubleshooting Audio/Video Format Problems in QuickTime for AVI Support</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-guide-how-to-enable-and-watch-hevch265-video-format-on-macos/"><u>Troubleshooting Guide: How to Enable and Watch HEVC/H.265 Video Format on MacOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-the-top-5-most-efficient-ipod-to-mac-conversion-programs/"><u>Ultimate Guide: The Top 5 Most Efficient iPod to Mac Conversion Programs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unauthorized-access-a-step-by-step-process-to-copy-secure-discs-on-apple-computers/"><u>Unauthorized Access: A Step-by-Step Process to Copy Secure Discs on Apple Computers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-the-storage-impact-measuring-4k-video-data-usage-per-minute/"><u>Understanding the Storage Impact: Measuring 4K Video Data Usage Per Minute</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-eerie-discounts-and-haunting-treasures-in-the-macxdvd-all-hallows-spooktacular-giveaway/"><u>Unlock Eerie Discounts & Haunting Treasures in the MacXDVD All-Hallows Spooktacular Giveaway!</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Windows Experience on Qualcomm's Snapdragon: A Comprehensive Lenovo Yoga Slim ^7X Analysis"
-date: 2024-08-28 23:11:58
-updated: 2024-08-29 11:17:59
+date: 2024-08-31T06:13:40.144Z
+updated: 2024-09-01T06:13:40.144Z
 tags:
   - deals
 categories:
@@ -123,6 +123,9 @@ Jerome Thomas / How-To Geek
 
 ![The ports on the left side of the Lenovo Yoga Slim 7x.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-ports-on-the-left-side-of-the-lenovo-yoga-slim-7x_53815828838_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The Yoga Slim 7x has three USB Type-C ports, all of which support USB4 Gen 3, USB Power Delivery (USB-PD) 3.1, and DisplayPort 1.4\. Those are the only physical ports on this computer. You don’t get a headphone jack, an SD card reader, USB Type-A ports, or anything else. It’s great that all three ports work the same, so you can use any of them for power input or a [USB hub](https://extra-approaches.techidaily.com/2024-approved-joint-venture-campaigns-for-brands-on-video-platforms/), but I wish there were better built-in options for connectivity. There’s also no support for Thunderbolt, so some types of external drives, monitors, and hubs won’t work.
@@ -131,6 +134,9 @@ Jerome Thomas / How-To Geek
 
  Finally, even though this laptop is sold under the Yoga brand, this is _not_ a convertible laptop. The screen can be pushed back to nearly flat with the keyboard, but it cannot bend all the way around for tent mode or functioning as a tablet.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ##  Display: A Fantastic OLED
 
  The Yoga Slim 7x has an _excellent_ screen. It’s a large 14.5-inch OLED panel, with a resolution of 2,944 x 1,840 (3K) and a 16:10 aspect ratio. The screen also has touch support, a 100,000:1 contrast ratio, a 90Hz refresh rate, and a 100% DCI-P3 100% sRGB color gamut. That all adds up to a display that looks great and has super-smooth animations, no matter if you’re playing games, watching movies, or just reading emails.
@@ -153,12 +159,18 @@ Jerome Thomas / How-To Geek
 
 ![Windows 11 screenshot with Task Manager and Microsoft Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
  When the Prism emulator works, you don’t notice it at all, though the software might run a bit slower than it would on a comparable Intel or AMD-powered computer. This is also similar to how the [Rosetta 2 emulation layer](https://instagram-video-recordings.techidaily.com/updated-2024-approved-demystifying-viewer-statistics-on-instagram-images/) works on Mac computers with ARM-based Apple Silicon chips.
 
  Some of the applications I use every day already have ARM-native versions, including Firefox, Slack, Outlook, and Spotify. Discord doesn’t have an ARM version yet, so it runs as an emulated x86 application, and performance randomly slowed down about two weeks into my review period. I tried a few games, with mixed results: "Civilization VI" worked well, but "Overwatch" had frequent stuttering that seemed to happen regardless of the graphical quality setting. Some games don’t open at all, and most games from the Microsoft Store or Xbox app can’t be installed. Microsoft is [working to improve game performance](https://devblogs.microsoft.com/directx/step-forward-for-gaming-on-arm-devices-2024/) in x86 emulation, but the inconsistent compatibility is something to keep in mind with the Yoga Slim 7x and other ARM-based Windows computers.
 
 ![Microsoft Store screenshot showing how Doom Eternal can't be installed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image-1-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
  Some software just doesn’t exist on ARM Windows and can’t be emulated. If you have a device that needs specific third-party drivers to function, instead of the generic drivers available through Windows Update, it probably won’t work. You also can’t use virtualization software and some emulators—VirtualBox and VMWare don’t have ARM Windows versions. I couldn't try Microsoft’s [HyperV virtualization tool](https://facebook-record-videos.techidaily.com/updated-the-infographic-index-youtubes-surprising-stat-treasury-2017/), because it needs Windows 11 Pro. This laptop ships with Windows 11 Home. You can use the [Windows Subsystem for Linux](https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/), though it will install ARM Linux, which doesn’t have all the same software as x86 Linux.
 
  This new ARM laptop still has some software bloat, like McAfee antivirus and random Lenovo tools. I had to uninstall McAfee after a few days because it kept showing annoying popups and blocked some applications from running. Microsoft is also increasingly aggressive with [prompts to use the Edge browser](https://instagram-video-recordings.techidaily.com/2024-approved-facing-instagram-video-issues-you-may-find-the-answers-here/) and [defaulting to OneDrive for storage](https://audio-editing.techidaily.com/new-in-2024-10-best-websites-to-download-ding-sound-effect-easily/) in Windows 11.
@@ -179,6 +191,9 @@ Jerome Thomas / How-To Geek
 
  Even though the actual hardware in the Yoga Slim 7x is on par or exceeds most of the competition, your real-world performance will vary depending on how much of your software needs to be emulated.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ##  Battery Life: All Day on a Charge
 
  Windows laptops have historically struggled to maintain great battery life, thanks to the [broken Modern Standby in many newer laptops](https://www.spacebar.news/windows-pc-sleep-broken/), the inefficient architecture of x86-based processors, and other factors. Improved battery life was one of the promised advantages of the Snapdragon chip in the Yoga Slim 7x, and thankfully, that turns out to be true.
@@ -197,6 +212,9 @@ Jerome Thomas / How-To Geek
 
 ![The back of the Lenovo Yoga Slim 7x.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-back-of-the-lenovo-yoga-slim-7x_53814663702_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The [Lenovo Yoga Slim 7x](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-yoga-slim-7x-copilot-pc-14-5-3k-oled-touch-screen-laptop-snapdragon-x-elite-16gb-memory-512gb-ssd-cosmic-blue%2F6582538.p%3FskuId%3D6582538) is a great laptop at a glance, with a thin and light design, great performance, and all-day battery life. The OLED screen is especially great, but without a fully convertible 2-in-1 design, there’s not much point to this laptop having a touchscreen.
@@ -207,6 +225,9 @@ Jerome Thomas / How-To Geek
 
 ![Lenovo Yoga Slim 7x laptop open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/laptop.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 #####  Lenovo Yoga Slim 7x
 
 5/ 10 
@@ -229,3 +250,52 @@ The Lenovo Yoga Slim 7x is one of the first Copilot+ PC laptops, with all-day ba
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-efficient-collaboration-combining-the-power-of-zoom-and-skype/"><u>[New] Efficient Collaboration  Combining the Power of Zoom and Skype</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tweet-visionary-free-transformation-of-youtube-vids-into-tweenish-graphics/"><u>[New] In 2024, Tweet Visionary  Free Transformation of YouTube Vids Into Tweenish Graphics</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-master-8-android-video-call-apps-for-collaborative-sessions/"><u>[New] Master 8 Android Video Call Apps for Collaborative Sessions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-mastering-lecture-capture-a-comprehensible-methodology-for-mac-users/"><u>[Updated] 2024 Approved  Mastering Lecture Capture  A Comprehensible Methodology for Mac Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/digiarty-seo/"><u>【標準】Digiartyプログラムの利用規定 - SEO対策配信</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-get-the-complete-package-secure-your-official-macxdvd-professional-suite-with-a-complimentary-upgrade/"><u>1. Get the Complete Package: Secure Your Official MacXDVD Professional Suite with a Complimentary Upgrade!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-samsung-galaxy-s24plus-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Samsung Galaxy S24+ to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-blue-light-blocker-frames/"><u>Best Blue Light Blocker Frames</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-of-the-best-the-ultimate-2022-roundup-of-4k-tvs-perfect-for-movies-and-avid-gamers/"><u>Best of the Best: The Ultimate 2022 Roundup of 4K TVs Perfect for Movies and Avid Gamers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/boosting-connectivity-with-creative-fb-slideshow-ideas-for-2024/"><u>Boosting Connectivity with Creative FB Slideshow Ideas for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/boosting-in-game-charisma-pubg-voice-techniques/"><u>Boosting In-Game Charisma  PUBG Voice Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-macx-premium-no-cost-video-converter-from-webm-to-avi-mp4-on-mac/"><u>Download MacX: Premium No-Cost Video Converter From WebM to AVI, MP4 on Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/drm-iphonedrm/"><u>DRM無視: IPhone用最強DRM解除ツールを紹介！初心者でもストレスなく実行可能</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1724766480746-dvd/"><u>DVD コピー規制について知りたい？日本ではどうか？合法的なコピー方法と罰則を解明します。</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvdiphone/"><u>DVDをiPhoneへ移行するための簡単な手順：ユーザーフレンドリー解説書</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-install-epson-workforce-ds-30-printer-drivers-for-windows-1187-free-downloads-available/"><u>Easy Install: Epson WorkForce DS 30 Printer Drivers for Windows 11/8/7 - Free Downloads Available</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/easy-steps-get-bollywood-movies-hindi-songs-and-mp3-tracks-for-free/"><u>Easy Steps: Get Bollywood Movies' Hindi Songs & MP3 Tracks For Free</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-media-projects-engaging-with-windows-11-movie-maker/"><u>Elevate Media Projects  Engaging with Windows 11 Movie Maker</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-itel-p55t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/get-your-free-update-now-secure-a-full-featured-macxdvd-toolset-with-authorized-licensing/"><u>Get Your Free Update Now: Secure a Full-Featured MacXDVD Toolset with Authorized Licensing!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-safely-install-anydvd-tool-with-a-keygen-comprehensive-guide-and-potential-pitfalls/"><u>How to Safely Install AnyDVD Tool with a Keygen: Comprehensive Guide & Potential Pitfalls</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-face-changing-software-iphone-and-android/"><u>In 2024, Excellent Face-Changing Software, iPhone & Android</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-vivo-y200mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Vivo Y200Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfecting-sound-with-ideal-cam-mics-list/"><u>In 2024, Perfecting Sound with Ideal Cam Mics List</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-xiaomi-redmi-note-12-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Xiaomi Redmi Note 12 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/is-any-video-converter-safe-strategies-for-dealing-with-malware-and-faulty-data-tracking/"><u>Is Any Video Converter Safe? Strategies for Dealing with Malware and Faulty Data Tracking</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mac-iphoneipadapple-tvitunesmp4mov/"><u>Mac上の優れたビデオコンバータ: IPhone、iPad、Apple TV、iTunes、MP4、MOV形式へ容易に変換可能</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macx-hd-video-converter-pro-windows/"><u>MacX HD Video Converter Pro: Windows版ライセンスコードの購入と登録を徹底ガイド</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mk4-a-mp4-in-pochissimo-tempo-con-garanzia-di-alta-fedelta-visiva-su-macos-tutorial-completo/"><u>Mk4 a Mp4 in Pochissimo Tempo, Con Garanzia Di Alta Fedeltà Visiva Su macOS: Tutorial Completo</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mkv-in-avi-auf-einem-mac-umwandeln-die-einfachsten-methoden-zur-problemlosigkeit/"><u>MKV in AVI Auf Einem Mac Umwandeln: Die Einfachsten Methoden Zur Problemlosigkeit</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/moto-g-play-analysis-outstanding-endurance-and-satisfactory-functionality/"><u>Moto G Play Analysis: Outstanding Endurance & Satisfactory Functionality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/multilingual-feature-update-now-available-for-macx-dvd-downloaders-with-eight-language-options/"><u>Multilingual Feature Update: Now Available for MacX DVD Downloaders with Eight Language Options</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-mastering-fcp-audio-a-step-by-step-guide-for-video-editors-for-2024/"><u>New Mastering FCP Audio A Step-by-Step Guide for Video Editors for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/protect-your-video-quality-a-guide-to-cleaning-up-background-sound-without-harm/"><u>Protect Your Video Quality: A Guide to Cleaning Up Background Sound Without Harm</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/quick-guide-speeding-up-your-vimeo-uploads-with-effective-video-compression-techniques/"><u>Quick Guide: Speeding Up Your Vimeo Uploads with Effective Video Compression Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/seamless-steps-transferring-your-dvd-collection-from-itunes-to-ios-devices/"><u>Seamless Steps: Transferring Your DVD Collection From iTunes to iOS Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-movie-transfer-to-ipad-by-bypassing-itunes/"><u>Step-by-Step Guide: Movie Transfer to iPad by Bypassing iTunes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/strategies-efficaces-denregistrement-de-videos-ininterrompues-sur-apple-machines/"><u>Stratégies Efficaces D'Enregistrement De Vidéos Ininterrompues Sur Apple Machines</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-secret-life-of-a-designer-canvas-hidden-edits-for-2024/"><u>The Secret Life of a Designer  Canva's Hidden Edits for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-dvd-collection-with-macx-ripper-best-free-software-for-mac-users/"><u>Transform Your DVD Collection with MacX Ripper: Best Free Software for Mac Users!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-every-mac-dvd-encryption-with-our-ultimate-decrypting-strategy-for-guaranteed-results/"><u>Unlock Every Mac DVD Encryption with Our Ultimate Decrypting Strategy for Guaranteed Results</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-the-best-free-apple-apps-to-downsize-and-edit-mts-videos-without-costing-you-a-dime/"><u>Unlock the Best FREE Apple Apps to Downsize and Edit MTS Videos Without Costing You a Dime!</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-lossless-vlc-trimming-on-mac-the-ultimate-solution-for-video-editing-for-2024/"><u>Updated Lossless VLC Trimming on Mac The Ultimate Solution for Video Editing for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windowsmac-os-x-dvd/"><u>コンバートマニュアル：WindowsとMac OS X DVDへのビデオフォーマット切り替え方法</u></a></li>
+</ul></div>

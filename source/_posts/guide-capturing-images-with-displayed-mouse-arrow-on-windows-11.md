@@ -1,7 +1,7 @@
 ---
 title: "Guide: Capturing Images with Displayed Mouse Arrow on Windows 11"
-date: 2024-08-28 20:26:43
-updated: 2024-08-29 12:40:41
+date: 2024-08-31T06:11:04.299Z
+updated: 2024-09-01T06:11:04.299Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/4b0cf62f8598176374094f1d5008db55cda943f9c
 
 ![Searching for 'Steps Recorder' using the taskbar's search bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-steps-recorder.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
  This will open up the search results in the Start menu. Click "Steps Recorder" in the results to launch the app.
 
 ![The search results for 'Steps Recorder.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-steps-recorder.png) 
@@ -43,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/4b0cf62f8598176374094f1d5008db55cda943f9c
 
 ![Press "Stop Record" in the Steps Recorder app in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/windows-10-steps-recorder-stop-record.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
  The Steps Recorder app's window will expand to a larger size and show you all the screenshots the app captured. Each screenshot will show the mouse cursor, which achieves our goal.
 
 ![A screenshot in the Steps Recorder app in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/windows-10-steps-recorder-screenshot.png) 
@@ -51,6 +57,9 @@ thumbnail: https://thmb.techidaily.com/4b0cf62f8598176374094f1d5008db55cda943f9c
 
 ![An enlarged screenshot in the Steps Recorder app in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/windows-10-steps-recorder-enlarged-screenshot.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
  Once you've enlarged a screenshot, click the maximize button (the square icon) in the top-right corner of the Steps Recorder app. This button is located right next to the close button, denoted by an "X."
 
 ![Maximize the Steps Recorder window in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/windows-10-steps-recorder-maximize.png) 
@@ -59,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/4b0cf62f8598176374094f1d5008db55cda943f9c
 
 ![Windows 10's built-in screenshot utility. Press Windows+Shift+S to access it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/05/img_5af9d02f546b5.png) 
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
  After capturing a screenshot, you can save it wherever you like and then repeat the process to grab other screenshots. The screenshots might appear compressed, however. If that doesn't suit your needs, you can try using our alternative method below.
 
 ##  Take Visible Mouse Cursor Screenshots with IrfanView
@@ -69,14 +81,23 @@ thumbnail: https://thmb.techidaily.com/4b0cf62f8598176374094f1d5008db55cda943f9c
 
 ![Go to Options > Capture/Screenshot in IrfanView to take screenshots using the free image editing app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/irfanview-screenshot-capture-tool.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
  To take a screenshot that includes the mouse cursor, check the option labeled "Include Mouse Cursor" in the "Capture Setup" window, and then click "Start" at the bottom of the window.
 
 ![IrfanView's screenshot capture utility, with the "Include Mouse Cursor" option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/irfanview-screenshot-show-mouse-cursor.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To capture screenshots with IrfanView, use the keyboard shortcut Control+F11\. IrfanView will open each screenshot in a new window, and you'll be happy to see the mouse cursor captured in your screenshot.
 
 ![A Windows 10 screenshot with a visible mouse cursor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/irfanview-screenshot-mouse-pointer.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
  To save the screenshot wherever you like, use File > Save As in the menu bar. Alternatively, press "S on the keyboard to quickly open the "Save As" window.
 
 ##  Use Screenpresso to Capture the Mouse Cursor in Screenshots
@@ -89,6 +110,9 @@ thumbnail: https://thmb.techidaily.com/4b0cf62f8598176374094f1d5008db55cda943f9c
 
 ![Click the 'Screenshot' tab, then tick 'Capture Mouse Cursor.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-screenshot-capture-mouse-cursor.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
  Screenpresso will capture your cursor in all screenshots going forward. It is best to use hotkeys to take screenshots if you want to capture your cursor, otherwise you'll just have a bunch of screenshots with your mouse cursor interacting with the Screenpresso user interface. 
 
 ![The mouse cursor visible in our screenshot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-mouse-cursor.png) 
@@ -109,3 +133,49 @@ thumbnail: https://thmb.techidaily.com/4b0cf62f8598176374094f1d5008db55cda943f9c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-ignite-your-creativity-making-dynamic-splitscreen-videos/"><u>[Updated] Ignite Your Creativity  Making Dynamic Splitscreen Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-content-revenue-route-map-comparing-the-best-streaming-platforms/"><u>[Updated] In 2024, Content Revenue Route Map  Comparing the Best Streaming Platforms</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-nailing-the-perfect-gameplay-with-fbx/"><u>[Updated] Nailing the Perfect Gameplay with FBX</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/maccprm/"><u>「Mac用無料Cprm解除ツールを勧めます - スムーズな再生フリー化プロセス」</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-convert-any-video-format-to-avi-on-mac-with-macx-pro-ideal-for-wmv-mov-and-mpeg/"><u>1. Convert Any Video Format to AVI on Mac with MacX Pro: Ideal for WMV, MOV & MPEG</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-solving-youtube-stream-issues-a-guide-to-uninterrupted-viewing-and-secure-downloads/"><u>1. Solving YouTube Stream Issues: A Guide to Uninterrupted Viewing & Secure Downloads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-ultimate-guide-to-video-format-conversion-from-vob-to-popular-formats-like-mp4-mov-and-avi/"><u>1. Ultimate Guide to Video Format Conversion: From VOB to Popular Formats Like MP4, MOV, and AVI</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-strategic-showdowns-unleashed-exploring-7-best-games/"><u>2024 Approved  Strategic Showdowns Unleashed  Exploring 7 Best Games</u></a></li>
+<li><a href="https://win-able.techidaily.com/baldurs-gate-3-windows-common-issues-and-fixes-for-stability-improvements/"><u>Baldur's Gate 3 [Windows] - Common Issues & Fixes for Stability Improvements</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comparing-kmplayer-and-vlc-a-detailed-guide-on-the-top-two-video-players/"><u>Comparing KMPlayer and VLC: A Detailed Guide on the Top Two Video Players</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comprehensive-tutorial-for-converting-mpeg-transport-streams-vob-to-h265-format-across-mac-and-pc-platforms/"><u>Comprehensive Tutorial for Converting MPEG Transport Streams (.VOB) to H.265 Format Across Mac and PC Platforms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/digiarty-macxdvd-faqs-expert-answers-to-common-technical-questions-for-mac-users/"><u>Digiarty MacXDVD FAQs: Expert Answers to Common Technical Questions for Mac Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/digiartywinx-dvd/"><u>Digiarty製WinX DVD使用マニュアル・機能設定詳細ガイド</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-hochauflosende-3d-filme-gratisk-streamt-komplett-in-1080p-und-4k-uhd-auf-ihr-3d-hdtv/"><u>Download Hochauflösende 3D-Filme Gratisk: Streamt Komplett in 1080P Und 4K UHD Auf Ihr 3D HDTV</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/film-enhancements-15-best-luts-to-boost-gopro-cinematography-for-2024/"><u>Film Enhancements  15 Best LUTs to Boost GoPro Cinematography for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/frei-verfugbarer-film-downloads-auf-youtube-abrufen-ohne-zeitlimit/"><u>Frei Verfügbarer Film-Downloads Auf YouTube - Abrufen Ohne Zeitlimit</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/get-macx-dvd-ripper-pro-at-an-exclusive-online-deal-save-now/"><u>Get MacX DVD Ripper Pro at an Exclusive Online Deal – Save Now!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-accessing-and-enjoying-the-new-apple-tvplus-streaming-platform/"><u>Guide: Accessing and Enjoying the New Apple TV+ Streaming Platform</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/hassle-free-methods-to-transform-youtube-content-into-mpeg-files-compatible-with-iphone-ipad-and-android/"><u>Hassle-Free Methods to Transform YouTube Content Into MPEG Files Compatible with iPhone, iPad & Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-quick-and-easy-method-for-clearing-image-backdrops/"><u>In 2024, Quick and Easy Method for Clearing Image Backdrops</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ios-11-vs-ios-10-a-detailed-comparison-and-advantages-of-the-latest-update/"><u>IOS 11 vs iOS 10: A Detailed Comparison and Advantages of the Latest Update</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mac-x-dvd-ripper-pro-ultimate-compression-guide-for-dvd-and-iso-on-windows/"><u>Mac X DVD Ripper Pro: Ultimate Compression Guide for DVD & ISO on Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macx-dvd-ripper-pro-top-user-reviews-and-ratings-summary/"><u>MacX DVD Ripper Pro - Top User Reviews and Ratings Summary</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macx-top-rated-dvd-to-iphone-converter-with-free-copyguard-for-mac-users/"><u>MacX: Top-Rated DVD to iPhone Converter with Free CopyGuard for Mac Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/maintaining-original-quality-a-step-by-step-guide-on-converting-1080p-video-footage-to-720p/"><u>Maintaining Original Quality: A Step-by-Step Guide on Converting 1080P Video Footage to 720P</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/pros-and-cons-of-the-iphone-8-and-8-plus-a-comprehensive-review/"><u>Pros and Cons of the iPhone 8 & 8 Plus: A Comprehensive Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/robin-williams-film-anthology-top-picks-full-movie-lists-and-expert-tips-on-dvd-acquisition/"><u>Robin Williams Film Anthology: Top Picks, Full Movie Lists, and Expert Tips on DVD Acquisition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/say-goodbye-to-download-helper-troubles-quick-fix-available-now/"><u>Say Goodbye to Download Helper Troubles - Quick Fix Available Now!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/seamless-transformation-of-wmv-files-guide-to-converting-to-mp4-mov-and-more/"><u>Seamless Transformation of WMV Files: Guide to Converting to MP4, MOV, and More</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/space-saving-strategies-to-organize-and-protect-an-extensive-dvd-library/"><u>Space-Saving Strategies to Organize and Protect an Extensive DVD Library</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rt-of-youtube-editing-a-compreenasive-guidebook/"><u>The Art of YouTube Editing  A Compreenasive Guidebook</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-poco-x5-pro-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Poco X5 Pro Phone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-free-editing-software-for-macos-big-sur-the-ultimate-selection/"><u>Top Free Editing Software for macOS Big Sur: The Ultimate Selection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-pick-the-most-compatible-dvd-players-with-any-tv-ideal-for-mac-users/"><u>Top Pick: The Most Compatible DVD Players with Any TV, Ideal for Mac Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-wahl-professionelle-tools-zum-konvertieren-und-hochladen-von-videos-speziell-fur-den-gebrauch-bei-facebook/"><u>Top-Wahl: Professionelle Tools Zum Konvertieren Und Hochladen Von Videos Speziell Für Den Gebrauch Bei Facebook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshoot-and-enjoy-movies-again-expert-solutions-to-get-moviebox-running-on-ios-14-iphones-and-ipads/"><u>Troubleshoot and Enjoy Movies Again: Expert Solutions to Get MovieBox Running on iOS 14 iPhones & iPads!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-buyers-guide-choosing-the-right-external-usb-dvd-drive-for-your-mac-in-202-instruction-same-difficultyformatlength/"><u>Ultimate Buyer's Guide: Choosing the Right External USB DVD Drive for Your Mac in 202# Instruction (Same Difficulty/Format/Length)</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-streaming-hd-dvd-movies-with-your-home-theater-pc/"><u>Ultimate Guide to Streaming HD DVD Movies with Your Home Theater PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-high-quality-video-excellence-upgrade-from-windows-movie-maker-to-mp4-without-losing-a-single-detail/"><u>Unlock High-Quality Video Excellence: Upgrade From Windows Movie Maker to MP4 without Losing a Single Detail</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windowsvideoproc-videoproc-windows/"><u>WindowsでVideoProcのセットアップとインストール - VideoProc Windowsダウンロード手順ガイド</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windowsmac-x-dvd/"><u>Windowsユーザー快適移行！Mac X DVDリッパーフリー版をご利用いただけますように！</u></a></li>
+</ul></div>

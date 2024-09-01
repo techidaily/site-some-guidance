@@ -1,7 +1,7 @@
 ---
 title: "A Closer Look at the TP-Link Tapo S505: Unbeatable Features for Your Smart Home Lighting Needs"
-date: 2024-08-27 22:52:58
-updated: 2024-08-29 11:59:54
+date: 2024-08-31T06:07:01.896Z
+updated: 2024-09-01T06:07:01.896Z
 tags:
   - product-reviews
 categories:
@@ -66,20 +66,32 @@ An inexpensive smart switch that offers various cutting-edge features, the Tap S
 
  The TP-Link Tapo S505 Smart Wi-Fi Light Switch is available in white only. It's offered in a one- or two-pack at retailers like Amazon and Best Buy and through the TP-Link website. A dimmer version (Tapo S505D) is also available and nearly identical.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ##  Installation: Breezy and Quick Even If You're a Novice
 
 ![TP Link Tapo S505 switch's front plate and accessories](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/tp-link-tapo-s505-accessories.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Bryan M. Wolfe / How-To Geek
 
  Smart switches like this one are designed to replace dumb switches already in a home. The installation process was relatively simple; even someone who knows very little about electricity, like me, was able to do it. To get started, you'll first need to turn off your home circuit breaker, then remove the old wall plate using a screwdriver. From there, you must connect the wires to the smart switch according to TP-Link's directions. Your existing setup must have a negative wire, or the switch won't work. The product includes a wall plate, two screws, four wire nuts, wire labels, and a quick start guide.
 
  When in doubt, you should consult with an electrician. If you're a renter, you'll need to make sure you have permission before installing the smart switch.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Design: It's the Little Things
 
 ![TP Link Tapo S505 box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/tp-link-tapo-s505-hero-box.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 Bryan M. Wolfe / How-To Geek
 
  The Tapo S505 Smart Wi-Fi Light Switch looks modern and includes three onboard controls. The main button looks like a vertical toggle, but only the bottom portion is functional as it acts as a traditional on or off switch. When the switch isn't on, a circular LED is visible, making it easy to find the switch in the dark. Otherwise, the switch isn't lit. At the bottom of the power button are two tinier ones for restarting and resetting the switch. These are difficult to see, which was a deliberate design move since you won't need to use these that often.
@@ -114,12 +126,18 @@ Close
 
 ![TP-Link Tapo S505 installed on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/tp-link-tapo-s505-light-off-2.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 Bryan M. Wolfe / How-To Geek
 
  The TP-Link [Tapo S505 Smart Wi-Fi Light Switch](https://www.amazon.com/TP-Links-Matter-Smart-Light-Switch/dp/B0C2B6RSDX?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001258&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftp-link-tapo-s505-smart-wi-fi-light-switch-review%2F&asc%5Fcampaign=Affiliate) comes at a great price, retailing at $25\. With a quick installation on both the hardware and software side, it’s a smart product that doesn’t require a lot of prep to get started. It works with all major smart home services, such as Apple Home and Samsung SmartThings. It also works with Android and iPhone, which makes it usable by anyone with a Wi-Fi connection. This is one to consider if you’re in the market for a low-cost smart switch.
 
 ![TP-Link Tapo S505 Smart Switch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/tp-tapo-s505-smart-switch.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
 #####  Tapo S505 Smart Wi-Fi Light Switch
@@ -146,3 +164,49 @@ An inexpensive smart switch that offers various cutting-edge features, the Tap S
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-elevate-your-ar-creations-with-downloadable-color-lookup-tables-for-2024/"><u>[Updated] Elevate Your AR Creations with Downloadable Color Lookup Tables for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-honor-x8b-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Honor X8b without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-holiday-cheer-dvd-films-of-2e-year-where-to-find-and-watch-them-this-christmas-season/"><u>Best Holiday Cheer DVD Films of 2E Year - Where to Find and Watch Them This Christmas Season</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breakdown-windows-11-feb-updates-key-upgrades/"><u>Breakdown: Windows 11 Feb Update's Key Upgrades</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/come-trasformare-i-tuoi-video-vob-in-formato-mp4-su-macos-senza-problemi-di-marchio-dacqua/"><u>Come Trasformare I Tuoi Video VOB in Formato MP4 Su macOS Senza Problemi Di Marchio D'acqua</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/complete-set-of-macxdvd-professional-tools-now-available-at-no-cost-official-unlimited-license-offer/"><u>Complete Set of MacXDVD Professional Tools Now Available at No Cost: Official Unlimited License Offer!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comprehensive-guide-using-macx-dvd-ripper-pro-for-dvd-ripping-and-burning-on-macos-systems/"><u>Comprehensive Guide: Using MacX DVD Ripper Pro for DVD Ripping & Burning on macOS Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comprehensive-tutorial-on-downgrading-your-macs-operating-system-from-ventura-to-monterey-or-older-oses/"><u>Comprehensive Tutorial on Downgrading Your Mac's Operating System From Ventura To Monterey or Older OSes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/die-allerbesten-yogalehrerinnen-and-lehrern-im-video-professionelle-rezension-von-yoga-dvds/"><u>Die Allerbesten Yogalehrerinnen & -Lehrern Im Video: Professionelle Rezension Von Yoga DVDs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/die-besten-wmv-player-unterwegs-auf-dem-mac-losungen-zum-reibungslosen-abspielen-von-wmv-formaten/"><u>Die Besten WMV-Player Unterwegs Auf Dem Mac - Lösungen Zum Reibungslosen Abspielen Von WMV-Formaten</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/discovering-your-pcs-identity-unveiling-the-windows-10-version/"><u>Discovering Your PC's Identity: Unveiling the Windows 10 Version</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dynamic-presentations-made-easy-integrating-youtube-videos-into-powerpoint-slides/"><u>Dynamic Presentations Made Easy: Integrating YouTube Videos Into PowerPoint Slides</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/easy-guide-to-tweaking-lock-screen-duration-on-windows-10-pcs/"><u>Easy Guide to Tweaking Lock Screen Duration on Windows 10 PCs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/easy-tutorial-how-to-hide-or-delete-your-quick-access-items-in-windows-11/"><u>Easy Tutorial: How to Hide or Delete Your Quick Access Items in Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effizientes-konvertieren-von-flv-videos-zu-mp4-schnell-lernen-und-anwenden/"><u>Effizientes Konvertieren Von FLV-Videos Zu MP4 - Schnell Lernen Und Anwenden!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/einfach-perfekt-wie-macx-mediatrans-alle-multimedia-inhalte-von-ihrem-iphone-auf-ihren-computer-ubertragen-kann/"><u>Einfach Perfekt: Wie MacX MediaTrans Alle Multimedia-Inhalte Von Ihrem iPhone Auf Ihren Computer Übertragen Kann</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/fix-issue-unable-to-execute-file-in-the-temporary-directory-setup-aborted-error-5-access-is-denied/"><u>Fix Issue: “Unable to Execute File in the Temporary Directory. Setup Aborted. Error 5: Access Is Denied.”</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/fixing-windows-11-calculator-issues-a-comprehensive-guide/"><u>Fixing Windows 11 Calculator Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-childrens-films-a-step-by-step-guide-to-streaming-and-downloading-for-offline-viewing/"><u>Free Children's Films: A Step-by-Step Guide to Streaming and Downloading for Offline Viewing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/get-the-latest-zero-cost-version-of-macx-video-converter-pro-instantly/"><u>Get the Latest, Zero Cost Version of MacX Video Converter Pro Instantly!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/get-your-favorite-disney-tunes-for-free-childrens-songs-iconic-scores-and-enchanting-princess-ballads/"><u>Get Your Favorite Disney Tunes for Free! Children's Songs, Iconic Scores, and Enchanting Princess Ballads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-check-windows-11-build-number/"><u>How to Check Windows 11 Build Number</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-configure-a-remote-desktop-session-on-windows-11-a-step-by-step-guide/"><u>How to Configure a Remote Desktop Session on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-open-control-panel-in-windows-11-7-8/"><u>How to Open Control Panel in Windows 11, 7, 8</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-remove-quick-access-in-windows-11/"><u>How to Remove Quick Access in Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-sync-or-transfer-a-playlist-directly-to-your-iphone-without-using-itunes/"><u>How To Sync or Transfer a Playlist Directly to Your iPhone Without Using iTunes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-haste-in-playlist-distribution-youtube-guide/"><u>In 2024, Haste in Playlist Distribution  YouTube Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-how-to-add-music-to-instagram-videos-and-stories/"><u>In 2024, How to Add Music to Instagram Videos and Stories</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-13-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 13 Properly</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-unveiling-simplicity-in-ipad-screen-saving-tactics/"><u>In 2024, Unveiling Simplicity in iPad Screen Saving Tactics</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macx-dvd-video-converter-pro-pack-online-order-enjoy-exclusive-discounts-on-official-site/"><u>MacX DVD Video Converter Pro Pack Online Order - Enjoy Exclusive Discounts on Official Site</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-system-protection-a-guide-to-creating-restore-points-on-windows-11/"><u>Mastering System Protection: A Guide to Creating Restore Points on Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-the-basics-of-windows/"><u>Mastering the Basics of Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/navigating-your-pcs-settings-finding-the-control-panel-across-various-windows-versions/"><u>Navigating Your PC's Settings: Finding the Control Panel Across Various Windows Versions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/optimize-video-cuts-selective-mac-mp4-slicers-for-2024/"><u>Optimize Video Cuts  Selective Mac MP4 Slicers for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oppo-find-x6-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Oppo Find X6 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/pause-your-avg-antivirus-software-free-edition-version-2015-instructions-for-users/"><u>Pause Your AVG Antivirus Software (Free Edition, Version 2015): Instructions for Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-dilemma-ultimate-guide-to-resolve-your-pcs-persistent-freezing/"><u>Solving the Dilemma: Ultimate Guide to Resolve Your PC's Persistent Freezing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/steven-spielbergs-legendary-cinema-top-titles-that-defined-an-era-and-outlived-it/"><u>Steven Spielberg's Legendary Cinema: Top Titles That Defined an Era and Outlived It</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/the-role-of-high-stakes-soundtracks-in-crafting-unforgettable-movie-experiences/"><u>The Role of High-Stakes Soundtracks in Crafting Unforgettable Movie Experiences</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-v27s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Vivo V27s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+</ul></div>
