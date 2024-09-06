@@ -1,7 +1,7 @@
 ---
 title: "Mastering MS-DOS: A Step-by-Step Guide to Running It on Your PC Today"
-date: 2024-08-31T06:05:51.976Z
-updated: 2024-09-01T06:05:51.976Z
+date: 2024-09-05T14:21:33.770Z
+updated: 2024-09-06T14:21:33.770Z
 tags:
   - web
 categories:
@@ -19,12 +19,30 @@ thumbnail: https://thmb.techidaily.com/e2a22d0e1eb69e31073b9f86edc15bd17dc9ed743
 
  DOS was (and is) an iconic part of the personal computer revolution, but modern hardware doesn't support it. If you want to give MS-DOS a spin today, you need an emulator or some ancient hardware. Here are a few easy ways to run MS-DOS.
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Run MS-DOS with DOSBox
 
 [DOSBox](https://www.dosbox.com/), an open-source DOS emulator, is the easiest way to run MS-DOS on your own PC. Since I'm on Windows, I'll [use the version for Windows](https://sourceforge.net/projects/dosbox/), but there is nothing stopping you from [running DOSBox on macOS or Linux](https://www.dosbox.com/download.php?main=1) if you want.
 
 ![Click the green Download button to get DOSBox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-dosbox-dl.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once it has downloaded, run the executable to get started with the installation. DOSBox is tiny, only some 5MB, so neither the download nor installation will take very long. There aren't really any settings to worry about, so just click through the installer.
 
 Close 
@@ -49,6 +67,18 @@ mount [Drive Letter You Want] [Path To Folder On Your Real PC]
 
 ![Our DOSBox has successfully added the DOS folder we created.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/dosbox-mounted-c.png) 
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Enter **C:** into the console to change to the C:\\ drive, then type **[dir](https://eaxpv-info.techidaily.com/streamline-your-soundtrack-selection-for-youtube-for-2024/)** to see what the C:\\ drive contains. In my case, I can see the games folder I created earlier.
 
 ![The Games folder visible in DOSBox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/games-folder-visible.png) 
@@ -62,7 +92,16 @@ mount [Drive Letter You Want] [Path To Folder On Your Real PC]
 ![Oregon Trail running in DOSBox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/oregon-trail.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Run DOS in Your Browser
 
@@ -74,13 +113,13 @@ mount [Drive Letter You Want] [Path To Folder On Your Real PC]
 
 ![DOS in a browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/dos-in-a-browser.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  It also includes some old games, like Microsoft Flight Simulator, if you want to take those out for a spin.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Can I Run MS-DOS in VirtualBox or VMWare?
 

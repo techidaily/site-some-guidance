@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Confusion: Why Amazon Might Deliver Pre-Owned Items Labeled as Unopened"
-date: 2024-08-31T06:06:08.730Z
-updated: 2024-09-01T06:06:08.730Z
+date: 2024-09-05T14:21:33.952Z
+updated: 2024-09-06T14:21:33.952Z
 tags:
   - web
 categories:
@@ -9,8 +9,26 @@ categories:
 thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee624780bb20b2d8532eb393d21.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Understanding the Confusion: Why Amazon Might Deliver Pre-Owned Items Labeled as Unopened
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Amazon often resells returned items as new, if they pass inspection—though this isn't always reliable.
@@ -19,6 +37,12 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 
  With increasing regularity, I'm buying brand-new products directly from Amazon and they arrive in used condition. If you're a regular Amazon shopper, it's probably happened to you, though you may not have realized. But why is this happening? And can we do anything about it?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  My Experiences of Buying New and Receiving Used
 
  Recently, I bought a new computer mouse from Amazon—a reasonably expensive Logitech one. When it arrived, the mouse was loosely slung in the Amazon box alongside a cable. Obviously, this isn't how the mouse is meant to be packaged; it should come in a Logitech box, for starters. The mouse had clearly been used previously, with scratches on the bottom and grime on the buttons.
@@ -27,6 +51,12 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 
 ![Amazon product page highlighting 'Ships from' and 'Sold by'.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/amazon-product-page-highlighting-ships-from-and-sold-by.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  I contacted Amazon support and asked how this happened. The representative couldn't say, beyond branding it a "mistake", and immediately shipped out a replacement and told me to keep the used mouse. Thankfully, the replacement arrived promptly new and sealed, but ultimately the incident delayed me receiving the product in the condition I ordered.
 
  I can't fault the customer service here—issues are always easily resolved. But this shouldn't happen in the first place, especially as [Amazon says](https://www.aboutamazon.com/about-us) it wants to be "Earth's most customer-centric company." I want to buy something new and not have to question it.
@@ -34,7 +64,10 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
  This isn't the first time I've had this problem. I've received a used hard drive, book, pack of playing cards, and more. It's perhaps more forgivable for the cheaper purchases, but not for expensive tech. Anecdotally, looking at community forums like Reddit, it's happening more frequently too—though it's by no means a new phenomenon, as a thread on [HardForum](https://hardforum.com/threads/have-you-received-some-elses-returned-items-from-amazon-before.1578178/) shows people complaining about this in 2011.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Why Is Amazon Selling Used as New?
 
@@ -49,7 +82,10 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
  According to a [2023 report by the National Retail Federation](https://cdn.nrf.com/sites/default/files/2024-01/2023%20Consumer%20Returns%20in%20the%20Retail%20Industry.pdf), 14.5% of sales by the US retailers studied (not specifically Amazon) result in a return. As a percentage of total returns, 13.7% are fraudulent. These staggering figures make me appreciate why retailers want to resell something used as new.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Can You Do Anything to Stop Receiving Used Products?
 
@@ -61,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 
  If you're not satisfied with the quality of your purchase, contact Amazon immediately and they are likely to resolve it for you. Just don't abuse this because your account will be investigated if you return an abnormal amount.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Keep Shopping on Amazon?
 
  It's a little wearing to wonder, "has someone else used this?" every time I open an Amazon parcel. As a result, it's made me cautious about what I order. Anything expensive or important, especially electronics, I get directly from the manufacturer. Hygiene products are supposedly not returnable with a broken seal, but I still get these elsewhere too.

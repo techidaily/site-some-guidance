@@ -1,7 +1,7 @@
 ---
 title: "Alert: Newly Uncovered Security Flaw in Google Chrome Demands Prompt Patching Action!"
-date: 2024-08-31T06:05:22.066Z
-updated: 2024-09-01T06:05:22.066Z
+date: 2024-09-05T14:21:33.442Z
+updated: 2024-09-06T14:21:33.442Z
 tags:
   - web
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/f68ca812bcde6ea11b49f44592ad32b754408fad9ec2378e7166d9ec2c6bf6c4.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Alert: Newly Uncovered Security Flaw in Google Chrome Demands Prompt Patching Action!
 
 Here we go again. Google Chrome is pushing an emergency update to patch an actively-exploited zero-day vulnerability. You should install the update immediately, as failure to do so will leave your system exposed to a high-severity attack.
@@ -96,8 +102,3 @@ Here we go again. Google Chrome is pushing an emergency update to patch an activ
 <li><a href="https://some-guidance.techidaily.com/windows-10-calculator-not-working-solved/"><u>Windows 10 Calculator Not Working [Solved]</u></a></li>
 <li><a href="https://some-guidance.techidaily.com/windows-11-insider-preview-build-15031-download-stuck-at-initializing-solved/"><u>Windows 11 Insider Preview Build 15031 Download Stuck at Initializing [Solved]</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->

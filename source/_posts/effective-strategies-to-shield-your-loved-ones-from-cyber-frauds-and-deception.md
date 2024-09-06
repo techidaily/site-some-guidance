@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies to Shield Your Loved Ones From Cyber Frauds and Deception
-date: 2024-08-31T06:05:29.303Z
-updated: 2024-09-01T06:05:29.303Z
+date: 2024-09-05T14:21:33.531Z
+updated: 2024-09-06T14:21:33.531Z
 tags:
   - web
 categories:
@@ -19,15 +19,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Most of us are pretty savvy to scams, but we all have that friend or loved one that we worry might become a victim. Here's a round-up of the most successful online scams that you can share to help them stay informed of the potential threat.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Messaging Scams: Stranger Danger
 
  These scams usually start with an innocent sounding message "_Hi Tim! It was great to meet you at the conference!_". Being polite, you'll reply that this person has the wrong number, and from there they will encourage further conversation. Don't be fooled—they know they have the wrong number, and are searching for potential targets to develop.
 
  Ignore messages from numbers you don't know, and never reveal personal information or click on any links you are sent.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Classified Scams: Mind Your Purse
 
  There are fake classified ads, online stores, rental properties and job listings that you need to watch out for when shopping online. Examples of this include fake rental property listings that will ask you to transfer a security deposit to the scammer, fake job listings that will ask you to transfer money to pay for training materials (for a job that doesn't exist), and classified ads for used items that will never be delivered. Before you pay for anything, always check that the website you are using is legitimate, and that the product or listing is from a reputable user.
@@ -35,8 +38,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Sticking to e-commerce and payment platforms with strong buyer protection and using a credit card that will allow you to report fraudulent transactions can help protect you when shopping online. However, recovering lost funds is rarely successful, so the best protection is simply not to be fooled in the first place.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Microsoft/Tech Support Scams: Never Give Anyone Access to Your Computer
 
@@ -49,7 +54,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Sometimes, these scams come in the form of [ads and popups that look like legitimate messages](https://eaxpv-info.techidaily.com/new-in-2024-from-blank-canvas-to-biggest-hit-mastering-youtube-thumbnail-sizes/) warning you of viruses that need to be cleaned, asking you to click a link or call a number to resolve the issue. These rely on making you panic so that you'll follow their instructions. Instead, you should ignore them, close your web browser, and run a scan directly [using your own antivirus](https://extra-skills.techidaily.com/new-pinnacle-of-video-quality-3-key-transcoder-strategies/) if you are concerned.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Phishing: Watch Out for Fake Emails
 
@@ -58,7 +66,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The best protection against phishing scams is to never click on links in emails that lead to a login page. Close your browser, and then navigate to the website for the email sender, and log in from there. This way, you know that it's a legitimate login page, and not a fake one set up to steal your information.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Cryptocurrency and Investment Scams: You Won't Get Rich Quick
 
@@ -67,7 +78,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Just don't do it. The investment opportunity is fake, or the platform they ask you to use may be fraudulent and used to steal your banking details. [Cryptocurrency](https://extra-support.techidaily.com/2024-approved-peak-panzoid-structures-for-beginners/) is often used in these scams as many people aren't familiar with how it works, making it easy to dupe you into handing over their money.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Bank Fraud: Be Sure Before You Transfer Money
 
@@ -84,7 +98,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  AI is even being used by scammers to [fake video calls](https://tech.slashdot.org/story/24/05/10/1725235/ceo-of-worlds-biggest-ad-firm-targeted-by-deepfake-scam?utm%5Fsource=feedly1.0mainlinkanon&utm%5Fmedium=feed "https://tech.slashdot.org/story/24/05/10/1725235/ceo-of-worlds-biggest-ad-firm-targeted-by-deepfake-scam?utm_source=feedly1.0mainlinkanon&utm_medium=feed"), so this one is going to be harder to spot in the future! If you do get a suspicious message from a friend or family member, contact them through a different channel to confirm that it's really them before continuing to communicate with them.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  What Can You Do to Protect Yourself and Your Loved Ones?
 

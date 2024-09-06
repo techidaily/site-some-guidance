@@ -1,7 +1,7 @@
 ---
 title: "CrowdStrike's Recent Downtime Echoes the Infamous Y2K Bug: A Modern-Day Tech Scare"
-date: 2024-08-31T06:05:25.096Z
-updated: 2024-09-01T06:05:25.096Z
+date: 2024-09-05T14:21:33.479Z
+updated: 2024-09-06T14:21:33.479Z
 tags:
   - web
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d176e6b4d47161337afbbb6cd1.jpeg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## CrowdStrike's Recent Downtime Echoes the Infamous Y2K Bug: A Modern-Day Tech Scare
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [The Y2K Scare: A Brief History](https://techtrends.techidaily.com/expert-tips-for-repairing-a-computer-that-boots-with-no-visual-output/)
@@ -33,17 +45,15 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
  Fixing it meant changing the existing systems to make them "Y2K Compliant," which was just a fancy way to say that they shifted the dates to use four digits instead of two. When the year did roll over, fallout from the Y2K bug was minimal, and most systems remained working without even being upgraded.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  The Outage Strikes And Everything Goes Down
 
 ![A Laptop with the blue screen error.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-laptop-with-the-blue-screen-error.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
   
 Lucas Gouveia / Cianna Garrison / How-To Geek
 
@@ -54,7 +64,16 @@ Lucas Gouveia / Cianna Garrison / How-To Geek
  Now, with our global world so intimately connected, an outage like CrowdStrike doesn't just take out ATMs, government databases, and business machines. It breaks servers that keep web pages online and potentially even access points people use to get mobile internet.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  What Caused the Internet to Fall Apart?
 
@@ -63,17 +82,21 @@ Lucas Gouveia / Cianna Garrison / How-To Geek
  It first started with 911 centers and transportation hubs reporting issues with their systems late Thursday. By early Friday morning, the systems for airports, banks, and even parts of the White House were facing outages. Federal agencies got involved, suspecting a cyberattack, but it turned out to be a bit of bad code, leading to a widespread outage and potentially costing clients [multiple billions](https://edition.cnn.com/2024/07/21/business/crowdstrike-outage-cost/index.html) of dollars in lost business.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  What Y2K Taught Us And CrowdStrike Reminded Us
 
 ![Young woman with her hands up in frustration with a Macbook laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/frustrated-young-businesswoman-mac-laptop.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _[wavebreakmedia/Shutterstock.com](https://www.shutterstock.com/image-photo/young-hipster-businesswoman-misunderstanding-her-laptop-387182944)_
 
  We're a highly technological society. The internet gives us the power to find anything we're looking for with just a few keystrokes. It also connects us to friends who may be in completely different time zones. It's how we read, get the news, interact, and work, and as convenient as it is, [being this dependent on technology has its drawbacks](https://article-files.techidaily.com/2024-approved-live-radio-at-your-fingertips-an-easy-recording-guide/).
@@ -84,18 +107,12 @@ _[wavebreakmedia/Shutterstock.com](https://www.shutterstock.com/image-photo/youn
 
  One of the things that made Y2K a lot less scary to those of us who were alive during the era was the amount of information out there about the problem. Anyone who was alive and involved in tech could tell you what the Y2K bug was and what it could potentially do. The lack of transparency and awareness of the problem was partially the reason why the CrowdStrike outage was so scary. For a few hours after it started, people thought it was a malware or terrorist cyber-attack.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Are We Any Better Prepared for Something Like This?
 
  If there's one thing that the CrowdStrike outage highlighted, it's that we are unprepared for if it happens again. Despite the assurances from CrowdStrike and other providers, there will always be a chance that this catastrophe will repeat itself. It also highlights the lack of oversight that the tech security ecosystem has and raises salient questions about the reliability of some of our most critical systems. This may lead to regulators [examining the sector more closely](https://www.investopedia.com/what-we-learned-from-the-global-tech-outage-caused-by-crowdstrike-8680829).
 
  However, it also underlines the lack of response time in dealing with a system-wide threat like this. As a cybersecurity firm, it's ironic that CrowdStrike would serve as an example of what a cyber-terrorist attack may look like. It's both a wake-up call and a warning that we should probably listen to.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  We're More Than Just One Outage Away From The Dark Ages
 
  While the CrowdStrike outage showed us [how dependent we are on tech](https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-tecno-spark-20c-drfone-by-drfone-virtual-android/), many businesses remained unaffected. It would take several of these outages in concert to bring down the global internet. However, we should still be wary. There's nothing wrong with enjoying tech, but having a backup plan should always be at the back of our minds.

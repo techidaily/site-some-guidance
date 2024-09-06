@@ -1,7 +1,7 @@
 ---
 title: How Apple's New Policy Aims to Charge Creators 30%% on Patreon Earnings
-date: 2024-08-31T06:05:38.538Z
-updated: 2024-09-01T06:05:38.538Z
+date: 2024-09-05T14:21:33.623Z
+updated: 2024-09-06T14:21:33.623Z
 tags:
   - web
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/0f08e68155172a78a589fb6b8f18fbb5a0a1a4069ed8867faff7b1ab4f999000.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Apple's New Policy Aims to Charge Creators 30% on Patreon Earnings
 
 Apple's mandatory 30% fee for billing through the App Store, and its predatory nature, has been the subject of controversy for a long time now. It has also been one of the main drivers for legislation that forces it to allow third-party app stores, which is happening in the European Union but not in the US for now. Now, Apple is going after Patreon to enforce its fees there.
@@ -99,7 +105,3 @@ Apple's mandatory 30% fee for billing through the App Store, and its predatory n
 <li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-solving-playback-issues-on-your-instagram-videos/"><u>Ultimate Guide to Solving Playback Issues on Your Instagram Videos</u></a></li>
 <li><a href="https://some-guidance.techidaily.com/watch-the-2022-super-bowl-live-anywhere-top-streaming-apps-for-ios-devices/"><u>Watch the 2022 Super Bowl Live Anywhere: Top Streaming Apps for iOS Devices</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
