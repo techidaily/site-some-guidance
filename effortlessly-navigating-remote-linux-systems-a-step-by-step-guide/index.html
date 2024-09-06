@@ -88,6 +88,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1000px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -610,15 +667,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">17</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">19</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">15</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">16</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">19944</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">20148</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -854,7 +911,7 @@
 <li><strong>sudo</strong>: We’re using sudo because our mount point is owned by root.</li>
 <li><strong>sshfs</strong>: Let’s us mount a remote file system.</li>
 <li><strong>-o</strong>: The -o (mount options) option is followed by allow_other and default_permissions. These are required to let us interact with the mounted file system.</li>
-<li><strong><a class="link"   href="mailto:&#x64;&#x61;&#118;&#101;&#64;&#x6e;&#101;&#x74;&#x2d;&#x73;&#99;&#97;&#110;&#x2e;&#x6c;&#x61;&#110;" >&#x64;&#x61;&#118;&#101;&#64;&#x6e;&#101;&#x74;&#x2d;&#x73;&#99;&#97;&#110;&#x2e;&#x6c;&#x61;&#110; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></strong>: We need to provide the username of an account on the remote computer, and the network name or IP address of the remote computer. This is the same information you need to provide for a regular SSH connection.</li>
+<li><strong><a class="link"   href="mailto:&#x64;&#97;&#x76;&#x65;&#x40;&#110;&#101;&#116;&#x2d;&#x73;&#x63;&#97;&#110;&#46;&#x6c;&#x61;&#x6e;" >&#x64;&#97;&#x76;&#x65;&#x40;&#110;&#101;&#116;&#x2d;&#x73;&#x63;&#97;&#110;&#46;&#x6c;&#x61;&#x6e; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></strong>: We need to provide the username of an account on the remote computer, and the network name or IP address of the remote computer. This is the same information you need to provide for a regular SSH connection.</li>
 <li><strong>“:”</strong>: A trailing colon separates the network address from an optional path. The path points to the location within the remote computer that’ll used as the root of the mounted file system. By leaving the path empty, we tell SSHFS to use the home directory of the user account. But you could point this to your remote Documents directory, for example.</li>
 <li><strong>&#x2F;media&#x2F;dave&#x2F;netscan&#x2F;</strong>: The mount point we want the remote file system to be mounted on. This must already exist.</li>
 </ul>
