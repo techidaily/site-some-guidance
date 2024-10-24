@@ -1,7 +1,7 @@
 ---
 title: "DIY Guide: Creating & Using Eco-Friendly Chroma Key Effects in Videos"
-date: 2024-09-10 17:57:54
-updated: 2024-09-13 12:23:16
+date: 2024-10-21T18:03:15.970Z
+updated: 2024-10-23T17:23:31.152Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/f567dab373423469fdd9df8f70e7990588879bfed38e1184b365dd128527e555.jpg
@@ -97,6 +97,13 @@ Let’s take a look at the best desktop choice for Windows and Mac.
 
 ![Movavi Slideshow Maker](https://cdn.staticont.net/pages/0012/56/a4c1d08a49c2461d198225f08b3885dcade49b11.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Download for Free](https://tools.techidaily.com/movavi/slideshow-maker/)
 
 [Download for Free](https://tools.techidaily.com/movavi/slideshow-maker/)
@@ -167,6 +174,13 @@ Cons:
 * Some features behind a paywall
 * Outdated design
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 3\. [Free Bolide Slideshow Creator](https://tools.techidaily.com/creator/products/)
@@ -206,6 +220,13 @@ Cons:
 
 ![iMovie](https://cdn.staticont.net/pages/0012/82/44122e21b8c9b12fd3270b43de04f03f044dfd25.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **OS**: macOS
 
 **Licensing**: free
@@ -237,6 +258,19 @@ Cons:
 5\. [NCH PhotoStage](https://www.nchsoftware.com/slideshow/index.html)
 
 ![NCH](https://cdn.staticont.net/pages/0012/31/a82a5b53848242317bb23283bad7d2bcdb65ae08.webp)
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **OS**: Windows, macOS
 
@@ -369,6 +403,13 @@ Cons:
 
 ![](https://cdn.staticont.net/pages/0012/82/84c61f49122911987abd0e39c7545a1dc8d0ee5e.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **OS**: Windows, macOS
 
 **Licensing**: free trial, paid home and business licenses
@@ -395,6 +436,13 @@ Cons:
 
 * Limited functionality
 * No video export
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -755,6 +803,13 @@ Cons:
 
 * Restrictions in the free version
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 22\. [MoShow](https://play.google.com/store/apps/details?id=com.picadelic.moshow&afsrc=mvv&affeid%5B0%5D=&affeid%5B1%5D=&affeid%5B2%5D=&affid%5B0%5D=&affid%5B1%5D=&affid%5B2%5D=)
@@ -1108,6 +1163,13 @@ An easy-to-use, yet efficient slideshow making program
 
 ![Movavi Slideshow Maker](https://cdn.staticont.net/products/0023/55/9129600187506a46e3b66e9652559bef0542cce5.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Frequently asked questions
 
 ### What is the easiest slideshow maker?
@@ -1221,11 +1283,29 @@ By signing up, I agree to receive marketing emails from Movavi and agree to [Mov
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-ig-videos-building-a-powerful-focused-marketing-plan-for-2024/"><u>[New] Mastering IG Videos Building a Powerful, Focused Marketing Plan for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-faster-facebook-videos/"><u>[New] The Ultimate Guide to Faster Facebook Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-discovering-top-tools-the-2023-guide-to-browser-capture-tech/"><u>[Updated] 2024 Approved Discovering Top Tools The 2023 Guide to Browser Capture Tech</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-leading-limitless-time-tracker-apps-for-2024/"><u>[Updated] Leading Limitless Time Tracker Apps for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-editors-path-to-seamless-inshot-joins/"><u>2024 Approved The Editor's Path to Seamless Inshot Joins</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-smudge-free-sequence-eliminating-gopro-fog/"><u>2024 Approved The Smudge-Free Sequence Eliminating GoPro Fog</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-creative-potential-with-a-comprehensive-guide-to-ps-background-removal/"><u>2024 Approved Unleash Creative Potential with a Comprehensive Guide to PS Background Removal</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/cookiebot-enabled-personalization-enhancing-user-experience-and-engagement/"><u>Cookiebot-Enabled Personalization: Enhancing User Experience and Engagement</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-s24-ultra-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy S24 Ultra FRP Locks</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-smart-8-plus-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-lava-yuva-3-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Lava Yuva 3 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-tutorial-for-setting-up-an-online-livestream/"><u>In 2024, The Ultimate Tutorial for Setting Up an Online Livestream</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mastering-the-art-of-converting-powerpoint-slideshows-to-video-format-in-office-2007-a-three-step-guide/"><u>Mastering the Art of Converting PowerPoint Slideshows to Video Format in Office 2007: A Three-Step Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-the-art-of-stealthy-sound-extinction-in-audacity-for-2024/"><u>Mastering the Art of Stealthy Sound Extinction in Audacity for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-apple-airtag-perfect-companion-for-iphone-owners/"><u>The Ultimate Guide to the Apple AirTag - Perfect Companion for iPhone Owners</u></a></li>
+</ul></div>
+
