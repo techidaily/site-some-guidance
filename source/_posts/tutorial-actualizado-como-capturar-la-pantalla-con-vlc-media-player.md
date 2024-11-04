@@ -1,7 +1,7 @@
 ---
 title: "Tutorial Actualizado: Cómo Capturar La Pantalla Con VLC Media Player"
-date: 2024-10-25T21:38:09.690Z
-updated: 2024-10-29T21:13:53.112Z
+date: 2024-10-29T17:03:45.061Z
+updated: 2024-11-03T21:42:39.717Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/91b7cfb4d96e2456602f29985eb790b38dbd8c0fc22d4f4a877755c3058adea9.jpg
@@ -167,10 +167,16 @@ Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'u
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Si votre jeu commence à ralentir et que l'image est saccadée, surtout lorsqu'elle bouge, c'est que votre taux d'images par seconde (IPS) est faible. Cela se produit lorsque le matériel de votre ordinateur a du mal à faire fonctionner votre jeu ou fait des heures supplémentaires. S'il travaille trop, la vitesse du jeu ralentit.
@@ -182,6 +188,13 @@ Le PC surpasse les consoles à cet égard, car il est toujours possible d'accél
 Cet article vous présente les réglages de performance pour les jeux que vous pouvez effectuer sur Windows 10 pour améliorer votre expérience de jeu.
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -235,13 +248,6 @@ Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
 Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** \+ **I**, tapez "mode jeu" dans la boîte de recherche et cliquez sur **Contrôler le mode jeu pour optimiser votre PC pour les jeux**.
@@ -284,13 +290,6 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
 
 Pour empêcher Steam de mettre à jour les jeux pendant que vous jouez, allez dans votre client Steam et trouvez les options de mise à jour dans **Steam** \- **Paramètres** \- **Téléchargements**. Décochez la case **Autoriser les téléchargements pendant le jeu**.
@@ -307,6 +306,13 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 2. Tapez "Notifications" dans la barre de recherche et sélectionnez **Notifications et paramètres d'actions** dans les résultats.
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Régler le panneau de contrôle NVIDIA
 
@@ -328,10 +334,10 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Réduire la résolution dans un jeu
@@ -361,13 +367,6 @@ Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ?
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU/CPU
 
@@ -430,13 +429,6 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -444,13 +436,6 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Utiliser une alimentation externe
 
@@ -469,9 +454,23 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -504,16 +503,16 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Foire aux questions 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comment optimiser mon ordinateur pour les jeux ?
 
@@ -533,6 +532,13 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 3. Les pilotes du GPU ne sont pas à jour
 4. Vous utilisez DirectX 11 et devez effectuer une mise à jour.
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comment faire fonctionner un ordinateur plus rapidement ?
 
@@ -601,24 +607,18 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-efficiently-transfer-vids-from-premiere-to-youtube/"><u>[New] 2024 Approved Efficiently Transfer Vids From Premiere to YouTube</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-seamless-sound-recording-experience-with-audacity-mac-edition/"><u>[New] In 2024, Seamless Sound Recording Experience with Audacity, Mac Edition</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-insta-share-tips-for-posting-youtube-videos-for-2024/"><u>[New] Insta-Share Tips for Posting YouTube Videos for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-frequency-capture-digital-sound-files/"><u>[Updated] Frequency Capture Digital Sound Files</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-complete-overview-of-samsungs-onboard-app-ecosystem-for-televisions/"><u>A Complete Overview of Samsung's Onboard App Ecosystem for Televisions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-fixes-and-tips-for-an-optimal-resident-evil-village-adventure/"><u>Audio Fixes and Tips for an Optimal Resident Evil Village Adventure</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/budget-friendly-cinema-experience-your-guide-to-free-movie-access-both-online-and-in-person/"><u>Budget-Friendly Cinema Experience: Your Guide to Free Movie Access Both Online & in Person</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/dvd-shrink-and-dvd-decrypter/"><u>DVD Shrink & DVD Decrypterを完全ガイド: 接続方法とエラー対策詳しく解説</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/easy-guide-for-optimizing-and-posting-high-quality-gopro-footage-on-youtube/"><u>Easy Guide for Optimizing and Posting High-Quality GoPro Footage on YouTube</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719577691832-embrace-the-new-year-with-an-epic-deal-save-96-on-mondly-premium-access/"><u>Embrace the New Year with an Epic Deal - Save 96% on Mondly Premium Access</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/evaluating-iphone-8-series-advantages-and-disadvantages-unveiled/"><u>Evaluating iPhone 8 Series: Advantages and Disadvantages Unveiled</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/facile-conversion-du-fichier-mkv-au-format-mp4-sur-macos-transformation-rapide-sans-compromettre-la-qualite/"><u>Facile Conversion Du Fichier MKV Au Format MP4 Sur macOS - Transformation Rapide Sans Compromettre La Qualité</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-13-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 13 Pro Max without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-samsung-galaxy-f04-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Samsung Galaxy F04 to Another | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/macx-dvd/"><u>MacX DVD使用方法と支払納付プロセスについて知りたければ、クレジットカードでご利用-デジアーティ・ソフトウェア</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mastering-itunes-the-ideal-video-file-type-for-seamless-playback-on-apples-platform/"><u>Mastering iTunes: The Ideal Video File Type for Seamless Playback on Apple's Platform</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-mac-dvd-ripping-tools-compared-rivet-vs-handbrake-comprehensive-review/"><u>Top Mac DVD Ripping Tools Compared: Rivet vs HandBrake - Comprehensive Review</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-new-film-releases-now-available-on-blu-ray-and-dvd/"><u>Top New Film Releases Now Available on Blu-Ray and DVD</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-screen-flashing-issue-how-to-fix-it/"><u>Windows 11 Screen Flashing Issue - How To Fix It</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-essential-guide-9-cost-free-editing-tools-for-creatives/"><u>[New] In 2024, Essential Guide 9 Cost-Free Editing Tools for Creatives</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-transform-flv-into-youtube-hits-with-these-top-alternatives/"><u>[New] Transform FLV Into YouTube Hits with These Top Alternatives</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-from-screen-to-share-mastering-youtubes-thumbnail-artistry/"><u>[Updated] 2024 Approved From Screen to Share Mastering YouTubes' Thumbnail Artistry</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-resuscitating-dormant-connections-with-your-obs-cam/"><u>[Updated] In 2024, Resuscitating Dormant Connections with Your OBS Cam</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/bereichreihenfolge-in-word-dokumenten-umwandeln-free-online-service-bei-movavi/"><u>Bereichreihenfolge in Word-Dokumenten Umwandeln: Free Online Service Bei Movavi</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-no-cost-video-capturing-software-for-both-pcs-and-macs-get-yours-today/"><u>Best No-Cost Video Capturing Software for Both PCs and Macs: Get Yours Today!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-online-audio-converter-convert-mp4-and-mp3-to-aacmpeg-without-cost-movevia/"><u>Free Online Audio Converter: Convert MP4 & MP3 to AAC/MPEG Without Cost - MoveVia</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gratuit-gebaseerde-webp-file-naar-bmp-format-converter-onlinegestalten-movavi/"><u>Gratuit Gebaseerde WeBP-File Naar BMP-Format Converter - Onlinegestalten | Movavi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Realme GT 5? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/les-meilleures-outils-de-capture-decran-gratuits-sur-internet-le-guide-ultime/"><u>Les Meilleures Outils De Capture D'Écran Gratuits Sur Internet : Le Guide Ultime</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mettre-a-jour-vos-videos-avi-au-codec-ogg-gratuitement-sur-movavi-conversion-en-ligne-simple/"><u>Mettre À Jour Vos Vidéos AVI Au Codec Ogg Gratuitement Sur Movavi – Conversion en Ligne Simple!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/preserve-the-sleek-look-of-your-iphone-13-with-these-3-must-have-accessories-cnet/"><u>Preserve the Sleek Look of Your iPhone 13 with These 3 Must-Have Accessories | CNET</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-explore-the-best-free-soundtrack-libraries-for-your-videos-and-films/"><u>Updated 2024 Approved Explore the Best-Free Soundtrack Libraries for Your Videos and Films</u></a></li>
 </ul></div>
 
