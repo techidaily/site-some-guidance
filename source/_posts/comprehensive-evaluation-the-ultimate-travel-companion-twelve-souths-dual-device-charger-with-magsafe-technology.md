@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Evaluation: The Ultimate Travel Companion - Twelve South's Dual Device Charger with MagSafe Technology"
-date: 2024-08-31T06:07:10.622Z
-updated: 2024-09-01T06:07:10.622Z
+date: 2024-12-20T01:51:14.369Z
+updated: 2024-12-24T18:53:22.006Z
 tags:
   - product-reviews
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/f9de1b8537995642a992ee19d4d561ae28b96c9f3
  Twelve South doesn’t label its new [ButterFly 2-in-1 MagSafe Charger](https://www.twelvesouth.com/products/butterfly-2-in-1-magsafe-charger) as a travel accessory, and you can use it at home, but it is, in fact, a device meant to pack away and travel with. It’s great because the petite iPhone and Apple Watch charger bends, tilts, and snaps together, all in the name of functional portability.
 
 ![ButterFly Gallery](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/butterfly-gallery.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Twelve South Butterfly 2-in-1 USB-C MagSafe Wireless Charger
 
@@ -58,6 +62,10 @@ Charge your iPhone and Apple Watch together with ButterFly, the world’s smalle
 
 ![Twelve South Butterfly charger next to iPhone for thickness comparison](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/twelve-south-butterfly-thickness-comparison.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  Out of the box, the ButterFly charger looks, and nearly feels, like a yo-yo. It’s close enough in size, and the circular shape with the two halves gives it the impression of that toy. If not a yo-yo, it looks like a pocket watch or macaroon. Of course, its matte metal finish keeps it from appearing too much like food.
@@ -75,15 +83,13 @@ Hannah Stryker / How-To Geek
  To help offset some of the cost, the ButterFly charger comes with a 30W USB-C charger, a braided USB-C cable, and international wall adapters. It’s certainly a nice touch, but I’ll only be adding the cable to my collection. The power adapter isn’t huge, but it is still nearly the same volume as the ButterFly itself. And the international adapters seem like a waste all around. (Anyone willing to buy a $130 charger _probably_ already has an international plug solution.)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Practical For Packing Compared to Other Products
 
 ![Twelve South Butterfly charger with accessories laid out on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/twelve-south-butterfly-with-accessories.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  The ButterFly 2-in-1 MagSafe Charger is an obvious coup to take over the void left by Apple’s [discontinued MagSafe Duo](https://some-skills.techidaily.com/2024-approved-quickly-change-digital-pictures-darkness-level/). It’s not uncommon for Apple to release charging accessories mid-cycle, however, so whether Apple will revive the old Duo with a USB-C port is still up in the air.
@@ -99,17 +105,9 @@ Hannah Stryker / How-To Geek
 ![iPhone horizontal on the Twelve South ButterFly 2-in-1 charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/iphone-twelve-south-stand.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  When each device is charging by itself, the other side is folded underneath, facedown. I can’t think of times when I would only want to charge my watch, but using it for an iPhone without having the watch portion spread out is a nice touch.
@@ -117,20 +115,13 @@ Hannah Stryker / How-To Geek
  Using the ButterFly horizontally for StandBy mode felt like a little bit of a hack, especially because the watch charger on the back is much less ideal. Still, I like that it’s even a possibility.
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Price and Availability
 
  The ButterFly 2-in-1 MagSafe Charger is available now, directly from Twelve South and Apple. It has been back ordered at [Apple](https://www.apple.com/shop/product/HR2V2ZM/A/twelve-south-butterfly-2-in-1-usb-c-magsafe-charger) until early February, but more supply should be available in 2024.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Should You Buy the Twelve South ButterFly 2-in-1 MagSafe Charger?
 
 ![Apple Watch Charger on Twelve South standing up](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/apple-watch-charger-on-twelve-south-but.jpg) 
@@ -145,9 +136,6 @@ Hannah Stryker / How-To Geek
 
 ![ButterFly Gallery](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/butterfly-gallery.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Twelve South Butterfly 2-in-1 USB-C MagSafe Wireless Charger
 
 7/ 10 
@@ -178,8 +166,6 @@ Charge your iPhone and Apple Watch together with ButterFly, the world’s smalle
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +173,24 @@ Charge your iPhone and Apple Watch together with ButterFly, the world’s smalle
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-your-guide-to-selecting-a-superior-virtual-reality-headset-mobility-focused-or-connection-centric/"><u>[New] 2024 Approved Your Guide to Selecting a Superior Virtual Reality Headset Mobility-Focused or Connection-Centric?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-cut-to-perfection-an-in-depth-look-at-vivacut-for-24/"><u>[New] Cut to Perfection An In-Depth Look at VivaCut for '24</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-fix-youtube-video-black-screen/"><u>[New] In 2024, How to Fix YouTube Video Black Screen</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-live-streaming-war-confronting-the-titans-wirecast-and-obs-for-2024/"><u>[New] Live Streaming War Confronting the Titans, Wirecast & OBS for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-timelessly-taken-selfies-from-the-bygone-era/"><u>[New] Timelessly Taken Selfies From the Bygone Era</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-monetizing-success-a-guide-to-purchasing-youtube-content/"><u>[Updated] Monetizing Success A Guide to Purchasing YouTube Content</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-elevate-your-influence-mastering-instagram-engagement/"><u>2024 Approved Elevate Your Influence Mastering Instagram Engagement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-speed-instant-signature-background-cleanup/"><u>2024 Approved Unlocking Speed Instant Signature Background Cleanup</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/gratis-design-elements-for-youtube-channel-for-2024/"><u>Gratis Design Elements for YouTube Channel for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-communication-conquests-powerful-expressions-for-success/"><u>In 2024, Communication Conquests Powerful Expressions for Success</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essentials-for-effective-free-timer-utilization/"><u>In 2024, The Essentials for Effective Free Timer Utilization</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-innovation-insights-into-vr-gear-designs/"><u>In 2024, The Innovation Insights Into VR Gear Designs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-utilizing-multiframe-view-an-in-depth-look-at-edges-pip/"><u>In 2024, Utilizing Multiframe View An In-Depth Look at Edge’s PIP</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mars-unveiled-discover-nasas-audio-insights-into-the-red-planets-swirling-sand-phenomena/"><u>Mars Unveiled: Discover NASA's Audio Insights Into the Red Planet's Swirling Sand Phenomena</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-list-of-online-havens-for-free-tamil-ringtones-for-2024/"><u>The Ultimate List of Online Havens for Free Tamil Ringtones for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-budget-friendly-vfx-resources-your-go-to-guide-for-cost-effective-edits-for-2024/"><u>Top Budget-Friendly VFX Resources - Your Go-To Guide for Cost-Effective Edits for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleash-creative-potential-with-top-tips-for-gopro-timelapses-for-2024/"><u>Unleash Creative Potential with Top Tips for GoPro Timelapses for 2024</u></a></li>
+</ul></div>
 

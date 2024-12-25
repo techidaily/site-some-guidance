@@ -1,7 +1,7 @@
 ---
 title: "Mastering Disc Creation in Windows 11: A Comprehensive Tutorial for CDs & DVDs"
-date: 2024-08-31T06:11:54.104Z
-updated: 2024-09-01T06:11:54.104Z
+date: 2024-12-17T19:15:07.488Z
+updated: 2024-12-24T17:44:13.017Z
 tags:
   - deals
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/f308ec8a50cc9a493046d8e6543aebbcad8cb9f6d
 * [How to Burn a CD, DVD, or Blu-Ray with a Live File System ("Like a USB flash drive")](https://www.howtogeek.com/689705/how-to-burn-a-cd-or-dvd-on-windows-10/#how-to-burn-a-cd-dvd-or-blu-ray-with-a-live-file-system-quot-like-a-usb-flash-drive-quot)
 * [How to Burn a Mastered CD, DVD, or Blu-ray ("with a CD/DVD player")](https://www.howtogeek.com/689705/how-to-burn-a-cd-or-dvd-on-windows-10/#how-to-burn-a-mastered-cd-dvd-or-blu-ray-quot-with-a-cd-dvd-player-quot)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Windows 10 has built-in tools to burn CDs, DVDs, and Blu-ray discs, even though USB drives are preferred now.
@@ -26,18 +30,12 @@ thumbnail: https://thmb.techidaily.com/f308ec8a50cc9a493046d8e6543aebbcad8cb9f6d
 
  Sometimes you need to burn a CD, DVD, or BD to share files with others, [make backups](https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-honor-x8b-drfone-by-drfone-virtual-android/), or transfer information between machines. Although we now prefer to use USB thumb drives and network transfers for these purposes, Windows 10 still makes it easy to write ("burn") a CD-R, DVD-R, BD-R disc. Here's how to do it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ##  What Do I Need to Burn a CD, DVD, or Blu-Ray Disc?
 
  Before we begin, we'll assume that you have an optical media drive capable of writing to the disc type you choose. It could be an internal drive or one that plugs in to your PC via USB. We'll also assume that you have any necessary drivers installed. Luckily, Windows 10 works with most CD-R/W, DVD-R/W, and Blu-ray (BD) drives automatically through Plug and Play, so you might not even need to install a driver.
 
 ![The back of a DVD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/53105419298_fa3a77cbd4_c.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek  
   
  You'll also need some blank CD-R, CD-RW, DVD-R, DVD-RW, BD-R, or BD-RW discs that work with your drive. And 4.7 GB DVDs (or 8.5 GB [dual-layer DVDs](https://en.wikipedia.org/wiki/DVD-R%5FDL)) hold dramatically more data than CDs, which can typically only hold about 700 MB. Blu-ray discs can hold up to 128 GB. Here's what is different about the writable and rewritable versions of the media.
@@ -48,8 +46,9 @@ Hannah Stryker / How-To Geek
  When picking media, pay attention to drive compatibility. Generally speaking, Blu-ray drives can read and write both DVDs and CDs, DVD drives can read and write DVDs and CDs, and CD drives can typically only handle CDs.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Choosing How Windows Writes the Disc
 
  Let's get started. Log into your Windows machine and insert a blank recordable CD or DVD into your optical drive. As soon as you insert it, a window titled "Burn a Disc" will appear. This dialog asks you how you want Windows to [handle writing the disc](https://techtrends.techidaily.com/troubleshooting-msodll-solutions-for-missing-or-inaccessible-files/). Here are the options and what they mean.
@@ -77,9 +76,6 @@ Hannah Stryker / How-To Geek
 
  As soon as you want to eject the disc, Windows will do some finalizing before the drive spits out the disc. After that, you're free to reinsert it, and write to it again or read it in another machine.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ##  How to Burn a Mastered CD, DVD, or Blu-ray ("with a CD/DVD player")
 
  If you chose to use your disc "with a CD/DVD player" in the last menu, your optical disc drive will open in a File Explorer window. In the window, you'll see a header labeled "Files Ready to Be Written to the Disc."
@@ -99,20 +95,26 @@ Hannah Stryker / How-To Geek
 ![The "Burn to Disk" wizard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-disk-setup.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Next, you'll see a progress bar and an estimated time to completion as the files are written to the disc.
 
 ![The file being burned to the disk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-burning-data.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When the process is complete, the disc will automatically eject from your optical media drive, and the wizard will ask you if you want to burn the same files to another disc. If so, check the box beside "Yes, burn these files to another disc," then click "Next." You'll go through the same process again.
 
  If you're done burning discs for now, just click "Finish."
 
 ![The files were successfully written to the disk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-burnt-to-disk.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After that, your newly burned CD, DVD, or Blu-ray is ready to use.
 
@@ -124,8 +126,6 @@ Hannah Stryker / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +133,16 @@ Hannah Stryker / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-verify-your-youtube-account-a-simple-guide/"><u>[New] How to Verify Your YouTube Account - a Simple Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-camstudio-updates-the-2023-guide-for-screen-recording-pros/"><u>[Updated] CamStudio Updates The 2023 Guide for Screen Recording Pros</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-crafting-a-narrative-template-for-online-educational-videos/"><u>[Updated] In 2024, Crafting a Narrative Template for Online Educational Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-creativity-top-10-insider-canva-tricks/"><u>[Updated] Unlocking Creativity Top 10 Insider Canva Tricks</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211250008-9781396323256-extra-sensory-perception/"><u>Extra-Sensory Perception | Free Book</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-singular-adventure-in-3dr-an-insightful-look/"><u>In 2024, The Singular Adventure in '3DR' An Insightful Look</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-windows-11-visualizer-for-rapid-images/"><u>In 2024, Top Windows 11 Visualizer for Rapid Images</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-techniques-for-pace-modification-on-snapchat-videos/"><u>In 2024, Unveiling Techniques for Pace Modification on Snapchat Videos</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/polishing-resilience-for-online-criticism/"><u>Polishing Resilience for Online Criticism</u></a></li>
+</ul></div>
 

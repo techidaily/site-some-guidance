@@ -1,7 +1,7 @@
 ---
 title: "Mastering Swap Settings on Linux: What You Need to Know and Adjustments for Optimal Performance"
-date: 2024-08-31T06:11:09.936Z
-updated: 2024-09-01T06:11:09.936Z
+date: 2024-12-23T22:46:34.341Z
+updated: 2024-12-24T17:14:16.251Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 ---
 
 ## Mastering Swap Settings on Linux: What You Need to Know and Adjustments for Optimal Performance
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 
  Simple. We're going to prove it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Your RAM is Split Into Zones
 
  Linux doesn't think of your RAM as one big homogenous pool of memory. It considers it to be divided into a number of different regions called zones. Which zones are present on your computer depends on whether it is [32-bit](https://en.wikipedia.org/wiki/32-bit) or [64-bit](https://en.wikipedia.org/wiki/64-bit%5Fcomputing). Here's a simplified description of the possible zones on an [x86 architecture computer](https://en.wikipedia.org/wiki/X86).
@@ -44,8 +52,9 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 * **HighMem**: This only exists on 32-bit Linux computers. It is all RAM above 896 MB, including RAM above 4 GB on sufficiently large machines.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The PAGESIZE Value
 
  RAM is allocated in pages, which are of a fixed size. That size is determined by the kernel at boot time by detecting the architecture of the computer. Typically the page size on a Linux computer is 4 Kbytes.
@@ -57,11 +66,9 @@ getconf PAGESIZE
 ![getconf PAGESIZE](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/6-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
+
 ##  Zones Are Attached to Nodes
 
  Zones are attached to nodes. Nodes are associated with a [Central Processing Unit (CPU)](https://www.howtogeek.com/367931/htg-explains-how-does-a-cpu-actually-work/). The kernel will try to allocate memory for a process running on a CPU from the node associated with that CPU.
@@ -74,9 +81,6 @@ less /proc/buddyinfo
 
 ![less /proc/buddyinfo in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
  This is the output from the 64-bit computer this article was researched on:
 
 Node 0, zone DMA 1 1 1 0 2 1 1 0 1 1 3
@@ -110,6 +114,10 @@ Node 0, zone DMA 1 1 1 0 2 1 1 0 1 1 3
 
  For swappiness, we need only concern ourselves with the first two in the list: file pages and anonymous pages.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Swappiness
 
  Here's the description of swappiness [from the Linux documentation](https://github.com/torvalds/linux/blob/v5.0/Documentation/sysctl/vm.txt#L809) on [GitHub](https://github.com/):
@@ -141,9 +149,6 @@ file_prio = 200 - anon_prio;`
     
  That's interesting. Two distinct values are derived from `swappiness`. The `anon_prio` and `file_prio` variables hold these values. As one increases, the other decreases, and vice versa. The Linux swappiness value actually sets the ratio between two values.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  The Golden Ratio
 
  File pages hold data that can be easily retrieved if that memory is freed. Linux can just read the file again. As we've seen, if the file data has been changed in RAM, those changes must be written to the file before the file page can be freed. But, either way, the file page in RAM can be repopulated by reading data from the file. So why bother adding these pages to the swap partition or swap file? If you need that data again, you might as well read it back from the original file instead of a redundant copy in the swap space. So file pages are not stored in swap. They're "stored" back in the original file. With anonymous pages, there is no underlying file associated with the values in memory. The values in those pages have been dynamically arrived at. You can't simply read them back in from a file. The only way anonymous page memory values can be recovered is to store the data somewhere before freeing the memory. And that's what swap holds. Anonymous pages that you are going to need to reference again. But note that for both file pages and for anonymous pages, freeing up the memory may require a hard drive write. If the file page data or the anonymous page data has changed since it was last written to the file or to swap, a file system write is required. To retrieve the data will require a file system read. Both types of page reclaim are costly. Trying to reduce hard drive input and output by minimizing the swapping of anonymous pages only increases the amount of hard drive input and output that is required to deal with file pages being written to, and read from, files. As you can see from the last code snippet, there are two variables. One called `file_prio` for "file priority", and one called `anon_prio` for "anonymous priority".
@@ -158,9 +163,6 @@ file_prio = 200 - anon_prio;`
 
  So you can see that you cannot use the Linux swappiness value to influence swap's behavior with respect to RAM usage. It just doesn't work like that.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  What Should Swapiness Be Set To?
 
  This depends on hardware, workload, hard drive type, and whether your computer is a desktop or a server. Obviously, this isn't going to be a one size fits all type of setting. And you have to bear in mind that swap isn't just used as a mechanism to free up RAM when you're running out of memory space. Swap is an important part of a well functioning system, and without it, sane memory management becomes very difficult for Linux to achieve. Changing the Linux swappiness value has an instant effect; you don't need to reboot. So you can make small adjustments and monitor the effects. Ideally, you'd do this over a period of days, with different types of activity on your computer, to try to find the closest to an ideal setting that you can. These are some points to consider:
@@ -196,8 +198,6 @@ vm.swappiness=35
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +205,24 @@ vm.swappiness=35
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-browsing-bygone-tales-in-the-facebook-universe-with-devices/"><u>[New] Browsing Bygone Tales in the Facebook Universe with Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-8-free-screen-recorder-for-android/"><u>[New] Top 8 Free Screen Recorder for Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-your-videos-using-video-enhancer-v22/"><u>[New] Transform Your Videos Using Video Enhancer V2.2</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-hidden-potential-mastering-the-art-of-morphvox/"><u>[New] Unveiling Hidden Potential Mastering the Art of MorphVOX</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamline-your-cricket-experience-a-guide-to-top-live-sports-services/"><u>[Updated] Streamline Your Cricket Experience A Guide to Top Live Sports Services</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-tier-srt-transformations-for-mac-and-windows-pcs/"><u>2024 Approved Top-Tier SRT Transformations for Mac & Windows PCs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-free-open-sources-20-best-pubg-shots/"><u>2024 Approved Ultimate Free, Open Sources 20 Best PUBG Shots</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-secrets-of-expert-periscope-use/"><u>2024 Approved Unlocking the Secrets of Expert Periscope Use</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortless-driver-updates-revitalize-your-usb-devices-on-windows-systems-including-11-7-8-and-e/"><u>Effortless Driver Updates: Revitalize Your USB Devices on Windows Systems (Including 11, 7, 8 & E)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-advice-unlocking-iphone-recovery-mode-through-forced-reboot-methods/"><u>Expert Advice: Unlocking iPhone Recovery Mode Through Forced Reboot Methods</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fandangos-ultimate-guide-to-enjoying-3d-movies-in-the-comfort-of-your-own-home/"><u>Fandango's Ultimate Guide to Enjoying 3D Movies in the Comfort of Your Own Home</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gimbal-guide-industrys-favorites/"><u>In 2024, Gimbal Guide Industry's Favorites</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superior-transmitters-and-decoders-for-livestreams/"><u>In 2024, Superior Transmitters and Decoders for Livestreams</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-premier-yt-storytelling-list-to-watch-in-the-year-ahead/"><u>In 2024, The Premier YT Storytelling List to Watch in the Year Ahead</u></a></li>
+<li><a href="https://games-able.techidaily.com/refining-rendered-worlds-the-efficient-3d-route/"><u>Refining Rendered Worlds: The Efficient 3D Route</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-setting-up-a-vpn-connection-on-windows-11-tips-and-tricks/"><u>Step-by-Step Guide: Setting Up a VPN Connection on Windows 11 – Tips and Tricks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/which-software-is-best-for-logo-animation-having-a-great-animated-logo-can-be-a-great-strategy-to-engage-your-audience-here-are-over-11-best-logo-animation-/"><u>Which Software Is Best for Logo Animation? Having a Great Animated Logo Can Be a Great Strategy to Engage Your Audience. Here Are over 11 Best Logo Animation Makers and Making Tips for You</u></a></li>
+</ul></div>
 

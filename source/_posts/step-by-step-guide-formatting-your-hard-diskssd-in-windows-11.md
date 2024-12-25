@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Formatting Your Hard Disk/SSD in Windows 11"
-date: 2024-08-31T06:12:41.010Z
-updated: 2024-09-01T06:12:41.010Z
+date: 2024-12-19T21:28:06.924Z
+updated: 2024-12-24T17:38:21.266Z
 tags:
   - deals
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 
  Formatting a hard drive or SSD in Windows 11 erases any existing data on a drive and prepares the disk for use. Luckily, formatting is very easy to do directly from File Explorer. Here's how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Format a Drive in File Explorer
 
  First, [open File Explorer](https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-realme-c67-4g-drfone-by-drfone-virtual-android/). You can usually do this by clicking the folder icon in your taskbar. Or you can right-click the Start button and select "File Explorer."
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
  In any File Explorer window, browse to "This PC." In the list of "Devices and Drives," right-click the drive you'd like to format and select "Format" in the menu that appears.
 
 ![In Windwos 11, right-click the drive you want to format and select "Format."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/file_explorer_format_drive.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A "Format" window will open. It presents options about how you want to format your drive. We'll go over each item one-by-one so you can decide
 
@@ -43,15 +51,27 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 
 ![Select your format options and click "Start."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/win11_format_window_selections.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After clicking "Start," Windows will pop-up a warning message telling you that "Formatting will erase ALL data on this disk." Click "OK" if you're ready to erase the drive and format it.
 
  When you format your hard drive or SSD, you will lose all data on the drive. Be absolutely certain you have backups of any data on the drive before going any further!
 
 ![Click "OK."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/win11_format_warning.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While Windows formats the disk, you'll see a green process indicator move from left to right. When it's completely full, the format will be complete, and you'll see an alert pop-up. Click "OK."
 
 ![Click "OK."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/format_complete_ok.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you the format fails, there are easy ways to [fix the "Windows Was Unable to Complete The Format" error](https://extra-information.techidaily.com/seamless-transformation-best-face-editors-on-iphones-and-androids/).
 
@@ -65,8 +85,6 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -74,8 +92,21 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-strategies-for-selecting-and-syncing-music-with-visuals/"><u>[New] Strategies for Selecting and Syncing Music with Visuals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-uncover-the-power-of-sound-no-cost-voice-effects-at-your-fingertips/"><u>[New] Uncover the Power of Sound No-Cost Voice Effects at Your Fingertips</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-how-to-upside-down-your-instagram-videos-complete-manual/"><u>[Updated] In 2024, How to Upside Down Your Instagram Videos [Complete Manual]</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-which-is-the-ultimate-screen-recorder-analyzing-bandicam-vs-camtasia/"><u>[Updated] In 2024, Which Is the Ultimate Screen Recorder? Analyzing Bandicam vs Camtasia</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-skyrocketing-your-youtube-business-the-famebit-approach-to-sponsorships/"><u>[Updated] Skyrocketing Your YouTube Business The FameBit Approach to Sponsorships</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-playlist-plan-for-insta/"><u>[Updated] The Ultimate Playlist Plan for Insta</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/affordable-android-chat-options-rated-top-ten/"><u>Affordable Android Chat Options Rated Top Ten</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-se-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone SE to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-13-effortless-revenue-strategies-for-newbies-on-reddit/"><u>In 2024, Top 13 Effortless Revenue Strategies for Newbies on Reddit</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/navigating-the-backup-of-phones-camera-roll-for-snapchat-users-for-2024/"><u>Navigating the Backup of Phone's Camera Roll for Snapchat Users for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/spin-innovator-pack/"><u>Spin Innovator Pack</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-future-at-your-fingertips-testing-the-latest-in-virtual-reality-by-lg-for-2024/"><u>The Future at Your Fingertips Testing the Latest in Virtual Reality by LG for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-asmr-sounds-promoting-deep-sleep-for-2024/"><u>Top ASMR Sounds Promoting Deep Sleep for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-and-updating-logitech-c920-webcam-drivers-on-windows-11-10-and-8/"><u>Troubleshooting and Updating Logitech C920 Webcam Drivers on Windows 11, 10 & 8</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->

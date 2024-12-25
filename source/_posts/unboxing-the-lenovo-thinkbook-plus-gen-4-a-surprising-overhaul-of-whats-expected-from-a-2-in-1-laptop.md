@@ -1,7 +1,7 @@
 ---
 title: Unboxing the Lenovo ThinkBook Plus Gen 4 – A Surprising Overhaul of What's Expected From a 2-in-1 Laptop?
-date: 2024-08-31T06:06:59.178Z
-updated: 2024-09-01T06:06:59.178Z
+date: 2024-12-24T01:30:53.544Z
+updated: 2024-12-24T18:18:26.546Z
 tags:
   - product-reviews
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ---
 
 ## Unboxing the Lenovo ThinkBook Plus Gen 4 – A Surprising Overhaul of What's Expected From a 2-in-1 Laptop?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -20,6 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  The [Lenovo ThinkBook Plus Gen 4 2-in-1 Laptop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkbook%2Fthinkbook-plus%2Flenovo-thinkbook-plus-gen-4-%2813-inch-intel%29%2Flen101b0031%2F) is a hybrid laptop with a lot of attitude. Built for small-business owners, students, and photo/video-heavy workflows, the easy-swap dual displays may look cool, but two screens make this machine super-expensive. Lenovo may have overstepped with this one.
 
 ![The Lenovo ThinkBook Plus Gen 4 2-in-1 Laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/lenovo-thinkbook-plus-gen-4-product-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Lenovo ThinkBook Plus Gen 4 2-in-1 Laptop
 
@@ -94,6 +102,10 @@ Expand
 
 [$3040 at Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkbook%2Fthinkbook-plus%2Flenovo-thinkbook-plus-gen-4-%2813-inch-intel%29%2Flen101b0031%2F) [See at Walmart](https://www.walmart.com/ip/Lenovo-ThinkBook-Plus-Gen-4-Intel-Laptop-13-312-Glass-i7-1355U-Iris-Xe-Graphics-16GB-512GB-One-YR-Onsite-Warranty/5083766739?wmlspartner=wlpa&selectedSellerId=101004014) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Design: Ingenuity in Full Force
 
 ![The OLED screen of the Lenovo ThinkBook Plus Gen 4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/lenovo-thinkbook-plus-gen-4-color-display-back-facingjpg_53189355796_o.jpg) 
@@ -118,9 +130,6 @@ A photo taken with the Lenovo ThinkBook Plus Gen 4's webcam
 
  You’ll also find heat-venting grilles along the rear bezel of the keyboard housing, as well as underneath.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Display(s): The E-Ink Screen is Haunted
 
 ![The Lenovo ThinkBook Plus Gen 4 being used as a tablet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/lenovo-thinkbook-plus-gen-4-color-display-tablet-modejpg_53188636212_o.jpg) 
@@ -137,10 +146,6 @@ Joe Robinson / How-To Geek
 
 ![A person taking notes on the Lenovo ThinkBook Plus Gen 4's e-ink display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/lenovo-thinkbook-plus-gen-4-eink-display-tablet-mode-in-usejpg_53189718678_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 Joe Robinson / How-To Geek
 
  At 2,560 x 1600, (a step up from the ThinkBook Gen 2's black-and-white E-Ink panel), the ThinkBook’s enhanced pixel count and colorized display were more than I expected from an E-Ink display. I certainly appreciated my read-through of Poe’s "The Tell-Tale Heart" on the E-Ink screen, but there’s a big difference between recreational reading and urgent workplace needs.
@@ -150,13 +155,18 @@ Joe Robinson / How-To Geek
  Lenovo did think to include a manual refresh button, but at best, it only clears up around 60% of the temporary ghosting at a time. Admittedly, I switched to the OLED to finish reading "Tell-Tale"because I was so tired of all the refreshing I had to do.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Audio: Satisfactory
 
  The ThinkBook has two down-firing speakers that push a decent amount of sound. I put the laptop through some hard-hitting late '80s live Metallica, mostly to see how the speakers could handle max volume with heavier genres. I was impressed, to say the least. There wasn’t any distortion, even at the highest volume level. Somewhere between a 40 and 50 percent volume is going to be comfortable for most folks.
 
  As far as frequency representation though, the ThinkBook’s speakers aren’t taking home any awards. There’s very little bass to be had, and most of the EQ gets lumped into the upper mid-range.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Performance: Smooth Sailing for the Most Part
 
@@ -176,18 +186,6 @@ Joe Robinson / How-To Geek
 
  A word of warning: The ThinkBook got _very_ warm. I wasn’t expecting my throw-everything-at-it test to return cool-to-the-touch results, but even when I just had a couple of tabs open, with one of them displaying a PDF, I thought the laptop was toasty. The temperature climbed even higher when I plugged in the ThinkBook’s 65W charger.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Battery: Don't Leave Home Without a Charger
 
  I think one of the big calling cards of the ThinkBook’s E-Ink display is that it’s supposed to be great at preserving the laptop’s battery life. Unfortunately, that’s not really the case. Whether you’re using the OLED screen or the E-Ink panel, the ThinkBook absolutely _devours_ battery.
@@ -198,9 +196,6 @@ Joe Robinson / How-To Geek
 
  During one charging test, I plugged the ThinkBook in at 5:15PM with 24 percent battery remaining. At 5:59PM, the battery was up to 77%. It’s also nice to have the 65W brick on hand for smartphones and other gear.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy the Lenovo ThinkBook Plus Gen 4?
 
  The [Lenovo ThinkBook Plus Gen 4](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkbook%2Fthinkbook-plus%2Flenovo-thinkbook-plus-gen-4-%2813-inch-intel%29%2Flen101b0031%2F) is an odd combination of “too much” and “too little.” Lenovo's asking for too much dough from a very niche demographic, and the inclusion of two screens just isn't necessary. The E-Ink screen is also pretty much impossible to operate in the first place.
@@ -210,8 +205,9 @@ Joe Robinson / How-To Geek
 ![The Lenovo ThinkBook Plus Gen 4 2-in-1 Laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/lenovo-thinkbook-plus-gen-4-product-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  Lenovo ThinkBook Plus Gen 4 2-in-1 Laptop
 
 6/ 10 
@@ -226,8 +222,6 @@ The Lenovo ThinkBook Plus Gen 4 is fun to use, but beyond its arresting OLED dis
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -235,4 +229,20 @@ The Lenovo ThinkBook Plus Gen 4 is fun to use, but beyond its arresting OLED dis
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-clearing-up-audio-issues-in-half-volume-facebook-content/"><u>[Updated] 2024 Approved Clearing Up Audio Issues in Half-Volume Facebook Content</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1716069721344-updated-2024-approved-utilizing-internal-screen-recording-on-huaweis-mate-1020-and-p-models-p20-p10/"><u>[Updated] 2024 Approved Utilizing Internal Screen Recording on Huawei's Mate 10/20 & P Models (P20, P10).</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-aerial-imaging-warfare-djis-pro-vs-gopro-k20/"><u>[Updated] Aerial Imaging Warfare DJI's Pro Vs GoPro K20</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-iphone-filming-software-catalog/"><u>[Updated] Top iPhone Filming Software Catalog</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-essence-filmoras-top-10-enchanting-features/"><u>[Updated] Unveiling the Essence Filmora’s Top 10 Enchanting Features</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-exclusive-insights-unlock-the-secrets-to-screen-capturing-games/"><u>2024 Approved Exclusive Insights Unlock the Secrets to Screen Capturing Games</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-techniques-for-tidying-up-image-backdrops/"><u>2024 Approved Techniques for Tidying Up Image Backdrops</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-metrics-of-mastery-assessing-luminances-hdr-capabilities/"><u>2024 Approved The Metrics of Mastery Assessing Luminance's HDR Capabilities</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-watchers-whispers-essential-websites-for-got-sound-files/"><u>In 2024, The Watchers' Whispers Essential Websites for GoT Sound Files</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-10-sci-fi-metaverse-movies-take-you-to-a-brand-new-world/"><u>In 2024, Top 10 Sci-Fi Metaverse Movies Take You to a Brand New World</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfecting-every-shots-hue-the-essential-11-tutorials-on-color-adjustment/"><u>Perfecting Every Shot's Hue The Essential 11 Tutorials on Color Adjustment</u></a></li>
+</ul></div>
 

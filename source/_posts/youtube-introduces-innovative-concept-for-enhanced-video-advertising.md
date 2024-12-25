@@ -1,7 +1,7 @@
 ---
 title: YouTube Introduces Innovative Concept for Enhanced Video Advertising
-date: 2024-09-05T14:21:34.058Z
-updated: 2024-09-06T14:21:34.058Z
+date: 2024-12-23T00:58:31.803Z
+updated: 2024-12-24T22:19:30.851Z
 tags:
   - web
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/smart-tv-apps.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## YouTube Introduces Innovative Concept for Enhanced Video Advertising
 
 YouTube’s midroll ad breaks can be disruptive, but it’s even more intrusive when these ads pop up in the middle of a live stream. YouTube seems to have recognized as much, and it’s testing alternative solutions to present midroll ads.
@@ -23,12 +17,6 @@ YouTube’s midroll ad breaks can be disruptive, but it’s even more intrusive 
 
 ![The information button for an youtube ad](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2023-11-17_15-30-33.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To address the problem, YouTube announced that it’s testing a Picture-in-Picture (PiP) format for midroll ad breaks during live streams. Google says, “some viewers on select devices will begin to see the new ad format in the coming months, allowing creators to run ads without disrupting the live stream!”
 
  Picture-in-Picture is the most reasonable format to present any ads during a live stream. But YouTube hasn’t shared any technical details for this experiment. Presumably, with a Picture-in-Picture ad, the viewers will only see a small floating pop-up ad while the stream continues in the background. We can also assume it won’t play its own audio on top of the stream, meaning YouTube will mute these ads by default.
@@ -43,8 +31,6 @@ YouTube’s midroll ad breaks can be disruptive, but it’s even more intrusive 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,4 +38,22 @@ YouTube’s midroll ad breaks can be disruptive, but it’s even more intrusive 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-jest-jar-imgur-meme-tool/"><u>[New] Jest Jar Imgur Meme Tool</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ecuring-your-youtube-profile-a-guide-for-2024/"><u>[New] Securing Your YouTube Profile A Guide for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-ultimate-guide-to-youtube-earnings-across-devices/"><u>[Updated] 2024 Approved The Ultimate Guide to YouTube Earnings Across Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-chuckles-on-a-budget-memetic-creators-guide/"><u>[Updated] Unlocking Chuckles on a Budget - Memetic Creator’s Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-hidden-details-roblox-closeup-secrets/"><u>2024 Approved Unlocking Hidden Details Roblox Closeup Secrets</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capture-clarity-complimentary-photo-refining-app-for-2024/"><u>Capture Clarity - Complimentary Photo Refining App for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-crafting-the-perfect-sound-for-stories-and-reels-on-instagram/"><u>In 2024, Crafting the Perfect Sound for Stories & Reels on Instagram</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/pload-process-stream-convert-and-share-on-youtube-quickly-for-2024/"><u>MP3 Upload Process Stream, Convert & Share on YouTube Quickly for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/swift-and-secure-video-shipment-sending-oversized-content-from-ios-for-2024/"><u>Swift & Secure Video Shipment Sending Oversized Content From iOS for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transform-instagram-notifications-diy-sound-design/"><u>Transform Instagram Notifications DIY Sound Design</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-vr-technology-and-its-impact-on-us-for-2024/"><u>Understanding VR Technology and Its Impact on Us for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

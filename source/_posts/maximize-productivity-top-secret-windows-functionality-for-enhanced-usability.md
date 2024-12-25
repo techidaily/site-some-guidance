@@ -1,7 +1,7 @@
 ---
 title: "Maximize Productivity: Top Secret Windows Functionality for Enhanced Usability"
-date: 2024-08-31T06:10:03.080Z
-updated: 2024-09-01T06:10:03.080Z
+date: 2024-12-19T20:49:43.255Z
+updated: 2024-12-24T20:46:23.327Z
 tags:
   - desktop
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
 
  Did you know you can natively adjust the volume of individual apps, minimize blue light emissions, and make Windows automatically lock your screen when you move away? These are some lesser-known Windows features that you might not have explored before. Let’s look at how you can use these features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Adjust the Volume of Individual Apps
 
  Windows allows you to [adjust the volume of individual apps](https://youtube-data.techidaily.com/24517605-new-2024-approved-buy-subscribers-wisely-watch-your-numbers-soar/), a feature that many users rely on third-party apps like EarTrumpet for. You can manage the volume of individual apps by opening the Volume Mixer from the system tray or through the Settings app.
@@ -30,9 +34,17 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
 
 ![Opening volume mixer from Windows system tray.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-opening-volume-mixer-from-windows-system-tray.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, click the sound button in the system tray, then click on the Select a Sound Output button.
 
 ![sound button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sound-button.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the next window, scroll down to find the volume mixer.
 
@@ -45,8 +57,13 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
 ![Adjusting the volume and muting an app in Volume Mixer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-adjusting-the-volume-and-muting-an-app-in-volume-mixer.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Minimize the Blue Light Emission
 
  Have you ever found it harder to sleep after using your laptop at night? This happens because blue light emitted from the screen suppresses the production of melatonin, a hormone that makes you sleepy. Windows offers a solution with its [Night Light feature](https://buynow-tips.techidaily.com/get-ready-to-roll-with-the-revolutionary-dash-from-wonder-workshop-our-complete-analysis/), which reduces blue light emission, making the display easier on your eyes and less disruptive to your circadian rhythm.
@@ -57,11 +74,6 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
 
 ![Changing the night light feature settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-changing-the-night-light-feature-settings-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ##  Automatically Lock Your Screen When You Move Away
 
  If you work in an office environment and often leave your laptop unattended, you’ll love the [Dynamic Lock feature](https://extra-lessons.techidaily.com/a-critical-look-at-huawei-p10-for-photography-enthusiasts-for-2024/). This feature pairs your smartphone with your laptop, and whenever your paired smartphone moves out of range, the laptop notices and locks your screen in less than 30 seconds.
@@ -84,16 +96,14 @@ The powerful video editing program for your Windows PC</a>
 
 ![Setting up a trigger for a task in Task Scheduler.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-setting-up-a-trigger-for-a-task-in-task-scheduler.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After that, navigate to the “Actions” tab, click “New,” define an action such as “Start a Program,” and add any additional arguments for advanced tasks. Then, go to the “Conditions” tab, and define conditions for when the task shouldn’t run. Once the task is properly configured, click “OK.”
 
 ![Defining conditions for a task in Task Scheduler.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-defining-conditions-for-a-task-in-task-scheduler.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Share Content Between Two Windows PCs
 
  While we usually have [various options to share files between a PC and a smartphone](https://on-screen-recording.techidaily.com/new-in-2024-home-sweet-habitat-6-basic-mc-dwellings-demystified/), things get a bit complicated when sharing content between two PCs. If both computers run Windows, and they both have a Bluetooth _and_ Wi-Fi connection, you can use the Nearby Sharing feature for a seamless file transfer. To use this feature, enable the feature on both PCs and ensure they are connected to the internet.
@@ -104,14 +114,8 @@ The powerful video editing program for your Windows PC</a>
 
 ![Enabling Nearby Sharing in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-enabling-nearby-sharing-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  With Nearby Sharing enabled, right-click the file you want to share and select “Share.” In the Nearby Sharing window, choose the target laptop. The recipient will receive a notification to accept the file. Once they accept the file transfer notification, they will receive the file wirelessly.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Capture Screenshots and Record the Screen Using the Game Bar
 
  If you often capture screenshots or record your screen using a third-party app, you may not have explored the Windows Game Bar tool yet. While designed primarily for capturing screenshots and recording gameplay, it also allows you to take screenshots and [record your screen](https://extra-resources.techidaily.com/saga-storytellers-syndicate-quintessential-quartet/) in other applications.
@@ -132,8 +136,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +143,26 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-live-gaming-snapshot-with-fraps-analysis/"><u>[New] Live Gaming Snapshot with Fraps Analysis</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-complete-azure-guide-to-speech-to-text-integration/"><u>[New] The Complete Azure Guide to Speech-to-Text Integration</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-personalizing-whatsapp-ringtone-on-all-devices/"><u>[New] The Ultimate Guide to Personalizing WhatsApp Ringtone on All Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-5-cloud-saviors-mastering-2024s-space-savers/"><u>[New] Top 5 Cloud Saviors Mastering 2024'S Space Savers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-your-pubg-audio-gameplay-fast/"><u>[New] Transform Your PUBG Audio Gameplay Fast</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-fundamental-blueprints-to-enhance-facebook-ad-engagement-for-2024/"><u>[Updated] Fundamental Blueprints to Enhance Facebook Ad Engagement for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pro-tips-for-crafting-and-sharing-content-on-reddit/"><u>[Updated] Pro Tips for Crafting & Sharing Content on Reddit</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-slumber-solutions-through-asmr-advisors-choice/"><u>[Updated] Slumber Solutions Through ASMR Advisors' Choice</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-avi-to-gif-conversion-with-filmora-platform/"><u>[Updated] The Ultimate Guide to AVI-to-GIF Conversion with Filmora Platform</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-novel-window-11-secrets-for-enhanced-usage/"><u>[Updated] Unveiling Novel WINDOW 11 Secrets for Enhanced Usage</u></a></li>
+<li><a href="https://blog-min.techidaily.com/die-top-3-wege-um-dvds-effizient-als-avi-dateien-zu-konvertieren-im-jahr-2023/"><u>Die Top-3 Wege, Um DVDs Effizient Als AVI-Dateien Zu Konvertieren Im Jahr 2023</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-dolby-atmos-movie-titles-for-a-cinematic-adventure-right-in-your-living-room-top-15-picks/"><u>Discover the Best Dolby Atmos Movie Titles for a Cinematic Adventure Right in Your Living Room (Top 15 Picks)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/explore-artistic-possibilities-premier-android-graphics-app-selection/"><u>Explore Artistic Possibilities Premier Android Graphics App Selection</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-optimizing-your-content-aspect-ratios-explained-for-youtube-users/"><u>In 2024, Optimizing Your Content Aspect Ratios Explained for YouTube Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-future-of-3d-color-grading-tools-for-2024/"><u>The Future of 3D Color Grading Tools for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-iphone-ringtones-refinement-for-2024/"><u>The Ultimate Guide to iPhone Ringtones Refinement for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unrivaled-tale-composers-hub-for-2024/"><u>Unrivaled Tale Composers Hub for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/unveiling-microsofts-latest-plan-transforming-meetings-into-an-even-greater-challenge-a-zdnet-expose/"><u>Unveiling Microsoft's Latest Plan: Transforming Meetings Into an Even Greater Challenge - A ZDNet Expose</u></a></li>
+</ul></div>
 

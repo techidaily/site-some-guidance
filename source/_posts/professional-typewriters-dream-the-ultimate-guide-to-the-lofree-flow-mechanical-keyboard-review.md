@@ -1,7 +1,7 @@
 ---
 title: "Professional Typewriter's Dream: The Ultimate Guide to the Lofree Flow Mechanical Keyboard Review"
-date: 2024-08-31T06:06:52.179Z
-updated: 2024-09-01T06:06:52.179Z
+date: 2024-12-19T19:02:35.735Z
+updated: 2024-12-25T01:53:12.244Z
 tags:
   - product-reviews
 categories:
@@ -93,6 +93,10 @@ Expand
 
 ![Top view of 84-key Lofree Flow](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/top-view-of-84-key-lofree-flow.JPG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  On its surface, the Lofree Flow mechanical keyboard isn’t flashy or even a very unique appearance. It does, however, have a classic, sophisticated look that sticks to a minimal design with an all-aluminum body.
@@ -105,6 +109,10 @@ Tyler Hayes / How-To Geek
 
 ![Close up of keycaps on the Lofree Flow](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/close-up-of-keycaps-on-the-lofree-flow.JPG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  Lofree says the PBT keycaps utilize a "five-sided dyb-sublimation," which allows for advanced printing while remaining durable. Durability is still to be determined, so I won’t make any wildly early predictions there after only several weeks of testing.
@@ -114,8 +122,9 @@ Tyler Hayes / How-To Geek
  The good news is that the hardware is great on the whole. All of its pieces work together to form a really brilliant typing experience that might just be enough to overlook some of the other very real flaws.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Typing Rather Than Gaming
 
 ![Side lighting on Lofree Flow](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/side-lighting-on-lofree-flow.JPG) 
@@ -135,31 +144,23 @@ Tyler Hayes / How-To Geek
 ![Back of Lofree Flow showing USB-C port](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/back-of-lofree-flow-showing-usb-c-port.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  This seems to be in service to the Flow’s reported 40 hours of battery life, but I would gladly trade a few of those hours for it never going to sleep while my computer was on and awake.
 
  The unfortunate news is that there’s no way to customize the sleep settings or anything else on the board, for that matter. There’s no first-party software or compatibility with third-party software. That means there’s also no way to turn the “PrtSc” key into something more useful for your workflow. I couldn’t nullify or transform the home key right next to the backspace that I would hit fairly often in the beginning.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Price and Availability
 
  The Lofree Flow keyboard retails for $159 on its own website and $169.99 on Amazon. It’s available in white or black colors, each with different switch types.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ##  Should You Buy the Lofree Flow Keyboard?
 
 ![Side view of Lofree Flow](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/side-view-of-lofree-flow.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  It should be pretty obvious that in testing a keyboard, one of the best opportunities for testing would be to write this review with it. I did. I also used it to write some 10,000 words about other products and services. I loved my actual writing time with the [Lofree Flow](https://www.amazon.com/LOFREE-Mechanical-Rechargeable-Keyboards-Connection/dp/B0CJTV8P4Z?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002087&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Flofree-flow-review%2F&asc%5Fcampaign=Authority) keyboard.
@@ -169,8 +170,9 @@ Tyler Hayes / How-To Geek
 ![Lofree Flow Front](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/lofree-flow-front.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  Lofree Flow
 
 7/ 10 
@@ -185,8 +187,6 @@ The Lofree Flow is a low-profile mechanical keyboard that features RGB side and 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +194,24 @@ The Lofree Flow is a low-profile mechanical keyboard that features RGB side and 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-diverse-technology-scrutiny-easeus-edition/"><u>[New] 2024 Approved Diverse Technology Scrutiny EaseUS Edition</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-seamless-techniques-for-saving-facetime-chats-live/"><u>[Updated] Seamless Techniques for Saving FaceTime Chats Live</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-step-by-step-guide-to-initiating-a-tiktok-stream-from-desktop/"><u>[Updated] Step-by-Step Guide to Initiating a TikTok Stream From Desktop</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-comprehensive-powerdirector-2024-user-guide/"><u>[Updated] The Comprehensive PowerDirector 2024 User Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-boosting-views-on-tiktok-unboxings/"><u>[Updated] The Ultimate Guide to Boosting Views on TikTok Unboxings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tips-for-gradual-decrease-of-audio-loudness-in-fl-studio/"><u>[Updated] Tips for Gradual Decrease of Audio Loudness in FL Studio</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-filmora-editing-traits-for-fan-loyalty/"><u>[Updated] Top 10 Filmora Editing Traits for Fan Loyalty</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleashing-creativity-essential-angles-in-mobile-shooting/"><u>[Updated] Unleashing Creativity Essential Angles in Mobile Shooting</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-power-of-panoramic-videography-with-premieres-tools/"><u>2024 Approved Unlocking the Power of Panoramic Videography with Premiere's Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-6-solutions-for-audiovisual-translation/"><u>Cutting-Edge 6 Solutions for Audio/Visual Translation</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/essential-cybersecurity-practices-for-safeguarding-your-crypto-investments-tips-from-yl-computing/"><u>Essential Cybersecurity Practices for Safeguarding Your Crypto Investments - Tips From YL Computing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210299690-9781646701605-hope-that-helps-a-caregivers-thrival-guide-for-special-needs/"><u>Hope That Helps: A Caregiver's Thrival Guide For Special Needs | Free Book</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-asus-rog-phone-8-pro-phone-by-drfone-android/"><u>How to Reset a Locked Asus ROG Phone 8 Pro Phone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/privacy-paranoia-the-risks-of-sharing-with-chatgpt/"><u>Privacy Paranoia: The Risks of Sharing with ChatGPT</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-the-advanced-features-in-djis-quadcopter-3-for-2024/"><u>Understanding the Advanced Features in DJI's Quadcopter 3 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-the-potential-of-cds-a-wmp-masterclass-for-2024/"><u>Unlocking the Potential of Cds A WMP Masterclass for 2024</u></a></li>
+</ul></div>
 

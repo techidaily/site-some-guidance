@@ -1,7 +1,7 @@
 ---
 title: "Beginner's Guide: Easy Steps to Prepare Your First Windows Laptop"
-date: 2024-08-31T06:09:37.090Z
-updated: 2024-09-01T06:09:37.090Z
+date: 2024-12-23T17:34:19.265Z
+updated: 2024-12-24T23:33:56.097Z
 tags:
   - desktop
 categories:
@@ -31,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/c64aba238bf38e8dde6a455b091ef6dd75fa774a2
  If they are the sole user and won't use the device in a shared environment, you can [bypass the password screen](https://network-issues.techidaily.com/gladiator-glitch-gadget-grind/) entirely, allowing them to go directly to the desktop upon startup, though that does introduce security risks.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2  Remove Unnecessary Programs From the Startup List 
 
  No one appreciates dealing with random apps popping up whenever they turn on their computer. To make a beginner's experience smoother, ensure you [remove unnecessary apps from the startup list](https://tech-recovery.techidaily.com/get-clarity-back-in-photos-how-to-repair-iphone-camera-focusing-problems/). This will eliminate annoyance and speed up the system’s boot time, a perk anyone would greatly appreciate.
@@ -43,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/c64aba238bf38e8dde6a455b091ef6dd75fa774a2
 
  Some applications automatically add themselves to the startup list when installed. So, periodically review their startup list and remove any unnecessary programs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3  Pin Frequently Used Apps to the Taskbar 
 
  Web browsers, email clients, word processors, and media players are some of the frequently used apps that the person you're setting up the Windows device for will likely use often. While they can search for the required app in Windows Search, you can [pin these apps to the taskbar](https://tech-hub.techidaily.com/understanding-the-five-main-causes-of-chatgpt-prohibitions-in-businesses/) for easier access.
@@ -58,14 +56,8 @@ thumbnail: https://thmb.techidaily.com/c64aba238bf38e8dde6a455b091ef6dd75fa774a2
 
 ![Unpinning Microsoft Edge from the taskbar on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-unpinning-microsoft-edge-from-the-taskbar-on-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Be careful not to clutter up the taskbar, as this can make finding relevant apps more complex. If pinning all frequently used apps clutters the taskbar, consider creating desktop shortcuts for some of them. This way, they will still easily access their frequently used apps without overloading the taskbar.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4  Set Up Automatic Data Backups 
 
  It's essential to back up the non-techie person's data to protect against accidental deletion and corruption of important files. While they could use an external drive, this method can be time-consuming and challenging. Therefore, I recommend using a cloud storage service, which will automatically back up their data without requiring any action from them (or you).
@@ -76,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/c64aba238bf38e8dde6a455b091ef6dd75fa774a2
 
 ![A hand increasing the security level using a knob.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-hand-increasing-the-security-level-using-a-knob.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
   
 Lucas Gouveia / How-To Geek | Shutterstock.AI
 
@@ -83,9 +79,6 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
  You can also [create a System Restore point](https://instagram-video-files.techidaily.com/updated-in-2024-multiplying-joy-sharing-a-pile-of-photos-and-videos-with-instagram/) to quickly revert their system if something goes wrong. Advise them against downloading third-party apps and use parental control software to restrict access to specific websites. Also, educate them on the best online practices for staying safe while surfing the web.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 6  Uninstall Bloatware and Install Handy Apps 
 
  When someone gets a new computer, it’s likely to come with a lot of bloatware that uses up system storage and slows down performance. These unnecessary programs often start up with the computer, slow down the boot process, and consume resources in the background. Therefore, it’s essential to remove these apps and [debloat the operating system](https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-xiaomi-14-pro-without-puk-codes-by-drfone-android/).
@@ -98,20 +91,30 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
 ![Changing scale and resolution in the Settings app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-changing-scale-and-resolution-in-the-settings-app-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, navigate to the "Accessibility" tab on the left sidebar. Go to the "Text Size" section and drag the slider to increase the text size. Then, go back and select "Mouse Pointer and Touch" to adjust the pointer size and style. You can also change the size of desktop shortcut icons, pinned taskbar items, and more.
 
 ![Changing the text size in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-changing-the-text-size-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If the person you're setting up the Windows PC for has visual impairments, enable the Magnifier feature to enlarge parts of the screen for easier reading. You can also activate the Narrator to read text aloud. For those with hearing impairments, turn on Captions to provide closed captions for audio. You can turn these features on in the Accessibility settings.
 
 ![Enabling the magnifier, narrator and captions in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-enabling-the-magnifier-narrator-and-captions-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8  Teach Them Basic Windows Actions 
 
  Although this isn’t strictly a setup step, it’s essential to teach a few basic skills to someone new to Windows. You can show them how to use Task Manager to find and close processes consuming too many resources. You can also teach them to [check for and install Windows updates](https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-v30-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/), connect to Wi-Fi or Ethernet, and [adjust brightness](https://win-blog.techidaily.com/wwe-2k22-pc-performance-issues-understanding-and-solving-sudden-game-exits/) and volume.
@@ -128,8 +131,6 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +138,18 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-visual-ventures-exploring-affordable-tiktok-beauty-behind-bars/"><u>[New] In 2024, Visual Ventures Exploring Affordable TikTok Beauty Behind Bars</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-essential-watchlist-15-must-see-stop-motion-classics/"><u>[Updated] 2024 Approved Essential Watchlist 15 Must-See Stop-Motion Classics</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-insight-2024-video-showcase-guidebook/"><u>[Updated] Ultimate Insight 2024 Video Showcase Guidebook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-secrets-to-great-gopro-time-lapses/"><u>[Updated] Unveiling Secrets to Great GoPro Time-Lapses</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-picks-streaming-tunes-directly-from-youtuberingtones/"><u>2024 Approved Top Picks Streaming Tunes Directly From YoutubeRingtones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convert-your-wmv-files-to-avi-for-free-with-our-step-by-step-guide-on-moveavis-website/"><u>Convert Your WMV Files to AVI for Free with Our Step-by-Step Guide on MoveAVi's Website</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/creative-tims-soft-ui-pro-dashboard-advanced-bootstrap-5-framework/"><u>Creative Tim's Soft UI Pro Dashboard: Advanced Bootstrap 5 Framework</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-restore-faded-colors-and-remove-ghost-images-from-your-displays-surface/"><u>How To Restore Faded Colors & Remove Ghost Images From Your Display's Surface</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-synthesize-and-add-videos-to-your-listing/"><u>In 2024, Synthesize and Add Videos to Your Listing</u></a></li>
+<li><a href="https://win11.techidaily.com/redesigning-windows-removed-characteristics/"><u>Redesigning Windows: Removed Characteristics</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-content-distribution-via-hashtags-on-a-popular-social-media-site-like-facebook/"><u>Understanding Content Distribution via Hashtags on a Popular Social Media Site Like Facebook</u></a></li>
+</ul></div>
 

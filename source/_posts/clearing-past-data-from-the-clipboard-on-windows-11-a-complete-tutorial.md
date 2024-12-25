@@ -1,7 +1,7 @@
 ---
 title: Clearing Past Data From the Clipboard on Windows 11 - A Complete Tutorial
-date: 2024-08-31T06:13:16.751Z
-updated: 2024-09-01T06:13:16.751Z
+date: 2024-12-18T00:52:23.685Z
+updated: 2024-12-25T01:54:47.625Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Clearing Past Data From the Clipboard on Windows 11 - A Complete Tutorial
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,15 +30,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If you have Clipboard history enabled in Windows 10, the feature keeps a record of items you have recently copied to the Clipboard while using copy and paste. Here's how to clear your Clipboard history—or disable it if you prefer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ##  What Gets Stored in Clipboard History?
 
  Clipboard history, first introduced in Windows 10's [October 2018 Update](https://facebook-record-videos.techidaily.com/new-in-2024-essential-youtube-video-editing-techniques/), stores a list of the 25 most recent items that you've copied to the Clipboard. These items can include text, HTML, and images smaller than 4 MB in size. Unless an item is pinned to the Clipboard, the Clipboard history list gets erased every time you restart your device.
@@ -51,6 +46,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Click the ellipses in Clipboard history on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/click_ellipses.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A small menu will pop up. Click "Delete" and the item will be removed from the list.
 
 ![Click Delete in Clipboard history on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/click_delete.png) 
@@ -60,11 +59,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Click clear all in Clipboard history on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/click_clear_all.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Any remaining items on the list after you click "Clear All" are pinned in place. If you'd like to remove a pinned item, click the ellipses beside it and select "Unpin." Then you can either delete it or try "Clear All" from the ellipses menu again.
 
  Note that with Clipboard history enabled, new items will continue to appear in the Clipboard history list every time you copy something to the Clipboard. If you would like to prevent Windows from storing your Clipboard history, you will need to disable the feature in Windows Settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Another Way to Clear All Clipboard Data
 
@@ -72,28 +76,8 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Tap 'Clear' to clear your clipboard history.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/clear-clipboard-data.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
  This is equivalent to pushing the "Clear All" button in the Clipboard history window, but it also works with Clipboard history turned off.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Disable Clipboard History in Windows 10
 
  First, click the "Start" button, and then click the "gear" icon on the left side of the Start menu to open the “Windows Settings” menu. You can also press Windows+i to get there.
@@ -107,15 +91,13 @@ Key features:
 ![Select 'Clipboard' to the left, then disable 'Clipboard History.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/clipboard.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once disabled, if you press Windows+V, you will see a small window alerting you that Windows 10 cannot show your Clipboard history because the feature is turned off.
 
 ![Can't show Clipboard history message in Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/cant_show_history.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now you're free to copy and paste in privacy once again.
 
 <ins class="adsbygoogle"
@@ -124,8 +106,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +113,24 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-sj4000-stylish-essentials-a-comprehensive-list/"><u>[New] SJ4000 Stylish Essentials A Comprehensive List</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-youtube-subtitles-srt-3-steps-guide/"><u>[New] Unlocking YouTube Subtitles (SRT) - 3 Steps Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-leading-edge-selecting-9-superior-online-microphone-recorders/"><u>[Updated] 2024 Approved Leading Edge Selecting 9 Superior Online Microphone Recorders</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-obs-armada-cameras-at-full-power-again-for-2024/"><u>[Updated] OBS Armada Cameras at Full Power Again for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-techniques-for-reversing-chronological-order/"><u>[Updated] Techniques for Reversing Chronological Order</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-images-with-ease-learn-snapseed-today/"><u>2024 Approved Transforming Images with Ease Learn Snapseed Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bev-vs-phev-vs-fcev-vs-hybrid-vehicles-explained-what-sets-them-apart/"><u>BEV vs PHEV vs FCEV vs Hybrid Vehicles Explained - What Sets Them Apart?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/evaluating-the-joby-wavo-plus-is-it-the-perfect-attachment-for-camera-and-phone-recording/"><u>Evaluating the Joby Wavo Plus: Is It the Perfect Attachment for Camera & Phone Recording?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-oppo-frp-by-drfone-android/"><u>Full Guide to Bypass Oppo FRP</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-cutting-edge-analysis-editpro-x-video-editor-2023/"><u>In 2024, Cutting-Edge Analysis EditPro X - Video Editor 2023</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-turbocharge-your-photos-windows-11-edition/"><u>In 2024, Turbocharge Your Photos Windows 11 Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-quad-of-qualities-to-upgrade-in-the-xbox-reward-system/"><u>The Quad of Qualities to Upgrade in the Xbox Reward System</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-ultimate-guide-to-acquiring-business-customers-via-facebook/"><u>The Ultimate Guide to Acquiring Business Customers via Facebook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-8-social-and-adventure-games-for-oculus-users-for-2024/"><u>Top 8 Social & Adventure Games for Oculus Users for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/troubleshooting-steps-for-resolving-cities-skylines-2-failed-startup-issues/"><u>Troubleshooting Steps for Resolving 'Cities: Skylines 2' Failed Startup Issues</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unilateral-earbud-error-how-to-rectify-for-2024/"><u>Unilateral Earbud Error How to Rectify for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-metaverse-potential-top-7-innovations-to-master-for-2024/"><u>Unlocking Metaverse Potential - Top 7 Innovations to Master for 2024</u></a></li>
+</ul></div>
 

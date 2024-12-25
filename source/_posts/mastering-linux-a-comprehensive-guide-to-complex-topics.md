@@ -1,7 +1,7 @@
 ---
 title: "Mastering Linux: A Comprehensive Guide to Complex Topics"
-date: 2024-08-31T06:11:08.420Z
-updated: 2024-09-01T06:11:08.420Z
+date: 2024-12-23T23:27:43.897Z
+updated: 2024-12-24T23:55:14.187Z
 tags:
   - desktop
 categories:
@@ -23,9 +23,17 @@ Modern-day Linux is super user-friendly, but to unlock its full potential, you n
 
 ![Checking Ubuntu is running Bash shell](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/checking-ubuntu-is-running-bash-shell.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close 
 
  Now, [a **shell script**](https://win-dash.techidaily.com/step-by-step-guide-to-downloading-and-setting-up-sony-vaio-drivers-for-windows-computers/) is a file containing a series of commands. These commands are executed in sequence when you run the script from the terminal. This can be a powerful automation tool on Linux, allowing you to bundle complex tasks into a single command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2  X11, Wayland, and XWayland 
 
@@ -39,18 +47,12 @@ Close
 
 echo $XDG_SESSION_TYPE
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 3  Window Managers and Compositors 
 
  Have you ever moved an app window on Linux, only to find the borders of the window move while the inside remains empty and takes a few seconds to render? This happens when the window borders behave as expected, but the visuals inside the window take too long to render.
 
 ![Linux Window without Content](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linux-window-without-content.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You see, the window borders and the visuals inside the window can be controlled by two separate systems, especially in X11 systems. To control the placement and appearance of windows on your screen, you have [**window managers**](http://wiki.archlinux.org/title/window%5Fmanager). They allow you to move, resize, minimize, and maximize windows, as well as display window borders and title bars.
 
  On the other hand, we have **[compositors](http://dev.to/l04db4l4nc3r/compositors-in-linux-1hhb)**. They're responsible for rendering the content inside each window. A compistor combines the final rendered image from the application with graphical effects like transparency, shadows, and animations to create a single image that is displayed inside the windows.
@@ -63,9 +65,6 @@ echo $XDG_SESSION_TYPE
 * [**Mutter**](https://gitlab.gnome.org/GNOME/mutter) (initially designed for X11): The default window manager for GNOME.
 * [**KWin**](https://en.wikipedia.org/wiki/KWin) (initially designed for X11): The default window manager for KDE Plasma.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## 4  Custom Linux Kernels 
 
  We often refer to Linux as an operating system, but it's actually the [name of the kernel](https://blue-screen-error.techidaily.com/fixing-acpisys-issues-tips-and-tricks-for-windows-11-users/) powering the operating system. A kernel is basically the core of the operating system that bridges the hardware and the software. The official Linux kernel is maintained by Linux Torvalds and the Linux community. However, in true Linux spirit, people have modified the official kernel to include performance optimizations, improved hardware support, or additional features.
@@ -73,6 +72,10 @@ echo $XDG_SESSION_TYPE
  You can potentially replace the official Linux kernel on your system with one of these custom kernels to get better performance. Most distros require you to manually compile the custom kernel and install it on your distro. However, some advanced distros like [Manjaro](https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-oneplus-ace-3-phone-by-drfone-android/) and [Garuda](https://extra-lessons.techidaily.com/the-ultimate-list-of-superior-real-time-streaming-networks/) give you a [GUI app for replacing the default kernel](https://wiki.manjaro.org/index.php/Manjaro%5FKernels#:~:text=Selecting%20Kernels,-All%20available%20kernels&text=Choose%20%22Advanced%20Options%20for%20Manjaro,a%20kernel%20version%20is%20deleted%29.) with a custom one.
 
 ![Showcasing different Custom Linux kernls available to download on Garuda Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/showcasing-different-custom-linux-kernls-available-to-download-on-garuda-linux.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Here are a few of the most popular custom Linux kernels:
 
@@ -86,8 +89,9 @@ echo $XDG_SESSION_TYPE
  Custom kernels may not receive updates as frequently as the mainline kernel, which could impact security and compatibility over time.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5  Systemd and SysV Init 
 
  When you boot up your Linux system, the very first process to start is the init system—which has the Process ID (PID) of #1\. Most modern Linux distros primarily use one of two init systems: SystemD or SysV Init. You can check which init system your distro is using by running this command in your terminal:
@@ -101,6 +105,10 @@ ps -p 1
  As a result, a [few Linux distros avoid SystemD](https://blog.packagecloud.io/linux-distributions-and-the-timelines-of-their-systems/) and use an older init system—**SysV Init**. Other popular init systems include runit, OpenRC, and Upstart. Each has its own unique approach to managing services and system initialization.
 
  Knowing which init system you are using is crucial if you want to start (or stop) a particular service during system boot-up. For example, I ran into an issue where [UFW (Uncomplicated Firewall)](https://extra-support.techidaily.com/new-mastering-video-playback-rate-adjustments-in-snapchat/) would automatically get deactivated after rebooting. To solve this, I needed to use the init system to auto-start UFW during system boot. Since I was using SystemD I used the [**systemctl** command](https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-vivo-v29e-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/). But if I was using SysV, I would've needed the **service** command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6  Filesystem Types 
 
@@ -117,14 +125,8 @@ ps -p 1
 
 ![Checking Different filesystem types used on Garuda Linux](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/checking-different-filesystem-types-used-on-garuda-linux.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If you want to [change filesystems](http://fedoramagazine.org/transform-file-systems-in-linux/) on an existing Linux system, you'll need to back up your data and then format the partition(s) to your desired filesystem type.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7  SELinux and AppArmor 
 
  Linux is famous for its security, but it [isn't invulnerable](https://hardware-reviews.techidaily.com/in-depth-evaluation-of-lexars-high-speed-storage-exploring-the-sl500-and-sl600-with-over-20gbps-speeds/). If you have important files and data on your Linux PC, you should take an active role in ensuring it's configured to be as safe and secure as possible. To do this, you need to learn about [SELinux](http://www.redhat.com/en/topics/linux/what-is-selinux) and [AppArmor](http://apparmor.net/). Both of these are Linux Kernel security modules that add an extra layer of security by restricting what applications can do, reducing the risk of exploitation of security vulnerabilities.
@@ -145,8 +147,6 @@ ps -p 1
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +154,22 @@ ps -p 1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-tech-savvy-summit-unveiling-our-top-5-video-capture-tools/"><u>[New] 2024 Approved Tech-Savvy Summit Unveiling Our Top 5 Video Capture Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-masterful-manipulation-speedy-stylization-techniques-for-win10-apps/"><u>[New] Masterful Manipulation Speedy Stylization Techniques for WIN10 Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-multitasking-with-picture-in-picture-mode-on-microsoft-edge-browser/"><u>[New] Mastering Multitasking with Picture-in-Picture Mode on Microsoft Edge Browser</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-9-live-stream-enhancers-ultimate-filter-guide/"><u>[New] Top 9 Live-Stream Enhancers Ultimate Filter Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-20-youtube-bards-for-unforgettable-tales/"><u>[Updated] Top 20 YouTube Bards for Unforgettable Tales</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-stylish-methodology-combining-gopro-imagery-into-360-video-tapestry/"><u>2024 Approved Stylish Methodology Combining GoPro Imagery Into 360 Video Tapestry</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-samsung-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Samsung .</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/convertir-archivos-mp3-a-formatos-mp4-sin-coste-adicional-con-soluciones-de-conversion-en-linea/"><u>Convertir Archivos MP3 a Formatos Mp4 Sin Coste Adicional Con Soluciones De Conversión en Línea</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-ultimate-gaming-setup-with-msis-titan-18-pro-ryzen-edition-featuring-the-cutting-edge-combo-of-amd-ryzen-9-and-nvidia-rtx-graphics/"><u>Discover the Ultimate Gaming Setup with MSI’s Titan 18 Pro Ryzen Edition: Featuring the Cutting-Edge Combo of AMD Ryzen 9 and Nvidia RTX Graphics</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-power-of-popularity-in-stock-images-and-stories/"><u>In 2024, The Power of Popularity in Stock Images & Stories</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-checklist-for-successful-reddit-threads/"><u>In 2024, The Ultimate Checklist for Successful Reddit Threads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transform-your-edits-with-smart-use-of-luts-in-premiere-pro/"><u>In 2024, Transform Your Edits with Smart Use of LUTs in Premiere Pro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-apple-iphone-xs-max-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your Apple iPhone XS Max on MetroPCS</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unlock-the-potential-of-portable-power-with-a-comprehensive-zmi-powerpack-20k-review/"><u>Unlock the Potential of Portable Power with a Comprehensive ZMI PowerPack 20K Review</u></a></li>
+</ul></div>
 

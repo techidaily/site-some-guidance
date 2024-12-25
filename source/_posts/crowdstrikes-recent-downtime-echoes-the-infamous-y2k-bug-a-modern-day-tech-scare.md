@@ -1,7 +1,7 @@
 ---
 title: "CrowdStrike's Recent Downtime Echoes the Infamous Y2K Bug: A Modern-Day Tech Scare"
-date: 2024-09-05T14:21:33.479Z
-updated: 2024-09-06T14:21:33.479Z
+date: 2024-12-23T00:04:31.132Z
+updated: 2024-12-24T21:39:31.368Z
 tags:
   - web
 categories:
@@ -9,20 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d176e6b4d47161337afbbb6cd1.jpeg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## CrowdStrike's Recent Downtime Echoes the Infamous Y2K Bug: A Modern-Day Tech Scare
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [The Y2K Scare: A Brief History](https://techtrends.techidaily.com/expert-tips-for-repairing-a-computer-that-boots-with-no-visual-output/)
@@ -34,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
  Around the turn of the millennium, the big story was the Y2K bug. This problem was supposed to be the source of massive computer outages worldwide. How ironic was it that I'd see shades of Y2K all over again on a random Friday morning? Let me explain.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Y2K Scare: A Brief History
 
  When early computer systems were programmed, they used two digits to represent the year in their date format. Storage efficiency was a concern, and halving the amount of space needed for the year was a major win for programmers.
@@ -44,15 +40,13 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
  Fixing it meant changing the existing systems to make them "Y2K Compliant," which was just a fancy way to say that they shifted the dates to use four digits instead of two. When the year did roll over, fallout from the Y2K bug was minimal, and most systems remained working without even being upgraded.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Outage Strikes And Everything Goes Down
 
 ![A Laptop with the blue screen error.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-laptop-with-the-blue-screen-error.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
   
 Lucas Gouveia / Cianna Garrison / How-To Geek
@@ -64,39 +58,23 @@ Lucas Gouveia / Cianna Garrison / How-To Geek
  Now, with our global world so intimately connected, an outage like CrowdStrike doesn't just take out ATMs, government databases, and business machines. It breaks servers that keep web pages online and potentially even access points people use to get mobile internet.
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Caused the Internet to Fall Apart?
 
  CrowdStrike is a company that provides cloud-based security for several thousand companies. Its clients include Fortune 500 companies, banks, and others around the world. CrowdStrike's updates are pushed out to clients after testing, but in this particular case, an update containing "[problematic content data](https://edition.cnn.com/2024/07/24/tech/crowdstrike-outage-cost-cause/index.html)" was pushed out to users, causing their systems to crash.
 
  It first started with 911 centers and transportation hubs reporting issues with their systems late Thursday. By early Friday morning, the systems for airports, banks, and even parts of the White House were facing outages. Federal agencies got involved, suspecting a cyberattack, but it turned out to be a bit of bad code, leading to a widespread outage and potentially costing clients [multiple billions](https://edition.cnn.com/2024/07/21/business/crowdstrike-outage-cost/index.html) of dollars in lost business.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What Y2K Taught Us And CrowdStrike Reminded Us
 
 ![Young woman with her hands up in frustration with a Macbook laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/frustrated-young-businesswoman-mac-laptop.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 _[wavebreakmedia/Shutterstock.com](https://www.shutterstock.com/image-photo/young-hipster-businesswoman-misunderstanding-her-laptop-387182944)_
 
  We're a highly technological society. The internet gives us the power to find anything we're looking for with just a few keystrokes. It also connects us to friends who may be in completely different time zones. It's how we read, get the news, interact, and work, and as convenient as it is, [being this dependent on technology has its drawbacks](https://article-files.techidaily.com/2024-approved-live-radio-at-your-fingertips-an-easy-recording-guide/).
@@ -123,8 +101,6 @@ _[wavebreakmedia/Shutterstock.com](https://www.shutterstock.com/image-photo/youn
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +108,18 @@ _[wavebreakmedia/Shutterstock.com](https://www.shutterstock.com/image-photo/youn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-power-of-luminance-in-hdr-landscapes/"><u>[New] Unveiling the Power of Luminance in HDR Landscapes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-adeptly-archive-your-fb-friends-lives-in-seconds/"><u>[Updated] 2024 Approved Adeptly Archive Your Fb Friends' Lives in Seconds</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-how-to-utilizing-whatsapps-audio-messaging/"><u>[Updated] The How-To Utilizing WhatsApp's Audio Messaging</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-nubia-z50s-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Nubia Z50S Pro Phone? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/encodeur-mkv-ideal-pour-une-haute-qualite-de-video/"><u>Encodeur MKV Idéal Pour Une Haute Qualité De Vidéo</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/highest-quality-images-in-4k-with-these-cameras/"><u>Highest Quality Images in 4K with These Cameras</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-vivo-v29e-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Vivo V29e</u></a></li>
+<li><a href="https://driver-install.techidaily.com/maximize-c270-hd-functionality-via-new-driver-for-w11/"><u>Maximize C270 HD Functionality via New Driver for W11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/syma-x5c-demystified-the-ideal-drone-for-budding-pilots-for-2024/"><u>Syma X5C Demystified The Ideal Drone for Budding Pilots for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-s18-pro-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Vivo S18 Pro Device</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-subtle-sound-dimming-in-productions-for-2024/"><u>The Art of Subtle Sound Dimming in Productions for 2024</u></a></li>
+</ul></div>
 

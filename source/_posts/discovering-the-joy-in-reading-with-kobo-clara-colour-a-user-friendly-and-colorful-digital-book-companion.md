@@ -1,7 +1,7 @@
 ---
 title: Discovering the Joy in Reading with Kobo Clara Colour – A User-Friendly and Colorful Digital Book Companion
-date: 2024-08-31T06:07:15.169Z
-updated: 2024-09-01T06:07:15.169Z
+date: 2024-12-20T16:53:27.717Z
+updated: 2024-12-24T22:06:15.765Z
 tags:
   - product-reviews
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ---
 
 ## Discovering the Joy in Reading with Kobo Clara Colour – A User-Friendly and Colorful Digital Book Companion
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -20,6 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  The [Kobo Clara Colour](https://us.kobobooks.com/products/kobo-clara-colour) is Rakuten's departure from its grayscale eReaders, and the 6-inch color E Ink display is certainly its highlight. But I was most drawn to its compact, comfortable-to-hold body and long-lasting battery life. Its simplicity makes it perfect for anyone looking for an intro-level eReader with a colorful screen and a simple UI.
 
 ![The Kobo Clara Colour eReader on the home page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/1-spa-colour-en-device_front_1080x1080_07801ff1-4021-4bab-a615-36f27924cdaa_722x722.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
@@ -105,8 +113,13 @@ Expand
 ![The Kobo Clara Colour inside a case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-kobo-clara-colour-inside-a-case_53656171453_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Jerome Thomas / How-To Geek
 
  Having previously reviewed [Rakuten's Kobo Elipsa 2E](https://driver-download.techidaily.com/troubleshooting-guide-seamless-download-and-update-process-for-windows-rndis-drivers/), the Kobo Clara Colour's interface felt familiar, but its body size differed. The Elipsa 2E's 10.3-inch screen would feel massive next to this compact device. Picking up the thin 6-inch device felt like a mass-market paperback rather than a trade paperback (Google the difference for a visual). I was pleased to feel how easy it was to hold, as my main complaint with larger eReaders is how uncomfortable they can be when held for long periods.
@@ -132,15 +145,13 @@ Jerome Thomas / How-To Geek
  If you don't already own a Kobo eReader and find a color display enticing, this may be its main selling point. As a reader, I found the color a fantastic (albeit secondary) feature that made reading specific types of books and articles more enjoyable.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Reading with the Kobo Clara Colour
 
 ![The Kobo Clara Colour mark up feature.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-kobo-clara-colour-mark-up-feature-2_53655071967_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  On other Kobo devices, I experienced significant lag when tapping to turn the page and some occasional text ghosting. The Kobo Clara Colour was speedy when I tapped to go to the next page, and only on rare occasions did I notice any text or image ghosting. The simple, streamlined reading experience compared to other eReaders was welcome. The Kobo interface was less cluttered on the Clara Colour (fewer bottom tabs and useless Beta features), which made navigation more accessible and more beginner-friendly. (Or for people like me who want to tap and read rather than get lost in a mire of excessive extra features.)
@@ -149,16 +160,10 @@ Jerome Thomas / How-To Geek
 
  From reading Jane Austen's unfinished novel "Sanditon" in an Urgent Care (don't ask) to exploring Great Depression era "Cannery Row" by John Steinbeck in various locations, reading on the Kobo Clara Colour was relaxing, engaging, and downright fun. Helpful features like adjusting the brightness with a quick up or down swipe along the left margin of the screen made it practical, and the ability to customize the color temperature of the display was also helpful for nighttime reading when I wanted warm, amber backlighting.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  The Rakuten Kobo Bookstore
 
 ![The Kobo Clara Colour bookstore.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-kobo-clara-colour-bookstore_53656171458_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Of all the features I enjoyed least, it was, sadly, perusing the Rakuten Kobo bookstore on the device. Why? Because it's basic (yet cluttered), and searching through recommended lists and other categories felt like falling into an online shopping black hole. Specifically, browsing Kobo Plus options was a black hole of what looked to be self-published romances. (If that's your thing, awesome. For me, it was a pain in the butt to sift through.) I found most luck sifting through a list of classics or changing the filter options to "Most Popular," where I did find some gems like books by Joyce Carol Oates and older bestsellers.
@@ -171,9 +176,6 @@ Jerome Thomas / How-To Geek
 
 ![The Kobo Clara Colour inside a case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-kobo-clara-colour-inside-a-case-2_53655071982_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  When I first received the Kobo Clara Colour, I charged it fully, which took about two hours. After that, I didn't need to charge the eReader again. It lasted a full two weeks and hit about 20% on the 14th day. This was with light to moderate reading throughout the period, with some days reading less than 30 minutes and others reading an hour or two at a time. I typically kept the brightness at around 70 to 80% in the daytime and hovered around 40% or less at bedtime. This aligns with Rakuten's estimate that you could get up to 42 days of reading on a single charge (at 30% brightness consistently), though I don't know how many people would keep the screen brightness so low. So, a better estimate for the average reader would be around two to three weeks of battery life (less if you're an extremely heavy reader).
@@ -189,8 +191,9 @@ Jerome Thomas / How-To Geek
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  Rakuten Kobo Clara Colour eReader
 
 8/ 10 
@@ -205,8 +208,6 @@ The Kobo Clara Colour features a 6-inch E ink Kaleido 3 screen, 16 GB of storage
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -214,4 +215,26 @@ The Kobo Clara Colour features a 6-inch E ink Kaleido 3 screen, 16 GB of storage
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-crafting-a-new-you-on-tiktok-bio-and-picture-transformation-guide/"><u>[New] In 2024, Crafting a New You on TikTok Bio & Picture Transformation Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ins-and-outs-of-firefox-picture-in-picture/"><u>[New] The Ins and Outs of Firefox Picture-in-Picture</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-ultimate-review-of-asuss-4k-hdr-powerhouse/"><u>[Updated] In 2024, The Ultimate Review of ASUS's 4K HDR Powerhouse</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-soundtrack-addition-to-social-media-videos-on-facebook/"><u>[Updated] Mastering Soundtrack Addition to Social Media Videos on Facebook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-strategies-pinterest-to-mp3-migration-guide/"><u>[Updated] Ultimate Strategies Pinterest to MP3 Migration Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-learn-to-leverage-telegram-a-comprehensive-online-tutorial/"><u>2024 Approved Learn to Leverage Telegram A Comprehensive Online Tutorial</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-subtle-shift-top-8-choices-for-transforming-sub-into-easy-to-use-srt/"><u>2024 Approved Subtle Shift Top 8 Choices for Transforming SUB Into Easy-to-Use SRT</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-audible-alteration-a-journey-through-cost-free-audio-effects-software/"><u>2024 Approved The Art of Audible Alteration A Journey Through Cost-Free Audio Effects Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-full-guide-to-perfecting-photos-with-facetune/"><u>2024 Approved The Full Guide to Perfecting Photos with Facetune</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-adobe-premiere-soundtrack-guide/"><u>2024 Approved The Ultimate Adobe Premiere Soundtrack Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crossing-the-line-at-winter-olympics-2022/"><u>Crossing the Line at Winter Olympics, 2022</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970381355-download-canon-mf8200c-printer-drivers-fully-updated-for-windows-users/"><u>Download Canon MF8200C Printer Drivers - Fully Updated for Windows Users!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-networking-growth-sharing-facebook-content-via-whatsapp/"><u>In 2024, Networking Growth Sharing Facebook Content via WhatsApp</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphones-qr-code-reading-problems-with-these-10-tips-and-tricks/"><u>Solve Your iPhone's QR Code Reading Problems with These 10 Tips & Tricks</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-buzz-creation-blueprint-for-marketing-success-for-2024/"><u>The Buzz-Creation Blueprint for Marketing Success for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unique-gifting-made-simple-discover-top-10-custom-box-sellers-for-2024/"><u>Unique Gifting Made Simple Discover Top 10 Custom Box Sellers for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-the-power-of-montage-in-digital-media-for-2024/"><u>Unlock the Power of Montage in Digital Media for 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/wie-man-schnell-und-effizient-musik-von-der-festplatte-auf-das-iphone-ubertragt/"><u>Wie Man Schnell Und Effizient Musik Von Der Festplatte Auf Das iPhone Überträgt</u></a></li>
+</ul></div>
 

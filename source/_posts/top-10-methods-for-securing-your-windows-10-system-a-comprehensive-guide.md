@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Methods for Securing Your Windows 10 System: A Comprehensive Guide"
-date: 2024-08-31T06:12:57.152Z
-updated: 2024-09-01T06:12:57.152Z
+date: 2024-12-17T23:31:27.210Z
+updated: 2024-12-24T21:06:13.118Z
 tags:
   - deals
 categories:
@@ -32,31 +32,30 @@ thumbnail: https://thmb.techidaily.com/a2a04cdf466fbea2e01b9f9b4e0e053a2190bbd1c
 
 ![Click the Start button, click your username, then click 'Lock.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/click-your-username-then-click-lock.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use the Windows Key
 
  Almost every Windows PC has a Windows key on the keyboard. As you've probably guessed, it's the one with the Windows icon. You can press Windows+L to lock your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Ctrl+Alt+Delete
 
  The Ctrl+Alt+Delete keyboard shortcut is commonly used to kill unresponsive software, but you can also use it to lock your computer. Press Ctrl+Alt+Delete, and then click "Lock" in the menu that appears.
 
 ![Lock from ctrl alt delete shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/Lock-from-ctrl-alt-delete-shortcut.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Lock Your Computer in Task Manager
 
  You can also lock your PC in [Task Manager](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/). Pressing Ctrl+Alt+Delete, and then [click "Task Manager."](https://youtube-blog.techidaily.com/24-top-15-gaming-capture-utilities/) You can also type "Task Manager" in the Windows Search box, and then select it in the search results. 
 
 ![Search 'Task Manager,' then click the result or click 'Open.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/open-task-manager.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
  Go to the "Users" tab, select your user account, then click 'Disconnect.'
 
 ![Tap 'Users,' select your user, then click 'Disconnect.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/go-to-users-tab-select-user-click-disconnect.png) 
@@ -65,15 +64,16 @@ thumbnail: https://thmb.techidaily.com/a2a04cdf466fbea2e01b9f9b4e0e053a2190bbd1c
 
 ![Click 'Disconnect User' to lock your PC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/disconnect-user.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Lock It From the Command Prompt
 
  You can also type "CMD" in the Windows Search box to [open the Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/). Click "Command Prompt" in the search results.
 
 ![Search 'Command Prompt,' then click the top result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/open-command-prompt.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
  Type the following command:
 
 Rundll32.exe user32.dll,LockWorkStation
@@ -83,8 +83,9 @@ Rundll32.exe user32.dll,LockWorkStation
  Once this executes, your PC will be locked.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Use the Run Prompt
 
  This method is exactly the same as the Command Prompt method above, except you use Run. Just type "run" in the Windows Search box, and then click "Run" in the search results. You may also press Windows+R to open a Run window. 
@@ -92,8 +93,9 @@ Rundll32.exe user32.dll,LockWorkStation
 ![Searching for 'Run' in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/open-the-run-window.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the "Run" window, type the following command, and then click "OK":
 
 Rundll32.exe user32.dll,LockWorkStation
@@ -109,8 +111,9 @@ Rundll32.exe user32.dll,LockWorkStation
 **![Create a new desktop shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/Create-a-new-desktop-shortcut.png)** 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 In the "Create Shortcut" window that appears, type the following command in the "Type the Location of the Item" text box, and then click "Next":
 
 Rundll32.exe user32.dll,LockWorkStation
@@ -123,22 +126,19 @@ Give your icon a name, and then click "Finish."
 
 Your icon will appear on your desktop—double-click it any time to lock your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Set It Up in the Screen Saver Settings
 
  You can set your PC to lock after the [screen saver](https://some-approaches.techidaily.com/updated-ultimate-guide-to-iphones-video-length-tailoring/) has been on for a certain amount of time. To do so, type "Screen Saver" in the Windows Search box. Click "Change Screen Saver" in the search results.
 
 ![Search 'Screen Saver,' then click 'Change Screen Saver.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/open-screen-saver.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  In the "Screen Saver Settings" menu, select the checkbox next to the "On Resume, Display Logon Screen" option. Use the Arrow buttons in the "Wait:" box to select how many minutes should pass before your PC locks, and then click "Apply."
 
 ![Enable 'On Resume, Display Logon Screen,' set the time you want, then click 'Apply.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/on-resume.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We don't recommend this method for security reasons. It's always best to lock your PC before you step away from it.
 
@@ -153,13 +153,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 **![Dynamic Lock Feature](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/Dynamic-Lock-Feature.png)** 
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Your PC will now lock if you move too far away.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Use the Remote Lock Feature
 
  The Remote Lock feature should only be used in a worst-case scenario. We always recommend locking your PC before you step away from it. However, we all forget things sometimes. If you've left your PC accessible, Microsoft has provided a way for [you to lock it remotely](https://article-posts.techidaily.com/in-2024-master-the-art-of-livestream-recession-with-these-24-dynamic-tips/).
@@ -171,8 +169,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 **![Show details for PC to lock remotely](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/Show-details-for-PC-to-lock-remotely.png)** 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Next, click the "Find My Device" tab, and then click "Lock."
 
 ![Lock PC remotely](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/Lock-PC-remotely-1.png) 
@@ -189,8 +188,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,4 +195,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-the-iphone-photography-handbook-tips-and-tricks/"><u>[New] The iPhone Photography Handbook Tips & Tricks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-quick-and-painless-podcast-go-live-technique/"><u>[New] The Quick and Painless Podcast Go Live Technique</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-understanding-the-basics-of-ffxp-mode/"><u>[New] Understanding the Basics of FFXP Mode</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-effortless-youtube-playback-downloading-content-to-idevices/"><u>[Updated] Effortless Youtube Playback Downloading Content to iDevices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-apples-vision-why-they-believe-augmented-reality-glasses-are-revolutionary-a-closer-look/"><u>Exploring Apple's Vision: Why They Believe Augmented Reality Glasses Are Revolutionary - A Closer Look</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-reno-10-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo Reno 10 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-asgardian-crusade-final-quest/"><u>In 2024, The Asgardian Crusade Final Quest</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essentials-of-narrowing-virtual-room-spaces/"><u>In 2024, The Essentials of Narrowing Virtual Room Spaces</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-motorola-moto-e13-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Motorola Moto E13 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/recovering-the-solitary-sound-device/"><u>Recovering the Solitary Sound Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-exclusive-savings-on-pre-halted-apple-watch-series-9-and-ultra-2-ideal-deals-for-smart-buyers-cnet/"><u>Score Exclusive Savings on Pre-Halted Apple Watch Series 9 and Ultra 2: Ideal Deals for Smart Buyers | CNET</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-sound-capture-on-windows-10-for-2024/"><u>Unlocking Sound Capture on Windows 10 for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11s-evolution-unveiling-the-latest-system-updates/"><u>Windows 11'S Evolution: Unveiling the Latest System Updates</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Timedatectl Utility: A Step-by-Step Guide for Linux Enthusiasts"
-date: 2024-08-31T06:11:11.590Z
-updated: 2024-09-01T06:11:11.590Z
+date: 2024-12-22T01:03:49.341Z
+updated: 2024-12-24T18:56:26.032Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 ---
 
 ## Mastering the Timedatectl Utility: A Step-by-Step Guide for Linux Enthusiasts
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 * [Set It and Forget It](https://on-screen-recording.techidaily.com/updated-2024-approved-mp4-screen-grabber-free-easy-access/)
 
  The Linux `timedatectl` command lets you set your time, date, and timezone for your system clock and your real-time clock. Spare a moment, and we'll show you how it all works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  It's All Relative
 
@@ -42,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 
  On systemd-based Linux distributions, we use the `timedatectl` command to see or change those settings and values.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Getting Started With timedatectl
 
  To see the current data and time and other values, use the `timedatectl` command with the status operator.
@@ -50,14 +62,15 @@ timedatectl status
 
 ![The output from the tidedatectl command using the status operator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/1-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Actually, you can drop the status and you'll still get the same output.
 
 timedatectl
 
 ![The output from the timedatectl command with no operator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/2-4.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Both sets of output show:
 
@@ -75,9 +88,6 @@ timedatectl list-timezones | wc -l
 
 ![Counting the timedatectl time zones](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/3-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  That's way more than there are [timezones in the world](https://www.timeanddate.com/time/current-number-time-zones.html). If we [pipe the output](https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/) into `grep` and filter out the entries for "America" and pipe that [into less](https://win-amazing.techidaily.com/hp-scanjet-driver-updates-available-install-now-for-enhanced-performance-on-windows-systems/), we can scroll through a more manageable list.
 
 timedatectl list-timezones | grep "America/" | less
@@ -87,6 +97,10 @@ timedatectl list-timezones | grep "America/" | less
  As you review that list you'll see "America" is taken to have its widest possible meaning. The second thing you'll notice is most of the entries aren't actual time zones.
 
 !["American" time zone list in less](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/5-4.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Setting the Time Zone
 
@@ -112,9 +126,6 @@ timedatectl set-time 10:30:00
 
 ![You can't set the time if time synchronization is in force](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/7-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  Use this command to turn off the time synchronization service:
 
 sudo systemctl stop systemd-timesyncd.service
@@ -129,10 +140,6 @@ timedatectl
 
 ![Manually setting the time and date](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/8-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
  The date and time have changed. Also, note the computer is using a false UTC time. We're also informed that the system clock is not being synchronized and the NTP service is inactive.
 
  If you have internet access, as soon as you restore the time synchronization service the time is retrieved and all of the details are correctly reset.
@@ -144,11 +151,9 @@ timedatectl
 ![Restarting the NTP service and restoring the correct time values](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/9-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  RTC: UTC or LTZ?
 
  It's possible to have your real-time clock set to your local time zone time instead of to UTC—possible, but inadvisable. If you make the change, you'll see a warning about the dire effects this may have on your system in the future.
@@ -171,9 +176,6 @@ timedatectl
 
 timedatectl set-local-rtc 0
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Set It and Forget It
 
  Unless you made an error during the installation of your Linux distribution, or you relocate there's usually no reason to be modifying the settings of your system and real-time clocks.
@@ -188,8 +190,6 @@ timedatectl set-local-rtc 0
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +197,23 @@ timedatectl set-local-rtc 0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-accessible-video-ideas-the-simplest-10-concepts-everyone-can-learn-to-make/"><u>[New] 2024 Approved Accessible Video Ideas The Simplest 10 Concepts Everyone Can Learn to Make</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-effective-strategies-for-exporting-photos-from-your-device-to-snapchat/"><u>[New] 2024 Approved Effective Strategies for Exporting Photos From Your Device to Snapchat</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-navigating-gameplay-preservation-in-windows-10-for-2024/"><u>[New] Navigating Gameplay Preservation in Windows 10 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-and-science-behind-color-grading-tools-luts/"><u>[New] The Art and Science Behind Color Grading Tools (LUTs)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-choosing-wedding-timers-on-google-play-and-apple-store/"><u>[New] The Ultimate Guide to Choosing Wedding Timers on Google Play and Apple Store</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-vivocut-guide-for-enhanced-video-creation/"><u>[New] Ultimate VivoCut Guide for Enhanced Video Creation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-artisans-guide-to-picture-in-picture-videos-on-macos-systems/"><u>[Updated] The Artisan's Guide to Picture in Picture Videos on macOS Systems</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-flexicam-soft-cam-covering-pad/"><u>2024 Approved FlexiCam Soft Cam Covering Pad</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-subject-shine-clearing-backdrop-in-photos/"><u>2024 Approved Subject Shine Clearing Backdrop in Photos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-premier-screen-picks-for-ps5-and-xbox-games/"><u>2024 Approved The Premier Screen Picks for PS5 and Xbox Games</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionize-visual-storytelling-by-incorporating-cg-centrals-look-up-tables-luts/"><u>In 2024, Revolutionize Visual Storytelling by Incorporating CG Central's Look-Up Tables (Luts)</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/iphone-data-salvation-tips-for-recovering-files-after-performing-a-factory-reset/"><u>IPhone Data Salvation: Tips for Recovering Files After Performing a Factory Reset</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/solutions-for-non-responsive-print-devices/"><u>Solutions for Non-Responsive Print Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-smart-brains-behind-android-a-guide-to-system-intelligence/"><u>Understanding the Smart Brains Behind Android: A Guide to System Intelligence</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-cropped-lengths-imovies-automatic-trimming-logic-for-2024/"><u>Unveiling Cropped Lengths IMovie's Automatic Trimming Logic for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-methods-to-decrease-media-content-volume/"><u>Updated Methods to Decrease Media Content Volume</u></a></li>
+</ul></div>
 

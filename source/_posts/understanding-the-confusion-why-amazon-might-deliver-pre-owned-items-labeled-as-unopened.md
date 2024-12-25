@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Confusion: Why Amazon Might Deliver Pre-Owned Items Labeled as Unopened"
-date: 2024-09-05T14:21:33.952Z
-updated: 2024-09-06T14:21:33.952Z
+date: 2024-12-17T22:29:47.767Z
+updated: 2024-12-24T21:47:01.819Z
 tags:
   - web
 categories:
@@ -9,26 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee624780bb20b2d8532eb393d21.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Understanding the Confusion: Why Amazon Might Deliver Pre-Owned Items Labeled as Unopened
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Amazon often resells returned items as new, if they pass inspection—though this isn't always reliable.
@@ -38,11 +24,9 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
  With increasing regularity, I'm buying brand-new products directly from Amazon and they arrive in used condition. If you're a regular Amazon shopper, it's probably happened to you, though you may not have realized. But why is this happening? And can we do anything about it?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  My Experiences of Buying New and Receiving Used
 
  Recently, I bought a new computer mouse from Amazon—a reasonably expensive Logitech one. When it arrived, the mouse was loosely slung in the Amazon box alongside a cable. Obviously, this isn't how the mouse is meant to be packaged; it should come in a Logitech box, for starters. The mouse had clearly been used previously, with scratches on the bottom and grime on the buttons.
@@ -51,12 +35,6 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 
 ![Amazon product page highlighting 'Ships from' and 'Sold by'.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/amazon-product-page-highlighting-ships-from-and-sold-by.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  I contacted Amazon support and asked how this happened. The representative couldn't say, beyond branding it a "mistake", and immediately shipped out a replacement and told me to keep the used mouse. Thankfully, the replacement arrived promptly new and sealed, but ultimately the incident delayed me receiving the product in the condition I ordered.
 
  I can't fault the customer service here—issues are always easily resolved. But this shouldn't happen in the first place, especially as [Amazon says](https://www.aboutamazon.com/about-us) it wants to be "Earth's most customer-centric company." I want to buy something new and not have to question it.
@@ -64,11 +42,9 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
  This isn't the first time I've had this problem. I've received a used hard drive, book, pack of playing cards, and more. It's perhaps more forgivable for the cheaper purchases, but not for expensive tech. Anecdotally, looking at community forums like Reddit, it's happening more frequently too—though it's by no means a new phenomenon, as a thread on [HardForum](https://hardforum.com/threads/have-you-received-some-elses-returned-items-from-amazon-before.1578178/) shows people complaining about this in 2011.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Why Is Amazon Selling Used as New?
 
  This is happening partly by design, in accordance with [Amazon's return process](https://win-howtos.techidaily.com/step-by-step-solutions-to-fix-windows-installation-failure-error-0x80code0x080070643-on-windows-systems/). In a 2022 [Amazon article](https://www.aboutamazon.eu/news/retail/what-happens-to-returned-products-at-amazon), the company explains that most returns are resold as new:
@@ -82,11 +58,9 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
  According to a [2023 report by the National Retail Federation](https://cdn.nrf.com/sites/default/files/2024-01/2023%20Consumer%20Returns%20in%20the%20Retail%20Industry.pdf), 14.5% of sales by the US retailers studied (not specifically Amazon) result in a return. As a percentage of total returns, 13.7% are fraudulent. These staggering figures make me appreciate why retailers want to resell something used as new.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Can You Do Anything to Stop Receiving Used Products?
 
  You might think that the way to avoid this problem is to stop shopping on Amazon, but this isn't a uniquely Amazon issue; every retailer has to deal with returns, and many take a similar approach to Amazon. Besides, while Amazon has plenty of other faults, its speedy shipping and low prices are hard to turn down.
@@ -96,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
  As soon as you receive your purchase, check for any signs of use. Look for a label stuck to the product packaging that begins with "LPN". This is a serial number that usually indicates the product has been reprocessed by Amazon. This can mean a few things, like that it was returned by the courier as undeliverable, but in most cases it's been opened by someone and probably used.
 
  If you're not satisfied with the quality of your purchase, contact Amazon immediately and they are likely to resolve it for you. Just don't abuse this because your account will be investigated if you return an abnormal amount.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Should You Keep Shopping on Amazon?
 
@@ -109,8 +87,6 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +94,22 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-mastering-lecture-capture-a-comprehensible-methodology-for-mac-users/"><u>[Updated] 2024 Approved Mastering Lecture Capture A Comprehensible Methodology for Mac Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-srt-file-craftsmanship-manual/"><u>[Updated] The Ultimate SRT File Craftsmanship Manual</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-your-workspace-with-these-8-dynamic-backdrops/"><u>2024 Approved Transform Your Workspace with These 8 Dynamic Backdrops</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ult-over-a-thousand-youtube-audience-members-for-2024/"><u>Catapult Over a Thousand YouTube Audience Members for 2024</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/cloner-facilement-votre-disque-sabrent-techniques-fiables-pour-sauvegarder-vos-donnees-et-os/"><u>Cloner Facilement Votre Disque Sabrent : Techniques Fiables Pour Sauvegarder Vos Données Et OS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-how-to-capture-and-share-vlogs-effectively-fb-via-obs/"><u>In 2024, How to Capture & Share Vlogs Effectively (FB via OBS)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-oneplus-11-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix OnePlus 11 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-the-secrets-of-premium-insta-tunes-a-complete-guide/"><u>In 2024, Unlocking the Secrets of Premium Insta Tunes A Complete Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/revolutionary-recording-aids-for-a-healthy-earth-for-2024/"><u>Revolutionary Recording Aids for a Healthy Earth for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamlined-shooting-essential-gimbals-and-handhelds-reviewed-for-2024/"><u>Streamlined Shooting Essential Gimbals and Handhelds Reviewed for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-fast-forwarding-safely-expedite-your-spotify-experience-for-2024/"><u>The Art of Fast-Forwarding Safely Expedite Your Spotify Experience for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-sound-architects-guide-to-memo-mastery-for-2024/"><u>The Sound Architect's Guide to Memo Mastery for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transform-audio-seamlessly-convert-aac-to-premium-aiff-formats-at-no-cost-using-our-online-tool/"><u>Transform Audio Seamlessly: Convert AAC to Premium AIFF Formats at No Cost Using Our Online Tool</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transformative-tales-a-compendium-of-the-best-inspirational-movies-for-2024/"><u>Transformative Tales A Compendium of the Best Inspirational Movies for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlocking-website-personalization-features-through-cookiebot-integration/"><u>Unlocking Website Personalization Features Through Cookiebot Integration</u></a></li>
+</ul></div>
 

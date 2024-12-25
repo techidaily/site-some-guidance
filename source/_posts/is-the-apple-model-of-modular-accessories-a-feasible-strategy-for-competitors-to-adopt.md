@@ -1,7 +1,7 @@
 ---
 title: Is the Apple Model of Modular Accessories a Feasible Strategy for Competitors to Adopt?
-date: 2024-08-31T06:09:05.339Z
-updated: 2024-09-01T06:09:05.339Z
+date: 2024-12-22T23:19:19.033Z
+updated: 2024-12-24T16:17:03.069Z
 tags:
   - mobile
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Is the Apple Model of Modular Accessories a Feasible Strategy for Competitors to Adopt?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [The Graveyard of Failed Attempts](https://screen-mirror.techidaily.com/guide-to-mirror-your-oppo-f25-pro-5g-to-other-android-devices-drfone-by-drfone-android/)
@@ -19,6 +23,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Smartphones are a core part of our daily lives, and because of that, there have been many attempts to extend their functionality. Project Ara, LG modules, Moto Mods, and the recent CMF Phone 1, to name a few. However, only Apple's MagSafe has actually spawned a successful ecosystem of adaptable accessories. Why is that?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Graveyard of Failed Attempts
 
  The concept of a "modular" smartphone has been around for a long time. One of the first big splashes was a project called "[Phonebloks](https://en.wikipedia.org/wiki/Phonebloks)" in 2013\. This was supposed to be a phone with a huge range of swappable components. Everything from the camera to storage to the vibration motor could be pulled and plugged like LEGO blocks.
@@ -26,6 +34,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Phonebloks never made it past the concept phase, but the idea carried on with Google's "[Project Ara](https://en.wikipedia.org/wiki/Project%5FAra)" in that same year. Google–who was working with Motorola–had essentially the same execution as Phonebloks, but there was actually a real physical prototype and a Developer Edition. However, as was the problem with Phonebloks, the technology was just not ready, and it ended in 2016.
 
 ![Project Ara](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/project-ara.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Google
 
@@ -44,15 +56,13 @@ Moto Mods
  Since then, there have been some attempts from [Fairphone](https://extra-tips.techidaily.com/2024-approved-capture-the-spectacular-with-nikon-d500-in-4k/)–who is more concerned with repairability–and HMD Global is apparently interested in the concept, too. None of these ideas have truly caught on with the general public. Motorola probably had the best effort with a system that lasted several years, but it couldn't save the company from falling into irrelevance.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Why MagSafe Succeeded
 
 ![MagSafe on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/52533931426_9c32e8d1a7_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek  
   
  Around the same time that Moto Mods faded out, Apple got into the modular accessory game with [MagSafe](https://techno-recovery.techidaily.com/mastering-regional-adjustments-how-to-update-regions-on-your-iphone/) on the [iPhone 12 and iPhone 12 Pro](https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-motorola-edgeplus-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/). Like Motorola, it used magnets to attach chargers, battery packs, wallets, stands, speakers, and more. Four years later, [it remains a part of iPhone models](https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-samsung-galaxy-a15-4g-screen-drfone-by-drfone-android/) and has generated huge demand for accessories.
@@ -64,16 +74,13 @@ Hannah Stryker / How-To Geek
  Other manufacturers don't have that same track record and, as a result, don't have the same trust from consumers or accessory makers. LG made a big deal about their "LG Friends" accessories, then completely ditched the idea a year later. Motorola lasted four years. That's a problem.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Others Can Find Success
 
 ![CMF Phone 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cmf-nothing-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 CMF
 
  The most recent entry in the modular smartphone saga is the [CMF Nothing 1](https://www.androidpolice.com/cmf-phone-1-review/). The device's back plate is easily removed with a screwdriver, and there's a big thumb screw in the bottom corner that can be taken off without tools. CMF offers a wallet, kickstand, and lanyard accessories at launch. Cool idea, but will it last?
@@ -90,8 +97,6 @@ CMF
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -99,4 +104,20 @@ CMF
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/eek-into-personality-traits-top-6-quizzes-to-determine-youtuber-preferences/"><u>[New] Peek Into Personality Traits Top 6 Quizzes to Determine YouTuber Preferences</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ideal-backgrounds-for-virtual-presence/"><u>[Updated] Ideal Backgrounds for Virtual Presence</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-immerse-in-pixel-worlds-the-best-pc-vr-playback-titles-compared-for-2024/"><u>[Updated] Immerse in Pixel Worlds The Best PC VR Playback Titles Compared for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-checklist-to-increase-likes-on-your-tiktok-videos/"><u>[Updated] The Ultimate Checklist to Increase Likes on Your TikTok Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-of-adobe-cloud-and-alternative-storage-solutions/"><u>[Updated] Unveiling the Secrets of Adobe Cloud & Alternative Storage Solutions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-hit-the-jackpot-of-humor-craft-top-tier-youtube-reaction-videos-3-techniques/"><u>2024 Approved Hit the Jackpot of Humor – Craft Top-Tier YouTube Reaction Videos (3 Techniques)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-syma-x5c-the-ideal-drone-to-elevate-your-aerial-introduction/"><u>2024 Approved Syma X5C The Ideal Drone to Elevate Your Aerial Introduction</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-communication-top-free-mac-text-to-speech-software-rankings/"><u>2024 Approved Transform Communication Top Free Mac Text-to-Speech Software Rankings</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/enhance-your-story-game-applying-fun-sticker-themes-for-2024/"><u>Enhance Your Story Game Applying Fun Sticker Themes for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-oppo-a1x-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Oppo A1x 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-motorola-edge-40-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Motorola Edge 40?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/subtle-reduction-of-volume-in-fl-studio-for-2024/"><u>Subtle Reduction of Volume in FL Studio for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Xiaomi Redmi K70E | Dr.fone</u></a></li>
+</ul></div>
 

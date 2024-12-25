@@ -1,7 +1,7 @@
 ---
 title: Steps to Turn Off Telemetry & Personalized Prompts on Your Windows 11 PC
-date: 2024-08-31T06:10:19.125Z
-updated: 2024-09-01T06:10:19.125Z
+date: 2024-12-19T01:15:37.434Z
+updated: 2024-12-24T23:42:45.734Z
 tags:
   - desktop
 categories:
@@ -58,16 +58,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Opening the Folder Options settings in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-file-explorer-folder-setting-options.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  In the Folder Options window, go to the "View" tab and uncheck the box beside "Show Sync Provider Notifications." After that, click "Apply" and then click "OK."
 
 ![Disabling the sync provider notifications in the Folder Options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-disabling-the-sync-provider-notifications-in-the-folder-options.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Tweak Diagnostic Data Settings
 
  To enhance the stability and performance of your computer, Microsoft collects diagnostic data about the issues you face and your interactions with the operating system. The company uses this information to fix the problems in upcoming Windows updates. This ensures your system operates securely and smoothly.
@@ -78,13 +76,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Opening the diagnostics and feedback settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-opening-the-diagnostics-and-feedback-settings-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Expand the "Tailored Experiences" menu and turn off the toggle next to "Let Microsoft use your diagnostic data, excluding info about websites you browse, to enhance your product experiences with personalized tips, ads, and recommendations."
 
 ![Disabling ads recommendations for tailored experiences in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-disabling-ads-recommendations-for-tailored-experiences-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Tweak Device Usage Permissions
 
  Microsoft allows you to specify how you intend to use your device, with use cases spanning business, entertainment, creativity, gaming, and more. Depending on your preferences, it tailors ads and recommendations to improve your overall experience. 
@@ -93,13 +92,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Opening the device usage personalization in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-opening-the-device-usage-personalization-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If any toggles next to various use cases are enabled, turn them off. This way, Microsoft will no longer show you ads based on how you use your device.
 
 ![Disabling all device usage permissions in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-disabling-all-device-usage-permissions-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Disable Ads From the Lock Screen
 
  Even the Windows lock screen isn't immune to ads and recommendations from Microsoft. When using the Windows spotlight feature that displays new background images on the lock screen, Windows doesn't allow you to disable them. To declutter your lock screen, you'll need to turn off the Windows spotlight feature entirely.
@@ -109,43 +113,41 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Disabling Windows spotlight and lock screen recommendations in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-disabling-windows-spotlight-and-lock-screen-recommendations-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  Remove Recommendations From Windows Search
 
  If you frequently use Windows Search to look for apps and files, you've likely encountered recommended games, recipes, popular videos, and more in the left sidebar of the Search menu. These content suggestions can be bothersome. To disable them, open the Settings app and navigate to Privacy and Security > Search Permissions.
 
 ![Opening the search permissions settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-opening-the-search-permissions-settings-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Scroll down and uncheck the box below "Show Search Highlights." Then, close the Settings app to allow the changes to take effect, and the search box will now be clutter-free.
 
 ![Disabling the search highlights in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-disabling-the-search-highlights-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ##  Disable General Windows Permissions
 
  Several default Windows permissions favor more advertising. Disable them to stop seeing ads you encounter from other apps and within the Settings app. To do so, open the Settings app and navigate to Privacy and Security > General.
 
 ![Opening the general privacy settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-opening-the-general-provacy-settings-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Turn off all the toggles enabled here, especially "Show me suggested content in the Settings app" and "Let apps show me personalized ads by using my advertising ID."
 
 ![Disabling all general privacy permissions in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-disabling-all-general-privacy-permissions-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
  That's how you can stop receiving irritating ads and recommendations from Microsoft. If you continue encountering them despite turning off the above options, they probably originate from notification-spammy apps and your web browser. Find and [uninstall such apps](https://youtube-docs.techidaily.com/ed-in-2024-strategies-for-using-youtube-to-boost-classroom-engagement/) and turn off browser notifications to enjoy a cleaner and clutter-free experience.
@@ -156,8 +158,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +165,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-binge-watch-with-flexibility-mastering-the-pip-functionality-in-netflix/"><u>[New] In 2024, Binge-Watch With Flexibility Mastering the PIP Functionality in Netflix</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-little-legends-top-gaming-adventures/"><u>[Updated] 2024 Approved Little Legends Top Gaming Adventures</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-unlocking-your-instagrams-virtual-meet-up-potential/"><u>[Updated] 2024 Approved Unlocking Your Instagram's Virtual Meet-Up Potential</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-professional-ppt-recording-tactics-and-tricks/"><u>[Updated] Professional PPT Recording Tactics and Tricks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-complete-guide-for-professional-livestreaming-using-zoom-on-youtube/"><u>[Updated] The Complete Guide for Professional Livestreaming Using Zoom on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-eraser-guru-expert-tips-for-psx-users/"><u>[Updated] The Eraser Guru Expert Tips for PSX Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-boost-your-following-with-these-top-insta-apps/"><u>2024 Approved Boost Your Following with These Top Insta Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-level-up-your-playtime-examining-kinemaster-on-android/"><u>2024 Approved Level Up Your Playtime Examining KineMaster on Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-new-dawn-of-creativity-spotlight-on-six-visionary-nftos/"><u>In 2024, The New Dawn of Creativity Spotlight on Six Visionary NFTOs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-visionarys-manual-selecting-the-most-compelling-4k-displays-today/"><u>In 2024, The Visionary's Manual Selecting the Most Compelling 4K Displays Today</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/optimize-your-pc-for-smooth-cs2-gameplay-eliminate-lag-and-frames-per-second-dips/"><u>Optimize Your PC for Smooth CS2 Gameplay – Eliminate Lag & Frames Per Second Dips</u></a></li>
+<li><a href="https://techidaily.com/preserving-your-group-policy-preferences-a-step-by-step-guide-to-backing-up-gpos-in-windows/"><u>Preserving Your Group Policy Preferences: A Step-by-Step Guide to Backing Up GPOs in Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-essential-guide-to-8-best-free-and-paid-videomosaic-tools-on-android-for-2024/"><u>The Essential Guide to #8 Best Free & Paid Videomosaic Tools on Android for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-tips-ultimate-guide-to-troubleshooting-your-non-responsive-ipad-keyboard/"><u>Top Tips: Ultimate Guide to Troubleshooting Your Non-Responsive iPad Keyboard</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Secure Your iOS Device: A Must-Know Guide for Losing or Theft Scenarios"
-date: 2024-08-31T06:09:17.940Z
-updated: 2024-09-01T06:09:17.940Z
+date: 2024-12-23T19:43:59.390Z
+updated: 2024-12-24T17:57:16.988Z
 tags:
   - mobile
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 
 ## Secure Your iOS Device: A Must-Know Guide for Losing or Theft Scenarios
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Thieves can disable Find My iPhone tracking by enabling Airplane Mode from Control Center whether your iPhone is locked or not.
@@ -18,9 +22,17 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 
  Your iPhone has a lot of built-in protections in case it gets stolen. But a cunning thief might snatch it out of your hand after you unlocked it and stop you tracking it by enabling Airplane Mode. I created this shortcut to protect myself in case either of those things happen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What iPhone Thieves Do When They Snatch an iPhone
 
 ![Airplane Mode enabled in iPhone Control Center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/airplane-mode-enabled-in-iphone-control-center.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Most of us have [Find My enabled](https://win-able.techidaily.com/overcoming-valheim-stability-issues-a-guide-to-stop-pc-freezing-and-crashing/) so we can easily track our iPhone if it ever goes missing or gets stolen. However, it's very easy for a thief to stop location tracking by enabling Airplane Mode from the Control Center.
 
@@ -34,9 +46,6 @@ Close
 
  But the shortcut below will give you even more protection.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How an iPhone Shortcut Can Help
 
  The idea behind this shortcut is pretty simple. The first thing most thieves will do after stealing an iPhone is enable Airplane Mode to stop location tracking, so we can make that an automation trigger to run a custom "Theft Protection" shortcut. You could use this shortcut to run all kinds of actions, but I suggest disabling Airplane Mode and locking the screen.
@@ -46,21 +55,15 @@ Close
  If you haven't used the Shortcuts app before, here are some other [cool shortcuts you might want to try out](https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12-5g-devices-drfone-by-drfone-virtual/).
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  A Guide to Creating This Shortcut
 
  This shortcut is pretty easy to create, but I'm going to split it into two sections to make it as clear as possible. The first section is about creating the "Theft Protection" shortcut that runs when Airplane Mode is enabled, letting you choose exactly what you want to happen. The second section shows you how to set up the automation to trigger that shortcut when Airplane Mode is turned on.
 
  Both steps of these instructions are crucial, so don't skip one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ###  Step 1: Create a "Theft Protection" Shortcut
 
  Open the Shortcuts app on your iPhone and tap the "+" to create a new shortcut. Open the dropdown at the top of the screen to rename the shortcut. You can call it whatever you like, but I call mine "Theft Protection."
@@ -77,14 +80,12 @@ Close
 
 ![Actions to take a photo in 'Theft Protection' shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/actions-to-take-a-photo-in-theft-protection-shortcut.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Taking a photo slows the shortcut down, so it could be more secure to go without it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Step 2: Create an Automation Trigger for Your Shortcut
 
  Now that you've created your shortcut, you need to make it run automatically whenever Airplane Mode is enabled. In the Shortcuts app, go to the "Automation" tab and tap the "+" or tap "Create New Automation." Search for and select "Airplane Mode."
@@ -97,9 +98,6 @@ Close
 
  When you're done, be sure to test the shortcut by turning on Airplane Mode. You should find that the screen locks and Airplane Mode turns off again a moment later. If it doesn't work, try restarting your iPhone first.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How and When to Disable the Shortcut
 
  Of course, there will be times when you actually do want to use Airplane Mode. For those situations, you'll need to disable this automation. Just go to Shortcuts > Automation and select your "Airplane Mode" automation. Then open the "Automation" dropdown and select "Don't Run." After you tap "Done," the automation will be disabled until you change that setting back to "Run Immediately."
@@ -116,8 +114,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +121,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-enhancing-imagery-a-step-by-step-guide-to-crop-videos-on-instagram/"><u>[New] In 2024, Enhancing Imagery A Step-by-Step Guide to Crop Videos on Instagram</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-explore-the-world-of-tiny-screens-top-6-online-tools-for-free-and-complimentary-youtube-short-downloads/"><u>[New] In 2024, Explore the World of Tiny Screens Top 6 Online Tools for Free & Complimentary YouTube Short Downloads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-uniting-images-into-an-eye-catching-narrative-display/"><u>2024 Approved Uniting Images Into an Eye-Catching Narrative Display</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-new-speech-potentials-on-chrome-ranked-top-voice-alteration-tools/"><u>2024 Approved Unlock New Speech Potentials on Chrome Ranked Top Voice Alteration Tools</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/amazfit-helio-ring-unveiled-key-features-cost-details-and-launch-timeline/"><u>Amazfit Helio Ring Unveiled: Key Features, Cost Details & Launch Timeline</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-best-budget-video-players-across-operating-systems/"><u>In 2024, The Best Budget Video Players Across Operating Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-innovation-in-desktop-computers/"><u>In 2024, Ultimate Innovation in Desktop Computers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inside-acid-pro-benchmarking-alternatives-for-2024/"><u>Inside ACID Pro Benchmarking Alternatives for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-your-internet-to-blame-or-is-nintendos-service-actually-down/"><u>Is Your Internet to Blame, or Is Nintendo's Service Actually Down?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/seconds-in-a-20mb-hd-video-file/"><u>Seconds in a 20MB HD Video File</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategic-ignorance-eliminating-superfluous-chatgpt-plugins/"><u>Strategic Ignorance: Eliminating Superfluous ChatGPT Plugins</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-art-of-the-daily-share-keep-your-digital-diary-top-notch-for-2024/"><u>The Art of the Daily Share Keep Your Digital Diary Top-Notch for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-metaverse-and-multiplemetaverse-explained-key-contrasts-highlighted-for-2024/"><u>The Metaverse & MultipleMetaverse Explained Key Contrasts Highlighted for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-iphone-and-android-video-editing-apps-for-gopro-for-2024/"><u>Top 10 iPhone & Android Video Editing Apps for GoPro for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unprecedented-capacity-choices-elite-cloud-services-for-2024/"><u>Unprecedented Capacity Choices Elite Cloud Services for 2024</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-the-best-english-voice-generator-to-convert-text-into-desired-accent-for-2024/"><u>Updated The Best English Voice Generator To Convert Text Into Desired Accent for 2024</u></a></li>
+</ul></div>
 

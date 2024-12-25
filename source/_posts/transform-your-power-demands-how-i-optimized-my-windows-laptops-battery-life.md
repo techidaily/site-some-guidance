@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Power Demands: How I Optimized My Windows Laptop's Battery Life"
-date: 2024-08-31T06:13:00.212Z
-updated: 2024-09-01T06:13:00.212Z
+date: 2024-12-19T02:39:38.356Z
+updated: 2024-12-24T22:36:48.447Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 ---
 
 ## Transform Your Power Demands: How I Optimized My Windows Laptop's Battery Life
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -29,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 
  As a Windows laptop user, you know the frustration of searching for a charging spot because your laptop's battery life is short. The problem is worse if your laptop is older, since batteries lose capacity over time. Luckily, you can change some Windows settings to improve your laptop's battery life..
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Modify the Power Plan Settings
 
  Link State Power Management is a feature on your Windows computer that saves battery life by controlling the connection between the [CPU](https://facebook-clips.techidaily.com/echoes-of-now-strategies-for-downloading-current-events/) and devices connected through the PCI Express (PCIe) slots. It works alongside Active State Power Management (ASPM) and offers three modes to configure — "Off," "Moderate Power Savings," and "Maximum Power Savings."
@@ -42,16 +43,10 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 
 ![Change Advanced Power Settings option in the Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/change-advanced-power-settings-option-in-the-control-panel.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
  In the Power Options window, double-click the "PCI Express" option and the "Link State Power Management" option. From the On battery drop-down menu, select "Maximum Power Savings." Then, choose "Moderate Power Savings" from the Plugged In dropdown menu.
 
 ![PCI Express option in the Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/pci-express-option-in-the-control-panel.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click "Apply" and "OK" to save the changes. After that, restart your laptop to see the impact on battery performance.
 
 ##  Change Video Playback Settings
@@ -67,31 +62,27 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 ![Optimize for battery life option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/optimize-for-battery-life-option-in-the-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Apply the Energy Recommendations Changes
 
  Windows 11 has an Energy recommendations option in the Settings menu that shows all the minor changes you can make on your device to [improve battery life](https://screen-capture.techidaily.com/2024-approved-mastering-the-art-of-virtual-board-usage-in-web-conferences-android-apple-and-pc/). To apply these changes, open the Settings app, select "System" from the left sidebar, and click "Power & Battery" on the right.
 
 ![Power & battery option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/power-battery-option-in-the-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select the "Energy Recommendations" option.
 
 ![Energy Recommendation option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/energy-recommendation-option-in-the-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
  You can click the "Apply All" option to apply all the changes recommended by Windows. Alternatively, you can click the "Apply" button next to the change you want to make on your device.
 
 ![Apply all option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/apply-all-option-in-the-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Configure Unnecessary Apps to Use Less Powerful GPU
 
  In Windows, you can manually choose which [GPU](https://android-unlock.techidaily.com/unlock-vivo-s17-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/) an application uses. This can be helpful because there's no reason to use a powerful GPU for simple tasks like the Calculator app. Using the powerful GPU for such tasks would put more strain on your computer and drain your battery faster.
@@ -101,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
  You need to manually configure less resource-demanding applications to avoid using the powerful GPU and start using the other GPU instead. To do that, launch the Settings app and navigate to System > Display > Graphics.
 
 ![Graphics option in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/graphics-option-in-the-settings-app.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Under the Custom Settings for Applications section, you will find the list of apps installed on your computer. Click on the applications for which you don't want to use the powerful GPU, and select "Power Saving" from the GPU Preference drop-down menu.
 
@@ -112,11 +107,19 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 
  For example, on my HP laptop, I can disable the keyboard backlight by pressing the Fn+F5 keys together. If you're unsure of the key combination for your device, you can check the user manual that came with your laptop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Switch to the Dark Mode
 
 [Switching to dark mode](https://smart-video-creator.techidaily.com/new-from-beginner-to-pro-6-adobe-premiere-tips-to-transform-your-video-editing/) on your Windows 11 laptop can help improve battery life, but the increase won't be as significant as other tips in this article. Specifically, you can expect a 2-3% increase in battery life after switching to dark mode, and even that increase depends on your laptop screen. If your laptop has an [OLED screen](https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-tecno-phantom-v-flip-by-fonelab-android-recover-messages/), you'll see that 2-3% battery life boost. However, if it's an LCD screen, the percentage will be even lower.
 
  This is because an LCD screen uses a backlight to illuminate the entire screen, regardless of the color displayed. Therefore, enabling dark mode will have a negligible impact. On the other hand, OLED screens have pixels that produce their own light and when you switch to dark mode the black pixel get turned off by default. Since the display doesn't need to light up those pixels, it uses less battery compared to light mode. However, keep in mind that the impact will still be quite small.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Reduce the Maximum Processor State
 
@@ -134,20 +137,18 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 
 ![Command to view duplicate power scheme in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/command-to-view-duplicate-power-scheme-in-cmd.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Type **powercfg /changename <Power Scheme GUID> "Customized Power Saving"** and hit Enter.
 
 ![Customized Power Saving command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/customized-power-saving-command-in-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
  To reduce CPU max clock speed of efficiency cores when laptop is not plugged into power, type **powercfg /setdcvalueindex <Power Scheme GUID> SUB\_PROCESSOR PROCTHROTTLEMAX 99** and hit Enter.
 
 ![Command for efficiency cores in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/command-for-efficiency-cores-in-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To reduce CPU max clock speed of performance cores when laptop is not plugged into power, type **powercfg /setdcvalueindex <Power Scheme GUID> SUB\_PROCESSOR PROCTHROTTLEMAX1 99** and hit Enter.
 
 ![Command for performance cores in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/command-for-performance-cores-in-cmd.jpg) 
@@ -157,8 +158,9 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 ![Setactive command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/setactive-command-in-cmd.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After that, simply restart your computer and you will see a sudden increase in your battery performance and a reduction in laptop heat.
 
 ---
@@ -171,8 +173,6 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +180,24 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-streaming-made-simple-convert-and-broadcast-mp3-songs-online/"><u>[New] Streaming Made Simple Convert and Broadcast MP3 Songs Online</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-filmmakers-handbook-for-professional-gopro-videographers/"><u>[New] The Filmmaker's Handbook for Professional Gopro Videographers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-highlight-reel-of-2022-skating-stars/"><u>[New] Ultimate Highlight Reel of 2022 Skating Stars</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-design-mastery-crafting-engaging-audio-visuals-for-2024/"><u>[Updated] Design Mastery Crafting Engaging Audio Visuals for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-supreme-writing-talents-through-genre-lenses/"><u>[Updated] Supreme Writing Talents Through Genre Lenses</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-ideal-episodic-unveiling-schedule/"><u>2024 Approved Ideal Episodic Unveiling Schedule</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-micro-film-narrative-blueprint/"><u>2024 Approved Micro-Film Narrative Blueprint</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-spectacular-free-image-editors-the-new-era/"><u>2024 Approved Spectacular Free Image Editors The New Era</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-superior-webcam-gear-for-podcasters/"><u>2024 Approved Superior Webcam Gear for Podcasters</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/access-premium-level-video-templates-for-free-for-2024/"><u>Access Premium-Level Video Templates for Free for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-8-metaverse-vr-experiences-and-headsets/"><u>In 2024, Top 8 Metaverse VR Experiences & Headsets</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/newest-dolby-certified-audio-drivers-for-windows-users-download-for-windows-11-10-and-81/"><u>Newest Dolby-Certified Audio Drivers for Windows Users: Download for Windows 11, 10 & 8.1</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-m6-pro-4g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on M6 Pro 4G</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/top-10-iphone-lens-capabilities-in-ios-11/"><u>Top 10 iPhone Lens Capabilities in iOS 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-tips-for-sharper-images-on-google-meet-calls-for-2024/"><u>Top Tips for Sharper Images on Google Meet Calls for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-all-about-dji-inspire-2-today-for-2024/"><u>Unlocking All About DJI Inspire 2 Today for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-lenovo-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Lenovo Phones</u></a></li>
+</ul></div>
 

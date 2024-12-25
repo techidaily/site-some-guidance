@@ -1,7 +1,7 @@
 ---
 title: "Guide: Blocking Microsoft's Customized Advertisements & Suggestions on Windows 11 Systems"
-date: 2024-08-31T06:09:55.643Z
-updated: 2024-09-01T06:09:55.643Z
+date: 2024-12-23T16:15:27.830Z
+updated: 2024-12-24T16:04:21.686Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 ---
 
 ## Guide: Blocking Microsoft's Customized Advertisements & Suggestions on Windows 11 Systems
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -38,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 
  If you're bothered by the constant stream of advertisements and recommendations throughout the operating system, you can easily disable them.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Disable Ads From the Start Menu
 
  Have you ever opened the Start menu and noticed a list of pinned apps you don't remember installing? Despite appearing as installed, these are merely suggested apps from Microsoft. Windows displays these apps based on your region, the types of apps you regularly use, and other factors.
@@ -50,8 +51,9 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 ![Uninstalling a pinned app from the Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-uninstalling-a-pinned-app-from-the-start-menu.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Repeat these steps to remove all suggested apps in the Start menu that you don't plan to install or use.
 
  You may find some installed apps pinned here, so be sure not to uninstall them. The context menu of installed apps displays options such as app settings, uninstall, and more. This is how you can distinguish them from suggested ones.
@@ -64,13 +66,14 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 
 ![Opening the Folder Options settings in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-file-explorer-folder-setting-options.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the Folder Options window, go to the "View" tab and uncheck the box beside "Show Sync Provider Notifications." After that, click "Apply" and then click "OK."
 
 ![Disabling the sync provider notifications in the Folder Options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-disabling-the-sync-provider-notifications-in-the-folder-options.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Tweak Diagnostic Data Settings
 
  To enhance the stability and performance of your computer, Microsoft collects diagnostic data about the issues you face and your interactions with the operating system. The company uses this information to fix the problems in upcoming Windows updates. This ensures your system operates securely and smoothly.
@@ -80,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
  Navigate to the "Privacy and Security" tab on the left and go to "Diagnostics and Feedback" on the right.
 
 ![Opening the diagnostics and feedback settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-opening-the-diagnostics-and-feedback-settings-in-the-windows-settings-app.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Expand the "Tailored Experiences" menu and turn off the toggle next to "Let Microsoft use your diagnostic data, excluding info about websites you browse, to enhance your product experiences with personalized tips, ads, and recommendations."
 
@@ -97,12 +104,6 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 
 ![Disabling all device usage permissions in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-disabling-all-device-usage-permissions-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ##  Disable Ads From the Lock Screen
 
  Even the Windows lock screen isn't immune to ads and recommendations from Microsoft. When using the Windows spotlight feature that displays new background images on the lock screen, Windows doesn't allow you to disable them. To declutter your lock screen, you'll need to turn off the Windows spotlight feature entirely.
@@ -112,40 +113,41 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 ![Disabling Windows spotlight and lock screen recommendations in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-disabling-windows-spotlight-and-lock-screen-recommendations-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Remove Recommendations From Windows Search
 
  If you frequently use Windows Search to look for apps and files, you've likely encountered recommended games, recipes, popular videos, and more in the left sidebar of the Search menu. These content suggestions can be bothersome. To disable them, open the Settings app and navigate to Privacy and Security > Search Permissions.
 
 ![Opening the search permissions settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-opening-the-search-permissions-settings-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Scroll down and uncheck the box below "Show Search Highlights." Then, close the Settings app to allow the changes to take effect, and the search box will now be clutter-free.
 
 ![Disabling the search highlights in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-disabling-the-search-highlights-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Disable General Windows Permissions
 
  Several default Windows permissions favor more advertising. Disable them to stop seeing ads you encounter from other apps and within the Settings app. To do so, open the Settings app and navigate to Privacy and Security > General.
 
 ![Opening the general privacy settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-opening-the-general-provacy-settings-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Turn off all the toggles enabled here, especially "Show me suggested content in the Settings app" and "Let apps show me personalized ads by using my advertising ID."
 
 ![Disabling all general privacy permissions in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-disabling-all-general-privacy-permissions-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
  That's how you can stop receiving irritating ads and recommendations from Microsoft. If you continue encountering them despite turning off the above options, they probably originate from notification-spammy apps and your web browser. Find and [uninstall such apps](https://youtube-docs.techidaily.com/ed-in-2024-strategies-for-using-youtube-to-boost-classroom-engagement/) and turn off browser notifications to enjoy a cleaner and clutter-free experience.
@@ -156,8 +158,6 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +165,23 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-an-overview-of-basic-and-simplified-hdr-photography/"><u>[New] 2024 Approved An Overview of Basic and Simplified HDR Photography</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-9-fitness-trends-to-captivate-your-online-audience-with-action/"><u>[New] In 2024, 9 Fitness Trends to Captivate Your Online Audience with Action</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-channel-expansion-via-youtube-outros-maximizing-visibility/"><u>[New] In 2024, Channel Expansion via YouTube Outros Maximizing Visibility</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-jest-jamboree-utilizing-comic-tools-for-free/"><u>[New] Jest Jamboree Utilizing Comic Tools for Free</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-synchronized-sound-and-picture-zone-online/"><u>[New] Synchronized Sound & Picture Zone Online</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-through-a-headsets-lens-a-history-of-vr/"><u>[New] Through a Headset's Lens A History of VR</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transforming-plain-words-into-3d-marvels-ps-guide/"><u>[New] Transforming Plain Words Into 3D Marvels PS Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-streamline-visual-clarity-with-proficient-bg-removal-techniques/"><u>[Updated] 2024 Approved Streamline Visual Clarity with Proficient BG Removal Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-why-marketers-love-video-commendations/"><u>[Updated] In 2024, Why Marketers Love Video Commendations</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/11-year-olds-financial-rise-via-youtube-stardom/"><u>11-Year-Old's Financial Rise via YouTube Stardom</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-enhancing-zoom-with-a-chrome-os-device/"><u>2024 Approved Enhancing Zoom with a Chrome OS Device</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-complete-windows-10-know-how-reference/"><u>2024 Approved The Complete WINDOWS 10 Know-How Reference</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-image-editors-and-annotation-tools/"><u>2024 Approved Top 10 Image Editors & Annotation Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-leap-forward-with-advanced-ai-technologies-discover-the-capabilities-of-their-latest-innovations-zdnet/"><u>Apple's Leap Forward with Advanced AI Technologies – Discover the Capabilities of Their Latest Innovations | ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/making-your-iphone-more-eye-friendly-using-the-dark-mode-functionality/"><u>Making Your iPhone More Eye-Friendly: Using the Dark Mode Functionality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/thankful-exploration-templates-from-free-to-paid-for-2024/"><u>Thankful Exploration Templates From FREE to PAID for 2024</u></a></li>
+</ul></div>
 

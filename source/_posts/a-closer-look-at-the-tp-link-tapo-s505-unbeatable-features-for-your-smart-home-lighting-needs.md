@@ -1,7 +1,7 @@
 ---
 title: "A Closer Look at the TP-Link Tapo S505: Unbeatable Features for Your Smart Home Lighting Needs"
-date: 2024-08-31T06:07:01.896Z
-updated: 2024-09-01T06:07:01.896Z
+date: 2024-12-20T21:58:13.111Z
+updated: 2024-12-24T20:08:08.562Z
 tags:
   - product-reviews
 categories:
@@ -66,16 +66,10 @@ An inexpensive smart switch that offers various cutting-edge features, the Tap S
 
  The TP-Link Tapo S505 Smart Wi-Fi Light Switch is available in white only. It's offered in a one- or two-pack at retailers like Amazon and Best Buy and through the TP-Link website. A dimmer version (Tapo S505D) is also available and nearly identical.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ##  Installation: Breezy and Quick Even If You're a Novice
 
 ![TP Link Tapo S505 switch's front plate and accessories](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/tp-link-tapo-s505-accessories.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Bryan M. Wolfe / How-To Geek
 
  Smart switches like this one are designed to replace dumb switches already in a home. The installation process was relatively simple; even someone who knows very little about electricity, like me, was able to do it. To get started, you'll first need to turn off your home circuit breaker, then remove the old wall plate using a screwdriver. From there, you must connect the wires to the smart switch according to TP-Link's directions. Your existing setup must have a negative wire, or the switch won't work. The product includes a wall plate, two screws, four wire nuts, wire labels, and a quick start guide.
@@ -83,20 +77,26 @@ Bryan M. Wolfe / How-To Geek
  When in doubt, you should consult with an electrician. If you're a renter, you'll need to make sure you have permission before installing the smart switch.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Design: It's the Little Things
 
 ![TP Link Tapo S505 box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/tp-link-tapo-s505-hero-box.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Bryan M. Wolfe / How-To Geek
 
  The Tapo S505 Smart Wi-Fi Light Switch looks modern and includes three onboard controls. The main button looks like a vertical toggle, but only the bottom portion is functional as it acts as a traditional on or off switch. When the switch isn't on, a circular LED is visible, making it easy to find the switch in the dark. Otherwise, the switch isn't lit. At the bottom of the power button are two tinier ones for restarting and resetting the switch. These are difficult to see, which was a deliberate design move since you won't need to use these that often.
 
  Overall, I like the look of the Tapo S505 Smart Wi-Fi Light Switch. However, it's only available in white, which might be a turn-off for some. At the minimum, TP-Link should have offered one in a cream color, maybe even one in black, but it did not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The App: So Much to See and Do
 
@@ -122,23 +122,25 @@ Close
 
  This snafu shouldn’t be a reason not to buy this product. As I said above, problems with technology do happen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Should You Buy the Tapo S505 Smart Wi-Fi Light Switch?
 
 ![TP-Link Tapo S505 installed on a wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/tp-link-tapo-s505-light-off-2.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Bryan M. Wolfe / How-To Geek
 
  The TP-Link [Tapo S505 Smart Wi-Fi Light Switch](https://www.amazon.com/TP-Links-Matter-Smart-Light-Switch/dp/B0C2B6RSDX?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001258&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftp-link-tapo-s505-smart-wi-fi-light-switch-review%2F&asc%5Fcampaign=Affiliate) comes at a great price, retailing at $25\. With a quick installation on both the hardware and software side, it’s a smart product that doesn’t require a lot of prep to get started. It works with all major smart home services, such as Apple Home and Samsung SmartThings. It also works with Android and iPhone, which makes it usable by anyone with a Wi-Fi connection. This is one to consider if you’re in the market for a low-cost smart switch.
 
 ![TP-Link Tapo S505 Smart Switch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/tp-tapo-s505-smart-switch.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Tapo S505 Smart Wi-Fi Light Switch
 
@@ -156,8 +158,6 @@ An inexpensive smart switch that offers various cutting-edge features, the Tap S
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +165,23 @@ An inexpensive smart switch that offers various cutting-edge features, the Tap S
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-direct-approaches-to-documenting-google-voice-interactions/"><u>[New] Direct Approaches to Documenting Google Voice Interactions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-maximizing-youtube-gains-a-comprehensive-approach-for-mobile-monetization/"><u>[New] In 2024, Maximizing YouTube Gains A Comprehensive Approach for Mobile Monetization</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-new-era-advancements-in-vr-technology/"><u>[New] The New Era Advancements in VR Technology</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleashing-brand-potential-with-essential-phrases/"><u>[New] Unleashing Brand Potential with Essential Phrases</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-elevate-your-storytelling-with-strategic-video-callouts-for-2024/"><u>[Updated] Elevate Your Storytelling with Strategic Video Callouts for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-master-the-art-of-tokenization-with-these-7-nft-creation-apps/"><u>[Updated] Master the Art of Tokenization with These 7 NFT Creation Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-hdr-sky-experience-online-resource-listing/"><u>[Updated] The HDR Sky Experience Online Resource Listing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-iphone-silhouette-photos/"><u>[Updated] The Ultimate Guide to iPhone Silhouette Photos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-sites-for-vector-graphics-collection/"><u>[Updated] Top 10 Sites for Vector Graphics Collection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-total-circles-capture-systems/"><u>[Updated] Total Circles Capture Systems</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-top-10-websites-for-mystery-box-acquisitions/"><u>2024 Approved Navigating the Top 10 Websites for Mystery Box Acquisitions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guia-completa-transformar-archivos-vob-protegidos-de-dvd-a-formato-mp4-para-windows-11-y-macos/"><u>Guía Completa: Transformar Archivos VOB Protegidos De DVD a Formato MP4 Para Windows 11 Y macOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamline-your-viewing-experience-how-to-use-floating-window-on-netflix/"><u>In 2024, Streamline Your Viewing Experience How To Use Floating Window on Netflix</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-leading-online-music-production-platforms-reviewed-compare-free-and-subscription-based-services/"><u>New The Leading Online Music Production Platforms Reviewed – Compare Free & Subscription-Based Services</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-hulu-rununk13-a-step-by-step-guide/"><u>Resolving the Hulu RUNUNK13: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-asus-maximus-x-hero-graphics-card-driver-enhancement-steps/"><u>Seamless ASUS Maximus X Hero Graphics Card Driver Enhancement Steps</u></a></li>
+</ul></div>
 

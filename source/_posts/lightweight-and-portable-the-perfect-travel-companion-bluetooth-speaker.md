@@ -1,7 +1,7 @@
 ---
 title: "Lightweight and Portable: The Perfect Travel Companion Bluetooth Speaker"
-date: 2024-08-31T06:06:49.297Z
-updated: 2024-09-01T06:06:49.297Z
+date: 2024-12-19T02:25:32.054Z
+updated: 2024-12-25T01:00:27.343Z
 tags:
   - product-reviews
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/ed43cb68b7509790195a4106080566d9794dc5d45
 
 ![Sonos Roam 2 TAG](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/sonos-roam-2-tag.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #####  Sonos Roam 2
 
 Roam 2 makes it easy to enjoy Sonos sound everywhere life takes you. Just pair, play, and go. Enjoy up to 10 hours of size-defying clarity and bass. Fully IP67 waterproof and dustproof, Roam 2 is ready for the outdoors. Plus, it doubles as a smart speaker at home.
@@ -38,6 +42,10 @@ Roam 2 makes it easy to enjoy Sonos sound everywhere life takes you. Just pair, 
 [$179 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsonos-roam-2-black%2F6579960.p%3FskuId%3D6579960) [$179 at Sonos](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003482/https://www.sonos.com/en-us/shop/roam-2) 
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Price and Availability
 
@@ -79,16 +87,10 @@ Roam 2 makes it easy to enjoy Sonos sound everywhere life takes you. Just pair, 
 
 Expand 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Differences For Roam 2 Are Minimal
 
 ![Power and Bluetooth buttons on the back of the Sonos Roam 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/power-and-bluetooth-buttons-on-the-back-of-the-sonos-roam-2.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  If you thought, like me, that a second version of the Roam speaker coming three years after the first one would bring some big changes, you’d be wrong. The Sonos Roam 2 brings one significant change and two negligible tweaks. That’s it.
@@ -99,12 +101,13 @@ Tyler Hayes / How-To Geek
 
  Frankly, it’s impressive that Sonos can get away with only tweaking a few minor details and still have the Roam 2 feel relevant and modern. It’s a testament to how good the original Roam was, minus that one design flaw. Of course, I wish the Roam 2 would have been more substantial, but it didn't necessarily _need_ a huge overhaul.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Sound Quality
 
 ![Showing the top of the Sonos Roam 2 speaker](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/showing-the-top-of-the-sonos-roam-2-speaker.JPG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -116,9 +119,6 @@ Tyler Hayes / How-To Geek
 
  I do wish the Roam 2 would have gotten the line-in ability the Era 100 and other speakers have gotten in the last couple of years to make it even more flexible, but it didn't.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ##  The Software and Battery Life Hang in There
 
  The Roam 2 gets up to 10 hours of battery life. That's on the lower end compared to similar-priced Bluetooth speakers, but the Roam 2 is doing a little bit more with the additional Wi-Fi capability. To combat the shorter battery life, the speaker does have the ability to charge wirelessly, just by sitting on top of any Qi charger, as you would use for your mobile phone. I love this feature and wish more portable speakers would add it.
@@ -128,11 +128,16 @@ Tyler Hayes / How-To Geek
  On the software front, the Sonos app has been [redesigned](https://hardware-help.techidaily.com/nvidia-geforce-optimized-drivers-for-windows-download-now/) recently. It took a step back in hopes of moving forward in the coming months. If you want to use AirPlay or Spotify Connect with the speaker instead of using the app that's a possibility. If you're new to the Sonos ecosystem and don't have any other speakers, I wouldn't worry too much about the app's rough spots. I'm optimistic it will get better in the near future.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Should You Buy the Sonos Roam 2?
 
 ![Sonos Roam 2 standing vertically on a counter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/sonos-roam-2-standing-vertically-on-a-counter.JPG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -142,9 +147,6 @@ Tyler Hayes / How-To Geek
 
 ![Sonos Roam 2 TAG](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/sonos-roam-2-tag.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Sonos Roam 2
 
 Roam 2 makes it easy to enjoy Sonos sound everywhere life takes you. Just pair, play, and go. Enjoy up to 10 hours of size-defying clarity and bass. Fully IP67 waterproof and dustproof, Roam 2 is ready for the outdoors. Plus, it doubles as a smart speaker at home.
@@ -157,8 +159,6 @@ Roam 2 makes it easy to enjoy Sonos sound everywhere life takes you. Just pair, 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +166,24 @@ Roam 2 makes it easy to enjoy Sonos sound everywhere life takes you. Just pair, 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-top-5-audio-to-video-makers-online/"><u>[New] Top 5 Audio to Video Makers Online</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-camera-guide-2024s-premium-choices/"><u>[New] Ultimate Camera Guide 2024'S Premium Choices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-guide-to-gopro-max-or-hero-11/"><u>[New] Ultimate Guide to GoPro Max or Hero 11?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-mix-seamless-free-and-paid-blu-ray-playback-windows-macos/"><u>[New] Ultimate Mix Seamless Free & Paid Blu-Ray Playback (Windows, macOS)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-top-11-add-ons-for-the-dji-phantom-4-masterclass/"><u>[Updated] 2024 Approved Top 11 Add-Ons for the DJI Phantom 4 Masterclass</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-complete-immersive-camera-review/"><u>[Updated] Complete Immersive Camera Review</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-elevate-your-content-secrets-to-becoming-a-staff-favorite-at-vimeo-for-2024/"><u>[Updated] Elevate Your Content Secrets to Becoming a Staff Favorite at Vimeo for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-leading-open-source-20-best-pubg-images/"><u>[Updated] Leading Open Source 20 Best PUBG Images</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-cutting-edge-of-photography-iphone-cropping-tips/"><u>[Updated] The Cutting Edge of Photography IPhone Cropping Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-structuring-a-compelling-resume-cv-on-linkedin/"><u>2024 Approved Structuring a Compelling Resume (CV) on LinkedIn</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-trendsetting-tactic-tech-savvy-mac-access-via-watch/"><u>2024 Approved Trendsetting Tactic Tech-Savvy Mac Access via Watch</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-apple-iphone-13-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For Apple iPhone 13</u></a></li>
+<li><a href="https://driver-error.techidaily.com/external-graphics-prevention-in-win10-environment/"><u>External Graphics Prevention in Win10 Environment</u></a></li>
+<li><a href="https://win-help.techidaily.com/four-effective-methods-to-recover-lost-iphone-pictures-after-ios-1718-upgrade/"><u>Four Effective Methods to Recover Lost iPhone Pictures After iOS 17/18 Upgrade</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-step-by-step-guide-for-sporty-streamers-on-mac/"><u>In 2024, Step-by-Step Guide for Sporty Streamers on Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-vanguard-devices-frontline-computing-titans/"><u>In 2024, Vanguard Devices Frontline Computing Titans</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-the-pros-and-cons-of-youtube-premium/"><u>Weighing the Pros and Cons of YouTube Premium</u></a></li>
+</ul></div>
 

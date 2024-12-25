@@ -1,7 +1,7 @@
 ---
 title: "Daily Convenience Showdown: Claude or ChatGPT App, Which Reigns Supreme?"
-date: 2024-08-31T06:08:23.081Z
-updated: 2024-09-01T06:08:23.081Z
+date: 2024-12-17T20:09:07.580Z
+updated: 2024-12-24T17:42:49.956Z
 tags:
   - mobile
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 ---
 
 ## Daily Convenience Showdown: Claude or ChatGPT App, Which Reigns Supreme?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -31,16 +35,10 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 
  Each of these two AI models has its own strengths and weaknesses. But what about using them for typical everyday tasks on your phone? Well, with the release of the mobile apps, that's a burning question I want to answer.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Signing In and Getting Started
 
 ![AI Robot taking a class and teaching a human boy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ai-robot-taking-a-class-and-teaching-a-human-boy.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Dibakar Ghosh / How-To Geek / Midjourney
 
  If you already have an account for these LLMs, signing in and getting started is easy. Both of them also link seamlessly to Google Accounts, so you don't even need to create a brand-new account to use either of these apps. However, they do have the same limitations as their web app counterparts.
@@ -52,12 +50,9 @@ Dibakar Ghosh / How-To Geek / Midjourney
  I can say that if you're using the web app and moving to the mobile app, your usage limits are not reset. You'll still have to wait until the time rolls over to use the model again at its full power. However, there is a seamless integration between the web app and mobile app, and you can easily pick up a conversation you started on your desktop machine.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Which App Performs Better?
 
 Close 
@@ -75,9 +70,9 @@ Close
 ![a 2D top-down controller written by Claude AI for the Unity engine](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/claude-2d-controller-code.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jason Dookeran/How-to-Geek
 
  While the connection issues with the ChatGPT app seem occasional, they happen far more often than with Claude, suggesting that the app may need some work. Since ChatGPT didn't give me any responses, I'd have to give Claude the win for this one as well, making it 2–0 to Claude so far.
@@ -87,15 +82,17 @@ Jason Dookeran/How-to-Geek
  Just to make sure the response time wasn't due to lag, I also performed these tests on my phone's mobile connection. The results were similar, with ChatGPT taking between four and five times as long to respond as Claude did. ChatGPT seemed to have better connectivity on the mobile network than on the wireless connection, since I encountered no stalls or no-responses when using the mobile internet.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Hallucinations Still Happen On Mobile
 
 [Hallucinations are typical of LLMs](https://audio-shaping.techidaily.com/strategies-for-minimizing-large-scale-video-and-audio-data/) because they value pleasing the user over giving accurate factual information. Since the mobile apps are just a different method of accessing the LLM backend, you're still likely to get hallucinations when you ask it questions. As all the LLMs have in their disclaimers, the information presented may not be factual. It's up to you to check.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Which Mobile App Is Better?
 
  As I outlined, my tests were done across a few metrics, but they're far from exhaustive. I learned that the ChatGPT app had some connectivity issues while on a Wi-Fi network, while Claude's app worked seamlessly and delivered usable results with low response times. Claude took the record for this iteration of the models with a convincing 3–0 win over ChatGPT. Both models and apps are constantly in development, so the issues I found are likely to change. However, given the current iteration of these two apps, Claude seems to be the clear winner.
@@ -106,8 +103,6 @@ Jason Dookeran/How-to-Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +110,24 @@ Jason Dookeran/How-to-Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-discover-the-top-3-alternative-video-portals-for-2024/"><u>[New] Discover the Top 3 Alternative Video Portals for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-unlock-the-full-power-of-apples-siri-with-integrated-voice-control-on-tiktok/"><u>[New] In 2024, Unlock the Full Power of Apple's Siri with Integrated Voice Control on TikTok</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-complete-pathway-to-personalized-ios-ringtones/"><u>[New] The Complete Pathway to Personalized iOS Ringtones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleash-the-artistry-of-impressive-gopro-timelapse-videos/"><u>[New] Unleash the Artistry of Impressive GoPro Timelapse Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-verdant-visualizations-compiling-30plus-free-screen-templates-for-videographers/"><u>[New] Verdant Visualizations Compiling 30+ Free Screen Templates for Videographers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-capture-unrooted-android-sounds-4-techniques/"><u>[Updated] Capture Unrooted Android Sounds 4 Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-identifying-10-leading-vr-devices-for-your-pc/"><u>[Updated] Identifying 10 Leading VR Devices for Your PC</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-seamless-gaming-top-5-high-res-display-with-hdmi-21/"><u>[Updated] In 2024, Seamless Gaming Top 5 High-Res Display with HDMI 2.1</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-opening-lines-breaking-the-ice-in-video-comments/"><u>2024 Approved Opening Lines Breaking the Ice in Video Comments</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlining-your-approach-to-downloading-large-amounts-on-tiktok/"><u>2024 Approved Streamlining Your Approach to Downloading Large Amounts on TikTok</u></a></li>
+<li><a href="https://fox-that.techidaily.com/comprehensive-iphone-support-discover-15-essential-repair-strategies-for-every-generation/"><u>Comprehensive iPhone Support: Discover 15 Essential Repair Strategies for Every Generation</u></a></li>
+<li><a href="https://win-popular.techidaily.com/discover-the-elite-5-desk-picks-for-professionals-according-to-zdnet/"><u>Discover the Elite 5 Desk Picks for Professionals , According to ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-ahead-with-apple-watch-series-10-preorders-essential-guide-and-top-tricks-for-savings-zdnet/"><u>Get Ahead with Apple Watch Series 10 Preorders - Essential Guide & Top Tricks for Savings | ZDNET</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-striking-the-balance-visual-strategies-for-podcast-identity/"><u>In 2024, Striking the Balance Visual Strategies for Podcast Identity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-impactful-power-of-customer-testimonials-on-sales/"><u>In 2024, The Impactful Power of Customer Testimonials on Sales</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/mline-animated-subscribe-buttons-in-filmora-for-youtube-success/"><u>Streamline Animated Subscribe Buttons in Filmora for YouTube Success</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamlining-your-figma-project-with-clean-backgrounds-for-2024/"><u>Streamlining Your Figma Project with Clean Backgrounds for 2024</u></a></li>
+</ul></div>
 

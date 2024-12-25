@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial for Extracting Paths in Windows 11 Filesystem
-date: 2024-08-31T06:10:17.514Z
-updated: 2024-09-01T06:10:17.514Z
+date: 2024-12-17T19:19:04.892Z
+updated: 2024-12-24T18:11:41.358Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Copy the Path of an App](https://win11-tips.techidaily.com/breaking-barriers-uniting-pc-and-android-devices/)
 * [Tips for Pasting the File, Folder, or App Path You’ve Copied](https://win-answers.techidaily.com/quick-solution-to-rectify-minecrafts-sudden-crash-with-exit-code-0/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * ![Ctrl, Shift, and C keys highlighted on a Windows keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-copy-path-keyboard-shortcut.jpg)  
@@ -30,9 +34,6 @@ Hannah Stryker / How-To Geek
 
  Copying a file or folder’s path on Windows 11 is as easy as selecting an option in the right-click menu or pressing a keyboard shortcut. We’ll show you how to do it in various ways on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  From the Right-Click Menu
 
  The easiest way to copy a file or folder’s path is by choosing an option in that item’s right-click menu. You can use this method to copy paths for multiple items as well.
@@ -41,9 +42,6 @@ Hannah Stryker / How-To Geek
 
 !['Copy as Path' highlighted in an item's right-click menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-copy-path-right-click-menu.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  To copy paths of multiple files or folders, [select all those items](https://on-screen-recording.techidaily.com/updated-effective-strategies-to-capture-and-save-google-voice-dialogues-for-2024/), right-click a selected item, and choose "Copy as Path."
 
  Windows has copied the full absolute path to your selected item(s).
@@ -58,13 +56,14 @@ Hannah Stryker / How-To Geek
 
 ![Ctrl, Shift, and C keys highlighted on a Windows keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-copy-path-keyboard-shortcut.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek  
   
  Windows has copied the selected file or folder’s path to your clipboard.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  From a File Explorer Toolbar Option
 
  Windows 11’s File Explorer utility has a button on its toolbar to let you copy your file or folder’s path. To use it, open File Explorer, and locate your file or folder and highlight the folder or file.
@@ -75,9 +74,6 @@ Hannah Stryker / How-To Geek
 
 ![The three dots and 'Copy Path' highlighted for an item in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-copy-path-file-explorer-toolbar-option.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
  And that’s it.
 
 ##  How to Copy the Path of an App
@@ -90,6 +86,10 @@ Hannah Stryker / How-To Geek
 
 !['Open File Location' highlighted for an app in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-open-app-location-start-menu.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the open window, right-click the app again and select "Open File Location."
 
  Your app is now highlighted. Right-click the app and select "Copy as Path."
@@ -97,11 +97,13 @@ Hannah Stryker / How-To Geek
 !['Copy as Path' highlighted for an app in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-copy-app-path.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Tips for Pasting the File, Folder, or App Path You’ve Copied
 
 [Pasting the copied file, folder, or app path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) is as easy as accessing a text field and pressing Ctrl+V. Alternatively, right-click the text field and choose "Paste."
@@ -120,8 +122,6 @@ Hannah Stryker / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +129,23 @@ Hannah Stryker / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-leading-video-call-applications-for-conference-success/"><u>[New] Leading Video Call Applications for Conference Success</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-traffic-with-effective-youtube-titles/"><u>[New] Maximizing Traffic with Effective YouTube Titles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-video-enhancements-changing-numbers-on-tiktok/"><u>[New] Unlock Video Enhancements Changing Numbers on TikTok</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-upgrading-zoom-video-fidelity-a-comprehensive-guide/"><u>[New] Upgrading Zoom Video Fidelity A Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-core-inside-apples-m1-innovation/"><u>[Updated] Exploring the Core Inside Apple’s M1 Innovation</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-expose-and-rectify-vanished-videos-on-fb-for-2024/"><u>[Updated] How to Expose and Rectify Vanished Videos on FB for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-blueprint-of-movies-a-scripts-role/"><u>[Updated] The Blueprint of Movies A Script's Role</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-next-chapter-of-cinema-vr-revolution/"><u>[Updated] The Next Chapter of Cinema VR Revolution</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-from-vision-to-reality-benqs-masterpiece-the-bl2711u-monitor-review/"><u>2024 Approved From Vision to Reality BenQ’s Masterpiece, the BL2711U Monitor Review</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-photographing-for-youtube-the-ultimate-instructions/"><u>2024 Approved Photographing for YouTube The Ultimate Instructions</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/innovative-sound-technology-leading-earbuds-2024/"><u>Innovative Sound Technology - Leading Earbuds, 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/short-length-film-plot-plan-for-2024/"><u>Short-Length Film Plot Plan for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-10-most-popular-news-compilation-services-in-2n24/"><u>Top 10 Most Popular News Compilation Services in 2N24</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-solution-pack-6-best-apps-for-signature-erasure-for-2024/"><u>Ultimate Solution Pack - 6 Best Apps for Signature Erasure for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-the-basics-of-motion-design-for-2024/"><u>Understanding the Basics of Motion Design for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Tecno Spark 10C? | Dr.fone</u></a></li>
+</ul></div>
 

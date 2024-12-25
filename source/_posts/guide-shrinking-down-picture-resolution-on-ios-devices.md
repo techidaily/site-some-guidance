@@ -1,7 +1,7 @@
 ---
 title: "Guide: Shrinking Down Picture Resolution on iOS Devices"
-date: 2024-08-31T06:09:00.752Z
-updated: 2024-09-01T06:09:00.752Z
+date: 2024-12-19T21:52:16.446Z
+updated: 2024-12-24T17:58:34.919Z
 tags:
   - mobile
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/84a193c7dfe30d1711082c3e2e61ae28fba386e22
 ---
 
 ## Guide: Shrinking Down Picture Resolution on iOS Devices
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/84a193c7dfe30d1711082c3e2e61ae28fba386e22
 
  Just looking to crop a photo, rather than make the entire image smaller? You can [crop images in the Photos app](https://screen-mirroring-recording.techidaily.com/in-2024-get-the-best-free-pc-sound-logger-download-x-recorder/) itself by tapping the "Edit" button.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ###  Creating an Image Resize Shortcut
 
  Using Shortcuts, you can create simple automations that follow predefined steps. In this guide, we'll create a shortcut that can take single or multiple photos, resize them based on your input, and save the resulting output back to the Photos app.
@@ -48,14 +49,15 @@ Close
 ![The 'Resize' function followed by a 'Save' function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/8saveimage.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  By default, this action will save the resized image to the "Recents" album. If you want, you can tap the "Recents" button to change the album.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Adding the Shortcut to the Share Sheet
 
  The shortcut is now created. Open the dropdown menu near the "Done" button, and select "Rename." Name the Shortcut whatever you like, but make it logical. Three Shortcuts named "sdklfhk," "ahjsdbn," and "qwuioeq" wouldn't be helpful.
@@ -67,8 +69,9 @@ Close
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Using the Shortcut to Resize an Image
 
  You're all done in the Shortcuts app. Next, launch Photos on your iPhone or iPad. In Photos, select a photo (or the photos) that you want to resize and tap the "Share" button (which looks like a square with an arrow pointing upward from it).
@@ -80,17 +83,9 @@ Close
  If you tried increasing the size of an image and it came out blurry or pixelated, you can [try a free or paid AI tool to upscale it](https://unlock-android.techidaily.com/in-2024-lock-your-vivo-y36i-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/) instead.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Resize a Photo Using a Third-Party App
 
  While Shortcuts can be a great tool for power users (a single shortcut can save you a lot of time if you're going to be resizing images often), taking the time to create the shortcut can feel like overkill if you only want to resize a few photos every now and then.
@@ -117,8 +112,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +119,16 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-strategies-for-streaming-fb-live-on-zoom-platform/"><u>[New] Strategies for Streaming FB Live on Zoom Platform</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-economical-aether-fileshare-for-bulk-digital-storing/"><u>[Updated] 2024 Approved Economical Aether Fileshare for Bulk Digital Storing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-streamers-blueprint-achieving-peak-performance-on-macos/"><u>2024 Approved The Streamer's Blueprint Achieving Peak Performance on macOS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bioshock-2-ultimate-fix-complete-remaster-restored/"><u>BioShock 2 Ultimate Fix: Complete Remaster Restored</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-creativity-exquisite-text-effects-for-adobes-affects/"><u>In 2024, Unleash Creativity Exquisite Text Effects For Adobe's Affects</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastery-of-safaris-picture-in-picture-for-ios-and-macos/"><u>Mastery of Safari's Picture-in-Picture for iOS & macOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/supercharge-image-editing-10-must-know-pixlr-strategies-for-2024/"><u>Supercharge Image Editing 10 Must-Know Pixlr Strategies for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/top-8-economical-video-call-applications-cross-system-compatibility/"><u>Top 8 Economical Video Call Applications Cross-System Compatibility</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-editing-efforts-10-text-innovations-for-2024/"><u>Top Editing Efforts 10 Text Innovations for 2024</u></a></li>
+</ul></div>
 

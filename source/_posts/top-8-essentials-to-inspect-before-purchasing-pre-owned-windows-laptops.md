@@ -1,7 +1,7 @@
 ---
 title: Top 8 Essentials to Inspect Before Purchasing Pre-Owned Windows Laptops
-date: 2024-08-31T06:11:33.568Z
-updated: 2024-09-01T06:11:33.568Z
+date: 2024-12-19T22:10:52.229Z
+updated: 2024-12-24T19:09:04.152Z
 tags:
   - desktop
 categories:
@@ -30,6 +30,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Keyboard tester typing letters in lowercase with Caps Lock off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-keyboard-tester-typing-letters-in-lowercase-with-caps-lock-off.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To test the trackpad, hover over the screen to gauge its responsiveness. Then, experiment with different trackpad gestures, such as pinch-to-zoom and two-finger scroll, to see which ones are supported. If you have another laptop, you can compare trackpad responsiveness by conducting a touchpad accuracy test on both laptops using the [No-Cursor website](https://no-cursor.com/).
 
  This will help you confirm whether the trackpad on your new laptop is equally or more responsive than the other one.
@@ -47,8 +51,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Testing the laptop microphone in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-testing-the-laptop-microphone-in-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Test the Built-In Camera
 
  If you intend to use the laptop for video communication, test its built-in camera. To do this, type **Camera** in the Windows Search bar and open the Camera app.
@@ -56,8 +61,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  If the camera app detects the webcam and the visuals are clear and of satisfactory quality, as the seller claimed, then the camera is working correctly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Check the Health of Your Laptop Battery
 
  The more a laptop is used, the more its battery capacity diminishes. When purchasing a new laptop, you should ensure that it's not heavily worn out. You can check this by generating a battery health report on Windows. [Open the Windows PowerShell utility as an administrator](https://win11.techidaily.com/a-guide-to-quickly-opens-sticky-notes-in-windows-11/), enter the following command, and press Enter:
@@ -68,21 +74,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Generating the battery health report from Windows PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_2-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Navigate to this location and open the battery report. Then, go to the "Installed Batteries" section and compare the "Design Capacity" with the "Full Charge Capacity." The difference between these values indicates the extent to which the battery's capacity has diminished due to usage. If the full charge capacity is significantly low, you may have to replace the battery.
 
 ![Checking the laptop battery report.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Ensure the Laptop Isn't Stolen
 
  If you're thinking about buying a used laptop from an unknown seller, make sure that it hasn't been stolen. One way to check this is to request a purchase receipt from the seller. If they are unable to provide one, this could be a red flag. If the laptop hasn't been reset, is password-protected, or is locked, these signs indicate that it's likely a stolen device.
 
  You can also confirm your suspicions by getting the laptop's serial number and contacting the manufacturer to verify whether the device has been reported stolen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Perform the Physical Inspection
 
@@ -90,9 +98,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Also, watch out for stickers that may be covering up wear and tear underneath, as this is a common practice.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ##  Test the Wired and Wireless Connectivity
 
  The worst scenario you could face is finding your [laptop unable to connect to the internet](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual/) (via Wi-Fi or Ethernet cable), USB ports failing to detect external devices, or Bluetooth malfunctioning—all after completing the purchase. Because of that, confirming there are no wired or wireless connectivity issues is important.
@@ -105,9 +110,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Running the memory diagnostic test from Windows Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-running-the-memory-diagnostic-test-from-windows-command-prompt.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Windows will restart and run the test. Once it finishes testing the RAM, it'll restart again and display the test results. If you don't see them, you can use the Windows Event Viewer to search for potential issues identified during the test. Open Event Viewer and go to Windows Logs > System. Click "Find," type **MemoryDiagnostic**, and click "Find Next."
 
  Check the laptop's storage drive to see if it is an SSD rather than an HDD. SSDs are preferable due to their speed and quiet operation. You should treat any laptop with a hard drive somewhat skeptically. Hard drives haven't been the norm in many years, and finding one indicates that the laptop is likely quite old. Whichever you find, [check the drive's health](https://data-wizards.techidaily.com/preserve-the-purity-of-your-productions/) to ensure it isn't dying.
@@ -122,8 +124,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +131,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-best-software-practices-for-transforming-pictures-into-films/"><u>[New] Best Software Practices for Transforming Pictures Into Films</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-elevate-your-yt-marketing-essential-tips-for-higher-rankings/"><u>[New] Elevate Your YT Marketing Essential Tips for Higher Rankings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-strategies-to-extend-gopro-battery-hours/"><u>[New] Strategies to Extend GoPro Battery Hours</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-ffxp-an-in-depth-guide/"><u>[New] Unveiling FFXP An In-Depth Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-crafting-with-colors-principles-in-action/"><u>[Updated] 2024 Approved Crafting with Colors Principles in Action</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-indoor-android-games-you-can-play-without-a-network/"><u>[Updated] In 2024, Indoor Android Games You Can Play Without a Network</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-understanding-igtv-shutdown/"><u>[Updated] Understanding IGTV Shutdown</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-subdued-soundscape-stitches-for-garageband-workflows/"><u>2024 Approved Subdued Soundscape Stitches for Garageband Workflows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-commercial-data-custodians/"><u>2024 Approved Top 10 Commercial Data Custodians</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleashing-visual-velocity-illustrators-guide-to-motion-blurs/"><u>2024 Approved Unleashing Visual Velocity Illustrator's Guide to Motion Blurs</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oppo-reno-8t-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Oppo Reno 8T 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-techniques-for-creating-full-sphere-photos/"><u>In 2024, Ultimate Techniques for Creating Full-Sphere Photos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/overcooked-2-game-breakdown-savoring-the-madness-and-mastery-of-multiplayer-cook-off-chaos/"><u>Overcooked! 2 Game Breakdown: Savoring the Madness and Mastery of Multiplayer Cook-Off Chaos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/shades-of-success-color-grading-fundamentals/"><u>Shades of Success Color Grading Fundamentals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-definitive-guide-to-classic-anime-themes-for-2024/"><u>The Definitive Guide to Classic Anime Themes for 2024</u></a></li>
+</ul></div>
 

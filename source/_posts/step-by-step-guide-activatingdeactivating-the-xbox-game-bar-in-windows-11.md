@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Activating/Deactivating the Xbox Game Bar in Windows 11"
-date: 2024-08-31T06:12:39.718Z
-updated: 2024-09-01T06:12:39.718Z
+date: 2024-12-21T18:54:36.782Z
+updated: 2024-12-24T20:32:37.953Z
 tags:
   - deals
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/91d802feac954d9a2b7218b9de82c000f33944701
 * [How to Disable (Or Enable) the Game Bar on Windows 10](https://www.howtogeek.com/705656/how-to-disable-or-enable-windows-10s-game-bar/#how-to-disable-or-enable-the-game-bar-on-windows-10)
 * [How to Disable the Xbox Button in Windows 10](https://youtube-clips.techidaily.com/2024-approved-elevate-your-recordings-doing-without-a-microphone/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Open Windows Settings, click "Gaming," then click the "Enable Game Bar" switch to the "Off" position to disable the Game Bar completely.
@@ -23,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/91d802feac954d9a2b7218b9de82c000f33944701
 
  Microsoft's [Game Bar](https://facebook-video-recording.techidaily.com/2024-approved-harnessing-the-power-of-imagery-for-engaging-fb-slideshows/) in Windows 10 is a handy way to call up an overlay of useful widgets using the Windows+G keyboard shortcut. But not everyone needs it, and if you'd like to disable it (or enable it again later), all it takes is a visit to Settings. Here's how.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ##  How to Disable (Or Enable) the Game Bar on Windows 10
 
  First, open Windows Settings. To do so, open the Start menu and click the small "gear" icon, or press Windows+i on your keyboard. In Settings, click "Gaming."
@@ -34,15 +34,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Click the 'Gaming' option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-click-gaming.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Under "Game Bar" settings, click the switch beneath "Enable Game Bar" until it is turned off. That will disable the Game Bar.
 
 ![Click the toggle under 'Game Bar' to disable it completely.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-turn-game-bar-off.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
  After that, close the Settings app. Try pressing Windows+G, and nothing will pop up. Even if you press the Xbox button on an Xbox controller, nothing will happen. The Game Bar has been fully disabled.
 
  If you'd like to enable the Game Bar again, revisit the "Gaming" section in Windows Settings and flip the "Enable Game Bar" to the "On" position.
@@ -50,11 +48,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![The Game Bar toggle in the On position.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-turn-game-bar-on.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Disable the Xbox Button in Windows 10
 
  By default, if you have an [Xbox 360 or Xbox One controller connected to your Windows 10 PC](https://extra-skills.techidaily.com/updated-investment-requirements-for-video-promotion/), pressing the Xbox button (the large circle in the center of the controller with an "x" on it) will bring up the Xbox Game Bar.
@@ -64,8 +64,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Untick the box to disable the Game Bar button on your controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-disable-game-bar-button.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Alternately, if you disable the Game Bar completely using the "Enable Game Bar" switch, then the Xbox button on your controller will no longer call up the Game Bar. But that also disables calling up the Game Bar using other methods (such as the Windows+G shortcut).
 
 <ins class="adsbygoogle"
@@ -74,8 +75,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -83,4 +82,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-dive-deep-into-stardews-heart-with-our-guide-to-ginger-isle/"><u>[New] 2024 Approved Dive Deep Into Stardew's Heart with Our Guide to Ginger Isle</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-maximizing-b-roll-effective-techniques/"><u>[New] 2024 Approved Maximizing B-Roll Effective Techniques</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-mastering-cross-platform-video-playback-free-solutions-guide-for-2024/"><u>[New] Mastering Cross-Platform Video Playback Free Solutions Guide for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-drone-experience-yuneec-q500/"><u>[New] The Ultimate Drone Experience Yuneec Q500</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamline-creative-processes-efficiently-adding-text-to-videos-with-microsoft-photos/"><u>[Updated] Streamline Creative Processes Efficiently Adding Text to Videos with Microsoft Photos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-ultimate-guide-to-mac-iphone-and-ipad-pip/"><u>[Updated] The Ultimate Guide to Mac, iPhone, and iPad PIP</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-vivo-v27e-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Vivo V27e to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bootstrap-bavarder-onto-your-linux-os/"><u>Bootstrap Bavarder Onto Your Linux OS</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/each-element-in-the-array-is-between-9-106-and-9-106-inclusive/"><u>Each Element in the Array Is Between `-9 10^6` and `9 10^6`, Inclusive.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-synthesize-shots-the-photo-montage-methodology/"><u>In 2024, Synthesize Shots The Photo Montage Methodology</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-iphones-silhouette-potential/"><u>In 2024, Unveiling iPhone's Silhouette Potential</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-verdict-on-urban-armors-rainbow-sequin-case-for-macbook-pro-robust-defense-and-fashionable-appeal/"><u>The Ultimate Verdict on Urban Armor's Rainbow Sequin Case for MacBook Pro - Robust Defense and Fashionable Appeal</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Powerhouse Designer – An In-Depth Review of the Dell XPS Laptop, Model 9640
-date: 2024-08-31T06:08:06.280Z
-updated: 2024-09-01T06:08:06.280Z
+date: 2024-12-22T23:44:30.816Z
+updated: 2024-12-24T17:53:14.158Z
 tags:
   - product-reviews
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Unveiling the Powerhouse Designer – An In-Depth Review of the Dell XPS Laptop, Model 9640
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 
 
@@ -22,6 +26,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The [Dell XPS 16 (9640)](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F3607085%2Ftype%2Fdlg%2Fsid%2FUUhtgUeUpU2003759%2Fhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Flaptops%2F16-new%2Fspd%2Fxps-16-9640-laptop) is a powerful and versatile laptop with a stunning 4K OLED and the potential for impressive battery life, though its actual performance depends heavily on choices that users make. While the integrated AI features like the "Copilot" button offer a glimpse into the future of how we use computers, the ambiguous design of the touchpad and function keys may frustrate users. Gamers and content creators will appreciate the laptop's raw power, but those seeking an ultraportable device with all-day battery life might want to look elsewhere.
 
 ![Dell XPS 16 9640](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-27-vsdm8wdb-2x.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
@@ -121,9 +129,6 @@ Bring your most intensive projects to life with our most powerful XPS laptop, en
 
 Expand 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ##  Elegant Design with Some Flaws
 
 ![Outside lid of the Dell XPS 16](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/the-dell-xps-16-9640-sitting-on-a-table_53633594046_o.jpg) 
@@ -136,9 +141,17 @@ Jerome Thomas / How-To Geek
 
 ![Top view of the Dell XPS 16 keybaord and trackpad](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/the-keyboard-on-the-dell-xps-16-9640_53634038250_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The touchpad is perhaps the most divisive design choice. It's a smooth, unmarked surface that relies on LED lights to indicate its boundaries. While this looks modern and minimalist, it can be unintuitive in practice. The lack of a physical edge or indentation makes it easy to overshoot or miss the touchpad altogether, especially in well-lit environments where the LEDs are less visible. While these design choices are subjective, they are noticeable enough to impact the overall user experience. For a laptop with such a premium price tag, the cramped keyboard, finicky touchpad, and lack of tactile feedback on the function keys are areas where this laptop could use improvement.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Display, Audio, and Camera
 
@@ -158,16 +171,10 @@ Jerome Thomas / How-To Geek
 
  The 32GB of RAM proved more than sufficient for my multitasking needs, allowing me to juggle numerous applications and browser tabs without any noticeable impact on performance. While the base configuration comes with 16GB of RAM, which should be adequate for most users, the extra memory in my review unit provided a noticeable boost for more demanding workloads. Overall, the Dell XPS 16 is a well-rounded laptop that offers excellent performance for both work and play.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Gaming Performance
 
 ![The Dell XPS 16 has an RTX 4070.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/the-dell-xps-16-9640-has-a-rtx-4070_53633933529_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek  
 
  The Dell XPS 16 is a powerful laptop that certainly doesn't shy away from demanding games. The RTX 4070 GPU in my test unit handled a variety of games, from "Destiny 2: The Final Shape" to "Minecraft and Cities: Skylines," without any noticeable performance issues. I even pushed it further with graphically intensive titles like "Baldur's Gate 3" and "Cyberpunk 2077," and it continued to impress with smooth gameplay. It even managed to outperform my desktop's Ryzen 5600x at times, thanks to the 16-core Intel Core Ultra 7 processor.
@@ -175,9 +182,9 @@ Jerome Thomas / How-To Geek
  However, it's important to note that this level of performance comes with trade-offs. As with many high-performance laptops, the XPS 16 can get quite hot during intense gaming sessions. Additionally, the lack of upgradability, especially the inability to swap out the GPU, might be a concern for some users. Overall, the XPS 16 is a capable machine that offers desktop-level gaming performance in a portable form factor. Whether it's the right choice for you depends on your priorities. If you value portability and raw power over upgradability and cooler temperatures, the XPS 16 is worth considering.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Gaming Benchmarks
 
  The Dell XPS 16 I tested comes with an RTX 4070 8 GB laptop GPU, not a full desktop version, so performance reflects that difference. In 3DMark's "Steel Nomad Light" benchmark, it averaged 65 FPS with a score of 8,827—good, but slightly below average for this GPU. Still, it's plenty powerful for demanding games.
@@ -187,24 +194,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Overall, the XPS 16 is a solid machine for content creation and gaming. While it may not top the performance charts like a dedicated gaming laptop, it strikes an excellent balance between power and portability.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Enough Ports and Connectivity
 
 ![The ports on the left of the DelL XPS 16.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/the-ports-on-the-left-of-the-dell-xps-16-9640_53634038205_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The Dell XPS 16 comes equipped with a headphone and microphone combo port, three Thunderbolt 4 ports (each capable of charging the device and connecting peripherals), and a MicroSD card slot for extra storage purposes. Dell also includes a USB-C adapter for using standard USB-A devices and HDMI output, allowing connection to projectors, TVs, or external monitors. While I'm not a fan of dongles, and believe these functions could have been integrated into the laptop itself, it's a nice inclusion nonetheless, especially considering it's not a standard offering on all laptops.
 
 ![the ports on the right side of the dell xps 16](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/the-ports-on-the-right-of-the-dell-xps-16-9640_53634038210_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Bluetooth connectivity with headphones, controllers, and other devices is seamless, thanks to the high-quality Intel Bluetooth 5.4 chip. Wi-Fi speeds were also impressive, reaching 256MBps (in my experience), rivaling a wired USB connection. Dell has clearly prioritized excellent networking and Bluetooth capabilities in the XPS 16\. While the absence of a dedicated ethernet port might disappoint some, it's not a dealbreaker for most users.
@@ -222,8 +224,9 @@ Jerome Thomas / How-To Geek
 ![The file explorer on the dell XPS 16](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/the-file-explorer-on-the-dell-xps-16-9640_53633807303_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The Dell XPS 16 is one of the first laptops to sport the new "Copilot" button, integrating Microsoft's AI-powered Bing Chat assistant directly into the hardware. While the Copilot icon is accessible from the Windows 11 taskbar, the dedicated keyboard button offers a more convenient way to summon the AI companion. With Copilot, you can ask questions, get creative suggestions, summarize information, and more, making it a handy tool for both work and personal use.
@@ -232,21 +235,19 @@ Jerome Thomas / How-To Geek
 
  With this array of AI-powered features and pre-installed software, the Dell XPS 16 offers a comprehensive and user-friendly experience right out of the box.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy the Dell XPS 16 (9640)?
 
 ![Dell XPS 16 with its cables and charge on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/the-dell-xps-16-9640-with-charging-cable-and-muliport-adapter_53634038265_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The [Dell XPS 16 (9640)](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F3607085%2Ftype%2Fdlg%2Fsid%2FUUhtgUeUpU2003759%2Fhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Flaptops%2F16-new%2Fspd%2Fxps-16-9640-laptop) is a powerful, versatile laptop with excellent performance, a stunning display, and advanced features. However, its design flaws and variable battery life may be drawbacks for some users. If you prioritize performance and display quality over portability and battery life, the XPS 16 is a worthy consideration.
 
 ![Dell XPS 16 9640](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-27-vsdm8wdb-2x.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
@@ -264,8 +265,6 @@ Bring your most intensive projects to life with our most powerful XPS laptop, en
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -273,4 +272,21 @@ Bring your most intensive projects to life with our most powerful XPS laptop, en
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-immersive-worlds-confrontation-metaverse-vs-omniverse-explored/"><u>[New] Immersive Worlds Confrontation Metaverse Vs. Omniverse Explored</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-ultimate-guide-to-best-liked-ae-templates/"><u>[New] In 2024, The Ultimate Guide to Best-Liked AE Templates</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-subtitle-extraction-from-zip-archives-the-srt-solution/"><u>[New] Subtitle Extraction From ZIP Archives – The Srt Solution</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-unnoticed-yet-there-watching-instagram-livestreams-undetected/"><u>[New] Unnoticed Yet There Watching Instagram Livestreams Undetected</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-eliminate-live-sharing-on-devices/"><u>[Updated] How to Eliminate Live Sharing on Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-definitive-iphone-podcast-download-guide/"><u>[Updated] The Definitive iPhone Podcast Download Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-essential-shoppers-guide-to-modern-360cams/"><u>[Updated] The Essential Shopper's Guide to Modern 360Cams</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-mastering-hdr-image-creation-and-merging-in-lightroom/"><u>2024 Approved Mastering HDR Image Creation & Merging in Lightroom</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tackling-iphone-lens-failures-with-ease/"><u>2024 Approved Tackling iPhone Lens Failures with Ease</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-honor-x50i-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Honor X50i for Streaming | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transformative-audio-techniques-srt-conversion-mastery/"><u>In 2024, Transformative Audio Techniques SRT Conversion Mastery</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-honor-x9a-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor X9a Reset Code | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Vivo X100 | Dr.fone</u></a></li>
+</ul></div>
 

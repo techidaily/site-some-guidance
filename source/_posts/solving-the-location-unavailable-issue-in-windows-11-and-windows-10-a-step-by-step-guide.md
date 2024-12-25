@@ -1,7 +1,7 @@
 ---
 title: "Solving the 'Location Unavailable' Issue in Windows 11 and Windows 10: A Step-by-Step Guide"
-date: 2024-08-31T06:11:23.406Z
-updated: 2024-09-01T06:11:23.406Z
+date: 2024-12-19T02:19:50.019Z
+updated: 2024-12-25T01:35:53.106Z
 tags:
   - desktop
 categories:
@@ -27,11 +27,19 @@ thumbnail: https://thmb.techidaily.com/3f74865abe3cde83f5178213b8f2028e6688a23ca
 
  You should also [check the Recycle Bin to if it is there](https://some-skills.techidaily.com/2024-approved-unlock-iphone-editing-magic-shorter-smaller-videos/). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Check the External Drive's Connection
 
  If your folder is on an external drive, ensure the drive is correctly connected to your PC. Windows won't be able to read data from an incorrectly or loosely connected drive, and it like [won't show up at all](https://instagram-videos.techidaily.com/updated-2024-approved-captivating-cycles-on-ig-perfecting-the-boomerang-effect/). Make sure to try the USB ports on the back of your desktop PC, rather than the ports on the front of the case or on a USB hub.
 
  Try disconnecting and re-connecting the drive to your PC. Then, check if your USB drive (and folder) has reappeared. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Ensure You're Connected to the Network
 
@@ -54,16 +62,17 @@ thumbnail: https://thmb.techidaily.com/3f74865abe3cde83f5178213b8f2028e6688a23ca
 !['Restart' highlighted for Windows Explorer in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-restart-windows-explorer.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Windows Explorer will close and relaunch. If it faces issues re-opening, force-launch it. To do that in Windows 11's Task Manager, click "Run New Task." In Windows 10's Task Manager, select File > Run New Task. Then, type **explorer.exe** in the open field and press Enter.
 
 !['Run New Task' highlighted in Windows 11's Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-run-new-task-task-manager.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Check if the Drive’s Letter Has Changed
 
  If you're trying to access a folder via a shortcut, and the drive where the actual folder exists has its [drive letter changed](https://fox-http.techidaily.com/updated-2024-approved-professional-editors-guide-fcps-top-10-plugins/), you’ll experience issues accessing the folder.
@@ -86,9 +95,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Wait while the antivirus finds and removes threats from your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Use System Restore
 
  If you’re trying to access a system folder, it’s possible a change you made to your system has moved that item. In this case, [use System Restore](https://article-posts.techidaily.com/in-2024-proven-methods-to-infuse-engaging-dialogue-in-videos/) to roll back your system changes.
@@ -98,22 +104,17 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 !['Open System Restore' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-launch-system-restore.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Select "Next," choose the most recent restore point, and click "Next."
 
 ![A restore point and 'Next' highlighted in System Restore.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-choose-restore-point.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  Select "Finish" to start restoring your PC.
 
 !['Finish' highlighted in System Restore.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-start-restoring-pc.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  After restoring the PC, you should have access to your folder. 
 
  If you still can't locate your folder, it may have been permanently deleted. You could try [running recovery software](https://screen-sharing-recording.techidaily.com/updated-snap-and-save-the-ultimate-list-of-top-8-free-android-recorders-for-2024/) to get it back, but that is unlikely to work on modern SSDs. The best way to prevent data loss is to [make regular backups of your important files and folders](https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-14-pro-max-if-youve-tried-everything-by-drfone-ios/).
@@ -124,8 +125,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +132,20 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-unleashing-visual-potential-is-pickup-the-pinnacle-of-android-editing-tools/"><u>[New] 2024 Approved Unleashing Visual Potential Is PickUp the Pinnacle of Android Editing Tools?</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-how-to-optimize-solo-streaming-with-flawless-execution/"><u>[New] How to Optimize Solo Streaming with Flawless Execution</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamlined-process-for-avi-transformations-into-web-friendly-gif-using-filmora/"><u>[New] Streamlined Process for AVI Transformations Into Web-Friendly GIF Using Filmora</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-secrets-to-pristine-bg-removal-techniques-in-figma/"><u>[Updated] Unveiling Secrets to Pristine BG Removal Techniques in Figma</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-the-world-through-your-lens-how-to-become-a-professional-travel-vlogger/"><u>[Updated] Unveiling the World Through Your Lens How To Become A Professional Travel Vlogger</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-tech-tips-snagging-your-fb-status-video/"><u>2024 Approved Tech Tips Snagging Your FB Status Video</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-xiaomi-redmi-12-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Xiaomi Redmi 12 5G Phone that is Locked?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-sound-trailblazers-guide-kicking-off-with-fade-in-techniques/"><u>In 2024, The Sound Trailblazer’s Guide Kicking Off with Fade-In Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-tier-technical-tips-to-secure-flawless-broadcasting/"><u>In 2024, Top-Tier Technical Tips to Secure Flawless Broadcasting</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-glossary-for-googles-voice-to-text-feature/"><u>In 2024, Ultimate Glossary for Google's Voice-to-Text Feature</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-premiere-pro-2023-importing-editing-and-exporting-videos-for-beginners-for-2024/"><u>New Premiere Pro 2023 Importing, Editing, and Exporting Videos for Beginners for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-srt-openedit-manual-for-mac-users-for-2024/"><u>Ultimate SRT Open/Edit Manual for Mac Users for 2024</u></a></li>
+<li><a href="https://solve-info.techidaily.com/unleash-the-potential-of-clever-automation-this-september-join-abbyys-enlightening-journey/"><u>Unleash the Potential of Clever Automation This September – Join ABBYY's Enlightening Journey</u></a></li>
+</ul></div>
 

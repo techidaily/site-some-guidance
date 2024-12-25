@@ -1,7 +1,7 @@
 ---
 title: "Origin-940 Brisk It Reviewed: The Intelligent Cigar Humidor with Minimal Supervision Needed"
-date: 2024-08-31T06:07:41.447Z
-updated: 2024-09-01T06:07:41.447Z
+date: 2024-12-17T21:14:50.477Z
+updated: 2024-12-25T01:26:51.585Z
 tags:
   - product-reviews
 categories:
@@ -92,15 +92,17 @@ Expand
 [$1099.99 at Brisk It](https://briskitgrills.com/collections/all/products/brisk-it-origin-940-smart-grill) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Look of a Smart Grill
 
 ![Showing the Brisk It Origin-940 with the lid open and empty](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/43711392-3d97-43b7-9a5e-4282b13fcca0.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  The Origin-940 is Brisk It’s second grill. It joins the smaller [Origin-580 model](https://briskitgrills.com/collections/all/products/origin-580-smart-pellet-grill), primarily adding more cooking space without changing the formula too much. In fact, using the Origin-940 felt a lot like using the Origin-580\. It was noticeably bigger while loading it with meat, but the unit didn’t overly consume my suburban backyard. Apartment dwellers with tiny patios should stick to the smaller model, but anyone with some space could go with either option.
@@ -122,15 +124,13 @@ Tyler Hayes / How-To Geek
  The unit never felt unstable, but overall, it’s a more barebones product than some other wood pellet smokers on the market. It’s not the most polished, but it’s also an outdoor grill. I didn't mind its simple look and configuration.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Cooking With the Origin-940 Smoker
 
 ![A view of the Brisk It Origin-940 from the side with the pellet hopper door open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/358e870c-386d-4369-83f4-4c960be54420.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  I usually try to cook a wide range of foods when testing smokers. From shorter commitments like burgers and steaks to longer smoking sessions for pulled pork and brisket. The Origin-940 had much more space than I needed to cook burgers for my family, but it worked surprisingly well. The ignition process and getting the grill going takes longer than using propane, but other than that, it works similarly. I think burgers have a little better taste, too.
@@ -140,6 +140,10 @@ Tyler Hayes / How-To Geek
  To test a longer cook, I used a 5lb pork butt. This took around nine hours to smoke and another hour to rest. The meat pulled away beautifully and was nice and juicy. Next time, I'll likely adjust the spices I used, but that part was on me. I didn’t run into any connection interruptions or technical issues. At one point, between 150 and 160 degrees, the Brisk It app alerted me to a potential temperature stall (a normal thing) and suggested a way to keep the food cooking on pace.
 
 ![A 5lb pork butt on the Brisk It Origin-940](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/3453ef24-0eb1-4b88-b800-ee02243ba1ae.JPG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -165,18 +169,12 @@ Close
 
 ![A side view of the Brisk It Origin-940 showing the screen and controls](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/09/0987dde7-51a8-43dc-96d8-65355837e5ab.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  It's not just the Brisk It grills that have added Wi-Fi. Plenty of cooking appliances are adding wireless connectivity to assist in smart cooking. Being alerted when the food needs attention is too convenient not to have on all kinds of devices.
 
  Brisk It is less subtle about its wireless connection than Traeger, but it seemed subjectively more reliable. Unlike Traeger’s hidden connection point, Brisk It attaches a black antenna underneath its grills, in plain sight, that can then be angled and repositioned. Potentially unsightly? Maybe. In this case, more stability is a better substitute.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Brisk It Mobile App
 
 Close 
@@ -187,9 +185,17 @@ Close
 
  So, while I had no problem using the app overall, it ultimately is one of the weakest parts of the Brisk It Origin-940 simply because the grill itself leaves little to be desired.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Origin-940 Price and Availability
 
  The Brisk It Origin-940 is available for purchase and retails for $1,399.99\. It launched with a promotional price of $1,099.99.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Should You Buy the Brisk It Origin-940?
 
@@ -203,9 +209,6 @@ Tyler Hayes / How-To Geek
 
 ![briskit grill](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/briskit-grill-fixed.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
 #####  Brisk It Origin-940
@@ -224,8 +227,6 @@ Remotely manage your Origin-940 from your mobile phone with confidence—anytime
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -233,4 +234,23 @@ Remotely manage your Origin-940 from your mobile phone with confidence—anytime
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-boost-bandw-vibrancy-ps-grading-hacks/"><u>[New] Boost B&W Vibrancy PS Grading Hacks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-composing-an-alluring-cinematic-teaser-track/"><u>[New] Composing an Alluring Cinematic Teaser Track</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-mastering-youtubes-seo-landscape-a-keyword-expedition/"><u>[Updated] Mastering YouTube's SEO Landscape A Keyword Expedition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-prime-collection-of-gopro-complements/"><u>[Updated] The Prime Collection of GoPro Complements</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-30-beneath-the-surface-tips-for-optimized-windows-11/"><u>[Updated] Top 30 Beneath-the-Surface Tips for Optimized Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-superior-audio-modification-software-with-enchanting-features/"><u>2024 Approved Superior Audio Modification Software with Enchanting Features</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-8-best-vr-controllers-to-check-out/"><u>2024 Approved Top 8 Best VR Controllers to Check Out</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-vivo-t2-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Vivo T2 5G FRP</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-install-the-latest-amd-radeon-r9-360-drivers-on-windows-11-free-downloads-inside/"><u>Find & Install the Latest AMD Radeon R9 360 Drivers on Windows 11: Free Downloads Inside!</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-15-plus-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 15 Plus to iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-xs-max-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone XS Max to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-talecraft-triumphs-the-leading-academies-in-narrative-arts/"><u>In 2024, Talecraft Triumphs The Leading Academies in Narrative Arts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-pathway-to-free-final-cut-pro/"><u>In 2024, The Pathway to Free Final Cut Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-ffxp-an-in-depth-guide/"><u>In 2024, Unveiling FFXP An In-Depth Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/power-up-your-bitcoin-experience-on-windows-using-new-amd-drivers/"><u>Power Up Your Bitcoin Experience on Windows Using New AMD Drivers</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/transforma-tu-video-quicktime-qt-en-format-mov-gratuito-en-linea-usando-movavi/"><u>Transforma Tu Video QuickTime (QT) en Format MOV Gratuito en Línea Usando Movavi</u></a></li>
+</ul></div>
 

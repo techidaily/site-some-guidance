@@ -1,7 +1,7 @@
 ---
 title: Convince People You're a Crafty Linux Whiz with Five Easy Terminal Hacks
-date: 2024-08-31T06:09:40.432Z
-updated: 2024-09-01T06:09:40.432Z
+date: 2024-12-21T17:40:56.741Z
+updated: 2024-12-24T23:35:26.753Z
 tags:
   - desktop
 categories:
@@ -13,9 +13,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 While I am a Linux daily driver, and I do sprinkle the terminal with commands now and then, I'm by no means a hacker. That didn't stop me from looking the part, though, since it turns out several simple commands (and a whole app) exist to make you look like a star in a florid cyberthriller. Here they are and how to run them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1  neofetch 
 
 ![neofetch command output on an Ubuntu operating system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2024-02-14_16h38_17.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Starting simple, neofetch is perfect for when you want to send your friends a screenshot of your sweet new Linux desktop with a terminal open to make it look like you know how to use it. You simply run the command and some stats about your system will be printed next to a big [ASCII art](https://en.wikipedia.org/wiki/ASCII%5Fart) version of your distro's logo. If you've ever checked out r/UnixPorn, you'll recognize it as one of the more popular outputs to have printed in an open terminal.
 
@@ -58,8 +66,9 @@ cmatrix
  You've got several flags (short bits of text you add onto the command) that will let you customize the look or function, like -r to get rainbow colors or -s to make it act like a screensaver where any keystroke closes the program. Use the **cmatrix -h** command to see them all.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3  genact 
 
 Your browser does not support the video tag. 
@@ -77,8 +86,9 @@ snap install genact
  If none of that setup appeals to you, you'll be happy to learn you don't need a terminal (or even a Linux distribution); you can simply [open genact in your browser](https://svenstaro.github.io/genact/). Fullscreen your browser with the F11 key for full effect.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4  hollywood 
 
 Your browser does not support the video tag. 
@@ -100,17 +110,9 @@ sudo pacman -S hollywood
  Once it's installed, going hacker mode is as simple as typing **hollywood** into your terminal and hitting Enter.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5  eDEX-UI 
 
 Your browser does not support the video tag. 
@@ -129,8 +131,6 @@ Your browser does not support the video tag.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +138,21 @@ Your browser does not support the video tag.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-inside-look-the-full-power-of-polarr-photo-editor/"><u>[New] Inside Look The Full Power of Polarr Photo Editor</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tech-talk-video-showcase-assessment/"><u>[New] Tech Talk Video Showcase Assessment</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-expert-advice-perfected-media-import-techniques-for-windows-10-for-2024/"><u>[Updated] Expert Advice Perfected Media Import Techniques for Windows 10 for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-ultimate-screening-youtubes-most-liked-creators/"><u>[Updated] In 2024, The Ultimate Screening YouTube's Most Liked Creators</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-marketing-unveiling-techniques/"><u>[Updated] Marketing Unveiling Techniques</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-master-recommendations-best-audio-crafting-pros/"><u>[Updated] Master Recommendations Best Audio Crafting Pros</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtube-tunes-heres-how-to-download-safely-and-free/"><u>[Updated] Youtube Tunes? Here's How to Download Safely & Free</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-comprehensive-key-to-efficient-morphvox-usage/"><u>2024 Approved The Comprehensive Key to Efficient MorphVOX Usage</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-pinnacle-of-media-excellence-top-phones-videos/"><u>2024 Approved The Pinnacle of Media Excellence Top Phones Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/giggle-graphics-humorhub/"><u>Giggle Graphics HumorHub</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-realme-narzo-n53-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Realme Narzo N53 Quickly? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installing-epson-perfection-v39-printers-on-windows-download-correct-drivers/"><u>Installing Epson Perfection V39 Printers on Windows: Download Correct Drivers!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/picture-to-cartoon-transformation-made-easy-for-2024/"><u>Picture to Cartoon Transformation Made Easy for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-slomo-videography-tool-assessment-for-2024/"><u>Ultimate SloMo Videography Tool Assessment for 2024</u></a></li>
+</ul></div>
 

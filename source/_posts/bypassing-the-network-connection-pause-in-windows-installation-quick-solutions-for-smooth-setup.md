@@ -1,7 +1,7 @@
 ---
 title: Bypassing the Network Connection Pause in Windows Installation - Quick Solutions for Smooth Setup
-date: 2024-08-31T06:12:06.396Z
-updated: 2024-09-01T06:12:06.396Z
+date: 2024-12-18T22:39:20.641Z
+updated: 2024-12-25T00:42:55.815Z
 tags:
   - deals
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 * [Use the Command Prompt to Bypass the Internet Requirement](https://vp-tips.techidaily.com/updated-2024-approved-ranking-relaxing-front-row-activities-that-arent-sports/)
 * [End the Network Connection Flow Process](https://win11.techidaily.com/tackling-blank-screen-issues-after-attempting-to-connect/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * If Windows 11 installation gets stuck at the "Let's connect to a network" screen, double-check that your internet is working. Restarting your router might fix the issue, or you can use your mobile hotspot as a temporary solution.
@@ -25,11 +29,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
  Windows 11 requires an active internet connection to download crucial updates and create an account during the installation process. However, the installation will stall at the "Let's connect you to a network" screen if you lack an internet connection. Fortunately, you can employ a few workarounds to bypass this network setup screen and proceed with your Windows 11 installation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  1\. Check Your Connection
 
  On the "Let's connect you to a network" screen, you'll see the names of available connections. However, if you can't connect to any of them, whether it's Wi-Fi or your wired connection, there's probably a problem with the connection itself.
 
 ![Let's connect you to a network screen during Windows installation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/let-s-connect-you-to-a-network.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To confirm that the problem lies with your Wi-Fi, not your Windows computer, try connecting your smartphone or another device to the Wi-Fi and check if you can access the internet on it. If the internet doesn't work on that device either, then it confirms that the issue resides with your Wi-Fi. The solution, in this case, is to [restart the router](https://extra-information.techidaily.com/updated-chuckle-centric-ringtone-websites-guide/). You can even contact your ISP for further assistance.
 
@@ -41,9 +53,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
  To install Windows 11 without an internet connection and bypass the "Let's connect you to a network" screen, follow the next methods in this guide.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  2\. Use the Command Prompt to Bypass the Internet Requirement
 
  When you encounter the "Let's connect you to a network" screen, you can execute the "OOBE\\BYPASSNRO" command in Command Prompt to bypass the connectivity requirement during the Windows 11 installation process. To achieve this, press Shift+F10 to launch Command Prompt while on the "Let's connect you to a network" screen.
@@ -52,21 +61,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
 ![Internet Bypass command in Command Prompt window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/internet-bypass-command.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Your computer will then restart, prompting you to select your region and keyboard layout once more. Afterward, you will arrive at the network setup screen. However, this time, you will have the "I don't have internet" option available, which you can click to proceed with the Windows 11 installation process without an internet connection.
 
 ![I don't have internet option during Windows installation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/i-don-t-have-internet-option.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  One important thing to note here is that you'll end up [creating a local user account](https://tech-recovery.techidaily.com/protect-your-system-with-these-15-free-instant-boot-antivirus-tools/) instead of a Microsoft account when you try to install Windows 11 without an internet connection. However, you can always switch to a Microsoft account later.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  3\. End the Network Connection Flow Process
 
  The network connection flow is an essential Windows process that detects and configures network connections on your computer. This process runs during Windows 11 installation and ensures your computer has an internet connection for downloading critical updates.
@@ -81,20 +85,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
 ![End Task option in Task Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/end-task-option.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
  Type **exit** in the Command Prompt window and press Enter.
 
 ![Exit command in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/exit-command.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After that, the "Let's connect you to a network" screen will disappear, and you can continue the installation without an internet connection.
 
 ---
@@ -107,8 +105,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +112,21 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-elite-4k-gaming-laptops-ranked-1/"><u>[New] 2024 Approved Elite 4K Gaming Laptops Ranked #1</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-new-normal-for-video-editing-with-movavi-pro-updated-to-2024/"><u>[New] The New Normal for Video Editing with Movavi Pro, Updated to 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-creators-revolutionizing-virtual-environments/"><u>[New] Top Creators Revolutionizing Virtual Environments</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleash-luxury-top-10-accessories-for-the-sj4000/"><u>[New] Unleash Luxury Top 10 Accessories for the SJ4000</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-capture-and-transfer-igtv-videos-on-handheld-tech/"><u>[Updated] 2024 Approved Capture and Transfer IGTV Videos on Handheld Tech</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-pathway-to-prominence-on-social-media-for-2024/"><u>[Updated] The Pathway to Prominence on Social Media for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/bdmvfreewindows/"><u>BDMVファイルをFreeにWindows上で再生する手順</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-13-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone 13 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-superior-sd-cards-that-power-up-your-gopro-hero-78/"><u>In 2024, Superior SD Cards that Power Up Your GoPro Hero 7/8</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-deficit-dilemma-lacking-inventiveness-in-vr/"><u>In 2024, The Deficit Dilemma Lacking Inventiveness in VR</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ps4-portal-launch-date-and-pricing-full-specifications-and-purchase-locations/"><u>PS4 Portal Launch Date & Pricing: Full Specifications & Purchase Locations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-zoom-setup-ensuring-smooth-video-conferencing-for-2024/"><u>The Art of Zoom Setup Ensuring Smooth Video Conferencing for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/thriving-in-live-streaming-mastery-through-onestream-use-for-2024/"><u>Thriving in Live Streaming Mastery Through OneStream Use for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-replace-sony-vegas-with-these-powerful-windows-video-editing-tools/"><u>Updated Replace Sony Vegas with These Powerful Windows Video Editing Tools</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Uncovering Hidden Pictures: A Comprehensive Tutorial for Locating Photos on a Windows Pertinent to Your Device."
-date: 2024-08-31T06:11:38.412Z
-updated: 2024-09-01T06:11:38.412Z
+date: 2024-12-20T20:39:40.785Z
+updated: 2024-12-25T01:28:29.851Z
 tags:
   - desktop
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/316b7f440a48066f0155d24f5ae2cf9cf3a70b004
 * [How to Find All Your Photos Manually](https://facebook-videos.techidaily.com/from-chats-to-files-the-methodical-approach-to-downloading-fb-video-for-2024/)
 * [A Better Way: Let Windows Search Find All Your Photos](https://article-helps.techidaily.com/2024-approved-windowsmacos-execute-and-enjoy-srt-files/)
 * [Use a Third-Party App](https://screen-capture.techidaily.com/updated-in-2024-obs-alternatives-reviewed-by-experienced-broadcinas/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -34,8 +38,9 @@ thumbnail: https://thmb.techidaily.com/316b7f440a48066f0155d24f5ae2cf9cf3a70b004
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_19h47_11-1.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_19h47_11-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  A Better Way: Let Windows Search Find All Your Photos
 
  File Explorer has a quick trick for searching for different types of documents. It's not exactly hidden, but most people never bother with it.
@@ -58,9 +63,6 @@ kind:=picture
 
 ![/wordpress/wp-content/uploads/2018/10/2018-10-31_20h24_06.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/2018-10-31_20h24_06.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  As you can see, the results return everything from pictures used by the system to personal pictures contained within the folder and all its subfolders. The search includes images saved in JPG, PNG, GIF, and BMP formats, which are the most common formats used. If you've got pictures stored in another format, like RAW, you'll have to find them another way.
 
  The search I ran on my C: drive came back with 27,494 pictures.
@@ -72,12 +74,9 @@ kind:=picture
 ![/wordpress/wp-content/uploads/2018/11/2018-11-01_11h39_56.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/11/2018-11-01_11h39_56.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
+
 ##  Use a Third-Party App
 
  You can also use a third-party app, like [WizTree](https://diskanalyzer.com/), to find image files. Launch or install the app, then click "Scan" to analyze your hard drive and create an index of all of your files.
@@ -85,20 +84,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Click the "Scan" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-scan-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once it is done you'll see a colorful array of blocks at the bottom that represent the files and folders on your PC. Click the filter button at the top, enter **\*.** followed by an image file format, then click "Apply Filter." If you wanted to find every PNG file, for example, you'd enter **\*.png** into the filter field. If you wanted to find JPEGs, you'd enter **\*.jpeg** into the filter field instead.
 
  The asterisk (\*) is used as a wildcard character. In our case, it tells WizTree: "Look for a file with _any_ name that ends in a specific file format."
 
 ![Click the filter button, enter an image format, then click "Apply Filter."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-include-filter-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The colored blocks at the bottom will now only represent image files (in our case PNGs). You can click on them one by one, or open entire folders.
 
 ![Individual PNG files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-individual-files.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  PNGs and JPEGs aren't the only image formats, though. Here are some common ones you might want to look for:
 
@@ -119,8 +120,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +127,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-visual-storytelling-explore-the-top-15-luts-enhancing-gopro-clips-for-2024/"><u>[New] Visual Storytelling Explore the Top 15 LUTs Enhancing GOPRO Clips for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-decode-facebooks-algorithm-change-and-protect-your-reach/"><u>[Updated] In 2024, Decode Facebook’s Algorithm Change & Protect Your Reach</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-free-resource-pack-high-quality-pp-samples/"><u>[Updated] The Ultimate Free Resource Pack High-Quality PP Samples</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-ideas-for-making-your-podcast-stand-out-visually/"><u>2024 Approved Top 10 Ideas for Making Your Podcast Stand Out Visually</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-full-potential-integrating-zoom-and-fb-live-events/"><u>2024 Approved Unlock Full Potential Integrating ZOOM and FB Live Events</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unpacking-the-wirecast-experience-and-its-rivals/"><u>2024 Approved Unpacking the WireCast Experience & Its Rivals</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-how-to-use-telegram-web-step-by-step-guide/"><u>In 2024, How To Use Telegram Web Step-By-Step Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210769945-9798218135270-messages-from-ramadear/"><u>Messages from Ramadear | Free Book</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/prime-online-destinations-featuring-3d-art-and-metallic-text-for-2024/"><u>Prime Online Destinations Featuring 3D Art & Metallic Text for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-window-10-screen-saver-malfunction-with-these-simple-steps/"><u>Resolve Window 10 Screen Saver Malfunction with These Simple Steps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/strategies-for-seamless-iphone-photos-sorting-and-icloud-backup-management-for-2024/"><u>Strategies for Seamless iPhone Photos Sorting & iCloud Backup Management for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-quiet-quality-of-comfort-asmr-expert-choices/"><u>The Quiet Quality of Comfort ASMR Expert Choices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-11-techniques-for-perfecting-hue-balance-for-2024/"><u>Top 11 Techniques for Perfecting Hue Balance for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-chat-experience-why-switch-to-chatgptplus/"><u>Transform Your Chat Experience - Why Switch to ChatGPT+?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-list-10-free-video-rotators-for-any-device/"><u>Updated The Ultimate List 10 Free Video Rotators for Any Device</u></a></li>
+</ul></div>
 

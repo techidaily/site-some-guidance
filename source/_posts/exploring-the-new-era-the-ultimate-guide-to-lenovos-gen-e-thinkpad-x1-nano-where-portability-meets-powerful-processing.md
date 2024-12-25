@@ -1,7 +1,7 @@
 ---
 title: "Exploring the New Era: The Ultimate Guide to Lenovo's Gen E ThinkPad X1 Nano - Where Portability Meets Powerful Processing."
-date: 2024-08-31T06:07:23.759Z
-updated: 2024-09-01T06:07:23.759Z
+date: 2024-12-20T20:26:37.247Z
+updated: 2024-12-24T22:42:46.003Z
 tags:
   - product-reviews
 categories:
@@ -134,13 +134,14 @@ Expand
 
 [Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadx1%2Fthinkpad-x1-nano-gen-3-%2813-inch-intel%29%2Flen101t0054) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  A Compact, Lightweight Design
 
 ![The Lenovo ThinkPad X1 Nano Gen 3 laptop open on a workbench.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/the-lenovo-thinkpad-x1-nano-gen-3-open-on-a-workbench-2jpg_53068028802_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  When unboxing the ThinkPad X1 Nano Gen 3, I felt like I was holding any other ThinkPad—but in the most featherlight form I had ever seen. The X1 Nano Gen 3's chassis has a familiar, premium feel with a magnesium alloy bottom and carbon fiber top. The top cover features the iconic ThinkPad logo and red indicator light. With the screen open, the ThinkPad X1 Nano houses its webcam in the top bevel and a privacy shutter to the right side of it. The quad microphone array is located at the top edge of the lid, while there's a sleek "X1 Nano" logo in the bottom-right corner of the cover.
@@ -152,15 +153,13 @@ Close
  Unfortunately, there isn't much to discuss in the way of ports. The X1 Nano conserves space by including only two USB-C ports and a headphone/microphone jack on the left side of the device. Yep, this [laptop only has USB-C ports](https://printer-issues.techidaily.com/breathe-new-life-into-non-printing-brother-printer-in-windows-1011/). Completely absent of an HDMI port and USB-A ports, most users will want to invest in some USB-A to USB-C adapter cables or a [USB-C hub](https://extra-approaches.techidaily.com/2024-approved-joint-venture-campaigns-for-brands-on-video-platforms/) to make plugging in possible.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Inputs: The Touchscreen, Trackpad, and Keyboard
 
 ![Top view of the keyboard and TrackPad on the Lenovo ThinkPad X1 Nano Gen 3.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/top-view-of-the-keyboard-and-trackpad-on-the-lenovo-thinkpad-x1-nano-gen-3jpg_53068027362_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  Like most ThinkPads, the X1 Nano combines a comfy type-feel with an excellent Trackpad (complete with handy buttons) and a responsive touchscreen to bring you a trio of inputs done right. I found the X1 Nano's keyboard to have a perfect balance of give and springiness.
@@ -168,6 +167,10 @@ Hannah Stryker / How-To Geek
  The touchpad is still a decent size (2.20 x 4.33in), so I could make precise swipes, double-finger drags, taps, and other gestures without trouble.
 
  Regarding the touchscreen, I used it to drag pages, scroll, tap through browser tabs, and more without a blip.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Display and Graphics: Clear 2K Makes Media Pleasurable
 
@@ -183,16 +186,14 @@ Close
 
  While the screen isn't 4K, 2K is better than the alternative of even fewer pixels, and in most cases, I found the graphics satisfying. Where I noticed less-than-incredible graphics was more so in gaming resource-heavy titles. But if you're the average Joe seeking casual entertainment, the X1 Nano does its job.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Performance: A Joy to Work and Play
 
 ![Person working on the Lenovo ThinkPad X1 Nano Gen 3.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/person-working-on-the-lenovo-thinkpad-x1-nano-gen-3-2jpg_53068642443_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  Overall, the Lenovo ThinkPad X1 Nano Gen 3 laptop met my high expectations of what a ThinkPad should be—a premium laptop for people who work on computers a lot. I also found a lot to love in terms of entertainment and multimedia. While the Nano is not the best of the best for all your entertainment needs, it's an excellent choice for someone who uses their laptop for light to moderate multimedia consumption. If you work, work, work, and then like to take a quick gaming or Spotify break, the Nano passed that test with flying colors.
@@ -203,22 +204,14 @@ Hannah Stryker / How-To Geek
 
  The only instances where I noticed a significant dip in processing performance were when I left many browser tabs and a couple of programs running while gaming or when I was gaming while downloading a large game in the background.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Gaming: Satisfies Reasonable Hobbyist Expectations
 
 ![The Lenovo ThinkPad X1 Nano Gen 3 laptop playing a scene with a smoking man from the game "As Dusk Falls."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/gaming-hero-image.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Cianna Garrison / How-To Geek
 
 _"As Dusk Falls"_
@@ -232,6 +225,10 @@ Close
  Games like "As Dusk Falls," "Coral Island," and "Disney Dreamlight Valley" performed very well, with zero latency and uninterrupted gameplay. But I encountered problems when playing "Bramble: The Mountain King" and "Life Is Strange: True Colors." For "Bramble," the default high graphics settings and infinite frame rate were too much. Whenever I manually adjusted the graphics to a "medium" setting and 60Hz, the game performed well enough to play it.
 
  I noticed similar issues while playing "Life Is Strange: True Colors"—with a latent screen panning that irritated me. I resolved this by closing out my existing internet tabs and pausing another game download to free up some working memory. This smoothed out the gameplay, so if you game with the X1 Nano, you'll want to close out any resource-heavy programs before you launch your chosen virtual universe. (Also known as that runaway [program using all your CPU](https://video-screen-grab.techidaily.com/in-2024-from-spoken-word-to-memo-iphone-audio-guidance/)). When I played again, with no other open programs, it ran beautifully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Camera, Mics, and Speakers
 
@@ -247,20 +244,18 @@ Hannah Stryker / How-To Geek
 
 ![Speakers of the Lenovo ThinkPad X1 Nano Gen 3.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/speakers-of-the-lenovo-thinkpad-x1-nano-gen-3jpg_53068806139_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  For working professionals, the 360-degree quad microphone array on the X1 Nano is a joy to use for video calls or voice memos. The microphones can clearly pick up your voice, even when you're speaking quietly.They can also cut out background noise. In my testing, background noises like traffic sounds and light chatter were nearly nonexistent. If you're speaking at louder volumes, however, you may notice clipping in the sound. I tried recording myself singing with the laptop close by, and the resulting audio was full of cut-off notes.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Microphone Test on the X1 Nano Gen 3 Laptop in a Quiet Environment
 
 Your browser does not support the video tag. 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  Microphone Test on the X1 Nano Gen 3 Laptop in a Noisy Environment
 
 Your browser does not support the video tag. 
@@ -271,13 +266,14 @@ Your browser does not support the video tag.
 
  As far as charging speed, thanks to Rapid Charge, the laptop gains at a high rate. In one hour, I averaged around 40% charge—and I did see Rapid Charge speeds of up to 70% charge in one hour.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Should You Buy the Lenovo ThinkPad X1 Nano Gen 3 Laptop?
 
 ![Person holding the closed Lenovo ThinkPad X1 Nano Gen 3.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/person-holding-the-closed-lenovo-thinkpad-x1-nano-gen-3jpg_53069007870_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  If you're in the market for an ultraportable laptop that doesn't sacrifice power for size, the [Lenovo ThinkPad X1 Nano Gen 3](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadx1%2Fthinkpad-x1-nano-gen-3-%2813-inch-intel%29%2Flen101t0054) (starting at $1,217) is one of the best tiny laptops you'll find. It's a great solution for digital nomads (even with the lack of ports). However, if you need a laptop that offers more flexibility with gaming, a larger screen, or more ports, you might want to shop around or try the [Lenovo ThinkPad X1 Carbon (Gen) 11](https://shop-links.co/link/?exclusive=1&publisher%5Fslug=howtogeek&u1=UUhtgUeUpU904740&article%5Fname=Lenovo+ThinkPad+X1+Nano+Gen+3+Laptop+Review%3A+A+Marriage+of+Portability+and+Powerful+Computing+&article%5Furl=https%3A%2F%2Fwww.howtogeek.com%2Flenovo-thinkpad-x1-nano-gen-3-laptop-review%2F&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadx1%2Fthinkpad-x1-carbon-gen-11-%2814-inch-intel%29%2Flen101t0049).
@@ -302,8 +298,6 @@ The Lenovo X1 Nano Gen 3 laptop takes portability to the next level Intel Core i
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -311,4 +305,26 @@ The Lenovo X1 Nano Gen 3 laptop takes portability to the next level Intel Core i
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-uncomplicated-tutorial-for-capturing-mac-screenshots/"><u>[New] 2024 Approved Uncomplicated Tutorial for Capturing Mac Screenshots</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-premium-sound-on-a-dime-top-value-asmr-gear-uncovered-here/"><u>[New] Premium Sound on a Dime Top Value ASMR Gear Uncovered Here</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-strategizing-success-the-open-door-approach/"><u>[New] Strategizing Success The Open Door Approach</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-visionary-educators-guide-to-multimedia-use/"><u>[New] The Visionary Educator's Guide to Multimedia Use</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-zoom-features-on-windows-11-pcs/"><u>[New] Unlocking Zoom Features on Windows 11 PCs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-discover-the-top-10-vector-image-hubs/"><u>[Updated] 2024 Approved Discover the Top 10 Vector Image Hubs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamlining-zoom-features-on-your-chromebook/"><u>[Updated] Streamlining Zoom Features on Your Chromebook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-verdict-on-vllo-performance/"><u>[Updated] The Verdict on VLLO Performance</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-advanced-hd-screen-documentation-gadgets/"><u>2024 Approved Advanced HD Screen Documentation Gadgets</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-assembly-crafting-your-personalized-4k-video-editor-pc/"><u>2024 Approved The Art of Assembly Crafting Your Personalized 4K Video Editor PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-guide-top-7-superior-wet-proof-camcorders/"><u>2024 Approved Ultimate Guide Top 7 Superior Wet-Proof Camcorders</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audience-enchantment-advanced-audacity-crossfading/"><u>Audience Enchantment Advanced Audacity Crossfading</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-lava-blaze-2-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Lava Blaze 2 Phone? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-to-mp4-for-sony-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD MTS to MP4 for Sony ?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-nokia-c12-plus-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Nokia C12 Plus Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-mac-speech-to-text-apps-youre-not-aware-of/"><u>In 2024, Top Mac Speech-to-Text Apps You're Not Aware Of</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-ubisoft-connect-speeds-for-faster-game-installation/"><u>Optimizing Ubisoft Connect Speeds for Faster Game Installation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforming-videos-for-twitter-success-expert-convertors-guide-for-2024/"><u>Transforming Videos for Twitter Success Expert Convertors Guide for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-iphone-11-pro-max-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From iPhone 11 Pro Max? 5 Tips You Must Know</u></a></li>
+</ul></div>
 

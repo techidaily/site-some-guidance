@@ -1,7 +1,7 @@
 ---
 title: Installing Python Applications with Pipx - A Beginner's Guide
-date: 2024-08-31T06:11:05.658Z
-updated: 2024-09-01T06:11:05.658Z
+date: 2024-12-22T00:11:20.244Z
+updated: 2024-12-25T02:33:28.518Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  There are a ton of useful Python CLI apps out there, but installation isn't always as easy as it seems. Let's take a look at how pipx can make it easy to install and manage them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Why Python Apps Are Tricky
 
  Installing Python apps can get hairy pretty quickly. [Python](https://youtube-data.techidaily.com/024-approved-conveniently-connect-with-others-via-your-playlist/) is a versatile language, and often the first people learn. Browsing [GitHub](https://github.com/) or [PyPI](https://pypi.org/)—the Python Package Index—you can find tons of useful apps alongside programming libraries. Since it's become so ubiquitous, there are a lot of folks contributing code, along with a mixture of instructions to install them.
@@ -32,8 +36,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The Python community recommends using something called a virtual environment—often referred to as venvs—to create isolated folders that include all the required parts of a project to work, but using them when you're not familiar with the process can be very frustrating, especially if you're trying to script things. These are just some of the challenges users might face getting Python apps working on their system.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  pipx to the Rescue
 
  To solve our problems, we can use an application called pipx. This is a user-friendly alternative to pip that's aimed at end-users instead of programmers. It creates the virtual environments for you, installs the dependencies, and makes the programs available system-wide—all without requiring sudo privileges on your system as well. It also manages your installed python apps for you, making it easy to add, upgrade, or remove them as you see fit.
@@ -46,15 +51,16 @@ sudo apt update && sudo apt install python3-venv python3-pip
 
 ![installing python3-venv and python3-pip](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx01_update_install_deps-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will install the core packages for virtual environments and the pip package manager. Many Linux distributions will have these preinstalled, but not all. Crucially, versions of Debian and Ubuntu don't guarantee those packages will be preinstalled, so if you're on those distros you should run the above commands. If you're on a different distribution, use your relevant package manager, whether that's yum, pacman, or even brew.
 
  Next, we can install the pipx package itself.
 
 ![terminal window showing 'sudo apt install pipx' command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx03_install_pipx.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 sudo apt install pipx
 
  Lastly, we want to make sure that pipx is hooked into our path, so that installed apps will launch the same way all others do. We just need to run this pipx command:
@@ -70,8 +76,9 @@ pipx ensurepath
  And that's it, pipx is ready to go! Let's take a look at how to use it with some Python apps.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Installing Python CLI Apps
 
  Let's install a fun app called cowsay using pipx.
@@ -79,6 +86,10 @@ pipx ensurepath
 pipx install cowsay
 
 ![terminal window that shows the output of the cowsay command, a cow saying 'Welcome to How-To Geek!'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx07_cowsay_command.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can use the Python app just as if it was a standard Linux command or app we installed. Under the hood, it's running in its own virtual environment, and any dependencies are separated and kept away from our core operating system.
 
@@ -88,9 +99,6 @@ pipx run speedtest-cli
 
 ![terminal output of the speedtest command showing the bandwidth of the internet connection](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx08_run.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
  You can also provide arguments for the app, so you can run specific commands. There are some caveats to the formatting, so be sure to check out the [official pipx documentation](https://pipx.pypa.io/stable/docs/#pipx-run).
 
  You can use pipx to see which installed Python apps you installed.
@@ -99,9 +107,6 @@ pipx list
 
 ![terminal window with the output of the pipx list command which shows only cowsay is installed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/pipx09_list.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can see that **speedtest-cli** is not installed, but **cowsay** is still present on our system.
 
  You can also uninstall the cowsay app easily.
@@ -112,9 +117,6 @@ pipx uninstall cowsay
 
  Where pipx really helps is in managing more complex applications. As an example, you can easily write [simple bash scripts](https://common-error.techidaily.com/rebooting-woes-windows-10-troubleshooting/) to launch and maintain the calibre-web app to host your own ebook library because you can treat it as just another command. Without pipx, the service files you need to write would be much trickier for someone who doesn't know Python and its deployment practices.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Expand Your App Library With pipx
 
  Now that you have pipx installed, there's a wealth of new programs available to you! If you find projects on GitHub or PyPI that you want to utilize, pipx can make it simple to install and use them in just a minute or two.
@@ -125,8 +127,6 @@ pipx uninstall cowsay
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +134,23 @@ pipx uninstall cowsay
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-full-facetune-review-the-pathway-to-picture-perfection/"><u>[New] 2024 Approved Full Facetune Review The Pathway to Picture Perfection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamlining-virtual-meetings-in-google-mail/"><u>[New] Streamlining Virtual Meetings in Google Mail</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-swap-periscope-for-success-best-replacements-for-iphoneandroid/"><u>[New] Swap Periscope for Success Best Replacements for iPhone/Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-qp-value-enhancing-gradual-movement-vids/"><u>[New] Top QP Value Enhancing Gradual Movement Vids</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-directors-academy-youtube-channels-for-cinematic-innovation-for-2024/"><u>[Updated] Directors Academy YouTube Channels for Cinematic Innovation for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-dull-to-dynamic-a-guide-to-chromatic-finesse/"><u>[Updated] From Dull to Dynamic A Guide to Chromatic Finesse</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-learn-more-top-education-streams-online/"><u>[Updated] Learn More Top Education Streams Online</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tech-driven-patient-recovery-paths/"><u>[Updated] Tech-Driven Patient Recovery Paths</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-text-that-talks-back-adding-life-to-vids-on-a-budget/"><u>2024 Approved Text that Talks Back Adding Life to Vids on a Budget</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-power-of-free-enhancing-your-obs-studio-projects-using-luts/"><u>2024 Approved The Power of Free Enhancing Your OBS Studio Projects Using LUTs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tips-on-how-skip-edgenuity-videos/"><u>2024 Approved Tips on How Skip Edgenuity Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-excel-2023-using-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Electronically Sign a Excel 2023 Using DigiSigner</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-shape-business-visions-no-money-just-templates/"><u>In 2024, Shape Business Visions - No Money, Just Templates</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-7-essential-factors-you-should-evaluate-when-purchasing-a-smart-television/"><u>Top 7 Essential Factors You Should Evaluate When Purchasing a Smart Television</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/us-leading-non-native-language-classes/"><u>U.S. Leading Non-Native Language Classes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-high-performance-gadgets-with-toms-computer-insights/"><u>Unveiling High-Performance Gadgets with Tom's Computer Insights</u></a></li>
+</ul></div>
 

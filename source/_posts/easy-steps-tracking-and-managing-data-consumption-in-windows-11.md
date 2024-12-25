@@ -1,7 +1,7 @@
 ---
 title: "Easy Steps: Tracking and Managing Data Consumption in Windows 11"
-date: 2024-08-31T06:12:16.374Z
-updated: 2024-09-01T06:12:16.374Z
+date: 2024-12-24T00:45:40.524Z
+updated: 2024-12-24T22:02:23.555Z
 tags:
   - deals
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/578092e9e17a69c476b3082e47519b7819155a500
 * [Check Your Data Usage Using the Resource Monitor](https://screen-mirror.techidaily.com/in-2024-how-poco-m6-pro-4g-mirror-screen-to-pc-drfone-by-drfone-android/)
 * [Monitor Your Data Usage With NetworkUsageView](https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-m14-5g-fingerprint-lock-by-drfone-android/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Press Ctrl+Shift+Esc to open the Task Manager, then head to App History and look at the Network area to monitor real-time data usage of apps.
@@ -26,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/578092e9e17a69c476b3082e47519b7819155a500
 
  Monitoring your data usage on Windows can be beneficial if you're on a metered connection or worried about exceeding data caps. This allows you to adjust your usage patterns to ensure you're using your data effectively. Here's how.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Use Task Manager to Keep an Eye on Data Usage
 
  In [Task Manager](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/), you can monitor how much data the apps on your computer use in real time. This can help you see which programs are consuming too much bandwidth or slowing down the network.
@@ -37,12 +38,17 @@ thumbnail: https://thmb.techidaily.com/578092e9e17a69c476b3082e47519b7819155a500
 
 ![Opening Task Manager using the Taskbar menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/open-task-manager-using-taskbar-windows-11.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  In Task Manager, select the “App History” tab on the left-side menu. You'll see the usage statistics of the apps running on your computer on the right. Look at the Networkcolumn to see how much data (in MB) they're using.
 
 ![Viewing app history in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/app-history-task-manager-windows-11.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Monitor Your Data Usage With Advanced Network Settings
 
@@ -57,24 +63,23 @@ thumbnail: https://thmb.techidaily.com/578092e9e17a69c476b3082e47519b7819155a500
 ![The "Filter By" dropdown in advanced network settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/filter-by-advanced-network-settings-windows-11.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You'll also be able to see the data usage statistics of the apps and services on this screen. The best part is you can set a data usage limit by clicking the “Enter Limit” button in the top right.
 
 ![The "Enter Limit" button in advanced network settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/enter-data-limit-windows-11.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Set the “Limit Type” by choosing between “Daily,” “Weekly,” “Monthly,” “Onetime,” and “Unlimited.” Next, set when the limit should reset or expire. Then, enter the data limit and click the “Save” button.
 
 ![Setting data limits in advanced network settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/set-data-limit-windows-11.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This is not a hard cap on data usage that Windows will enforce, but you will be warned when you reach your limit. This will allow you to act based on your data plan.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Check Your Data Usage Using the Resource Monitor
 
  You can also check data usage statistics of apps, processes, and services in the Resource Monitor. To do that, open the Start Menu and type **resource monitor**. Click “Resource Monitor” in the search results to launch it.
@@ -93,9 +98,6 @@ thumbnail: https://thmb.techidaily.com/578092e9e17a69c476b3082e47519b7819155a500
 
 ![Running NetworkUsageView on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/networkusageview-windows-11.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  You should now be able to see the data usage statistics you need, including bytes sent and bytes received.
 
 ---
@@ -110,8 +112,6 @@ thumbnail: https://thmb.techidaily.com/578092e9e17a69c476b3082e47519b7819155a500
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +119,22 @@ thumbnail: https://thmb.techidaily.com/578092e9e17a69c476b3082e47519b7819155a500
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-7-free-video-editing-programs-that-work-flawlessly-for-2024/"><u>[New] 7 Free Video Editing Programs That Work Flawlessly for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-best-of-both-worlds-2023s-device-agnostic-editors/"><u>[New] The Best of Both Worlds 2023’S Device-Agnostic Editors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-thorough-examination-of-dji-inspire-1/"><u>[New] Thorough Examination of DJI Inspire 1</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ustream-evaluation-find-alternates/"><u>[New] Ustream Evaluation, Find Alternates</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tomorrows-insight-rethinking-choices/"><u>[Updated] Tomorrow's Insight Rethinking Choices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-a-world-of-movies-captions-in-windows-media-player/"><u>[Updated] Unlock a World of Movies Captions in Windows Media Player</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-mastering-ps4-captures-with-obs-studio-your-complete-guide/"><u>2024 Approved Mastering PS4 Captures with OBS Studio - Your Complete Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-5-gaming-monitors-to-perfect-ps5-and-xbox-experience/"><u>In 2024, Top 5 Gaming Monitors to Perfect PS5 and Xbox Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-capturing-conversations-iphoneipad-tips-for-top-quality-interviews-for-2024/"><u>The Art of Capturing Conversations IPhone/iPad Tips for Top Quality Interviews for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/tutorial-mengungkap-dan-restor-data-partisi-flash-disk-yang-hapus/"><u>Tutorial Mengungkap Dan Restor Data Partisi Flash Disk Yang Hapus</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-creative-communication-get-free-voice-effects-today-for-2024/"><u>Unlock Creative Communication - Get FREE Voice Effects Today for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-audio-fade-ins-and-outs-made-easy-2-fcp-techniques/"><u>Updated Audio Fade Ins and Outs Made Easy 2 FCP Techniques</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-a-detailed-review-of-murfai-ai-text-to-speech-tool/"><u>Updated In 2024, A Detailed Review of Murf.ai AI Text-to-Speech Tool</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-the-top-10-ai-avatar-generators/"><u>Updated The Top 10 AI Avatar Generators</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-is-hxtsrexe-unveiling-its-role-and-solving-issues-on-windows-tenth-generation/"><u>What Is HxTsr.exe? Unveiling Its Role & Solving Issues on Windows Tenth Generation</u></a></li>
+</ul></div>
 

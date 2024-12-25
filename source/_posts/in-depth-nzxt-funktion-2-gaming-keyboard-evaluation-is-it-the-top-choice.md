@@ -1,7 +1,7 @@
 ---
 title: "In-Depth NZXT Funktion 2 Gaming Keyboard Evaluation: Is It the Top Choice?"
-date: 2024-08-31T06:07:34.839Z
-updated: 2024-09-01T06:07:34.839Z
+date: 2024-12-18T21:18:59.727Z
+updated: 2024-12-24T20:31:07.196Z
 tags:
   - product-reviews
 categories:
@@ -109,27 +109,14 @@ Jerome Thomas / How-To Geek
 
  The Function 2 also has four profile keys (the first four function keys), so you can quickly switch keyboard profiles. You can create those custom profiles using the NZXT CAM software.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Smooth, Adjustable Key Switches** 
 
 ![NZXT Function 2 keyboard with keycaps removed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-function-2-with-keycaps-removed-up-closejpg_53489329353_o-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  NZXT designed the Function 2 to be very customizable–but also playable out of the box. It has new optical switches, which use light (instead of metal clips) to sense when you press the keys. The switches, which are purple, have a 40-gram actuation force and an adjustable actuation point (the point the key senses a key press). Using the CAM software, you can set the actuation point to 1mm or 1.5mm.
@@ -146,17 +133,14 @@ Jerome Thomas / How-To Geek
 
  The Function 2’s keys are tough and should stand you in good stead for a long time, thanks to the double-shot PBT. The RGB LED lighting shines through the letters and numbers on the keycaps and creates a gorgeous, multicolor glow on the base of the board. You can customize that lighting in the CAM software.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## **Simple, Quality Accessories** 
 
 ![NZXT Function 2 keyboard plugged in](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-function-2-plugged-injpg_53489593990_o-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The box includes some worthwhile accessories, including a long, 6.56-foot data cable with a braided sleeve. The PC end is USB-A and the other end plugs into a USB-C port near the upper-left part of the Function 2.
@@ -172,16 +156,17 @@ Jerome Thomas / How-To Geek
  If you have other NZXT hardware, you'll be able to use the same CAM software to handle their settings, as well. And you don't need NZXT hardware to use the PC Monitoring feature, which shows you the load for components like the CPU, GPU, and memory, among others.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Should You Buy the NZXT Function 2?** 
 
 ![NZXT Function 2 keyboard with keycaps removed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-function-2-with-keycaps-removedjpg_53489179946_o-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The [NZXT Function 2](https://nzxt.sjv.io/c/156932/1728191/20004?subId1=htgfunctiontworeview&u=https%3A%2F%2Fnzxt.com%2Fproduct%2Ffunction-2) is a win. The RGB lighting is gorgeous, the board is sturdy, and the optical switches are sensitive. And because it's a full-size board, you can use the Function 2 for non-gaming tasks without missing the number pad. The NZXT Function 2 isn't as wallet-friendly as, say, the [Keychron C3 Pro Wired Mechanical Keyboard](https://some-tips.techidaily.com/updated-the-art-of-transferring-tunes-between-platforms/), but delivers on build quality, customization, and smooth key presses.
@@ -189,8 +174,9 @@ Jerome Thomas / How-To Geek
 ![Function 2 keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/cleanshot-2024-02-23-at-13-27-05-2x.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  NZXT FUNCTION 2 KEYBOARD
 
 7/ 10 
@@ -259,8 +245,6 @@ Expand
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -268,4 +252,24 @@ Expand
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-deciphering-how-t-series-earns-via-youtube/"><u>[New] In 2024, Deciphering How T-Series Earns via Youtube</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-high-quality-android-screen-recorders-ranked-1-to-5/"><u>[New] In 2024, High-Quality Android Screen Recorders Ranked #1 to #5</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-long-lasting-friendship-on-snapchat-ideas-and-insights/"><u>[New] In 2024, Long-Lasting Friendship on Snapchat Ideas and Insights</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-superior-app-dev-editors-top-15-selection/"><u>[New] Superior App Dev Editors Top 15 Selection</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-first-impressions-intova-x-in-the-spotlight/"><u>[Updated] First Impressions Intova X in the Spotlight</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-color-richness-the-role-of-look-up-tables-in-adobe-photos/"><u>[Updated] Unlocking Color Richness The Role of Look-Up Tables in Adobe Photos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-secrets-of-youtube-to-mp4mpeg-mastery/"><u>2024 Approved Unveiling the Secrets of YouTube to MP4/MPEG Mastery</u></a></li>
+<li><a href="https://win11.techidaily.com/elusive-command-center-hide-and-seek-guide-for-win/"><u>Elusive Command Center Hide-and-Seek Guide for Win</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-cgps-credibility-for-medical-insights/"><u>Evaluating CGP's Credibility for Medical Insights</u></a></li>
+<li><a href="https://facebook.techidaily.com/exploring-new-realms-of-digital-connections-on-fb/"><u>Exploring New Realms of Digital Connections on FB</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-infinix-note-30i-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Infinix Note 30i FRP In 3 Different Ways</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-gradual-glide-out-technique-for-audio-in-adobe-premiere-pro-for-2024/"><u>The Gradual Glide Out Technique for Audio in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-ipad-slow-motion-techniques-for-filming-and-video-modification-for-2024/"><u>The Ultimate iPad Slow Motion Techniques for Filming and Video Modification for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-key-to-exploring-without-boundaries-through-vr-for-2024/"><u>The Ultimate Key to Exploring Without Boundaries Through VR for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-sites-for-stylish-metallic-3d-text-artistry-for-2024/"><u>Ultimate Sites for Stylish, Metallic 3D Text Artistry for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-the-best-free-screen-recorders-on-windows-10-for-2024/"><u>Unlocking the Best Free Screen Recorders on Windows 10 for 2024</u></a></li>
+</ul></div>
 

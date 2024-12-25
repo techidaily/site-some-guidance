@@ -1,7 +1,7 @@
 ---
 title: "Mastering MS-DOS: A Step-by-Step Guide to Running It on Your PC Today"
-date: 2024-09-05T14:21:33.770Z
-updated: 2024-09-06T14:21:33.770Z
+date: 2024-12-21T20:21:37.687Z
+updated: 2024-12-24T19:43:18.744Z
 tags:
   - web
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/e2a22d0e1eb69e31073b9f86edc15bd17dc9ed743
 
 ## Mastering MS-DOS: A Step-by-Step Guide to Running It on Your PC Today
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Run MS-DOS with DOSBox](https://youtube-videos.techidaily.com/demystifying-the-math-of-youtube-ratio-perfection-for-2024/)
@@ -19,18 +23,6 @@ thumbnail: https://thmb.techidaily.com/e2a22d0e1eb69e31073b9f86edc15bd17dc9ed743
 
  DOS was (and is) an iconic part of the personal computer revolution, but modern hardware doesn't support it. If you want to give MS-DOS a spin today, you need an emulator or some ancient hardware. Here are a few easy ways to run MS-DOS.
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Run MS-DOS with DOSBox
 
 [DOSBox](https://www.dosbox.com/), an open-source DOS emulator, is the easiest way to run MS-DOS on your own PC. Since I'm on Windows, I'll [use the version for Windows](https://sourceforge.net/projects/dosbox/), but there is nothing stopping you from [running DOSBox on macOS or Linux](https://www.dosbox.com/download.php?main=1) if you want.
@@ -38,11 +30,9 @@ thumbnail: https://thmb.techidaily.com/e2a22d0e1eb69e31073b9f86edc15bd17dc9ed743
 ![Click the green Download button to get DOSBox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-dosbox-dl.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once it has downloaded, run the executable to get started with the installation. DOSBox is tiny, only some 5MB, so neither the download nor installation will take very long. There aren't really any settings to worry about, so just click through the installer.
 
 Close 
@@ -50,6 +40,10 @@ Close
  After the installation is complete, launch DOSBox. You're now using DOS—it's that easy. DOSBox has a crash course built in that will help you get started.
 
 ![DOSBox running on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-dosbox-running.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The first thing you should do once you reach this point is to mount a folder from your regular PC in DOSBox, so that you can easily move files between your real PC and your MS-DOS operating system. I am going to place my folder in "C:\\dos" just because it makes the path very easy to type and remember, but you can put it wherever you want.
 
@@ -67,21 +61,13 @@ mount [Drive Letter You Want] [Path To Folder On Your Real PC]
 
 ![Our DOSBox has successfully added the DOS folder we created.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/dosbox-mounted-c.png) 
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Enter **C:** into the console to change to the C:\\ drive, then type **[dir](https://eaxpv-info.techidaily.com/streamline-your-soundtrack-selection-for-youtube-for-2024/)** to see what the C:\\ drive contains. In my case, I can see the games folder I created earlier.
 
 ![The Games folder visible in DOSBox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/games-folder-visible.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Dir is the primary command you use to view the contents of folders](https://eaxpv-info.techidaily.com/streamline-your-soundtrack-selection-for-youtube-for-2024/), and an essential one if you plan on using Windows or DOS from the command line. Another vital command is cd, which stands for "Change Directory." It is used to [move between folders in Windows](https://extra-information.techidaily.com/quick-and-easy-iphone-burst-techniques/), DOS, Linux, and macOS.
 
@@ -92,17 +78,9 @@ mount [Drive Letter You Want] [Path To Folder On Your Real PC]
 ![Oregon Trail running in DOSBox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/oregon-trail.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  Run DOS in Your Browser
 
  If setting up DOSBox, another emulator, or running DOS "bare metal" (directly on old hardware) isn't for you, then you can always use an online service instead.
@@ -115,12 +93,6 @@ mount [Drive Letter You Want] [Path To Folder On Your Real PC]
 
  It also includes some old games, like Microsoft Flight Simulator, if you want to take those out for a spin.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Can I Run MS-DOS in VirtualBox or VMWare?
 
  Yes, you can, but you probably shouldn't unless you have a good reason. This is especially true since [FreeDOS](https://freedos.org/download/)—an operating system designed to give you everything MS-DOS does—is safe, reliable, and freely available.
@@ -135,8 +107,6 @@ mount [Drive Letter You Want] [Path To Folder On Your Real PC]
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +114,20 @@ mount [Drive Letter You Want] [Path To Folder On Your Real PC]
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-boost-your-blogging-bravery-following-youtuber-leaders/"><u>[New] 2024 Approved Boost Your Blogging Bravery Following YouTuber Leaders</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-utilizing-lut-filters-in-obs-studio-effectively/"><u>[New] Utilizing LUT Filters in OBS Studio Effectively</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-in-depth-minecraft-gameplay-recording-strategies/"><u>[Updated] In 2024, In-Depth Minecraft Gameplay Recording Strategies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-50-must-try-virtual-bikes-for-riders/"><u>[Updated] The 50 Must-Try Virtual Bikes for Riders</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-crossfade-audio-seamless-integration-in-logic-x/"><u>2024 Approved The Art of Crossfade Audio Seamless Integration in Logic X</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-list-premier-networks-for-live-viewing/"><u>2024 Approved Ultimate List Premier Networks for Live Viewing</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-battery-health-on-windows-10-insights-and-strategies-from-the-official-report/"><u>Mastering Battery Health on Windows 10: Insights and Strategies From the Official Report</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-multi-platform-engagement-smooth-menu-toggles-and-quick-scrolling-on-facebook-linkedin-youtube-and-more/"><u>Mastering Multi-Platform Engagement: Smooth Menu Toggles and Quick Scrolling on Facebook, LinkedIn, YouTube & More</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premier-image-stabilization-action-recorders-for-2024/"><u>Premier Image Stabilization Action Recorders for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/slim-and-stylish-samsung-galaxy-fit2-your-ultimate-portable-wellness-buddy/"><u>Slim & Stylish Samsung Galaxy Fit2 - Your Ultimate Portable Wellness Buddy</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-10-key-steps-for-optimal-stream-service-picks-for-2024/"><u>The 10 Key Steps for Optimal Stream Service Picks for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-key-to-flawless-tiktok-profile-hyperlinking-for-2024/"><u>The Ultimate Key to Flawless TikTok Profile Hyperlinking for 2024</u></a></li>
+</ul></div>
 

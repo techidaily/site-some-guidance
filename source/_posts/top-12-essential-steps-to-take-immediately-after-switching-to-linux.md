@@ -1,7 +1,7 @@
 ---
 title: Top 12 Essential Steps to Take Immediately After Switching to Linux
-date: 2024-08-31T06:11:31.181Z
-updated: 2024-09-01T06:11:31.181Z
+date: 2024-12-17T21:16:09.660Z
+updated: 2024-12-24T21:38:32.769Z
 tags:
   - desktop
 categories:
@@ -44,25 +44,12 @@ sudo apt upgrade
 
 ![sudo apt upgrade command running on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/sudo-apt-upgrade.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will download and install any updates of installed software and system packages. Updating your Linux system is more or less the same on different Linux versions, except, different distros may use different package managers. So if you want to update [Fedora](https://youtube-tips.techidaily.com/rofessionals-picks-best-editors-for-online-streams-for-2024/), or [Arch](https://fox-access.techidaily.com/expert-picks-11-easy-waterproof-kids-camcorders-for-vlogging/), for example, you can follow the same procedure and tweak the above command to fit.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ##  Install Media Codecs
 
 [Multimedia codecs](https://some-guidance.techidaily.com/2024-approved-strategies-for-merging-youtube-music-and-video-content-effectively/) are like tiny translators, enabling your Linux system to understand and play different types of audio and video formats. Out of the box, your Linux distribution might not have all the codecs you need because they're proprietary, and some people prefer only non-proprietary software. In other situations, you may have skipped installing them while installing Linux, or maybe you chose a minimal installation that doesn't include them. If you don't care about proprietary vs. non-proprietary software, you should install codecs so that you don't encounter errors playing certain types of media.
@@ -71,9 +58,17 @@ Key features:
 
 ![Multimedia codecs on the Linux Mint software center](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/multimedia-codecs-on-linux-mint.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For Fedora, you can grab the necessary codecs from the RPMfusion repository. On openSUSE, you can install them from the Packman repository.
 
  However, there's an easier process: downloading and installing the VLC media player on your distro. VLC contains most media codecs you'll need to enjoy smooth video playback.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Install Necessary Drivers
 
@@ -83,14 +78,15 @@ Key features:
 
  You can either find drivers in the repositories of your Linux distro or on the manufacturer's websites. Usually, installing them is like installing any other software: you run one or more commands in the terminal. In rare cases, you may have to [compile the program](https://facebook-videos.techidaily.com/new-in-2024-signal-id-video-overview-width-x-height-encoding-minutes/) to install it.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Remove Unnecessary Software
 
 ![Linux Mint software manager for installing and updating software.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/linux-mint-software-manager-for-installing-and-updating-software.png) 
 
  Linux doesn't come with much bloatware, unlike [Windows](https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-xiaomi-14-pro-without-puk-codes-by-drfone-android/). Some distros even give you the choice to install what you'd like during the installation, so you can keep unnecessary programs on your system to a minimum. But some programs still escape those barriers and get installed, so I need to do some cleanup. I use Google Workspace, so I removed LibreOffice from my desktop. Thanks to [Linux package managers](https://screen-capture.techidaily.com/updated-the-ultimate-guide-to-screen-capture-tools-for-2024/), I can simply run a single command to [remove all unnecessary software programs](https://android-unlock.techidaily.com/how-to-unlock-vivo-y27s-phone-without-password-by-drfone-android/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Configure Software Sources
 
@@ -98,9 +94,6 @@ Key features:
 
 ![Software source list on Ubuntu displayed in the update manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/software-source-list-on-ubuntu.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
  For Arch Linux users, there's [Arch User Repository](https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-xiaomi-redmi-k70-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/), or AUR for short. For Ubuntu, you have [PPAs](https://buynow-help.techidaily.com/the-future-of-home-safety-evaluating-the-battery-version-of-googles-wireless-nest-doorbell/) and Pacstall. RHEL-based distros have the Extra Packages for Enterprise Linux (EPEL), REMI, and the RPMFusion repositories. By adding these repositories, you significantly increase the amount of software you can install.
 
  There are many command line utilities, such as apt-add-repository that allow you to [add these third-party repositories](https://apple-account.techidaily.com/how-to-unlink-apple-id-from-iphone-6-by-drfone-ios/) to your Linux system. Most graphical software managers also have a way to add software sources to the system. If you'd like, you can also jump into the configuration files and add repositories from there.
@@ -122,9 +115,6 @@ sudo apt install flatpak
 
 flatpak install package_name
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Set Up Wine or Bottles
 
  A common reason many [Windows users avoid using Linux](https://easy-unlock-android.techidaily.com/unlock-your-realme-narzo-60-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/) is that it doesn't have native support for many Windows-only programs. Think of Microsoft Office, Adobe Creative Suite, and many other commercial software programs. If these software programs are essential to you, then probably the best way to run them on Linux is via [Wine](https://some-guidance.techidaily.com/updated-ultimate-list-best-no-cost-lut-downloads/) or [Bottles](https://facebook-video-content.techidaily.com/2024-approved-moments-replay-module/).
@@ -135,20 +125,14 @@ flatpak install package_name
 
  Remember though, Wine is not a replacement for Windows itself. You'll never get the same performance from apps running via Wine as on a native Windows computer. There are compatibility levels for individual apps. Some apps run well, some have bugs, and some are not even supported by Wine.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ##  Configure the Web Browser
 
 ![Configuring Firefox on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/firefox-on-ubuntu.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Most Linux distributions come with Firefox installed. I, however, like to use Brave and Chrome (you can also use [ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium).) Most browsers come with the option to import all your settings with a few clicks. This automatically installs browser extensions, fetches bookmarks, and configures security and search settings I use on other devices. Browser configuration ensures I get the same personalized browsing experience on any operating system on any device.
 
 ##  Manage Users and Groups
@@ -159,20 +143,18 @@ No advertising on the website.
 
  This can sound confusing for new Linux users, but you shouldn't skip this step if you want to do advanced Linux computing. Knowing how to [add and remove users](https://fox-links.techidaily.com/updated-gif-magic-transformations-without-extra-files-downloaded-for-2024/), create groups and add users to them, [list which groups your user belongs to](https://facebook-video-footage.techidaily.com/premium-online-platforms-for-video-intro-creation-for-2024/), and other nitty-gritty details will save you from worrying about providing the wrong access to the wrong user.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ##  Create Backups
 
 ![An example of Grsync, a Linux backup tool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/linux-backup.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Nobody likes losing their files. Unfortunately, I've learned that the hard way. Creating system snapshots from time to time and backing up your most important data regularly ensures you don't lose your system files and other necessary files in an accident. That's why you should have a backup strategy right after installing Linux.
 
  There are many great tools to back up your Linux system. You have [rsync](https://blog-min.techidaily.com/how-to-downgrade-iphone-6-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/), [restic](https://phone-solutions.techidaily.com/4-ways-to-extract-data-from-corrupt-excel-2010-file-by-stellar-guide/), and Pika Backup, among others. For system snapshots, you can use [Timeshift](https://extra-support.techidaily.com/metaverse-mayhem-meets-friendly-fun-ranks-10-for-2024/).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Tweak the Privacy and Security Settings
 
  Privacy and security are both top priorities for Linux users. In fact, that's one of the reasons [I prefer Linux over Windows](https://program-issues.techidaily.com/solved-forza-horizon-4-crash-on-pc/). The first thing to do is skip any telemetry requests during installation and check for other telemetry settings after installation.
@@ -180,11 +162,16 @@ No advertising on the website.
 ![An example of Ubuntu asking you to share your system data with the developers to improve it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ubuntu-telemetry.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Of course, these don't make you completely anonymous. When internet privacy is crucial to me, I use the [Tor browser](https://vimeo-videos.techidaily.com/in-2024-efficiently-generating-clear-and-concise-images-thumbnails/) and set up [VPNs](https://extra-guidance.techidaily.com/2024-approved-masterclass-in-3d-color-grading-with-custom-luts/).
 
  As for security, you could do a lot. Some of them are creating strong passwords for every user account, full disk encryption, and following the principle of least privilege. Depending on your distro, you can also control the mandatory access controls using SELinux or [AppArmor](https://facebook-video-content.techidaily.com/updated-2024-approved-navigating-the-in-stream-ad-landscape-on-facebook/). If you're running a Linux server, make sure to secure it using [fail2ban](https://some-tips.techidaily.com/in-2024-transformative-meme-making-discovering-the-best-8-tools/) and consider setting up a firewall.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Beautify the Linux Environment
 
@@ -200,8 +187,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -209,4 +194,20 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-achieve-perfection-on-instagram-with-right-video-dimensions-for-2024/"><u>[New] Achieve Perfection on Instagram with Right Video Dimensions for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-optimal-solution-review-prime-action-recorder/"><u>[New] Optimal Solution Review Prime Action Recorder</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-from-faces-to-films-the-mi-11s-advanced-screenshot-technology/"><u>[Updated] From Faces to Films The Mi 11'S Advanced Screenshot Technology</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-ppro-fs-viewing/"><u>[Updated] The Ultimate Guide to PPro FS Viewing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-room-and-pc-checklist-for-vr/"><u>[Updated] The Ultimate Room and PC Checklist for VR</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-artisan-writes-crafting-hdr-magic-with-iphone/"><u>2024 Approved The Artisan’ Writes Crafting HDR Magic with iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-10-apps-to-boost-audio-velocity/"><u>2024 Approved Ultimate 10 Apps to Boost Audio Velocity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-venture-into-the-future-the-lg-360-vr-headset-explored/"><u>2024 Approved Venture Into the Future The LG 360 VR Headset Explored</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/enjoy-endless-hours-of-music-on-the-go-with-the-amazing-ion-audio-tailgater-plus-sound-system/"><u>Enjoy Endless Hours of Music On-the-Go with The Amazing Ion Audio Tailgater Plus Sound System.</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/examining-the-limitations-of-immersive-tech/"><u>Examining the Limitations of Immersive Tech</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-crumpled-to-curated-your-step-by-step-process-of-transforming-faded-print-photographs-into-digital-originals/"><u>In 2024, From Crumpled to Curated Your Step-by-Step Process of Transforming Faded Print Photographs Into Digital Originals</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-13-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transforming-social-media-sounds-into-practical-mobile-alerts/"><u>In 2024, Transforming Social Media Sounds Into Practical Mobile Alerts</u></a></li>
+</ul></div>
 

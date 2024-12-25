@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Gameplay with Sony Pulse Explore: Top-Tier Wireless Gaming Headphones Reviewed"
-date: 2024-08-31T06:06:39.835Z
-updated: 2024-09-01T06:06:39.835Z
+date: 2024-12-21T21:48:01.425Z
+updated: 2024-12-24T21:58:08.385Z
 tags:
   - product-reviews
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/fe074f06665304f02bb44d59a2cf2f7a7e742cf6a
  The market is flooded with wireless earbuds, but few are designed with gamers in mind. Whether it's lag, latency, or any other delay between the actions on screen and what you hear, there aren't a lot of options for gamers who don't want to deal with bulky over-the-ear headsets. Sony hopes to address that market gap with their [Pulse Explore](https://www.amazon.com/PULSE-Explore-Wireless-Earbuds-PlayStation-5/dp/B0CMDFSB89?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003911&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fsony-pulse-explore-wireless-earbuds-review%2F&asc%5Fcampaign=Authority) wireless earbuds. While these earbuds are not without their issues, they offer a real performance-centric option for discerning gamers on PlayStation 5, PlayStation Portal, or PC.
 
 ![Sony Pulse](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sony-pulse.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-staff-pick-1.png) 
 
@@ -92,15 +96,13 @@ Sony Pulse Explore Wireless Earbuds feature planar magnetic drivers, lossless Pl
 Expand 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Connectivity: More Than Just PlayStation** 
 
 ![Sony Pulse Explore Wireless Earbuds box contents](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/2024-05-22-10-01-02.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  The Pulse Explore work with PlayStation 5 (PS5) and computers using the included USB-A wireless dongle, directly with [PlayStation Portal](https://www.amazon.com/PlayStation-Portal-Remote-Player-Gaming-Console/dp/B0CJT5DJ16/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003911&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fsony-pulse-explore-wireless-earbuds-review%2F&asc%5Fcampaign=Authority) (PS Portal) via PlayStation Link (PS Link), and any other device that supports Bluetooth.
@@ -111,9 +113,6 @@ Bill Loguidice / How-To Geek
 
 ![Sony Pulse Explore Wireless Earbuds in open charging case held by a person's hands](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/2024-06-29-10-52-20.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  The Pulse Explore supports connections for up to 10 paired Bluetooth devices, but can only connect to, and play audio from, one such device at a time. The volume buttons on the earbuds control only the PS Link audio, so when your earbuds are connected to a Bluetooth device, volume is solely controlled from that device. This also means that when listening to two audio sources from both PS Link and Bluetooth devices at the same time, the volume button on the earbuds controls only the PS Link audio.
@@ -124,9 +123,6 @@ Bill Loguidice / How-To Geek
 
 ![Sony PlayStation Portal, Pulse Explore Wireless Earbuds, and Charging Case on a tabletop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/2024-06-29-11-33-26.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  There's no question what systems the Pulse Explore earbuds are optimized for. When playing on a PS5 or PS Portal, the sound is perfectly tuned, with excellent stereo separation and proper surround effects that really let you hear what direction they're coming from. A good amount of bass is present, but it's never overpowering and gives the overall sound profile some heft. Whether playing a racer like "Trials Rising," an action-stealth adventure like "Metal Gear Solid V: The Phantom Pain," an action-adventure like "Horizon Forbidden West," or a sports game like "MLB The Show 24," I always felt immersed and that the Pulse Explore were delivering an ideal audio experience.
@@ -147,13 +143,14 @@ Bill Loguidice / How-To Geek
 
  Finally, it's important to note that the only device you can permanently adjust the equalizer, sidetone volume, 3D audio, and other settings for the Pulse Explore is when connected to a PS5\. Equalizer and sidetone volume settings are stored on your earbuds once you configure them through your PS5 console. If you connect your earbuds to other devices, they’ll keep the same settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design and Fit: Bulky and a Bit Odd** 
 
 ![Sony Pulse Explore Wireless Earbuds in a person's hand](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/2024-06-29-10-49-56.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Bill Loguidice / How-To Geek
 
  Each earbud features a volume up and down button at the top and PS Link buttons at the bottom. When both the left and right earbuds are connected via PS Link, the left earbud's microphone is enabled. As is the problem with many earbuds with physical buttons, and something a company like Apple solves with their AirPods by simply doing away with any tactile controls, is the tendency to hit the volume buttons when inserting the Pulse Explore earbuds in your ear. It's hardly a deal-breaker, and I certainly appreciate the ability to quickly adjust the volume, but it nevertheless leads to inadvertent presses when inserting or adjusting the earbuds.
@@ -164,6 +161,10 @@ Bill Loguidice / How-To Geek
 
  The earbuds themselves are similarly bulky, with an unbalanced shape that's a bit hard to get used to. Once you pick the earbud tip that provides the best fit and seal, you insert the earbuds with a slight upward twist so the PlayStation logo is level. Although there's no active noise-canceling, with the right tip, external noises should sound muffled, with audio at the same level in each ear. It took some practice for me to get used to the awkward shape and more consistently insert the earbuds correctly into my ears. Once inserted properly, however, I found the earbuds to be comfortable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Should You Buy the Sony Pulse Explore Wireless Earbuds?** 
 
  If you want good multi-platform gaming earbuds, the [Sony Pulse Explore](https://www.playstation.com/en-us/accessories/pulse-explore-wireless-earbuds/) make a nice choice. They have the best sound when used with the PS5 or PS Portal, where they're well-tuned with excellent surround sound performance, but also do well with Bluetooth devices, and a serviceable job on PCs.
@@ -173,8 +174,9 @@ Bill Loguidice / How-To Geek
 ![Sony Pulse](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sony-pulse.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/htg-staff-pick-1.png) 
 
 #####  Sony Pulse Explore Wireless Earbuds
@@ -191,8 +193,6 @@ Sony Pulse Explore Wireless Earbuds feature planar magnetic drivers, lossless Pl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,4 +200,26 @@ Sony Pulse Explore Wireless Earbuds feature planar magnetic drivers, lossless Pl
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/evitalizing-urban-areas-with-environmental-vision-and-purpose-for-2024/"><u>[New] Revitalizing Urban Areas with Environmental Vision and Purpose for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-bambuser-intro-video-summary-width-x-height-encoding-seconds/"><u>[Updated] Bambuser Intro Video Summary Width X Height, Encoding, Seconds</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-enhance-creativity-on-chrome-os-top-10-digital-pencil-stores/"><u>[Updated] Enhance Creativity on Chrome OS Top 10 Digital Pencil Stores</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-how-to-avoid-and-reverse-strikes-on-your-youtube-account/"><u>[Updated] In 2024, How to Avoid and Reverse Strikes on Your YouTube Account</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamlining-your-video-collection-converting-mp4-with-vlc/"><u>[Updated] Streamlining Your Video Collection Converting MP4 with VLC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-vr-films-that-you-should-never-miss/"><u>[Updated] Top VR Films That You Should Never Miss</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-8-filtration-options-for-professional-streams/"><u>[Updated] Ultimate 8 Filtration Options for Professional Streams</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-discover-the-premier-15-video-cameras-for-vloggers/"><u>2024 Approved Discover the Premier 15 Video Cameras for Vloggers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-uniting-your-soundtrack-sets-from-different-spaces/"><u>2024 Approved Uniting Your Soundtrack Sets From Different Spaces</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-potential-with-free-premiere-pro-plans/"><u>2024 Approved Unlock Potential with Free Premiere Pro Plans</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/effortless-streams-screening-netflix-on-mac-professionally/"><u>Effortless Streams Screening Netflix on Mac Professionally</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/how-to-record-a-podcast-on-iphone-or-ipad-best-for-interviews-and-trave/"><u>How To Record a Podcast on iPhone or iPad (Best for Interviews & Trave</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-newbies-guide-6-strategic-social-media-tactics-for-growth/"><u>In 2024, Newbies Guide 6 Strategic Social Media Tactics for Growth</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tips-for-finding-christian-choir-songs-online-and-personalizing-them/"><u>In 2024, Tips for Finding Christian Choir Songs Online & Personalizing Them</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-list-low-cost-high-definition-cameras/"><u>In 2024, Ultimate List Low-Cost, High Definition Cameras</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-fcpx-survival-guide-overcoming-common-obstacles-and-challenges/"><u>New 2024 Approved FCPX Survival Guide Overcoming Common Obstacles and Challenges</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamline-your-shots-a-windows-11-guide-for-2024/"><u>Streamline Your Shots A Windows 11 Guide for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-5-sites-to-download-text-effects-for-2024/"><u>Top 5 Sites to Download Text Effects for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unlock-the-full-potential-of-snapkit-in-business-ads-for-2024/"><u>Unlock the Full Potential of SnapKit in Business Ads for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover the Clues: Solving The NYT Connections Challenge on Aug 13, Entry #428"
-date: 2024-09-05T14:21:34.075Z
-updated: 2024-09-06T14:21:34.075Z
+date: 2024-12-23T01:15:22.513Z
+updated: 2024-12-24T19:50:00.233Z
 tags:
   - web
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f4d45de0f56404a9b7904a53.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Discover the Clues: Solving The NYT Connections Challenge on Aug 13, Entry #428
 
 ### Quick Links
@@ -27,12 +21,6 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 
  Connections is a game from the New York Times that challenges you to find the association between words. It sounds easy, but it isn't—Connections categories can be almost anything, and they're usually quite specific. If you need a hand getting the answers, we've got you covered.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What Is Connections?
 
  Connections is a game from the New York Times. The objective is simple: sort 16 words into groups of 4\. Each group of words will be connected by some common idea or theme. That common element could be anything. We have seen everything from games that rely on the number of letters in the words to categories that require you to spot an extra letter at the end of the word. Sometimes they're references to economics, other times they reference fairy tales. There is no telling what sort of association there will be between words.
@@ -40,17 +28,9 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Hints for Today's Connections Groups
 
  Here are a few hints for the 428th Connections game to get you started:
@@ -63,11 +43,9 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 ![The unsorted words for August 13 Connections.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-unsorted-words-for-august-13-connections-game-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you still need help, the actual group names are:
 
 * **Yellow:** Stated
@@ -75,16 +53,18 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 * **Blue:** Obvious
 * **Purple:** \_\_\_ House (That Aren't Houses)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Today's NYT Connections Answers
 
 ![The words for August 13 sorted into the correct groups.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-words-for-august-13-sorted-into-the-correct-groups.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Stated (Yellow):** 
 
  Said, Spoke, Told, Voiced
@@ -101,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 
  Porter, Power, Rough, Wheel
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How Did We Solve This Connections Game?
 
  August 13th had a word I didn't recognize, which made it both interesting and a little harder. 
@@ -113,18 +97,6 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 
  That left porter, power, rough, and wheel—as unrelated words as I've ever seen, which usually means we're missing a word or that there is a letter that needs to be added or removed. The letter trick didn't work, so I moved on to trying different combinations of words before and after the words in Purple before finally (after way too long) landing on "house." The Purple group was named "\_\_\_ House." 
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How Do You Guess Connections Groups?
 
  There is no quick, reliable way to approach Connections like there is with Wordle, since Connections isn't algorithmic. However, there are a few things to keep in mind that can help.
@@ -144,8 +116,6 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +123,20 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-determining-vertical-or-horizontal-video-posts-on-fb-for-2024/"><u>[New] Determining Vertical or Horizontal Video Posts on FB for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-impact-of-music-on-a-trailers-emotional-pull/"><u>[New] The Impact of Music on a Trailer's Emotional Pull</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-and-leveraging-snapchat-spotlight/"><u>[New] Understanding and Leveraging Snapchat Spotlight</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-fb-content-ban-know-your-rights-when-videos-get-pulled/"><u>[Updated] In 2024, FB Content Ban Know Your Rights When Videos Get Pulled</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-unveiling-the-secrets-to-youtube-highlighted-remarks/"><u>[Updated] In 2024, Unveiling the Secrets to YouTube Highlighted Remarks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-principles-of-paradoxical-intervention/"><u>[Updated] Principles of Paradoxical Intervention</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-apple-podcast-submission-process/"><u>2024 Approved Unveiling the Apple Podcast Submission Process</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-xiaomi-redmi-note-12-pro-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Xiaomi Redmi Note 12 Pro 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-memorable-narratives-in-book-videos/"><u>In 2024, Memorable Narratives in Book Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-essentials-of-combining-apple-music-and-videos/"><u>In 2024, The Essentials of Combining Apple Music & Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-problem-fixing-error-where-incoming-calls-display-numbers-rather-than-names/"><u>IPhone Problem: Fixing Error Where Incoming Calls Display Numbers Rather Than Names</u></a></li>
+<li><a href="https://article-posts.techidaily.com/pioneering-editing-snapseed-for-the-newcomer/"><u>Pioneering Editing Snapseed for the Newcomer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-future-of-flight-hubsans-revolutionary-h501s-explored-for-2024/"><u>The Future of Flight - Hubsan's Revolutionary H501S Explored for 2024</u></a></li>
+</ul></div>
 

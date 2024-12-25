@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Verify Linux Kernel and OS Release in a Jiffy!"
-date: 2024-08-31T06:11:27.855Z
-updated: 2024-09-01T06:11:27.855Z
+date: 2024-12-17T21:58:40.799Z
+updated: 2024-12-24T23:42:59.673Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533
 ---
 
 ## Step-by-Step Guide: Verify Linux Kernel and OS Release in a Jiffy!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -55,16 +59,25 @@ lsb_release -a
 
 ![lsb_release -a in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/1-4.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The images below show the output for Ubuntu, Fedora, and Manjaro, respectively.
 
 ![output of lab_release on Ubuntu in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/2a.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The output on Fedora: 
 
 ![output of lab_release on Fedora in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/2b.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The output on Manjaro: 
 
@@ -76,14 +89,8 @@ lsb_release -d
 
 ![lsb_release -d in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/4-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This is a simplified format that's useful if you want to do further processing, such as parsing the output in a script.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  The /etc/os-release File
 
  The /etc/os-releasefile contains [useful information about your Linux system](https://man7.org/linux/man-pages/man5/os-release.5.html). To see this info, you can use less or cat.
@@ -94,9 +101,6 @@ cat /etc/os-release
 
 ![cat /etc/os-release in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/6-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The following mixture of distribution-specific and generic data values are returned:
 
 * **Name:** This is the distribution, but if it isn't set, this might just say "Linux."
@@ -126,9 +130,6 @@ cat /etc/*release
 
  There are four extra data items listed, all beginning with "DISTRIBUTION\_." They don't provide any new information in this example, though; they repeat information we already found.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  The /etc/issue File
 
  The /etc/issue file contains a simple string containing the distribution name and version. It's formatted to allow it [to be displayed on the login screen](https://man7.org/linux/man-pages/man5/issue.5.html). Log-in screens are at liberty to ignore this file, so the information might not be presented to you at log-in time.
@@ -138,6 +139,10 @@ cat /etc/*release
 cat /etc/issue
 
 ![cat /etc/issue in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/10-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The hostnamectl Command
 
@@ -149,14 +154,12 @@ hostnamectl
 
 ![hostnamectl in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/12-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  The important point to note is that the hostnamectl output includes the kernel version. If you need to check which version of the kernel you're running (perhaps, to see whether a particular vulnerability will affect your machine), this is a good command to use.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The uname Command
 
  If the computer you're investigating doesn't use systemd, you can use the uname command to [find out which version of the kernel](https://man7.org/linux/man-pages/man1/uname.1.html) it's running. Running the uname command without any options doesn't return very much useful info; just type the following to see:
@@ -174,8 +177,13 @@ uname -mrs
 ![uname in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/13-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The /proc/version Pseudo-File
 
  The /proc/version pseudo-file contains information relating to the distribution, including some interesting build information. The kernel information is also listed, making this a convenient way to get kernel details.
@@ -186,9 +194,6 @@ cat /proc/version
 
 ![cat /proc/version in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/14-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ##  The dmesg Command
 
  The dmesg command allows you to see messages in the [kernel messaging ring-buffer](https://man7.org/linux/man-pages/man1/dmesg.1.html). If we pass this through grep and [look for entries that contain the word](https://man7.org/linux/man-pages/man1/grep.1.html) "Linux," we'll see information related to the kernel as the first message in the buffer. Type the following to do this:
@@ -197,9 +202,6 @@ sudo dmesg | grep Linux
 
 ![sudo dmesg | grep Linux in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/16-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  More Than One Way to Skin a Cat
 
  "There's more than one way to skin a cat" could almost be a Linux motto. If one of these options doesn't work for you, one of the others surely will.
@@ -210,8 +212,6 @@ sudo dmesg | grep Linux
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,4 +219,18 @@ sudo dmesg | grep Linux
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-unlock-channels-success-key-equipment-insights/"><u>[New] 2024 Approved Unlock Channels Success Key Equipment Insights</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-key-tips-to-enhance-your-experience-with-tiktok-macos/"><u>[Updated] In 2024, Key Tips to Enhance Your Experience with TikTok (macOS)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-techniques-for-youtube-to-mp4-conversion/"><u>2024 Approved Top 10 Techniques for YouTube to MP4 Conversion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-voice-inputs-powerpoint-speech-to-text-guide/"><u>2024 Approved Unlocking Voice Inputs PowerPoint Speech-to-Text Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/experience-the-ultimate-radio-station-siriusxm-perfect-for-both-sports-enthusiasts-and-melody-lovers/"><u>Experience the Ultimate Radio Station: SiriusXM - Perfect for Both Sports Enthusiasts and Melody Lovers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-proven-pathways-for-sound-alteration-in-pubg-gamers/"><u>In 2024, Proven Pathways for Sound Alteration in PUBG Gamers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/palette-excellence-editor-for-2024/"><u>Palette Excellence Editor for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/precision-gameplay-with-proximity-focus-in-roblox/"><u>Precision Gameplay with Proximity Focus in Roblox</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-path-to-personalization-adjusting-snapchat-videos-pace-for-2024/"><u>The Path to Personalization Adjusting Snapchat Videos' Pace for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-tutorial-on-how-to-use-a-no-cost-dvd-to-ipod-ripping-tool-for-perfect-media-playback/"><u>Ultimate Tutorial on How to Use a No-Cost DVD to iPod Ripping Tool for Perfect Media Playback</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/youtube-creator-studio-vs-youtube-studio-beta-which-one-is-better/"><u>YouTube Creator Studio Vs. YouTube Studio (Beta) Which One Is Better?</u></a></li>
+</ul></div>
 

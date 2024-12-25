@@ -1,7 +1,7 @@
 ---
 title: "Streamline File Management: Enable Auto-Delete Feature for Downloads on Mac Computers"
-date: 2024-08-31T06:10:21.787Z
-updated: 2024-09-01T06:10:21.787Z
+date: 2024-12-23T21:46:10.739Z
+updated: 2024-12-24T22:45:33.905Z
 tags:
   - desktop
 categories:
@@ -25,15 +25,6 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 
  Automator supports multiple types of tasks. However, what we need for this guide is the Folder Action automation, which triggers an action every time there's a change to a specified folder. In our case, the Folder Action will automatically delete from the Downloads folder all files and folders that are more than seven days old whenever new ones get added.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ###  Set Up a Folder Action
 
  To create the Folder Action, start by launching the Automator app on your Mac. When it asks you to choose a document type, click on "Folder Action" and hit "Choose."
@@ -44,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 
 ![Choosing a folder to perform action on in Automator app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/automatically-delete-downloads-on-a-mac-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ###  Find the Files to Delete
 
  There are two ways to find your files and folders in the Downloads folder. The first method uses the "Filter Finder Items" action, whereas the second takes advantage of the "Run Shell Script" action. We'll be using the latter, as the former doesn't work as expected and fails to return the right files and folders.
@@ -55,13 +43,18 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 
 ![Adding the Run Shell Script action to the workflow in Automator.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/automatically-delete-downloads-on-a-mac-4.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On this action, click the dropdown button next to "Shell" and select the "/bin/bash" option.
 
 ![Setting the default shell to bash in Automator.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/automatically-delete-downloads-on-a-mac-5.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the text box below that, enter the following command:
 
 find "[path to Downloads directory]/Downloads" -ctime +7d -o -mtime +7d -iname '*.*'
@@ -75,9 +68,9 @@ find "[path to Downloads directory]/Downloads" -ctime +7d -o -mtime +7d -iname '
 ![Expanding the General tab to view the path of Downloads folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/automatically-delete-downloads-on-a-mac-10-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Right-click on the address next to "Where," and select "Copy as Pathname."
 
 ![Copying the path of Downloads folder on Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/automatically-delete-downloads-on-a-mac-11.jpg) 
@@ -86,13 +79,14 @@ The ultimate burning program for all your needs!</a>
 
 ![Running the Folder Action workflow to verify if the Run Shell Script action returns right files and folders.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/automatically-delete-downloads-on-a-mac-8.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you did everything correctly, it'll return all the files and folders in the Downloads folder that meet your criteria. You can look at the results by clicking the "Results" tab on the Run Shell Script action.
 
 ![Run Shell Scription action results.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/automatically-delete-downloads-on-a-mac-7.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ###  Auto-Delete the Files
 
  If you're happy that it's working, proceed to add the final action to the workflow. Search for "Move Finder Items to Trash" or "Move Finder Items to Bin" in the search box on the middle pane and drag it to the workflow area below the Run Shell Script action such that the two are linked.
@@ -101,11 +95,12 @@ The ultimate burning program for all your needs!</a>
 
 ![Saving a Folder Action workflow in Automator.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/automatically-delete-downloads-on-a-mac-9.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, any time you add new files to your Downloads folder, the existing files that are more than a week old will be automatically moved to the trash.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Keep Your Trash Decluttered as Well
 
  As the above Folder Action workflow moves files and folders from your Mac's Downloads folder into the Trash, your Trash will likely end up with a lot of unused files and folders, and will still eat up your Mac's storage space. However, you can avoid this by automatically emptying your Trash every 30 days.
@@ -116,8 +111,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +118,24 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/updated-instant-video-playback-on-fb-enabling-auto-play-of-youtube-videos/"><u>[Updated] Instant Video Playback on FB Enabling Auto-Play of Youtube Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-syncopating-songs-implementing-fades-in-logic-pro-x/"><u>[Updated] Syncopating Songs Implementing Fades in Logic Pro X</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-techniques-for-youtube-mp4-creation/"><u>[Updated] Ultimate Techniques for YouTube MP4 Creation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlimited-sky-storage-solutions-for-your-visual-chronicles-free-and-premium/"><u>[Updated] Unlimited Sky Storage Solutions for Your Visual Chronicles, Free & Premium</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-picsart-potential-with-a-2024-review-and-tutorial/"><u>[Updated] Unlocking PicsArt Potential with a 2024 Review & Tutorial</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ffmpeg-audio-review-can-ffmpeg-extract-audio-in-original-format/"><u>2024 Approved FFmpeg Audio Review Can FFmpeg Extract Audio in Original Format</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-harnessing-the-power-of-gratuitous-text-animations/"><u>2024 Approved Harnessing the Power of Gratuitous Text Animations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unraveling-lightrooms-potential-on-android-devices/"><u>2024 Approved Unraveling Lightroom's Potential on Android Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ensuring-data-integrity-amidst-adaptive-chatgpts/"><u>Ensuring Data Integrity Amidst Adaptive ChatGPTs</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-poco-c65-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Poco C65 Phone Screen?</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1725284764326-les-meilleurs-converters-video-gratuits-pour-windows-10-en-2023-top-10/"><u>Les Meilleurs Converters Vidéo Gratuits Pour Windows 10 en 2023: Top 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mens-college-basketball-showdowns-live-from-march-madness-to-final-four-on-airwaves/"><u>Men's College Basketball Showdowns – Live From March Madness to Final Four on Airwaves.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-arma-3-game-freezes-innovative-fixes-and-optimization-tips-released/"><u>Say Goodbye to Arma 3 Game Freezes: Innovative Fixes & Optimization Tips Released</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/travel-film-kit-the-necessary-arsenal-for-2024/"><u>Travel Film Kit The Necessary Arsenal for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unbeatable-free-livestream-solutions-reviewed-across-all-platforms-for-2024/"><u>Unbeatable Free Livestream Solutions Reviewed Across All Platforms for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-codegpt-innovative-ai-for-coding-but-how-effective-is-it/"><u>Understanding CodeGPT - Innovative AI for Coding, but How Effective Is It?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-spending-in-online-advertising-for-2024/"><u>Understanding Spending in Online Advertising for 2024</u></a></li>
+</ul></div>
 

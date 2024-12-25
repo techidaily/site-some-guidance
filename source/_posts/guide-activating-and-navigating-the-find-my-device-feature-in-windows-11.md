@@ -1,7 +1,7 @@
 ---
 title: "Guide: Activating & Navigating the Find My Device Feature in Windows 11"
-date: 2024-08-31T06:11:49.360Z
-updated: 2024-09-01T06:11:49.360Z
+date: 2024-12-18T01:59:55.041Z
+updated: 2024-12-24T18:15:22.932Z
 tags:
   - deals
 categories:
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/f7591f1fe19066863a4d6b73ad7ef224adc41cd29
 
  Once turned on, you can use your Microsoft account to track your Windows 11 PC on a map. You can even [lock the PC](https://facebook.techidaily.com/renewable-revolution-complete-energy-for-fb/) so anyone who finds it can’t access your data. The feature also lets you display a message on the lost device, so if someone finds the device, they can return it to you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ##  How to Turn On Find My Device
 
  To turn on Find My Device, ensure you’re signed in to a Microsoft account and that account is an administrator on your PC.
@@ -45,20 +41,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 !['Privacy & Security' and 'Find My Device' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-find-my-device-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On the following screen, turn on the "Find My Device" toggle.
 
 !['Find My Device' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-enable-find-my-device.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  And that’s all. You’ve successfully enabled the feature on your PC. You can now locate this specific device using your Microsoft account.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Locate or Lock a Device With Find My Device
 
  To trace or lock a Find My Device-enabled PC, launch a web browser on your device and head to [Microsoft’s Devices page](https://account.microsoft.com/devices). Sign in to the same Microsoft account that you use on the PC you want to locate.
@@ -68,13 +59,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 !['Find My Device' highlighted on the Microsoft Devices site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-locate-device-find-my-device.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On the device page, click "Find" to begin tracking the device’s location.
 
  If the device’s live location isn’t available, Microsoft will display the last recorded location.
 
 !['Find' highlighted for a device on the Microsoft Devices site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-start-finding-device.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the device is found, you’ll see its location on the map. To zoom in, click the "+" (plus) sign on the right of the map. This lets you find your device’s precise location.
 
@@ -84,6 +80,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![A device's location displayed on a map on the Microsoft Devices site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-view-device-location.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to lock the device so every user on it gets logged out, click the "Lock" button.
 
 !['Lock' highlighted on the Microsoft Devices site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/6-lock-device.jpg) 
@@ -92,10 +92,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![The message box and 'Lock' highlighted on the 'Lock Device' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/7-add-message-lock-device.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Microsoft has now locked your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Turn Off Find My Device
 
@@ -121,8 +122,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +129,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-olympic-thrills-amidst-snowy-bliss-in-beijing-2022/"><u>[New] Olympic Thrills Amidst Snowy Bliss in Beijing 2022</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-best-voice-altering-software-for-your-virtual-persona/"><u>[New] The Best Voice-Altering Software for Your Virtual Persona</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-creative-potential-with-filmora-answers/"><u>[New] Unlocking Creative Potential with Filmora Answers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-best-look-ups-for-gopro-movies-select-15-luts-for-2024/"><u>[Updated] Best Look-Ups for GoPro Movies Select 15 LUTs for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-flip-the-script-crafting-unique-and-shareable-memes-on-social-platforms/"><u>[Updated] Flip the Script Crafting Unique and Shareable Memes on Social Platforms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-quick-guide-accessorizing-windows-with-a-clownfish-speech-modifier/"><u>[Updated] Quick Guide Accessorizing Windows with a Clownfish Speech Modifier</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-strategy-guide-to-digital-video-enhancement/"><u>[Updated] The Ultimate Strategy Guide to Digital Video Enhancement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-subtext-converting-srt-to-sub/"><u>[Updated] Unlocking Subtext Converting SRT to SUB</u></a></li>
+<li><a href="https://win11.techidaily.com/1-ultimate-guide-downloading-youtube-content-onto-your-ipad/"><u>1. Ultimate Guide: Downloading YouTube Content Onto Your iPad</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-efficiency-with-operas-innovative-pop-up-feature-a-guide-from-zdnet/"><u>Boost Efficiency with Opera's Innovative Pop-Up Feature: A Guide From ZDNet</u></a></li>
+<li><a href="https://win-info.techidaily.com/schutz-ihrer-windows-11-konfiguration-herausragende-kostenlose-programme-auf-flash-speicherstick/"><u>Schutz Ihrer Windows 11 Konfiguration - Herausragende Kostenlose Programme Auf Flash-Speicherstick</u></a></li>
+</ul></div>
 

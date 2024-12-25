@@ -1,7 +1,7 @@
 ---
 title: "Understanding Swappiness in Linux Systems: A Comprehensive Guide"
-date: 2024-08-31T06:10:30.064Z
-updated: 2024-09-01T06:10:30.064Z
+date: 2024-12-20T17:26:05.786Z
+updated: 2024-12-24T19:25:11.924Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
 ---
 
 ## Understanding Swappiness in Linux Systems: A Comprehensive Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -24,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
 
  The Linux swappiness value has nothing to do with how much RAM is used before swapping starts. That's a widely reported and widely believed mistake. We explain what it really is.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Busting Myths About Swapiness
 
  Swapping is a technique where data in [Random Access Memory](https://en.wikipedia.org/wiki/Random-access%5Fmemory) (RAM) is written to a special location on your hard disk---either a swap partition or a swap file---to free up RAM.
@@ -34,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
 
  Simple. We're going to prove it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Your RAM is Split Into Zones
 
  Linux doesn't think of your RAM as one big homogenous pool of memory. It considers it to be divided into a number of different regions called zones. Which zones are present on your computer depends on whether it is [32-bit](https://en.wikipedia.org/wiki/32-bit) or [64-bit](https://en.wikipedia.org/wiki/64-bit%5Fcomputing). Here's a simplified description of the possible zones on an [x86 architecture computer](https://en.wikipedia.org/wiki/X86).
@@ -45,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
 * **Direct Memory Access 32**: Despite its name, Direct Memory Access 32 (DMA32) is a zone only found in 64-bit Linux. It's the low 4 GB of memory. Linux running on 32-bit computers can only do DMA to this amount of RAM (unless they are using the [physical address extension](https://en.wikipedia.org/wiki/Physical%5FAddress%5FExtension#Linux) (PAE) kernel), which is how the zone got its name. Although, on 32-bit computers, it is called HighMem.
 * **Normal**: On 64-bit computers, normal memory is all of the RAM above 4GB (roughly). On 32-bit machines, it is RAM between 16 MB and 896 MB.
 * **HighMem**: This only exists on 32-bit Linux computers. It is all RAM above 896 MB, including RAM above 4 GB on sufficiently large machines.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The PAGESIZE Value
 
@@ -57,8 +66,9 @@ getconf PAGESIZE
 ![getconf PAGESIZE](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/6-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Zones Are Attached to Nodes
 
  Zones are attached to nodes. Nodes are associated with a [Central Processing Unit (CPU)](https://www.howtogeek.com/367931/htg-explains-how-does-a-cpu-actually-work/). The kernel will try to allocate memory for a process running on a CPU from the node associated with that CPU.
@@ -70,6 +80,10 @@ getconf PAGESIZE
 less /proc/buddyinfo
 
 ![less /proc/buddyinfo in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/7.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This is the output from the 64-bit computer this article was researched on:
 
@@ -90,9 +104,6 @@ Node 0, zone DMA 1 1 1 0 2 1 1 0 1 1 3
 
  But really, the only reason we're looking at this information is to see the relationship between nodes and zones.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  File Pages and Anonymous Pages
 
  Memory mapping uses sets of [page table entries](https://en.wikipedia.org/wiki/Page%5Ftable) to record which memory pages are used, and for what.
@@ -107,9 +118,6 @@ Node 0, zone DMA 1 1 1 0 2 1 1 0 1 1 3
 
  For swappiness, we need only concern ourselves with the first two in the list: file pages and anonymous pages.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ##  Swappiness
 
  Here's the description of swappiness [from the Linux documentation](https://github.com/torvalds/linux/blob/v5.0/Documentation/sysctl/vm.txt#L809) on [GitHub](https://github.com/):
@@ -141,9 +149,6 @@ file_prio = 200 - anon_prio;`
     
  That's interesting. Two distinct values are derived from `swappiness`. The `anon_prio` and `file_prio` variables hold these values. As one increases, the other decreases, and vice versa. The Linux swappiness value actually sets the ratio between two values.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  The Golden Ratio
 
  File pages hold data that can be easily retrieved if that memory is freed. Linux can just read the file again. As we've seen, if the file data has been changed in RAM, those changes must be written to the file before the file page can be freed. But, either way, the file page in RAM can be repopulated by reading data from the file. So why bother adding these pages to the swap partition or swap file? If you need that data again, you might as well read it back from the original file instead of a redundant copy in the swap space. So file pages are not stored in swap. They're "stored" back in the original file. With anonymous pages, there is no underlying file associated with the values in memory. The values in those pages have been dynamically arrived at. You can't simply read them back in from a file. The only way anonymous page memory values can be recovered is to store the data somewhere before freeing the memory. And that's what swap holds. Anonymous pages that you are going to need to reference again. But note that for both file pages and for anonymous pages, freeing up the memory may require a hard drive write. If the file page data or the anonymous page data has changed since it was last written to the file or to swap, a file system write is required. To retrieve the data will require a file system read. Both types of page reclaim are costly. Trying to reduce hard drive input and output by minimizing the swapping of anonymous pages only increases the amount of hard drive input and output that is required to deal with file pages being written to, and read from, files. As you can see from the last code snippet, there are two variables. One called `file_prio` for "file priority", and one called `anon_prio` for "anonymous priority".
@@ -158,9 +163,6 @@ file_prio = 200 - anon_prio;`
 
  So you can see that you cannot use the Linux swappiness value to influence swap's behavior with respect to RAM usage. It just doesn't work like that.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What Should Swapiness Be Set To?
 
  This depends on hardware, workload, hard drive type, and whether your computer is a desktop or a server. Obviously, this isn't going to be a one size fits all type of setting. And you have to bear in mind that swap isn't just used as a mechanism to free up RAM when you're running out of memory space. Swap is an important part of a well functioning system, and without it, sane memory management becomes very difficult for Linux to achieve. Changing the Linux swappiness value has an instant effect; you don't need to reboot. So you can make small adjustments and monitor the effects. Ideally, you'd do this over a period of days, with different types of activity on your computer, to try to find the closest to an ideal setting that you can. These are some points to consider:
@@ -196,8 +198,6 @@ vm.swappiness=35
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +205,23 @@ vm.swappiness=35
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-prime-locations-to-find-rich-text-enhancements/"><u>[New] Prime Locations to Find Rich Text Enhancements</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-sky-high-selfies-and-beyond-an-insightful-analysis-of-dji-spark/"><u>[New] Sky High Selfies and Beyond An Insightful Analysis of DJI Spark</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-your-gaming-experience-kinemaster-pros-and-10-online-counterparts/"><u>[New] Transform Your Gaming Experience KineMaster Pros & 10 Online Counterparts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-tv-for-virtual-concerts/"><u>2024 Approved Ultimate TV for Virtual Concerts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-gopro-potential-model-by-model-insight/"><u>2024 Approved Unlocking Gopro Potential Model By Model Insight</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-potential-of-virtual-backgrounds-in-webcasters-arsenal/"><u>2024 Approved Unlocking the Potential of Virtual Backgrounds in Webcasters' Arsenal</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-device-picture-quality-woes-unfocused-images-solved-with-simple-fixes/"><u>Apple Device Picture Quality Woes? Unfocused Images Solved with Simple Fixes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-samsung-galaxy-m34-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Samsung Galaxy M34 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6s-plus-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6s Plus To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-becoming-an-smm-virtuoso-the-ultimate-pathway-of-10-strategic-steps/"><u>In 2024, Becoming an SMM Virtuoso The Ultimate Pathway of 10 Strategic Steps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-precision-and-savings-combined-top-asmr-microphones-within-reach/"><u>In 2024, Precision & Savings Combined Top ASMR Microphones Within Reach</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-techniques-to-develop-engaging-vlogger-conversations/"><u>In 2024, Techniques to Develop Engaging Vlogger Conversations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-steam-video-game-refunds-tips-and-tricks/"><u>Mastering the Art of Steam Video Game Refunds: Tips and Tricks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfected-beats-on-the-go-no-cost-just-download-and-play-for-2024/"><u>Perfected Beats on the Go - No Cost, Just Download and Play for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/steps-to-follow-when-you-cant-open-your-word-documents/"><u>Steps to Follow When You Can't Open Your Word Documents</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-tips-for-pairing-your-xbox-one-controller-when-synching-issues-arise/"><u>Ultimate Tips for Pairing Your Xbox One Controller When Synching Issues Arise</u></a></li>
+</ul></div>
 

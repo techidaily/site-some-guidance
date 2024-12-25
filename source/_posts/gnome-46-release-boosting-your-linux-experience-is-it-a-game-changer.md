@@ -1,7 +1,7 @@
 ---
 title: "GNOME 46 Release: Boosting Your Linux Experience - Is It a Game Changer?"
-date: 2024-08-31T06:11:02.746Z
-updated: 2024-09-01T06:11:02.746Z
+date: 2024-12-20T01:04:39.295Z
+updated: 2024-12-24T23:49:07.737Z
 tags:
   - desktop
 categories:
@@ -29,8 +29,9 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
  Your choice of Linux desktop environment sets the tone for your Linux experience. What will Windows-savvy newcomers make of GNOME 46, the latest version of the (practically) default Linux graphical interface?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Moving to Linux
 
  I’ve always been a little puzzled by Linux distributions that try to look a bit like Windows. I understand the strategy, and removing as much friction from the move to Linux makes good sense. But the benefits of having something similar to a start menu in the lower left corner, and a taskbar at the bottom of the desktop, are somewhat fleeting.
@@ -41,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
 
  And that’s why [the GNOME desktop environment](https://some-guidance.techidaily.com/new-the-complete-vivacut-overview-editors-deep-dive/) is so important.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  The GNOME Desktop Environment
 
  Of course, there are many [Linux desktop environments](https://extra-resources.techidaily.com/new-becoming-a-professional-editor-mastering-final-cut-pro/), and they’re pretty much all available on any Linux distribution. Some distributions build themselves around their desktop, such as [Linux Mint](https://linuxmint.com/) and [Zorin OS](https://zorin.com/os/). However, the default desktop environment in many distributions is GNOME. There’s a strong chance that a newcomer to Linux will find themselves using a GNOME desktop.
@@ -54,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
 
 ![GNOME 46 desktop with default wall paper](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Dave McKay / How-To Geek
 
  The GNOME panel at the top of the screen is a departure for Windows users who expect their taskbar at the bottom, but a moment’s exploring will reveal that they can click the items on the left, the right, and in the middle. Clicking the symbol on the left, which is actually the workspace switcher, shows the Overview and the default applications in the Dash. 
@@ -64,8 +59,9 @@ Dave McKay / How-To Geek
 ![GNOME 46 desktop in Overview mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Dave McKay / How-To Geek
 
  Slightly less obvious is the functionality that lets you hover your mouse over the workspace switcher and use the scroll wheel to move you through your active workspaces. Clicking the time and date in the center opens the notification panel.
@@ -90,9 +86,6 @@ Dave McKay / How-To Geek
 
 ![GNOME 46 system menu on a desktop PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/5-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Dave McKay / How-To Geek
 
  If you have Wi-Fi, for example, you’ll see a Wi-Fi button, and if you’re on a laptop device you’re shown the percentage of remaining battery charge.
@@ -104,6 +97,10 @@ Dave McKay / How-To Geek
  Clicking the workspace switcher (or pressing the “Super” key) swaps to the overview, showing you the open applications. You can drag applications from workspace to workspace. The Dash is shown at the bottom of the screen with its default set of applications.
 
 ![GNOME 46 desktop in overview mode with a Dash tooltip highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/6.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Dave McKay / How-To Geek
 
@@ -137,9 +134,6 @@ Dave McKay / How-To Geek
 
 ![The date and TIme display setting in Files preferences](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Dave McKay / How-To Geek
 
  This option applies to the List view and Grid view. To see the date in the Grid view, you’ll need to set one of the Grid View Captions options to either Created, Modified, or Accessed.
@@ -152,27 +146,18 @@ Dave McKay / How-To Geek
 
 ![The date and time being shown the Grid view in Files](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/12.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 Dave McKay / How-To Geek
 
  The file transfer progress information has been moved to the lower left of the Files window. Clicking it pops out a more detailed view.
 
 ![The file copy progress bar in FIles](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/13.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Dave McKay / How-To Geek  
 
  If you try to copy a file larger than 4GB to a FAT partition you’ll get a warning and the file isn’t copied. Previously, Files would copy as much as it could and then fail. When you create a password-protected archive you’re prompted to re-enter the password.
 
 ![THe Password and Confirm Password fields in the Create Compressed Archive dialog in FIles](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/14.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Dave McKay / How-To Geek
 
  There are performance and usability enhancements too. Swapping between the List and Grid views happens immediately now, and a single click is all that is needed to edit the file path field.
@@ -190,8 +175,9 @@ Dave McKay / How-To Geek
 ![The Privacy and Security pane of the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/16.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Dave McKay / How-To Geek
 
  The Default Apps settings have been moved into the Apps settings, which makes logical sense.
@@ -205,8 +191,9 @@ Dave McKay / How-To Geek
 ![The Removable Media options in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/18.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Dave McKay / How-To Geek
 
  Laptop touchpads can be turned off while typing, and you can select how you perform a "right-click" on the touchpad.
@@ -218,6 +205,10 @@ Dave McKay / How-To Geek
  A new accessibility option allows you to show on (I) and off (O) indicators in slider buttons.
 
 ![The accessibility options in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/19.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Dave McKay / How-To Geek
 
@@ -233,6 +224,10 @@ Dave McKay / How-To Geek
 
 ![The failure to connect to OneDrive error message](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/21.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Dave McKay / How-To Geek
 
  The authorization for all online accounts is now completed in your browser, making the process more secure, and there’s support for USB security keys. Another long-awaited addition is the ability to support remote connections to your computer over the RDP protocol.
@@ -243,9 +238,6 @@ Dave McKay / How-To Geek
 
  You need to turn on desktop sharing on your computer and use an RDP client on the remote computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Software
 
  Hovering your mouse over the icons in the Dash will reveal one called Software. Clicking this icon opens the Software application.
@@ -253,18 +245,15 @@ Dave McKay / How-To Geek
 ![The GNOME 46 Software application home page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/22.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Dave McKay / How-To Geek
 
  Some applications have green ticks on their tiles. These are Flathub applications created by verified developers.
 
 ![The GNOME Software app showing tiles with green ticks on them](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/23.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Dave McKay / How-To Geek
 
  The Preferences window and the Keyboard Shortcuts windows have been refreshed.
@@ -272,15 +261,17 @@ Dave McKay / How-To Geek
 ![The GNOME 46 Software app Preferences dialog](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/24.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Dave McKay / How-To Geek
 
  Finally, the Software application now gives more meaningful warnings and error messages, like alerting you before you perform a large download over a metered data connection.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The GNOME Core Apps
 
  All the GNOME Core applications such as Calendar, Maps, Loupe, Music, and the Epiphany browser have had improvements.
@@ -289,9 +280,6 @@ Dave McKay / How-To Geek
 
 ![The GNOME maps application showing the Empire State Building](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/25.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Dave McKay / How-To Geek
 
  Disks has a graph showing disk input/output speeds.
@@ -322,14 +310,8 @@ Dave McKay / How-To Geek
 
 ![Importing multiple VCards into GNOME Contacts](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/30.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Dave McKay / How-To Geek
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Other Improvements
 
  There are numerous other improvements scattered throughout GNOME 46, like these:
@@ -352,8 +334,6 @@ Dave McKay / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -361,4 +341,18 @@ Dave McKay / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-beginners-guide-to-video-capture-with-logitech-cam-for-2024/"><u>[New] Beginner's Guide to Video Capture with Logitech Cam for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-taking-video-action-with-gopro-burst-technology/"><u>[New] Taking Video Action with GoPro Burst Technology</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unraveling-the-imovie-video-edge-policy/"><u>[New] Unraveling the iMovie Video Edge Policy</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-srgb-adoption-over-traditional-rgb-techniques/"><u>[Updated] 2024 Approved Srgb Adoption Over Traditional Rgb Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-download-instagram-vids-effortlessly-on-your-desktop-system-pcmac-for-2024/"><u>[Updated] Download Instagram Vids Effortlessly on Your Desktop System (PC/Mac) for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamlining-your-workflow-with-mac-preview-complete-guide/"><u>[Updated] Streamlining Your Workflow with Mac Preview Complete Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-supercharge-your-media-download-sounds-for-editing/"><u>[Updated] Supercharge Your Media Download Sounds for Editing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-strategies-for-high-quality-gopro-4k-footage-editing-for-2024/"><u>Expert Strategies for High-Quality GoPro 4K Footage Editing for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-insights-on-simplified-hdr-processing/"><u>In 2024, Comprehensive Insights on Simplified HDR Processing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-pantheon-of-praise-celebrating-ten-superstar-posts/"><u>In 2024, The Pantheon of Praise Celebrating Ten Superstar Posts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-six-techniques-to-enhance-image-clarity-and-detail/"><u>Top Six Techniques to Enhance Image Clarity and Detail</u></a></li>
+</ul></div>
 

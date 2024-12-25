@@ -1,7 +1,7 @@
 ---
 title: "Rebooting Quality in Operating Systems: How Microsoft Can Improve Windows Today"
-date: 2024-08-31T06:10:10.158Z
-updated: 2024-09-01T06:10:10.158Z
+date: 2024-12-19T00:27:31.227Z
+updated: 2024-12-25T00:47:35.783Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/829637766daad5158a0e2799ab45977f98c34111c
 ---
 
 ## Rebooting Quality in Operating Systems: How Microsoft Can Improve Windows Today
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/829637766daad5158a0e2799ab45977f98c34111c
 
  Windows is becoming very different from the operating system that I first grew to enjoy and use over the past few decades, but despite how I feel it's strayed from the path of greatness, if I were CEO for a day these are five things I would change to get the world's most popular operating system back on track.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Permanent Deferral of Non-Essential Updates
 
  Windows updates have been the bane of my existence for years now, and I really think that Windows needs to give users much better control of what updates are installed and when they're installed. Essentially, I think only absolutely mission-critical updates should happen without being able to defer them. These should be limited to serious security issues, or anything that will put your computer at risk or stop it from functioning properly if the update doesn't happen somewhere down the line.
@@ -28,15 +36,13 @@ thumbnail: https://thmb.techidaily.com/829637766daad5158a0e2799ab45977f98c34111c
  For everything else, I should be able to say "no" and have that be my final answer. If I'm not interested in your new features or services, that should be it. Separating crucial updates from truly optional ones is good OS design 101, and the current "death and taxes" approach to updates is something I'd like to see changed.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  No Nagging for Microsoft Apps and Services
 
  I get that creating and maintaining an operating system is expensive, and I also understand that value-added services can be a great way to add money to the coffers while also giving customers something truly useful, but the more you nag at me to use One Drive, the Edge Browser, the Windows Store, Microsoft 365, or CoPilot, the less I feel like actually using these services. I'm perfectly fine with being informed about them, but any sort of nagging should be taboo.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ##  Confining Ads to the Windows Store
 
  Ads in Windows are becoming [more aggressive](https://instagram-video-files.techidaily.com/new-in-2024-essential-app-picks-best-10-editors-to-transform-reels/), which is one of the reasons I wrote that [my Windows computer doesn't really feel like it belongs to me anymore](https://some-approaches.techidaily.com/2024-approved-the-artisans-handbook-to-photomontage-creation/). While it is possible to [disable Microsoft's ads and recommendations in Windows 11](https://screen-mirror.techidaily.com/how-to-cast-apple-iphone-14-to-chromecast-drfone-by-drfone-ios/), they shouldn't be there in the first place.
@@ -44,16 +50,17 @@ thumbnail: https://thmb.techidaily.com/829637766daad5158a0e2799ab45977f98c34111c
  Instead, ads should be confined to the Windows 11 app store, where you'd expect commercial advertising. Letting ads leak beyond the store itself turns Windows into a garish billboard, and to me that's not acceptable.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  An Off Switch for OneDrive
 
  There are many great cloud storage services and Microsoft's OneDrive is certainly one of them, but it can be frustrating and annoying to simply [turn off OneDrive](https://some-knowledge.techidaily.com/explore-the-best-8-web-sites-for-accessing-3d-text-psds-for-2024/) and never hear from it again. One thing I'd definitely change about the modern Windows experience is to have a simple master off switch that will banish OneDrive forever if you opt to use a different cloud storage provider instead. Microsoft may be largely a cloud services company these days, but that doesn't mean that every Windows user wants to use those services.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Full Offline Installations With No Microsoft Account Needed
 
  While it is possible to [set up Windows 11 without a Microsoft Account](https://fox-friendly.techidaily.com/updated-asus-mg28uq-elevating-your-visual-experience-to-new-heights-for-2024/), it's a convoluted and arcane process which you have to know about to even use. It's not advertised to the average user installing Windows 11 or starting up a new computer they just bought, and it's clear that Microsoft would much prefer that you register an online account with them, since that's the hub of their online service empire.
@@ -70,8 +77,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -79,4 +84,23 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-av1-encoding-insights/"><u>[New] Unlocking AV1 Encoding Insights</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-drone-knowledge-must-know-before-making-a-deal/"><u>[New] Unlocking Drone Knowledge Must-Know Before Making a Deal</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-zoomview-partition-inspection/"><u>[New] ZoomView Partition Inspection</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1-unlock-the-secrets-of-nyt-connecting-cornerstones-insight-and-explanation-august-8-edition-part-423/"><u>1. Unlock the Secrets of 'NYT Connecting Cornerstones: Insight & Explanation - August 8 Edition, Part #423'</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-display-match-top-6-hdmi-21-monitors-compared/"><u>2024 Approved The Ultimate Display Match Top 6 HDMI 2.1 Monitors Compared</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-hidden-strategies-in-canvas-image-design-toolkit/"><u>2024 Approved Top 10 Hidden Strategies in Canva's Image Design Toolkit</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-secrets-of-effective-podcast-names-plus-50plus-inspirations/"><u>2024 Approved Unlocking the Secrets of Effective Podcast Names, Plus 50+ Inspirations</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-motorola-moto-g24-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Motorola Moto G24? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/buyers-choice-best-in-class-network-raulking-systems-reviewed-for-2ver/"><u>Buyer's Choice: Best-In-Class Network Raulking Systems Reviewed for 2veR</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/deciding-on-a-screen-projectors-and-tvs-at-the-forefront-of-4k-technology/"><u>Deciding on a Screen Projectors & TVs at the Forefront of 4K Technology</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-samsung-galaxy-s23-ultra-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Samsung Galaxy S23 Ultra 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamline-your-videos-with-these-top-12-players/"><u>In 2024, Streamline Your Videos with These Top 12 Players</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/leading-tech-in-snap-capture-for-2024/"><u>Leading Tech in Snap Capture for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/thorough-vsco-editor-user-manual-for-2024/"><u>Thorough VSCO Editor User Manual for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-comprehensive-insights-into-computer-equipment/"><u>Tom's Tech Review: Comprehensive Insights Into Computer Equipment</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/standing-and-crafting-youtube-live-thumbnails-for-2024/"><u>Understanding and Crafting YouTube Live Thumbnails for 2024</u></a></li>
+</ul></div>
 

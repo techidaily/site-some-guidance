@@ -1,7 +1,7 @@
 ---
 title: Unlocking Efficiency on Your Mac with an Essential, Yet Underappreciated, Automatic Shortcut Feature
-date: 2024-08-31T06:11:41.461Z
-updated: 2024-09-01T06:11:41.461Z
+date: 2024-12-23T18:52:26.086Z
+updated: 2024-12-24T22:51:52.075Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Apple's macOS has plenty of excellent features we all love, but there are several controls or settings many users forget about or simply don't use. One of the most underrated macOS features I use daily is Quick Look. Here's why, what it does, and how to make it even better.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What is Quick Look on macOS?
 
  You may use Quick Look quite frequently without realizing it, and it's one of those [features that confuse Windows users](https://voice-adjusting.techidaily.com/disable-incoming-audio-cues-and-import-fresh-audiovisual-components-via-windows-moviemaker-software/). Or, you could be like my wife, who's owned a MacBook for over five years and never knew it existed. So, what is it?
@@ -28,15 +32,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Even on the most powerful Mac machines, Quick Look is the easiest and quickest way to view content.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Use Quick Look
 
 ![A MacBook air on a wooden table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/a-macbook-air-under-a-wooden-table.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Zarif Ali / How-To Geek
 
  Quick Look might sound insignificant, but it's criminally overlooked and one of the best macOS features. To use it, select one or more items and **tap the space bar**. It's that easy!
@@ -48,15 +54,17 @@ Zarif Ali / How-To Geek
  Better yet, Quick Look isn't just for viewing content from your desktop, finder windows, or emails; you can also edit them on the fly. Select a photo, tap the space bar to launch Quick Look, and at the top of the window, you'll see options to rotate or resize the image. You'll get similar options to trim audio and video clips, use Markup, share to email or text, and more. This one tool does all that.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Making Quick Look Even Better
 
 ![An iMac with the Preview app logo in the center of the screen and icons illustrating some of its functions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/an-imac-with-the-preview-app-logo-in-the-center-of-the-screen-and-icons-illustrating-some-of-its-functions.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Lucas Gouveia / How-To Geek | Apple | [SGM](https://www.shutterstock.com/image-photo/london-september-17-apple-imac-new-218552500) / Shutterstock
 
  Quick Look is extremely versatile and impressive on its own. You can also get extensions that make it more useful or combine it with the macOS Preview feature to do even more.
@@ -75,8 +83,6 @@ Lucas Gouveia / How-To Geek | Apple | [SGM](https://www.shutterstock.com/image-p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,4 +90,22 @@ Lucas Gouveia / How-To Geek | Apple | [SGM](https://www.shutterstock.com/image-p
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-top-handheld-tech-to-eliminate-shaky-screenshot-videos/"><u>[New] Top Handheld Tech to Eliminate Shaky Screenshot Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-strategies-for-deleting-watch-later-items-on-youtube/"><u>[Updated] Strategies for Deleting Watch Later Items on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamline-your-gaming-experience-with-top-tools/"><u>2024 Approved Streamline Your Gaming Experience with Top Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-path-to-precision-audio-starting-with-an-adobe-auditions-fade-in/"><u>2024 Approved The Path to Precision Audio Starting with an Adobe Audition's Fade In</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-list-8-key-steps-for-irresistible-unboxing-reels/"><u>2024 Approved The Ultimate List 8 Key Steps for Irresistible Unboxing Reels</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-audio-into-artistic-vision-via-canva-editing-tools/"><u>2024 Approved Transforming Audio Into Artistic Vision via Canva Editing Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/busting-myths-around-truthgpt-currency/"><u>Busting Myths Around TruthGPT Currency</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/elite-highlight-extravaganza-iosandroid-instagram-coverage-tools-for-2024/"><u>Elite Highlight Extravaganza IOS/Android Instagram Coverage Tools for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-s17e-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo S17e to PC? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Infinix Zero 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-12-mini-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On Apple iPhone 12 mini Online</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-motorola-razr-40-ultra-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Motorola Razr 40 Ultra to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-thrifty-flyers-guide-5-drones-for-under-100/"><u>In 2024, Thrifty Flyers' Guide 5 Drones for Under $100</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-best-video-translator-app-for-pc-you-cannot-miss/"><u>New Best Video Translator App for PC You Cannot Miss</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-evolutionary-saga-of-vr-worlds-for-2024/"><u>The Evolutionary Saga of VR Worlds for 2024</u></a></li>
+</ul></div>
 

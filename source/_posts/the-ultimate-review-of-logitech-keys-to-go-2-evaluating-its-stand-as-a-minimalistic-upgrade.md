@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Review of Logitech Keys-To-Go 2: Evaluating Its Stand as a Minimalistic Upgrade"
-date: 2024-08-31T06:07:54.765Z
-updated: 2024-09-01T06:07:54.765Z
+date: 2024-12-23T23:39:27.810Z
+updated: 2024-12-24T17:07:39.005Z
 tags:
   - product-reviews
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/a830d2a24e442aebcbf388f14e166b1639967eaf0
  If you’re a sucker for ultra-portable gadgets, ones great for travel, then the [Logitech Keys-To-Go 2](http://www.logitech.com/keys-to-go2-universal) keyboard has your name all over it. I’m one of these people and I couldn’t resist its minimal frame with generous-sized responsive keys.
 
 ![Keys-To-Go 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-17-dslu3o7y-2x.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Logitech Keys-To-Go 2
 
@@ -84,13 +88,14 @@ Keys-To-Go 2 is Logitech’s most portable keyboard, designed to type on tablets
 
 Expand 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Out With Version One, In With The New
 
 ![Logitech Keys-To-Go 2 next to its packaging](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/53784746945_b8cef045aa_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  I bought the original Logitech Keys-To-Go keyboard almost a decade ago, around 2015, because I wanted the absolute thinnest, most minimal keyboard to throw in my backpack and type on my iPad better than I could with the on-screen keyboard.
@@ -112,15 +117,13 @@ Jerome Thomas / How-To Geek
 ![Logitech Keys-To-Go 2 folded on top of its cover on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/53784746960_6279912402_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  Ultimately, I did come to just accept the fact that the inside of the cover, the part that touches the keys, was also the part resting on dirty surfaces. The cover does prop up the keyboard ever-so-slightly, but not enough to make a difference. The design of the cover just doesn’t make much sense to me.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ##  Figuring Out Which iPad Keyboard to Buy
 
  You can use the Keys-To-Go 2 with any Bluetooth device, especially with the universal layout, but I’m convinced it’s a product that was made for iPads.
@@ -137,25 +140,14 @@ Jerome Thomas / How-To Geek
 
  The one omission when giving up Apple’s option is forfeiting a trackpad. I had to keep reaching out and positioning my cursor within my text document. It’s less ideal for frequent, every single day, use. So again, if you use your iPad like a laptop, Apple’s Magic Keyboard for iPad is probably the way to go. But if you just need an infrequent Bluetooth keyboard, this is the solution.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy the Logitech Keys-To-Go 2?
 
 ![Logitech Keys-To-Go 2 with its cover open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/53784323756_0f5797ec81_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  From the first moment I held the [Logitech Keys-To-Go 2](http://www.logitech.com/keys-to-go2-universal) keyboard I knew I would be buying one of my own. It’s an ideal size and its key action is springy enough to support prolonged typing—for as long as my brain can keep up. I love the Keys-To-Go 2 simple design and its basic features.
@@ -167,8 +159,9 @@ Jerome Thomas / How-To Geek
 ![Keys-To-Go 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-17-dslu3o7y-2x.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #####  Logitech Keys-To-Go 2
 
 7/ 10 
@@ -183,8 +176,6 @@ Keys-To-Go 2 is Logitech’s most portable keyboard, designed to type on tablets
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +183,19 @@ Keys-To-Go 2 is Logitech’s most portable keyboard, designed to type on tablets
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-revival-of-obs-camera-achieved/"><u>[New] Revival of OBS Camera Achieved</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-simplified-processes-generating-your-podcasts-rss-feed/"><u>[New] Simplified Processes Generating Your Podcast's RSS Feed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ultimate-choices-in-video-collaboration-software/"><u>[Updated] In 2024, Ultimate Choices in Video Collaboration Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-superior-video-cameras-previewed/"><u>[Updated] Superior Video Cameras Previewed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-choice-for-capturing-quality-content-on-youtube/"><u>[Updated] Top Choice for Capturing Quality Content on YouTube</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-how-to-clearance-check-tiktok-videos-before-publishing/"><u>2024 Approved How to Clearance-Check TikTok Videos Before Publishing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/advanced-graphics-tweaking-for-optimal-display-performance/"><u>Advanced Graphics Tweaking for Optimal Display Performance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-and-open-top-7-laptop-dvd-player-software-options/"><u>In 2024, Free & Open Top 7 Laptop DVD Player Software Options</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/madden-19-critique-excellent-additions-yet-constrained-by-traditional-format/"><u>Madden 19 Critique: Excellent Additions, Yet Constrained by Traditional Format</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/superior-select-ringtone-makers-guidebook-for-2024/"><u>Superior Select Ringtone Makers' Guidebook for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-gopro-cinematography-luts-15-best-for-2024/"><u>The Ultimate Guide to GoPro Cinematography LUTs (15 Best) for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trimming-down-excessive-cpu-usage-in-windows-hosts/"><u>Trimming Down Excessive CPU Usage in Windows Hosts</u></a></li>
+</ul></div>
 

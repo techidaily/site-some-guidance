@@ -1,7 +1,7 @@
 ---
 title: "Unboxing the Future with Google Pixel 8: A Visionary Device?"
-date: 2024-08-31T06:08:03.405Z
-updated: 2024-09-01T06:08:03.405Z
+date: 2024-12-21T00:22:11.590Z
+updated: 2024-12-24T22:40:17.694Z
 tags:
   - product-reviews
 categories:
@@ -126,6 +126,10 @@ Sergio Rodriguez / How-To Geek
 
 ![Person holding the Google Pixel 8](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/person-holding-the-google-pixel-8.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  It’s hard to tell why, but the Pixel 8 seemed to have sharper transitions from the screen to the metal sides and then to the glass back than the Pixel 7\. I didn’t care for that.
@@ -134,16 +138,10 @@ Sergio Rodriguez / How-To Geek
 
  Those are something, but overall there’s just not much technically different from last year’s Pixel 7\. It still has 8GB of RAM and two storage tiers of 128GB or 256GB. Other minute differences in the cameras like the ultra-wide have a larger field of view, but generally, the differences radiate out from the G3 processor, including a [more secure Face Unlock](https://blog.google/products/pixel/google-pixel-8-pro/), and camera abilities like Best Take, Magic Editor, Audio Eraser, Astrophotography, and Ultra HDR.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Pixel 8 Camera: Reality Optional
 
 ![close up of the Pixel 8 camera system](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/close-up-of-the-pixel-8-camera-system.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  The camera system is _the_ only feature that matters on the Pixel 8, frankly. If you’re more concerned with the more general “pixel-only” features like Call Screen to preview calls, then save yourself some money and get a Pixel 7 or 7a.
@@ -187,8 +185,9 @@ Close
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Android 14 on Pixel 8
 
  Easily my favorite new [Android 14](https://mondly-stories.techidaily.com/beginners-pathway-to-russian-currency-terminology/) feature is the lock screen customization. That includes swiping through different clocks, matching colors, and generating AI wallpapers based on limited prompts. It even includes changing the two front shortcut buttons for the camera, flashlight, or a host of other choices. Weirdly, it will let you put two of the same icon if you really want to.
@@ -201,21 +200,26 @@ Close
 
  The only time I experienced sluggishness in the phone's performance was when using Magic Editor in a place with poor cellular service. It took a few more seconds than normal to display the weird results. Overall, Android 14 adds some nice touches as it continues to be a steady evolution visually, and with hardware performance.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Price and Availability
 
  The Google Pixel 8 starts at $699 for 128GB and comes in three color choices: Rose, Obsidian, and Hazel. Delivery starts on October 13th, 2023.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Should You Buy the Google Pixel 8?
 
 ![the back of the Pixel 8](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/the-back-of-the-pixel-8.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  The Google Pixel 8 Pro is probably the phone for most enthusiasts to get since it takes all the specs of the Pixel 8 up a notch. But if you can’t stomach the 6.7-inch screen and the half-inch height difference, or you just want to get in the door with Magic Editor, then the [Pixel 8](http://store.google.com/us/product/pixel%5F8?hl=en-US) is a very respectable choice.
@@ -226,9 +230,6 @@ Tyler Hayes / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 #####  Google Pixel 8
 
 8/ 10 
@@ -243,8 +244,6 @@ Built with Pixel’s most advanced chip and Google AI to help you do more effort
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -252,4 +251,22 @@ Built with Pixel’s most advanced chip and Google AI to help you do more effort
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-essential-list-top-9-multi-device-collaboration-apps-iosandroid-reviewed-for-2024/"><u>[New] Essential List Top 9 Multi-Device Collaboration Apps iOS/Android Reviewed for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-webcam-selection-guide-the-10-best-picks-unveiled/"><u>[New] In 2024, Webcam Selection Guide The 10 Best Picks Unveiled</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-basics-of-aspect-ratio-compliance-on-twitter-for-2024/"><u>[Updated] The Basics of Aspect Ratio Compliance on Twitter for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-7-best-waterproof-video-recorders/"><u>[Updated] The Ultimate Guide 7 Best Waterproof Video Recorders</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transforming-augmented-reality-with-downloaded-free-luts-for-development/"><u>[Updated] Transforming Augmented Reality with Downloaded, Free LUTs for Development</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solution-implemented-for-hardware-monitoring-driver-loading-errors/"><u>Effective Solution Implemented for Hardware Monitoring Driver Loading Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-navigate-forbidden-errors-on-windows/"><u>How to Navigate Forbidden Errors on Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-social-media-stardom-nine-tracks-to-insta-success/"><u>In 2024, The Art of Social Media Stardom Nine Tracks to Insta Success</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essential-powerdirector-handbook-24/"><u>In 2024, The Essential PowerDirector Handbook '24</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-prime-picks-best-storytelling-channels-fans/"><u>In 2024, The Prime Picks Best Storytelling Channels Fans</u></a></li>
+<li><a href="https://win-hot.techidaily.com/1726030441304-mp4windows-1011/"><u>MP4ファイルを修正するための基本的な手順：Windows 10および11ユーザ向け指南</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-repair-damaged-pdf-v10-files-by-stellar-guide/"><u>Quickly Repair Damaged PDF v1.0 Files</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-motorola-edge-40-neo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/thrifty-flyers-guide-5-drones-for-under-100-for-2024/"><u>Thrifty Flyers' Guide 5 Drones for Under $100 for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-advanced-audacity-editing-adjusting-pitch-without-audio-degradation/"><u>Updated In 2024, Advanced Audacity Editing Adjusting Pitch Without Audio Degradation</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effortless Transfer of Android Images Onto Windows 11 - Learn the Steps Now
-date: 2024-08-31T06:10:52.786Z
-updated: 2024-09-01T06:10:52.786Z
+date: 2024-12-21T01:34:31.338Z
+updated: 2024-12-24T23:41:57.732Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Effortless Transfer of Android Images Onto Windows 11 - Learn the Steps Now
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,33 +36,33 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Link to Windows app is being downloaded from Google Play Store](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/link-to-windows-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  Now on your Windows device, open Settings. Go to "Bluetooth & Devices." Then go to "Mobile Devices."
 
 ![An example of the Bluetooth device settings being displayed on a Windows PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1-2-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
  Turn on the "Allow this PC to access your mobile devices" option. Then, on the right of "Mobile Devices," go to "Manage Devices."
 
 ![Different mobile devices options being displayed in the settings menu on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You might be prompted to use your [Microsoft account](https://fox-friendly.techidaily.com/updated-asus-mg28uq-elevating-your-visual-experience-to-new-heights-for-2024/) for the setup. If so, choose your currently signed-in account and press the "Continue" button. You could also choose a different Microsoft account.
 
 ![An example of a prompt on Windows asking you to choose a Microsoft account](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After that, you should see a new window when you press the "Manage Devices" button again. This time, you need to add a device. For that, press the "Add Device" button.
 
 ![The option to add a mobile device to your Windows PC is being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-3.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You'll be provided with a QR code. [Scan the QR code](https://desktop-recording.techidaily.com/updated-2024-approved-deciphering-the-benefits-in-depth-look-at-bandicams-capabilities/) using the Android phone that you want to connect to the PC.
 
@@ -68,34 +72,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A one time code being displayed that must be entered on the Link to Windows app to connect the phone to PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/6-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On your phone, you should be prompted to enter this code on the Link to Windows app. Type in the code and then press the "Continue" button.
 
 ![A prompt on the Link to Windows app on your phone to type in the verification code from your Windows PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/link-to-windows-verification-code-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now return to your PC. Go to Settings > Bluetooth & Devices > Mobile Devices. Open the "Manage Devices" settings again. You should see your Android device model there. Toggle the button on the right of your device name to enable it if it's not already enabled. You should also see a new setting called "Get New Photo Notifications." Toggle that button to turn it on.
 
 ![The option to turn on the Get new photo notifications setting being displyaed on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/7-1.png) 
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You're mostly done. To confirm the connection has been established between your phone and PC, go to the Settings menu on the Link to Windows app on your phone. There you should see the name of your Windows desktop. If it's connected, then you should see the text "Connected." Otherwise, you'll see the text "Disconnected" written there. You'll also see the Link to Windows app logo in your notification panel with a connected status.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Getting the Photos on Your Desktop Through Notifications
 
  With everything set up, you can try taking a new photo or screenshot on your Android device. Once you do, you'll see an instant notification on your Windows desktop for that photo or screenshot.
@@ -130,8 +124,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 8. If you're unable to find the "Get New Photo Notifications" feature on your Windows PC, make sure you've installed the latest Windows updates and then try again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Instant Photos at Your Fingertips
 
  There are many ways to [transfer photos from your Android phone to your Windows PC](https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-vivo-s17-to-pc-detailed-steps-drfone-by-drfone-android/). But this neat feature makes it so fast and easy once you've done the initial setup. If you need to edit a photo on your desktop, you don't need to transfer it manually via cables or extra apps. Currently, it only works for Android devices. If you're an iPhone user, there are other ways to [transfer photos from the iPhone to a Windows PC](https://video-capture.techidaily.com/new-expertly-selected-top-7-internet-voice-recorders-2023-for-2024/).
@@ -142,8 +137,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +144,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-streamlined-method-acquire-free-secure-version-of-vlc-on-mac/"><u>[New] Streamlined Method Acquire Free, Secure Version of VLC on MAC</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-enhancing-video-quality-editing-tips-for-published-content-for-2024/"><u>[Updated] Enhancing Video Quality Editing Tips for Published Content for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-top-8-converter-list-for-sub-to-srt/"><u>[Updated] Ultimate Top 8 Converter List for Sub to SRT</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-picks-professional-ringtone-designer-guide/"><u>2024 Approved Top Picks Professional Ringtone Designer Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diablo-ii-resurrected-fixes-for-the-game-that-wont-start/"><u>Diablo II: Resurrected - Fixes for the Game That Won't Start</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/la-revolution-des-technologies-de-traitement-intellectuel-des-documents-une-ere-nouvelle-commence/"><u>La Révolution Des Technologies De Traitement Intellectuel Des Documents: Une Ère Nouvelle Commence</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-guide-to-video-makers-with-music-for-android-and-iphone/"><u>New 2024 Approved The Ultimate Guide to Video Makers with Music for Android & iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-6-nft-platforms-unlocking-creativity-for-artists-for-2024/"><u>Top 6 NFT Platforms Unlocking Creativity for Artists for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-rated-smart-gadgets-for-your-home-in-2e23/"><u>Top-Rated Smart Gadgets for Your Home in 2E23</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-what-are-the-stages-of-film-production/"><u>Updated In 2024, What Are The Stages Of Film Production</u></a></li>
+</ul></div>
 

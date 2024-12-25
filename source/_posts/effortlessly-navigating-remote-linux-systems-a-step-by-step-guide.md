@@ -1,7 +1,7 @@
 ---
 title: "Effortlessly Navigating Remote Linux Systems: A Step-by-Step Guide"
-date: 2024-08-31T06:09:48.263Z
-updated: 2024-09-01T06:09:48.263Z
+date: 2024-12-23T22:05:59.418Z
+updated: 2024-12-24T17:45:14.368Z
 tags:
   - desktop
 categories:
@@ -31,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbef
 
  SSHFS isn’t really suited to executing programs located on the remote computer. Launching an executable from the mounted file system probably won’t work well, as it will try to run on your local computer. That’s the sort of stuff best suited to a regular SSH connection. But, for working with remote files, SSHFS can't be beat.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ##  Installing SSHFS
 
  To use SSHFS, SSH must already be working on the remote computer. We’ve covered how to set up SSH elsewhere. We recommend [using SSH keys instead of passwords](https://youtube-tips.techidaily.com/n-2024-laughter-labyr-writes-making-memorable-parodies/).
@@ -49,17 +46,15 @@ thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbef
 ![Installing SSHFS on Ubuntu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/1-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Fedora users need to type:
 
         `sudo dnf install sshfs`
     
 ![Installing SSHFS on Fedora.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/2-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  On Manjaro, you’ll use pacman:
 
         `sudo pacman -S sshfs`
@@ -73,8 +68,13 @@ thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbef
 ![Using the --version option to discover the version of SSHFS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/4-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Making a Remote Connection
 
  We need to create a directory to act as the _mount point_. It’s where the remote file system will be grafted onto your directory tree.
@@ -87,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbef
     
 ![Creating the mount point directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/5-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  Let’s take a look at our new directory.
 
         `ls -hl /media/dave`
@@ -139,8 +135,9 @@ ls -hl new-file.txt`
 ![Creating a file in the remote file system and checking its attributes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/9-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Our file is created, and we’re the owner of it. There was no need to use sudo.
 
  We can navigate the mounted file system using cd, and we can copy files using the cp command. This effectively transfers files between the remote device and your local computer.
@@ -153,8 +150,9 @@ ls /home/dave/Downloads/`
 ![Copying files from the remote file system to the local file system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/10-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Accessing Files in a File Browser
 
  Because the mounted file system looks and behaves like any other part of your file system’s directory tree, you can use your file browser to navigate it too.
@@ -169,6 +167,10 @@ ls /home/dave/Downloads/`
 
  If you edit a document, for example, your default local editor is launched.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Breaking the Connection
 
  To break the connection and unmount the remote file system, we use the umount command. Note there’s no “n” before the “m” in the umount command.
@@ -178,11 +180,9 @@ ls /home/dave/Downloads/`
 ![Unmounting the remote file system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/13-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ##  The Far Away, Up Close
 
  Having easy and direct access to files on remote computers simplifies maintenance and other tasks.
@@ -195,8 +195,6 @@ ls /home/dave/Downloads/`
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,4 +202,26 @@ ls /home/dave/Downloads/`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-timelapse-magic-with-your-gopro/"><u>[New] Unlocking Timelapse Magic with Your GoPro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-premier-livestream-networks/"><u>[New] Unveiling the Premier Livestream Networks</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-core-principles-of-crafting-convincing-video-endorsements/"><u>[Updated] 2024 Approved Core Principles of Crafting Convincing Video Endorsements</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-nurturing-a-thriving-community-for-more-insta-views/"><u>[Updated] Nurturing a Thriving Community for More Insta Views</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-black-battery-compatibility-with-gopro-hero5/"><u>[Updated] Ultimate Black Battery Compatibility with GoPro Hero5</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-techniques-for-dynamic-and-dramatic-ae-heads-ups/"><u>2024 Approved Advanced Techniques for Dynamic and Dramatic AE Heads-Ups</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-uniting-choreography-with-crafted-audio-in-instagram/"><u>2024 Approved Uniting Choreography with Crafted Audio in Instagram</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-withings-move-an-attractive-blend-of-tradition-and-technology/"><u>Comprehensive Review of the Withings Move: An Attractive Blend of Tradition and Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/detailed-guide-windows-obs-not-starting-issue-resolution/"><u>Detailed Guide: Windows OBS Not Starting Issue Resolution</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/how-to-autoplay-youtube-videos-on-facebook-in-2024/"><u>How to Autoplay Youtube Videos on Facebook, In 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-k11x-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo K11x Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-language-of-truth-writing-documentaries/"><u>In 2024, The Language of Truth Writing Documentaries</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transforming-your-tiktok-profile-altering-account-numbers/"><u>In 2024, Transforming Your TikTok Profile Altering Account Numbers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-troubleshooting-steps-for-windows-10-photos-freeze/"><u>In 2024, Troubleshooting Steps for Windows 10 Photos Freeze</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-heroes-shouts-overcoming-complete-silence-issues-in-hearthstone/"><u>Reviving Heroes' Shouts: Overcoming Complete Silence Issues in Hearthstone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-clear-way-to-capture-your-screen-best-free-tools-explored/"><u>The Clear Way to Capture Your Screen – Best Free Tools Explored</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-zoomers-guide-to-enhancing-call-quality-with-filters-for-2024/"><u>The Zoomer's Guide to Enhancing Call Quality with Filters for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-photo-enhancers-blurring-removal-online-edition-for-2024/"><u>Top Photo Enhancers Blurring Removal Online Edition for 2024</u></a></li>
+</ul></div>
 

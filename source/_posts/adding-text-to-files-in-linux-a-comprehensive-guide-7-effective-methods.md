@@ -1,7 +1,7 @@
 ---
 title: "Adding Text to Files in Linux: A Comprehensive Guide - 7 Effective Methods"
-date: 2024-08-31T06:09:33.982Z
-updated: 2024-09-01T06:09:33.982Z
+date: 2024-12-18T02:11:30.776Z
+updated: 2024-12-24T19:48:29.290Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/c773b247e1e0895c35ac3965c0957524900af663f
 ---
 
 ## Adding Text to Files in Linux: A Comprehensive Guide - 7 Effective Methods
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -46,8 +50,9 @@ cat append.txt
  You won't get any output as currently, there is no content in the file. Now that we have an empty file, we can add some lines to it.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  1\. Using echo to Append Text to a File
 
  The [echo command](https://facebook.techidaily.com/cut-out-controversy-refresh-your-feed-focus/) is mostly used for displaying text on the terminal, but you can also use it to add text to a file. Here's the basic syntax:
@@ -72,20 +77,22 @@ echo "Trying to append a line to the file" > append.txt
 
 ![Linux terminal showcasing how the echo command can override the content of a text file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
  So how to overcome this? Simple. To append some text to a file without overriding its content, use another redirection operator (>>), like this:
 
 echo "Trying to append a line to the file" >> append.txt
 
 ![The Linux terminal shows the use of the echo command to append a line to a text file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This time, the line will get appended to the file, as expected.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  2\. Using cat to Append Text to a File
 
  The [cat command](https://facebook-record-videos.techidaily.com/techniques-to-achieve-crystal-clear-youtube-soundtracks-for-2024/), as we've seen previously, displays the content of a file on the terminal. The basic syntax of the command is:
@@ -113,11 +120,9 @@ cat employee1.txt employee2.txt employee3.txt >> employees.txt
 ![The Linux terminal shows how to use the cat command to combine the contents of several files and append them to another file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  3\. Using printf to Add Text at the End of a File
 
  You may be familiar with printf if you have experience with the C programming language. But did you know that [printf](https://tech-hub.techidaily.com/truthgpt-debut-revealed-and-police-raid-at-mullvad-vpn-examined-the-best-selection-of-free-gaming-on-computers-plus-mastering-mechanical-keyboard-features.m27/) is a Linux tool as well? As the name suggests, it lets you print text or data to the standard output. Here's the basic syntax:
@@ -130,9 +135,6 @@ printf "Using printf to append text" >> append.txt
 
 ![The Linux terminal displaying the use of the printf command to append text to a file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  However, as you can see, unlike the echo command, there was no new line appended to the text. This means you need to do it manually. You can use the "\\n" escape character at the end of your text. So let's use that now.
 
 printf "Using printf to append text with a new line\n" >> append.txt
@@ -140,6 +142,10 @@ printf "Using printf to append text with a new line\n" >> append.txt
 ![The Linux terminal shows how to use a new line character with the printf command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8-2.png) 
 
  This time, the terminal prompt is at a new line, unlike in the previous case.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. Using sed
 
@@ -165,14 +171,8 @@ sed -i '4 a Appended after the fourth line' append.txt
 
 ![The Linux terminal demonstrating the sed command used to append a text line at a specific position of a file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/10-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This time, the line was added exactly after the fourth line.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ##  5\. Using tee to Append Text to a File
 
  The [tee command](https://buynow-help.techidaily.com/microsoft-surface-pro-7-examined-reliable-upgrade-with-familiar-features/) lets you read from standard input and write the output to files. The basic syntax is as follows:
@@ -188,19 +188,21 @@ tee -a append.txt
 ![The Linux terminal showing the use of the tee command to append a line to a file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/12-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the other method, the terminal won't repeat the string you type in, making the process much cleaner. Other than that, it works in the same way. Here's the command:
 
 tee >> append.txt
 
 ![The Linux terminal showcasing the use of the tee command to append a line to a file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/12-3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see, when we typed in a string, it wasn't displayed in the terminal again.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ##  6\. Using awk
 
  The [awk command](https://facebook-videos.techidaily.com/new-in-2024-revolutionizing-advertising-on-facebook-with-the-best-video-tactics/) is extremely powerful when it comes to text manipulation. With some tweaking, you can add text to files using this command. Here's the syntax for the command:
@@ -210,6 +212,10 @@ awk 'BEGIN{print "Feeling awkward"}' >> append.txt
 ![The Linux terminal displaying how to use the awk command to append a line to a file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/13-1.png) 
 
  In the above example, we used the awk command's BEGIN rule to print some text and send it to our target file using the redirection operators.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. Using a Text Editor to Append Text
 
@@ -225,9 +231,6 @@ nano <filename>
 
  To append a line, all we need to do is use the down arrow key to go to the bottom of the file. If you need to create a new line, do that by pressing Enter. Then enter any text you want. Finally, save the file using Ctrl+O and exit the editor using Ctrl+X.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Redirect the Output of a Command to a File
 
  If you want to save the output of a command to a file, you can do that using the redirection operators (>>). Suppose you run the [ls command](https://extra-tips.techidaily.com/in-2024-capturecraft-hd-top-10-freepaid-filters-list/) to get the contents of the present directory. You want to save the list to a file called command.txt. For that, run the below command:
@@ -256,8 +259,6 @@ command >> file.txt 2>&1
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -265,4 +266,24 @@ command >> file.txt 2>&1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-crafting-success-the-premier-list-of-ai-namesmiths/"><u>[New] 2024 Approved Crafting Success The Premier List of AI Namesmiths</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-continuous-improvement-regularly-practice-and-evaluate-your-listening-skills-identifying-areas-for-improvement-30-new-titles-that-convey-similar-meaning/"><u>[New] Continuous Improvement Regularly Practice and Evaluate Your Listening Skills, Identifying Areas for Improvement. 30 New Titles that Convey Similar Meanings to How to Change Your Voice in Free Fire Game? [Free Solution Included]</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-interpreting-the-purpose-behind-a-facebooks-blue-video-icon-for-2024/"><u>[New] Interpreting the Purpose Behind a Facebook's Blue Video Icon for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-master-the-visuals-top-tips-for-dynamic-and-appealing-live-videos/"><u>[New] Master the Visuals Top Tips for Dynamic and Appealing Live Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-best-of-the-best-reddits-all-time-favorites/"><u>[New] The Best of the Best Reddit's All-Time Favorites</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-toontales-detailed-breakdown-and-guidebook-2024/"><u>[New] ToonTales Detailed Breakdown & Guidebook 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-path-to-higher-rankings-a-podcast-seo-guidebook/"><u>[Updated] The Path to Higher Rankings A Podcast SEO Guidebook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-uncharted-sci-fi-dimensions-top-10-metaverse-movie-experiences/"><u>[Updated] Uncharted Sci-Fi Dimensions Top 10 Metaverse Movie Experiences</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-deciphering-the-technicalities-of-recmeister-screen-recording/"><u>2024 Approved Deciphering the Technicalities of Recmeister Screen Recording</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-selecting-the-top-infinite-storage-providers/"><u>2024 Approved Selecting the Top Infinite Storage Providers</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-kickstart-a-successful-charity-contest-via-social-media/"><u>In 2024, Kickstart a Successful Charity Contest via Social Media</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essential-guide-for-newcomers-on-av1/"><u>In 2024, The Essential Guide for Newcomers on AV1</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-editors-for-virtual-backgrounds-spectrumswitch-studio/"><u>In 2024, Top Editors for Virtual Backgrounds SpectrumSwitch Studio</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ipad-air-4-vs-ipad-air-5-is-it-time-for-an-upgrade-expert-comparison/"><u>IPad Air 4 vs iPad Air 5: Is It Time for an Upgrade? Expert Comparison</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-vertically-oriented-videos-on-your-asus-computer-a-step-by-step-guide/"><u>Resolving Vertically Oriented Videos on Your ASUS Computer: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-device-fixing-iphoneipad-wi-fi-problems-with-these-8-tips/"><u>Troubleshoot Your Device: Fixing iPhone/iPad Wi-Fi Problems with These 8 Tips</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Syncing Stride with Innovation: The Gadgets that Power My Monthly Marathon of 100 Miles"
-date: 2024-08-31T06:06:56.555Z
-updated: 2024-09-01T06:06:56.555Z
+date: 2024-12-19T17:29:03.426Z
+updated: 2024-12-24T18:21:24.359Z
 tags:
   - product-reviews
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/74ac13432c01dd5c17161c9b4a52f81e0b445cdf2
 
 ## Syncing Stride with Innovation: The Gadgets that Power My Monthly Marathon of 100 Miles
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Headphones](https://youtube-lab.techidaily.com/iscover-the-leading-free-naming-resources-11-must-have-makers/)
@@ -19,9 +23,17 @@ thumbnail: https://thmb.techidaily.com/74ac13432c01dd5c17161c9b4a52f81e0b445cdf2
 
  I started running seriously in 2020, but even before that, my music-playing Apple Watch and a pair of earbuds really motivated me to get outside more often. The gear you use can make a difference. Here are the products I use to run over 100 miles each month.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Headphones
 
 ![person wearing Bose Ultra Open Earbuds](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/person-wearing-bose-ultra-open-earbuds.JPG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -37,25 +49,20 @@ Tyler Hayes / How-To Geek
 
  Since I run without a phone, I have no way to take photos while out running. If I’m somewhere unique, I like to use the [Meta Ray-Ban Smart Glasses](https://fox-that.techidaily.com/safari-on-iphone-running-slow-learn-how-to-make-it-zoom-ahead-in-just-4-steps/) because they’re sunglasses, have a camera built-in, don’t plug my ears, and sound great. These won’t work for night running, but during the summer they merge two devices into one.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Wearables
 
 ![Apple Watch Ultra 2 showing activity rings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/apple-watch-ultra-2-showing-activity-rings-2.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
  I credit the Apple Watch’s run-tracking and activity rings for some of my early success. While I’m not running for the metrics, I do want to get credit for them if I’m doing physical work. The watch tracks a lot of data during my runs and then keeps it synced across my devices. The latest [Apple Watch Ultra 2](https://youtube-help.techidaily.com/new-mastering-your-youtube-pinpointing-a-specialized-audience/) has been great with its big and bright display and Action button for quick access to workouts.
 
 ![Oura Ring held in a hand](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/oura-ring-held-in-a-hand.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 Tyler Hayes / How To Geek
 
  In addition to the Apple Watch, I wear an [Oura smart ring](https://tech-recovery.techidaily.com/step-by-step-fix-for-coredll-absent-mistake-on-your-computer/). The watch does a great job of tracking _during_ my run, but the Oura ring is easier to wear at night to do sleep tracking. Because of that sleep tracking, it also does a better job of alerting me to if my body is ready for more or less exercise each particular day. Ideally, I wouldn’t need to wear two fitness trackers, but until one can cover it all there are enough features for each to justify wearing both.
@@ -63,15 +70,13 @@ Tyler Hayes / How To Geek
  If you do wear an Apple Watch for running or other exercise, I’ve found the [Nomad Sport Band](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F3607085%2Ftype%2Fdlg%2Fsid%2FUUhtgUeUpU2002948%2Fhttps%3A%2F%2Fnomadgoods.com%2Fproducts%2Fsport-band-night-watch-red) to be good at staying tight to monitor my heart rate, but also flexible and comfortable enough that I don't want to take it off. I also haven't had one be ruined by sweat yet.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Other Running-Related Gear
 
 ![Withings Body Scan in the black color option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/withings-body-scan-in-the-black-color-option.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  While a digital scale isn’t directly tied to my running, I use one in combination with my daily fitness. Currently, I’m using the [Withings Body Scan](https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-apple-iphone-15-plusipadipod-by-drfone-ios/). For my more basic uses, it’s overkill, but if you do need to take an ECG regularly or monitor other advanced metrics, it works great.
@@ -86,8 +91,6 @@ Tyler Hayes / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -95,4 +98,21 @@ Tyler Hayes / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-the-ideal-beginning-enhancer-for-your-devices/"><u>[New] The Ideal Beginning Enhancer for Your Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-picks-superior-cloud-space-solutions/"><u>[New] Top Picks Superior Cloud Space Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-portable-recording-stands-and-lenses/"><u>[Updated] Portable Recording Stands and Lenses</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-guide-to-affordable-vector-art-websites/"><u>[Updated] Ultimate Guide to Affordable Vector Art Websites</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-simple-steps-for-iphone-to-pc-file-shift/"><u>2024 Approved Simple Steps for iPhone-to-PC File Shift</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/te-your-video-game-youtube-production-mastery/"><u>Elevate Your Video Game YouTube Production Mastery</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/fix-distorted-colors-on-monitor-expert-solutions-by-yl-computing-and-software/"><u>Fix Distorted Colors on Monitor: Expert Solutions by YL Computing & Software</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-itel-p40plus-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Itel P40+ by Name | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-pathway-to-advanced-hd-video-on-windows-pcs/"><u>In 2024, The Ultimate Pathway to Advanced HD Video on Windows PCs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-reducing-shakiness-on-your-gopro-movie-for-2024/"><u>The Ultimate Guide to Reducing Shakiness on Your GoPro Movie for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-oppo-a18-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Oppo A18 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-tier-funny-editing-tool-for-2024/"><u>Top-Tier Funny Editing Tool for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-creativity-through-windows-photos-app-deletion/"><u>Unleashing Creativity Through Window's Photos App Deletion</u></a></li>
+</ul></div>
 

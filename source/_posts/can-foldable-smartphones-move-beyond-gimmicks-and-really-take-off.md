@@ -1,7 +1,7 @@
 ---
 title: Can Foldable Smartphones Move Beyond Gimmicks and Really Take Off?
-date: 2024-08-31T06:08:43.876Z
-updated: 2024-09-01T06:08:43.876Z
+date: 2024-12-18T18:32:41.005Z
+updated: 2024-12-25T02:31:09.811Z
 tags:
   - mobile
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Can Foldable Smartphones Move Beyond Gimmicks and Really Take Off?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Folding phones serve limited use cases but come with questionable value propositions.
@@ -18,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Sacrifices for folding phones, including durability, specs, and image quality.
 
  I'm the last person you'd expect to be down on cool and interesting gadgets, and folding phones definitely qualify as both, but will they ever be more than that? Can folding phones become a mainstream option for smartphone buyers at some point, or is the whole premise flawed?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Folding Phones Have a Dubious Purpose
 
@@ -34,8 +42,9 @@ Justin Duino / How-To Geek
  Folding phones are cool, and a novelty, but for me, when you try to break down the value proposition to its essence, it doesn't quite add up to more than that.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Moving Parts Are Always Less Reliable
 
  One of the best things about my [M1 MacBook Air](https://facebook-video-share.techidaily.com/new-2024-approved-discover-the-best-tools-and-tips-to-accurately-tag-your-videos/) is that it's almost entirely a solid-state device, except for the screen hinge and the keyboard, which are still failure points. My smartphone and iPad, on the other hand, are in completely solid state, with no moving parts. If it weren't for the current state of battery technology, these devices would probably work indefinitely. Barring physical damage, a modern phone is pretty much bulletproof until the battery gives up the ghost.
@@ -43,8 +52,9 @@ Justin Duino / How-To Geek
  With a folding phone you throw absolutely all of that out the window, with both a complex hinge and the folding screen itself, which is enormously more fragile. Until materials science advances to the point where these folding screens are as robust against wear and damage as typical smartphone screens are today, I'll remain hesitant to get one as my daily driver. I've also come to the point where I don't consider a smartphone something I use for two years and then replace. These devices are so powerful, and makers are promising such long support cycles, that I expect five years of use with [proper battery care](https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-infinix-gt-10-pro-drfone-by-drfone-virtual-android/). I just don't see folding phones doing that on average with normal daily use.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Sacrifices Aren’t Worth It
 
  Let's say you're totally convinced by the benefits of folding phones, or you personally love the concept and esthetics; what are you giving up to have them?
@@ -55,16 +65,14 @@ Justin Duino / How-To Geek
 
  Again, there's nothing wrong with someone deciding that those sacrifices are not an issue to them personally, but it seems to me that the benefits of a folding screen don't measure up favorably to the list of downsides.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Rolling Screens Might Be a Better Take
 
 ![The Phantom Ultimate 3 rollable phone held in a hand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/phantom_ultimate_3.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Tecno
 
  Flexible screen technology isn't going anywhere, but for me, a better use of it comes in the form of rolling rather than folding screens. Rollable screens made a splash [back in 2021](https://easy-unlock-android.techidaily.com/lock-your-nokia-c12-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/), and now we have phones like the [Tecno Phantom Ultimate](https://www.mobile-phantom.com/ae/phantom-ultimate/) which uses this technology. It still carries some of the same drawbacks as folding screens, but to my eye, this approach seems to reduce the complexity of the moving parts, eliminate the screen crease foldable screens have, and allow you the same main benefit of expanding your screen as needed. The Phantom is motorized, which has its own issues, but presumably someone will come up with a good manually-operated take on this concept at some point.
@@ -77,8 +85,6 @@ Tecno
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -86,4 +92,19 @@ Tecno
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-elite-exploration-the-new-parrot-ar-edition/"><u>[Updated] 2024 Approved Elite Exploration The New Parrot AR Edition</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-technological-testing-and-tracking-the-vll-method/"><u>[Updated] In 2024, Technological Testing and Tracking The VLL Method</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-techniques-for-epochal-transition-scenes/"><u>2024 Approved Techniques for Epochal Transition Scenes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-techniques-for-interpreting-video-reactions-on-youtube/"><u>2024 Approved Techniques for Interpreting Video Reactions on YouTube</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-realme-c33-2023-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Realme C33 2023</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-oneplus-nord-n30-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From OnePlus Nord N30 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From iPhone 6s Plus?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamlining-business-with-azure-speech-services/"><u>In 2024, Streamlining Business with Azure Speech Services</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-list-of-steadicams-for-uav-videography-enthusiasts/"><u>In 2024, Ultimate List of Steadicams for UAV Videography Enthusiasts</u></a></li>
+<li><a href="https://common-error.techidaily.com/permanent-solution-eliminate-persistent-cursor-blinking-issues/"><u>Permanent Solution: Eliminate Persistent Cursor Blinking Issues</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/recuperation-gratuite-de-partitions-formatees-sur-systemes-dexploitation-windows-xp-vista-7-8-and-10/"><u>Recuperation Gratuite De Partitions Formatees Sur Systèmes D'Exploitation Windows (XP, Vista, 7, 8 & 10)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-implications-of-gpt-on-malware-development/"><u>Unveiling the Implications of GPT on Malware Development</u></a></li>
+</ul></div>
 
