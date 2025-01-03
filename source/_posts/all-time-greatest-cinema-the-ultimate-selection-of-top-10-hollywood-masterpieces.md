@@ -1,7 +1,7 @@
 ---
 title: "All-Time Greatest Cinema: The Ultimate Selection of Top 10 Hollywood Masterpieces"
-date: 2024-08-24 19:34:28
-updated: 2024-08-27 11:26:31
+date: 2024-12-29T09:53:20.234Z
+updated: 2025-01-03T00:38:06.605Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/805e7ed862b37908d5fd3eef7b67791c5d0d0472cc7eebb84910c74e668a853a.jpg
@@ -16,20 +16,25 @@ thumbnail: https://thmb.techidaily.com/805e7ed862b37908d5fd3eef7b67791c5d0d0472c
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [how-tos](https://tools.techidaily.com/macxdvd/products/) \> [Movies](https://tools.techidaily.com/macxdvd/products/) \> Top 10 Hollywood movies
 
 ## List of Top 10 Hollywood Movies to Watch with Your Kids During COVID-19 Lockdown
-
-
 
 _Here you'll find top 10 Hollywood movies of all time, list of Hollywood hit movies released from 2014 to 2021, and top Hollywood films upcoming in 2024._
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon6.png) By [Bertha Miller](https://www.linkedin.com/in/bertha-miller-7a324990/) ｜Last updated on Mar 3, 2021
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-fa.jpg)](https://www.facebook.com/sharer/sharer.php?u=https://www.macxdvd.com/mac-dvd-video-converter-how-to/top-10-hollywood-movies.htm)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-tw.jpg)](https://twitter.com/intent/tweet?url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/top-10-hollywood-movies.htm)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-email.jpg)](https://www.macxdvd.com/mac-dvd-video-converter-how-to/mailto:info@example.com?&subject=&body=https://www.macxdvd.com/mac-dvd-video-converter-how-to/top-10-hollywood-movies.htm)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/top-10-hollywood-movies.htm&title=&summary=https://www.macxdvd.com/mac-dvd-video-converter-how-to/top-10-hollywood-movies.htm&source=)
 
@@ -58,6 +63,10 @@ Wonder Woman 1984
 
 This film is coming on 2022 Christmas Day. You can watch the official movie trailer now. In the trailer, the last scene would remind you about the time Diana was learning about Steve's world but this time Diana is teaching Steve the 80's style.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Once Upon a Time in Hollywood (2019 film)
 
 * **Release Date:** July 26, 2019
@@ -70,6 +79,10 @@ Top ten hollywood movies- American Captain
 
 The movie Once Upon a Time in Hollywood from Quentin Tarantino deserves the top spot in top Hollywood movies. As the 9th Quentin Tarantino film, it has received massive attention since its first announcement. The movie shows audiences the life of Los Angeles and Hollywood in 1969\. Just like the early days in their life, Pitt and DiCaprio play two old friends who seek for fame and success in the movie. Margot Robbie, as the late actress Sharon Tate, lives in the neighborhood of DiCaprio, acts as the actor Rick Dalton. To know what happens next, you may want to download or watch the trailer now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Avengers: Infinity War (2018 film)
 
 * **Release Date:** May 4, 2018
@@ -81,6 +94,10 @@ The movie Once Upon a Time in Hollywood from Quentin Tarantino deserves the top 
 Top ten hollywood movies- American Captain
 
 Avengers: Infinity War is doomed to rule 2018 hollwyood movies year. Staring Marvel's new Spider-Man Tom Holland, Robert Downey, Scarlett Johansson, Chris Evans and more, the movie depicts a story of the Avengers who join force with the superheroes in Guardians of the Galaxy to fight against the evil Thanos, who collects all the Infinity Stones to destroy the universe. With the powerful cast, cliff-hanging plot and masterful performance, the movie will for sure culminate the superhero movies in modern Hollywood history.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Titanic
 
@@ -128,9 +145,17 @@ Speaking of the movie that exceeds people's expectation, **zootopia**  is anothe
 
 ![Top ten hollywood movies- The Jungle Book](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/hollywood-movie-4.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Top ten hollywood movies- The Jungle Book
 
 2016 is a bumper year of top Hollywood movies from Disney. The live-action Disney remake The Jungle Book is another great masterpiece from Hollywood. The movie is about the lost boy Mogwli, who is raised by a group of wolves, sets out on a journey to evade the fearsome tiger. This flick is among the top ten best Hollywood movies that mix amazing visuals with great story telling. What impresses audience most is the expert acting of the little boy, who is the only live character in the movie.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Logan
 
@@ -143,6 +168,10 @@ Logan is an upcoming American superhero film featuring the Marvel Comics charact
 ### Avatar
 
 ![Top ten hollywood movies- Avatar](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/hollywood-movie-6.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Top ten hollywood movies- Avatar
 
@@ -208,6 +237,10 @@ Top 10 hollywood movies- The Dark Knight Rises
 
 A 2012 American superhero film which is the final installment in Nolan's Batman film trilogy, and it is the sequel to Batman Begins (2005) and The Dark Knight (2008). It is also the top-selling DVD in the United States.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pirates of the Caribbean: Dead Man's Chest
 
 ![Top 10 hollywood movies- Pirates of the Carbbean: Dead Mans' Chest](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/hollywood-movie-13.jpg) 
@@ -268,8 +301,6 @@ If you wanna watch these top 10 Hollywood classic movies at home or on the road 
 | The Hunger Games: Mockingjay - Part 2                      | Nov 20, 2015                                                  | Interstellar                 | November 7, 2014 |
 | Star Wars: The Force Awakens                               | Dec 18, 2015                                                  | Big Hero 6                   | November 7, 2014 |
 
-
-
 Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic7.jpg)
@@ -296,8 +327,6 @@ Related Articles
 
 [Best Hollywood Comedy Movies List Recently & of All Time](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
@@ -307,6 +336,10 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tips and Tricks
 
@@ -324,8 +357,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
 Copyright © 2024 Digiarty Software, Inc (MacXDVD). All rights reserved
@@ -339,11 +370,26 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-enhance-visibility-editing-igtv-video-texts/"><u>[New] Enhance Visibility Editing IGTV Video Texts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-visual-journey-of-iphone-photos-with-leading-lines/"><u>[New] The Visual Journey of iPhone Photos with Leading Lines</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-creative-potential-macs-top-free-drawing-tools/"><u>[Updated] Unlock Creative Potential Mac's Top Free Drawing Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-no-frills-affordable-camera-selections/"><u>2024 Approved No-Frills, Affordable Camera Selections</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-survey-diverse-categories-in-visual-media-tech/"><u>2024 Approved Survey Diverse Categories in Visual Media Tech</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/continuous-improvement-regularly-practice-and-evaluate-your-listening-skills-identifying-areas-for-improvement-30-new-titles-that-convey-similar-meanings-to/"><u>Continuous Improvement Regularly Practice and Evaluate Your Listening Skills, Identifying Areas for Improvement. 30 New Titles that Convey Similar Meanings to How to Change Your Voice in Free Fire Game? [Free Solution Included] for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-itel-p55t-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Itel P55T Location by Number | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-xiaomi-redmi-note-12-pro-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Xiaomi Redmi Note 12 Pro 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-pinpointing-youtube-comments/"><u>In 2024, Pinpointing YouTube Comments</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/premium-cloud-storage-services-a-guides-choice-for-2024/"><u>Premium Cloud Storage Services A Guide's Choice for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/toolwiz-visual-mastery-a-comprehensive-review-for-2024/"><u>Toolwiz Visual Mastery - A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/velocity-victories-olympics-year-2022-for-2024/"><u>Velocity Victories Olympics, Year 2022 for 2024</u></a></li>
+</ul></div>
+

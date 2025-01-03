@@ -1,7 +1,7 @@
 ---
 title: Leverage Cookiebot Technology for Superior Website Analytics
-date: 2024-08-21T17:39:38.463Z
-updated: 2024-08-22T17:39:38.463Z
+date: 2024-12-28T22:42:39.442Z
+updated: 2025-01-03T05:45:05.003Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9ae95d19e4c91539b2a1b2dd0.jpg
@@ -26,30 +26,32 @@ Alongside these business-focused, bottom-line-boosting benefits of adopting AI, 
 
 These innovations are emerging at a time when many are expressing concerns about artificial intelligence, viewing it as a threat to personal freedoms rather than a force for good. At its core, however, AI is a tool like any other, and its impact depends on how it is used. One of the most significant humanitarian contributions of AI is that **it’s helping create a safer world**, whether that takes the form of improving driver safety, detecting safety hazards at construction sites, or helping the United States Food and Drug Administration (FDA) identify adverse reactions to drugs more quickly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Improving driver safety
 
 According to the National Highway Traffic Safety Administration, [traffic crashes in 2020 were responsible for more than 38,000 fatalities](https://www.nhtsa.gov/press-releases/2020-traffic-crash-data-fatalities)—the highest number since 2007\. The office further reports that in 45 percent of those fatal crashes, drivers of passenger vehicles were engaged in risky behaviors such as speeding.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Using telematics to reward safe drivers
 
 In an effort to prevent future fatalities and promote safer conditions for all drivers, **auto insurance companies are turning to intelligent automation**. Previously, insurers relied on past driving records—frequency and severity of tickets and accidents—to assess the safety of an individual’s driving habits. [Today they can use telematics to collect real-time data while the person is driving](https://www.usnews.com/insurance/auto/how-do-those-car-insurance-tracking-devices-work), either through a physical device plugged into the vehicle or via a smartphone app. Both methods use AI to detect behaviors such as sudden acceleration and hard braking, and smartphone apps can also flag [phone use while driving, a proven risk factor in traffic fatalities](https://www.nhtsa.gov/risky-driving/distracted-driving#the-issue-consequences). Auto insurance companies then **use this data to reward safe drivers** with discounts and to encourage those with less-than-stellar habits to be more careful.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Coaching truck drivers in real time
 
 On the commercial side, truck fleets are using **AI-driven coaching apps to leverage positive reinforcement** in helping drivers improve their safety practices. [Netradyne’s Driver-i application, for example](https://www.ccjdigital.com/technology/driver-coaching-and-scorecarding/article/15304064/survey-shows-safety-finances-top-concerns-for-some-fleets), analyzes 100 percent of a driver’s practices (not just “triggered events” such as speeding, in contrast with consumer insurance tracking apps) via computer vision using data from the rig’s dashcam. Through in-cab alerts and automated virtual coaching, drivers receive real-time feedback on what they’re doing as well as what they could be doing better.
 
 Netradyne’s senior vice president of marketing, Barrett Young, recently shared his views on positive reinforcement as vital to improving the safety practices of commercial drivers. “If you think about the psychology of truck drivers,” [he told Commercial Carrier Journal](https://www.ccjdigital.com/technology/driver-coaching-and-scorecarding/article/15304064/survey-shows-safety-finances-top-concerns-for-some-fleets), “they're proud people. They're proud of their jobs. They work hard at their jobs—arguably some of the hardest workers in our entire economy. And so the last thing they want is to constantly be told that they're doing the job bad, especially when the majority of the time they're not.”
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Making construction sites safer
 
 In 2020, [more than one in five workplace deaths occurred within the construction industry](https://www.bls.gov/opub/ted/2022/a-look-at-falls-slips-and-trips-in-the-construction-industry.htm), and more than one-third of those fatalities resulted from falls, slips, and trips. In addition to saving lives, enhancing construction site safety also helps businesses avoid financial hardships. [Each Occupational Safety and Health Administration (OSHA) violation incurs a penalty of up to $15,625](https://www.osha.gov/penalties), and OSHA estimates that [U.S. employers pay nearly $1 billion per week](https://www.osha.gov/businesscase/costs) for direct workers' compensation costs.
@@ -63,15 +65,13 @@ Construction companies are getting ahead of safety risks by **increasing visibil
 AI-powered “smart” construction equipment systems help construction operators increase transparency and accountability through consistent monitoring and reporting. [Caterpillar’s VisionLink system](https://www.cat.com/en%5FUS/support/technology/equipment-management/visionlink.html), for example, delivers a dashboard that conveys the exact location of every piece of heavy equipment and tracks machine health, enabling proactive maintenance to prevent potential safety hazards due to malfunctioning machinery.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Enabling remote robotic construction
 
 AI adds another dimension of safety by **enabling some building elements to be produced away from the construction site**. Robotic factories can produce certain structural components in a highly controlled setting, removing potential hazards from the site and thus lowering the risks of worker injury.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Improving drug safety reporting
 
 Tracking adverse drug events (ADEs)—harms resulting from medication that include allergic reactions, side effects, and human error—is a key component in making drugs safer. Every year, adverse drug events (ADEs) cause about [1.3 million visits to the emergency room and 350,000 hospitalizations, costing about $3.5 billion a year](https://www.cdc.gov/medicationsafety/basics.html).
@@ -105,8 +105,9 @@ Whether they are delivering feedback that helps drivers operate more safely, tra
 ![Maxime Vermeir 110X110 (1)](https://static3.abbyy.com/abbyycommedia/37004/maxime-vermeir_110x110-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Maxime Vermeir
 
 Senior Director of AI Strategy
@@ -115,16 +116,16 @@ With a decade of experience in product and technology, Maxime Vermeir is an entr
 
 Connect with Max on [LinkedIn](https://www.linkedin.com/in/maximevermeir/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Additional Insights:
 
 1 / 3 
 
 [![Top Reasons Why Customers Abandon Your Onboarding Processes...and How to Fix Them](https://static1.abbyy.com/abbyycommedia/37015/onboarding_875247286_848x444.jpg) **Top Reasons Why Customers Abandon Your Onboarding Processes...and How to Fix Them** Read more](https://tools.techidaily.com/abbyy/products/) [![How AI Can Help Government Agencies Win at Total Experience (TX)](https://static5.abbyy.com/abbyycommedia/37014/government_1214434168_848x444.jpg) **How AI Can Help Government Agencies Win at Total Experience (TX)** Read more](https://tools.techidaily.com/abbyy/products/) [![Creating an Intelligent Automation Symphony](https://static1.abbyy.com/abbyycommedia/36940/tlp_ia_orchestra_485765348_848x444.jpg) **Creating an Intelligent Automation Symphony** Read more](https://tools.techidaily.com/abbyy/products/) [![Customer Point of View: Approach Automation Step by Step](https://static4.abbyy.com/abbyycommedia/37013/fte_613347676_848x444.jpg) **Customer Point of View: Approach Automation Step by Step** Read more](https://tools.techidaily.com/abbyy/products/) [![The Changing Role of the Finance Leader](https://static5.abbyy.com/abbyycommedia/37012/finance_1134322021_848x444.jpg) **The Changing Role of the Finance Leader** Read more](https://tools.techidaily.com/abbyy/products/) [![Three Ways AI Is Making Employees Happier](https://static2.abbyy.com/abbyycommedia/36944/ai_happier_employees_1160730188_848x444.jpg) **Three Ways AI Is Making Employees Happier** Read more](https://tools.techidaily.com/abbyy/products/) [![Welcome to The Intelligent Enterprise](https://static5.abbyy.com/abbyycommedia/37545/ulf-848x444-slate.png) **Welcome to The Intelligent Enterprise** Read more](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 #### Subscribe for updates
 
 Get updated on the latest insights and perspectives for business & technology leaders
@@ -173,8 +174,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +181,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-an-overview-of-different-windows-movie-maker-models/"><u>[New] An Overview of Different Windows Movie Maker Models</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transformative-audio-techniques-for-media-professionals/"><u>[Updated] Transformative Audio Techniques for Media Professionals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-watchful-eye-app-critique-and-rating/"><u>2024 Approved The Watchful Eye App Critique and Rating</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-hdr-potential-the-comprehensive-sdr-to-hdr-conversion-guide/"><u>2024 Approved Unleash HDR Potential The Comprehensive SDR-to-HDR Conversion Guide</u></a></li>
+<li><a href="https://win-info.techidaily.com/complete-step-by-step-data-retrieval-for-lost-partitions-on-windows-11-using-ifind-tool/"><u>Complete Step-by-Step Data Retrieval for Lost Partitions on Windows 11 Using iFinD Tool</u></a></li>
+<li><a href="https://win-great.techidaily.com/efficient-methods-for-saving-your-favorite-8tracks-tunes-with-a-professional-downloading-tool/"><u>Efficient Methods for Saving Your Favorite 8Tracks Tunes with a Professional Downloading Tool</u></a></li>
+<li><a href="https://blog-min.techidaily.com/geavanceerd-mpg-inhoud-omzetten-online-voor-gratis-met-movavi-asweg/"><u>Geavanceerd MPG-Inhoud Omzetten Online Voor Gratis Met Movavi Asweg!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/how-to-enhance-audibility-with-adjusted-obs-settings-for-2024/"><u>How to Enhance Audibility with Adjusted OBS Settings for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-evade-tips-on-avoiding-edgenuity-video-lessons-with-finesse/"><u>In 2024, How to Evade Tips on Avoiding Edgenuity Video Lessons with Finesse</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-unlock-youtubes-enigmentic-video-cache/"><u>In 2024, How to Unlock YouTube’s Enigmentic Video Cache</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-seamlessly-transfer-spotify-songs-to-youtube-with-these-tools/"><u>In 2024, Seamlessly Transfer Spotify Songs to YouTube with These Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-iron-throne-of-sound-best-websites-for-got-ringtone-downloads-for-2024/"><u>The Iron Throne of Sound Best Websites for GoT Ringtone Downloads for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-key-elements-for-effective-spotify-ad-execution-for-2024/"><u>The Key Elements for Effective Spotify Ad Execution for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-hand-tracking-reference-guide-for-2024/"><u>The Ultimate Hand-Tracking Reference Guide for 2024</u></a></li>
+</ul></div>
 

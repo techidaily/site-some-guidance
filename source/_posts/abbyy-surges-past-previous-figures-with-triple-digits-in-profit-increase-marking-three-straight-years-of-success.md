@@ -1,7 +1,7 @@
 ---
 title: ABBYY Surges Past Previous Figures with Triple Digits in Profit Increase, Marking Three Straight Years of Success
-date: 2024-08-21T17:39:13.877Z
-updated: 2024-08-22T17:39:13.877Z
+date: 2025-01-01T20:24:16.435Z
+updated: 2025-01-03T06:59:33.209Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/51dee520b6548ad713de001f9d872ff359ce7157fc9657d20a61cd8374fcc9ae.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/51dee520b6548ad713de001f9d872ff359ce7157f
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY achieves double-digit annual revenue growth for 3rd consecutive year
 
 March 24, 2020
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### ABBYY’s FY19 revenue growth was driven by RPA partnerships, an expanded product portfolio, and a strengthened global presence
 
@@ -68,8 +76,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -77,8 +83,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-list-10-movie-gems-to-spark-inspiration/"><u>[New] Ultimate List 10 Movie Gems to Spark Inspiration</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-speed-edit-photos-in-windows-11/"><u>[New] Unlocking Speed Edit Photos in Windows 11</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-dynamic-gimbal-support-for-smooth-captures-anywhere-for-2024/"><u>[Updated] Dynamic Gimbal Support for Smooth Captures Anywhere for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-15-video-reviews-ultimate-unboxing-channel-guide/"><u>[Updated] Top 15 Video Reviews Ultimate Unboxing Channel Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-free-versatile-laptop-software-to-watch-dvds/"><u>2024 Approved Free, Versatile Laptop Software to Watch DVDs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-significance-of-proper-slug-line-usage/"><u>2024 Approved The Significance of Proper Slug Line Usage</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-slow-typing-on-pc-a-step-by-step-manual/"><u>Fixing Slow Typing on PC: A Step-by-Step Manual</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-decoding-the-social-code-top-30-tips-for-marketing-mastery/"><u>In 2024, Decoding the Social Code Top 30 Tips for Marketing Mastery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-seamless-podcast-experience-for-iphone-users/"><u>In 2024, Seamless Podcast Experience for iPhone Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ltimate-glossary-of-youtube-shorts-terms-for-2024/"><u>The Ultimate Glossary of YouTube Shorts Terms for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/troubleshooting-guide-frequently-asked-technical-issues-with-winxdvd-winx-hd-video-converter-by-digiarty/"><u>Troubleshooting Guide: Frequently Asked Technical Issues with WinXDVD-WinX HD Video Converter by Digiarty</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-software-guide-for-video-game-shows-for-2024/"><u>Ultimate Software Guide for Video Game Shows for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

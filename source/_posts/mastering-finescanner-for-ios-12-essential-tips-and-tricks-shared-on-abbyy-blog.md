@@ -1,7 +1,7 @@
 ---
 title: "Mastering FineScanner for iOS 12: Essential Tips and Tricks Shared on ABBYY Blog"
-date: 2024-08-21T17:39:39.724Z
-updated: 2024-08-22T17:39:39.724Z
+date: 2024-12-31T03:08:37.851Z
+updated: 2025-01-02T22:22:53.633Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0aa2219c94653cd1097dc9a0c.jpg
@@ -18,6 +18,10 @@ September 18, 2018
 ![](https://static2.abbyy.com/abbyycommedia/26499/blog-fsi-siri-en-1x.png) 
 
 iOS 12 brought many features to Apple-devices. The one of great significance is Siri level-up: she’s become smarter, Siri Suggestions became more accurate, and a WOW-feature is Siri Shortcuts. We’re always up-to-date, so FineScanner is now a friend to Siri.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Siri Shortcuts in FineScanner
 
@@ -39,6 +43,10 @@ Update to iOS 12 and download the new FineScanner. Make sure to give us impressi
 P.S. Nostalgy FineScanner features for [iOS 11 in 2017](https://tools.techidaily.com/abbyy/products/) and [iOS 10 in 2016](https://tools.techidaily.com/abbyy/products/) are here just as a reminder ;)
 
 [Mobile](https://tools.techidaily.com/abbyy/products/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -95,8 +103,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,8 +110,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-fixed-youtube-shorts-not-showing-up/"><u>[New] 2024 Approved Fixed YouTube Shorts Not Showing Up</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-waveforms-and-windows-mac-sound-recording/"><u>[New] 2024 Approved Waveforms and Windows Mac Sound Recording</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-sprint-through-photo-composition-googles-easy-way/"><u>[Updated] 2024 Approved Sprint Through Photo Composition - Google's Easy Way</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-vida-journey-from-raw-footage-to-cinematic-scene/"><u>[Updated] The Vida Journey From Raw Footage to Cinematic Scene</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-ten-blueprints-for-meme-mastery/"><u>[Updated] Top Ten Blueprints for Meme Mastery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-understanding-the-video-space-in-high-capacity-drives/"><u>[Updated] Understanding the Video Space in High-Capacity Drives</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1-reviving-your-files-a-three-step-guide-to-restoring-deleted-data-in-windows/"><u>1. Reviving Your Files: A Three-Step Guide to Restoring Deleted Data in Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-for-android-users-on-vr-content/"><u>2024 Approved The Ultimate Guide for Android Users on VR Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unbelievable-judgment-and-backup-recommendations/"><u>2024 Approved Unbelievable Judgment & Backup Recommendations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-solutions-to-the-ksuserdll-not-found-or-cannot-be-loaded-problem/"><u>Essential Solutions to the 'ksuser.dll Not Found or Cannot Be Loaded' Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-vcruntime140dll-missing-file-issue-easy-guide/"><u>How to Fix VCRUNTIME140.dll Missing File Issue - Easy Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-oneplus-ace-2-pro-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our OnePlus Ace 2 Pro Phone Screen?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-mellow-your-playlist-device-specific-techniques/"><u>In 2024, Mellow Your Playlist Device-Specific Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-most-popular-free-soundtrack-sites-for-gamers/"><u>In 2024, The Most Popular Free Soundtrack Sites for Gamers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/nikon-z7-deep-dive-achieving-excellence-in-every-shot/"><u>Nikon Z7 Deep Dive: Achieving Excellence in Every Shot</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-mystery-of-sideways-instagram-videography-for-2024/"><u>The Mystery of Sideways Instagram Videography for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-windows-11-startup-errors-on-pc-step-by-step-solutions/"><u>Troubleshooting Windows 11 Startup Errors on PC - Step by Step Solutions</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->

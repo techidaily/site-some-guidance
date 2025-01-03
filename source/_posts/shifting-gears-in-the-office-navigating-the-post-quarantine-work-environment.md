@@ -1,7 +1,7 @@
 ---
 title: "Shifting Gears in the Office: Navigating the Post-Quarantine Work Environment"
-date: 2024-08-21T17:39:46.547Z
-updated: 2024-08-22T17:39:46.547Z
+date: 2025-01-02T07:47:40.429Z
+updated: 2025-01-03T08:43:59.018Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3596b8900296a25dc73f79cf.png
@@ -11,17 +11,29 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The New Normal: How Has the Quarantine Changed the Way You Work?
 
 October 01, 2020
 
 ![](https://static2.abbyy.com/abbyycommedia/29478/1-productivity.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 During the quarantine, we conducted a global survey among 1600 users of ABBYY [FineScanner](https://go.onelink.me/0oMB/2b084a0a), ABBYY [Business Card Reader](https://go.onelink.me/LuYz/ca107d7), and ABBYY [TextGrabber](https://go.onelink.me/uny1/c9b5ef5c). We wanted to better understand the impact of the quarantine on the way people work.
 
 We learned that 82.1% of respondents switched to a remote work setting during the COVID pandemic.
 
 ![](https://static1.abbyy.com/abbyycommedia/29708/productivity-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Have you been more productive?
 
@@ -34,31 +46,18 @@ _“I tried to be as productive as in my work office. The difference was in the 
 _“Depends, some things went better, others worse..”_  
 _“Some of each”_ 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Have you been more motivated?
 
 As for the motivation while working from home, 36.2% of our users haven’t noticed any changes in their motivation level. Nearly the same, 35.4% felt more motivated while working remotely. And 27% of respondents stated that their motivation level dropped.
 
 ![](https://static1.abbyy.com/abbyycommedia/29710/productivity-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ### How long did your typical work day last?
 
 A typical work day during the quarantine mostly lasted 8 – 10 hours (33.8%). Of our respondents, 25.7% worked 6 – 8 hours a day, and 19.6% worked 4 – 6 hours.
 
 ![](https://static1.abbyy.com/abbyycommedia/29711/productivity-4.jpg)  
 Compared to pre-COVID, 43.2% of respondents worked longer hours for personal reasons while staying home, and 27.3% worked shorter hours for personal reasons. Here’s what some respondents shared:
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _“Longer hours because of dissolution of work boundaries.”_  
 _“Working at home while providing full time care has resulted in extremely long work days to complete my workload.”_  
@@ -69,11 +68,19 @@ _“Longer hours due to feeling I must perform better under the circumstance of 
 
 Respondents (53%) said that going forward, they would prefer an arrangement that enables flexibility between working from home and working in the office. Many indicated they prefer either splitting their time 50/50 or working mostly from home with some days in the office.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Any advantages?
 
 Participants of the survey pointed out many advantages of remote work. The most popular were:
 
 ![](https://static1.abbyy.com/abbyycommedia/29712/productivity-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Also, some of our users shared their advantages:
 
@@ -83,20 +90,13 @@ _“More productive not wasting money on petrol and travel time and parking the 
 _“Better food at home. Possibility to have conf calls while doing simple things around the house like watering plants or enjoying the comforts of my home.”_ 
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### …Or disadvantages?
 
 ![](https://static1.abbyy.com/abbyycommedia/29713/productivity-6.jpg)What about the disadvantages of remote work? In the survey, 51.4% of respondents stated that there are more distractions at home. The lack of in-person communication with colleagues was a disadvantage for 38.9% of our users, and 29.3% didn’t have a comfortable workstation at home. Here are some less positive thoughts about remote work from our survey participants:
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 _“Getting info, feedback, approval can be frustrating sometimes...video meets have been very helpful.”_  
 _“The lack of in-person communication, in general, makes it less fun to work from home.”_  
 _“I spend longer periods sitting and not moving around every so often.”_  
@@ -108,9 +108,9 @@ The majority of respondents (56%) also noted that working from home has impacted
 
 ![](https://static1.abbyy.com/abbyycommedia/29714/productivity-7.jpg)  
 While 40.6% of respondents preferred dispersing work and relaxation throughout the day, 24.8% experienced trouble switching from work to relaxation.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Was it more stressful?
@@ -120,8 +120,9 @@ The research showed that working remotely helped 43.8% of respondents to cut dow
 ![](https://static1.abbyy.com/abbyycommedia/29715/productivity-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### What about your screen time and gadgets usage?
 
 The lockdown made people use their gadgets more, with 65.1% of respondents mentioning that their screen time has increased.
@@ -147,10 +148,6 @@ Thank you everyone that participated in our survey!
 
 [Mobile](https://tools.techidaily.com/abbyy/products/) [Coronavirus](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
@@ -205,8 +202,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -214,4 +209,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-luminous-leverage-5-key-videography-aids/"><u>[New] Luminous Leverage 5 Key Videography Aids</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/avigating-your-net-gain-three-steps-to-quantify-your-youtube-earnings/"><u>[New] Navigating Your Net Gain Three Steps to Quantify Your YouTube Earnings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-mysteries-of-firefoxs-pip-mode/"><u>[New] Unveiling the Mysteries of Firefox’s PIP Mode</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-discover-the-best-practices-for-streaming-archive-podcasts/"><u>[Updated] Discover the Best Practices for Streaming Archive Podcasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-insiders-guide-to-perfected-picture-hues/"><u>[Updated] The Insider's Guide to Perfected Picture Hues</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-1-global-stage-viewings/"><u>[Updated] Top 1 Global Stage Viewings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-slomo-recording-tool-analysis-2024-insights/"><u>[Updated] Ultimate SloMo Recording Tool Analysis - 2024 Insights</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-asmrs-health-perks-a-guide/"><u>[Updated] Unlocking ASMR's Health Perks A Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlined-playback-import-tunes-into-inshot/"><u>2024 Approved Streamlined Playback Import Tunes Into InShot</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-tamil-ringtone-downloads-essential-websites-and-tricks/"><u>2024 Approved Top Tamil Ringtone Downloads Essential Websites and Tricks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-every-moment-top-tasks-to-master-while-listening-to-your-favorite-podcasts/"><u>2024 Approved Transform Every Moment Top Tasks to Master While Listening to Your Favorite Podcasts</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/comment-debloquer-facilement-le-chiffrement-de-disque-bitlocker-sur-windows-11-8-solutions-pratiques/"><u>Comment Débloquer Facilement Le Chiffrement De Disque BitLocker Sur Windows 11 : 8 Solutions Pratiques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-ios-1nnovations-top-5-must-have-functions-you-should-master-right-away/"><u>Essential iOS 1Nnovations: Top 5 Must-Have Functions You Should Master Right Away!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-sony-xperia-10-v-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Sony Xperia 10 V Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-in-depth-review-xiaomi-mi-drone-4k-capabilities/"><u>In 2024, In-Depth Review Xiaomi MI Drone 4K Capabilities</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-unlock-the-art-of-recording-all-your-hulu-content/"><u>In 2024, Unlock the Art of Recording All Your Hulu Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-tutorial-for-installing-handbrake-and-libdvdcss-on-macwindows-11-includes-images/"><u>Ultimate Tutorial for Installing HandBrake & Libdvdcss on Mac/Windows 11 (Includes Images)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-hidden-gems-essential-tricks-for-win11-for-2024/"><u>Unveiling Hidden Gems Essential Tricks for Win11 for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/upgraded-win10-expert-guide-to-flawless-streaming/"><u>Upgraded Win10 - Expert Guide to Flawless Streaming</u></a></li>
+</ul></div>
 

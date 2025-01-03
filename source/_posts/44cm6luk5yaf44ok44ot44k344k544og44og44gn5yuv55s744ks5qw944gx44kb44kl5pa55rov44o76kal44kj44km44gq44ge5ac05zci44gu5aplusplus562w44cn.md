@@ -1,7 +1,7 @@
 ---
 title: 「車内ナビシステムで動画を楽しめる方法・見られない場合の対策」
-date: 2024-08-25 13:49:14
-updated: 2024-08-27 11:23:52
+date: 2024-12-26T19:53:27.982Z
+updated: 2025-01-02T23:31:24.289Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/9cbb22dcf88bcb4ceb0ab602c498731d7fd924c3e7f5e5667c887c44d8fe1da7.jpg
@@ -27,8 +27,6 @@ Q5：自作録画DVD 車ナビで見れない。家庭用プレーヤーでは�
 
 上記のような問題で困っている人は多いのではないだろうか。心配しないで、以下では、カーナビDVD再生できる動画形式｜カーナビDVD見れない原因＆対処方法を詳しくご解説する。
 
-
-
 ## カーナビDVD再生できる動画形式｜カーナビDVD見れない原因
 
 カーナビDVD再生できる動画形式に関しては、カーナビのマニュアルを見てください。カーナビ対応する形式の一覧が出ていて、DVDディスクをその形式に変換すればカーナビDVD見れるようになる。
@@ -48,16 +46,12 @@ AVCHD規格準拠：※AVCHD 3D/Progressiveには対応していない
 容量：1ファイルにつき4GBまで  
 再生時間：1ファイルにつき26.5時間
 
-
-
 ![カーナビDVD再生](https://www.macxdvd.com/blog/img/car-navigation-system-02.jpg) 
 
 **サイバー、AVIC-CL900カーナビで再生できる動画形式**
 
 USB/SDカードで再生できる動画形式の拡張子：avi、.mp4、.3gp、.mkv、.movなど  
 USB/SDカードで再生できるビデオコーデック：MPEG-4/H.264/H.263/Xvid、MPEG-4/H.264/H.263、MPEG-4/H.264/H.263、MPEG-4/H.264/VC-1/Xvid、MPEG-4/H.264/VC-1/Xvid、MPEG-4/H.264/H.263
-
-
 
 ## カーナビDVD見れない原因を特定してみる
 
@@ -83,7 +77,9 @@ DVD自体には傷、損傷、汚れなどがあると、カーナビDVD再生�
 
 AVCREC方式で録画・ダビングしたDVDディスクなら、AVCREC対応できるカーナビを利用しないとDVD再生はできない。
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## カーナビDVD再生できない時の対処方法はこちら
 
@@ -99,13 +95,15 @@ AVCREC方式で録画・ダビングしたDVDディスクなら、AVCREC対応�
 
 100%安全
 
-
-
 ## DVDをカーナビで再生できる動画形式（MP4）に変換する方法
 
 まず、MacX DVD Ripper Proをお使いのMac PCにダウンロード・インストールする。WindowsユーザーはWindows版を使ってください。スクリーンの上部にある「ヘルパ/Help」をクリックして、ソフトウェアの表示言語を英語から日本語に変更できる。
 
 ![カーナビDVD再生](https://www.macxdvd.com/blog/img/dvd-movies-on-car-navigation-system-01.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **事前準備：**ソフトウェアを立ち上げる前、変換しようとするDVDディスクをドライブに挿入し、再生中のDVDプレーヤーを閉じておく。
 
@@ -118,8 +116,6 @@ AVCREC方式で録画・ダビングしたDVDディスクなら、AVCREC対応�
 **Step4：**ソフトの右下側にある「RUN」ボタンをクリックして、好みのDVD映画をMP4に変換する。変換作業の進捗状況画面が見られ、随時にキャンセルが可能。
 
 [MacX DVD Ripper Pro使い方：ダウンロード・インストール・日本語化・DVDのコピーと編集方法！](https://tools.techidaily.com/macxdvd/products/)
-
-
 
 ### MP4ファイルをmicroSDメモリーカードにコピーし、カーナビで再生する方法
 
@@ -141,9 +137,11 @@ AVCREC方式で録画・ダビングしたDVDディスクなら、AVCREC対応�
 （2）車内に持ち込まれた、あるいは取り付けられたカーナビ等の画像表示用装置に表示された画像を注視することも違法となる。  
 （3）カーナビの運転中の操作制限を解除したら違法となる。
 
-
-
 ![](https://www.macxdvd.com/blog/../seoimage/dvd-ripperu.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### カーナビDVD再生に役立てるソフト～[MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
 
@@ -151,11 +149,21 @@ AVCREC方式で録画・ダビングしたDVDディスクなら、AVCREC対応�
 
 [![](https://www.macxdvd.com/blog/new-fourteen/mac.png)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/blog/new-fourteen/winx.png)](https://tools.techidaily.com/macxdvd/products/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## あなたへのおすすめ
 
 ![](https://www.macxdvd.com/blog/img/dvd-copy-free-0608.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [最新版DVDコピーフリーソフト比較ランキング（人気順）](https://tools.techidaily.com/macxdvd/products/)
 
@@ -169,9 +177,17 @@ AVCREC方式で録画・ダビングしたDVDディスクなら、AVCREC対応�
 
 ![](https://www.macxdvd.com/blog/img/dvd-to-usb.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [DVDをSDカード、USBメモリ、外部付けHDDにコピーする方法](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/blog/../mobile/img/link_icon_blue.png) **[日本でDVDコピー違法？罰則は？合法DVDコピー方法がある？](https://tools.techidaily.com/macxdvd/products/)** 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 DVDコピーは100％違法になるか？DVDをコピーしても違法とならない方法
 
@@ -181,13 +197,15 @@ MacでレンタルDVDをコピーする方法。無料・無劣化。
 
 ![](https://www.macxdvd.com/blog/../mobile/img/link_icon_blue.png) **[DVD PC取り込み！DVDをパソコンに取り込む方法](https://tools.techidaily.com/macxdvd/products/)** 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 WindowsとMacでDVDをパソコンに取り込む方法を紹介。
 
 ![](https://www.macxdvd.com/blog/../mobile/img/link_icon_blue.png) **[（違法にならない）DRM解除せず、DRM付き動画を再生](https://tools.techidaily.com/macxdvd/products/)** 
 
 DRM解除せず、DRM付き動画を再生する方法。
-
-
 
 [ホーム](https://tools.techidaily.com/macxdvd/products/)[Blog](https://tools.techidaily.com/macxdvd/products/) \>カーナビDVD再生方法
 
@@ -197,11 +215,31 @@ DRM解除せず、DRM付き動画を再生する方法。
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-everything-you-need-to-know-about-the-youtube-shorts-fund/"><u>[New] 2024 Approved Everything You Need to Know About the YouTube Shorts Fund</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-conversion-wizardry-zip-to-subrip-transformation-for-2024/"><u>[New] Conversion Wizardry ZIP to SubRip Transformation for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-maximize-visual-impact-smart-zooming-tricks-in-snapchat/"><u>[Updated] Maximize Visual Impact Smart Zooming Tricks in Snapchat</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-rated-desktops-for-peak-performance/"><u>2024 Approved Top-Rated Desktops for Peak Performance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-darkness-step-by-step-guide-to-tackle-magic-the-gathering-arenas-black-screen-glitches/"><u>Beat the Darkness: Step-by-Step Guide to Tackle Magic: The Gathering Arena's Black Screen Glitches</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317597-9781401938963-entangled-in-darkness/"><u>Entangled In Darkness | Free Book</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/essential-tips-for-resolving-issues-with-your-non-responsive-mouse-provided-by-specialists-at-yl-software/"><u>Essential Tips for Resolving Issues with Your Non-Responsive Mouse, Provided by Specialists at YL Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-hidden-or-missing-windows-issue-easy-solutions-for-users/"><u>Fixing Hidden or Missing Windows Issue – Easy Solutions for Users</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-maximizing-your-tiktok-impact-from-fans-to-followers-and-beyond/"><u>In 2024, Maximizing Your TikTok Impact From Fans to Followers and Beyond</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-strategies-for-combining-the-best-of-zoom-and-skype-video-calls/"><u>In 2024, Strategies for Combining the Best of Zoom and Skype Video Calls</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-80s-revivalists-handbook-for-dynamic-editing-techniques/"><u>In 2024, The 80S Revivalist's Handbook for Dynamic Editing Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transform-videos-to-tweets-best-converters-revealed/"><u>In 2024, Transform Videos to Tweets Best Converters Revealed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unparalleled-top-5-agile-camcorders-guide/"><u>In 2024, Unparalleled Top 5 Agile Camcorders Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/superior-way-of-stitching-gopro-recordings-in-extended-spherical-videos-for-2024/"><u>Superior Way of Stitching GoPro Recordings in Extended Spherical Videos for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/tech-insights-the-best-browser-screen-capture-tools-of-the-year/"><u>Tech Insights The Best Browser Screen Capture Tools of the Year</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/venturing-into-virtual-steps-top-treadmill-analysis-for-2024/"><u>Venturing Into Virtual Steps Top Treadmill Analysis for 2024</u></a></li>
+</ul></div>
+

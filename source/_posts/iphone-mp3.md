@@ -1,7 +1,7 @@
 ---
 title: "IPhone用音楽編集ガイド: MP3加工・クリップ作成・サウンドミキシング入門"
-date: 2024-08-24 18:26:10
-updated: 2024-08-27 11:45:10
+date: 2024-12-28T21:34:30.513Z
+updated: 2025-01-03T02:31:33.630Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/cc5e0ccb2974725fe4ffe86c209fbe5c027a26cc8f4a4bedddf4dd27e4096c3f.jpg
@@ -13,21 +13,15 @@ thumbnail: https://thmb.techidaily.com/cc5e0ccb2974725fe4ffe86c209fbe5c027a26cc8
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/face.png)](https://www.facebook.com/Digiarty.Software.Japan) [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/twi.png)](https://twitter.com/DigiartyInc) [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/google.png)](https://www.youtube.com/channel/UCqY5hItdifUTbKX2sKXe4fQ) 
 
-
-
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/ilogo.png)](https://tools.techidaily.com/macxdvd/products/) 
 
 NO Apple NO Life ! iPhone・iPad・iPod簡単データ移行方法まとめ
-
-
 
 [ホーム](https://tools.techidaily.com/macxdvd/products/)[iPhone・iPad・iPod](https://tools.techidaily.com/macxdvd/products/) \> iPhone曲編集方法
 
 ## iPhone音楽編集方法まとめ｜MP3・音声・曲を手軽にカット・分割・結合・着信音作成
 
 iPhoneで曲を結合できるアプリを探しているのか。iPhone音楽を編集・カット・繋げる・テンポを変えるなどができるソフトってあるのか。MP3からiPhone着信音に設定したいのか。もしそうでしたら、下記で紹介されるiPhone音楽編集アプリやソフトウェアは役立てる。どっちでも直感的なデザインを持ち、使いやすくて、機会オンチでもすぐに使いこなせる。
-
-
 
 無劣化・高速でiPhone音楽編集・プレイリスト削除・着信音作成を行えるソフトウェア
 
@@ -37,7 +31,9 @@ iPhoneで曲を結合できるアプリを探しているのか。iPhone音楽�
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/btnm.png)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/btnw.png)](https://tools.techidaily.com/winxdvd/products/) 
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPhone音楽編集方法おすすめ｜MP3・音声・曲を手軽にカット・分割・結合できる
 
@@ -45,11 +41,13 @@ iPhoneで曲を結合できるアプリを探しているのか。iPhone音楽�
 
 以下では、imovie代わり、iPhoneで音楽を編集できるアプリケーション及びソフトウェアをまとめてご紹介する。
 
-
-
 ## iPhone音楽編集ソフト：MacX MediaTrans
 
 ![iPhone音楽編集](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/iphone-music-editor-01.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 MacX MediaTransはiPhoneに特化されたソフトウェアで、iPhoneに保存された音楽ファイルをバックアップできるだけではなく、プレイリスト編集、プレイリスト新規作成、プレイリスト削除、アーティスト＆アルバム編集、iPhone着信音作成などが無劣化で行える。
 
@@ -69,11 +67,13 @@ MacX MediaTransはiPhoneに特化されたソフトウェアで、iPhoneに保�
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/btnm.png)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/btnw.png)](https://tools.techidaily.com/macxdvd/products/) 
 
-
-
 ## iPhone音楽編集ソフト：AudioEditor
 
 ![iPhone音楽編集](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/iphone-music-editor-02.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 AudioEditorはMP3/WAVなどの音声ファイルをトリミングできる音声編集ソフトである。最大な特徴は数多くのオーディオフォーマットにサポートする所。音声トリミングはもちろん、音声分割、音声結合、音声エンコードなどといった作業も手軽に行える。プレイヤーも内蔵し、編集してからすぐに出力ファイルを確認できる。更に、この音声編集ソフトは完全無料で、日本語にも対応し、初心者でもすぐに使いこなせる。ただし、Windowsしか使えない。
 
@@ -84,8 +84,6 @@ AudioEditorはMP3/WAVなどの音声ファイルをトリミングできる音�
 **Step3：**後は「0：00：●●」/「0：00：●●」といったボタンをクリックし、カット開始時間とカット終了時間を設定できる。確認したら、「編集開始」ボタンをクリックし、音声カット作業を始める。
 
 **Step4：**「編集された点」画面が別のウインドウで表示され、カット作業が終わったら「OK」をクリックすればOK。
-
-
 
 ## iPhone音楽編集ソフト：Adobe Premiere Elements 14
 
@@ -101,11 +99,13 @@ Adobe Premiere Elements 14は動画・ビデオ編集ソフトとして有名だ
 
 **Step4：**オーディオメーターが最大値に達したら、クリップのボリュームを下げる必要がある。それで、全般的なボリュームレベルが調整される。
 
-
-
 ## iPhone曲編集アプリ：Garage Band
 
 ![iPhone音楽編集](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/iphone-music-editor-04.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Garage Band（ガレージバンド）は、よく知っているiPhone曲編集アプリケーションで、超簡単で音楽を演奏、録音、共有できる。更に、新しいサウンドが配信されたら、より多くの無料音源やループパックを選んでダウンロードしたりして、自由に曲を作れる。
 
@@ -123,8 +123,6 @@ Garage Band（ガレージバンド）は、よく知っているiPhone曲編集
 
 **Step5：**分割した音源ファイルは「ホーム」⇒「ライブラリ」⇒「オーディオ」⇒「Apple Loops」⇒「User Loops」⇒「Single Files」に保存される。先ほど編集した音声ファイルをチェックできる。
 
-
-
 ## iPhone曲編集アプリ：WavePad音声編集ソフト
 
 ![iPhone音楽編集](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/iphone-music-editor-05.jpg) 
@@ -140,8 +138,6 @@ WavePad音声編集ソフトは、無料で使えるiPhone音声編集ソフト�
 **Step3：**切り取った部分をiPhoneで扱えるフォーマットとして保存する。iPhoneの場合は、.m4rで出力してください。
 
 **Step4：**「フェードイン」⇒「フェードアウト」のエフェクトを利用すれば、iPhone着信音を作成する作業がもっとスムーズとなる。
-
-
 
 ## iPhone曲編集アプリ：MultiTrack DAW
 
@@ -159,11 +155,17 @@ MultiTrack DAWは最新テクノロジーを導入し、強力なiPhone曲編集
 
 **Step5：**メトロノーム設定に関しては、「Click In Play」か「Click In Rec」をタップすれば良い。「Click In Play」は再生時に設定した拍子とBPMでメトロノーム音を流せるボタン。「Click In Rec」は録音時に設定した拍子とBPMでメトロノーム音を流せるボタン。
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPhone曲編集アプリ：edjing Mix
 
 ![iPhone音楽編集](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/iphone-music-editor-07.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Adobe Premiere Elements 14は[動画・ビデオ編集ソフト](https://tools.techidaily.com/macxdvd/products/)として有名だが、オーディオ編集（ボリュームレベル調整/オーディオフェードアウト/エフェクト追加など）を行える。機能が非常に豊富で、上級者にはおすすめ。また、音声ファイルのボリュームを調整したい方は、このソフトウェアは最適。
 
@@ -175,7 +177,9 @@ Adobe Premiere Elements 14は[動画・ビデオ編集ソフト](https://tools.t
 
 **Step4：**オーディオメーターが最大値に達したら、クリップのボリュームを下げる必要がある。それで、全般的なボリュームレベルが調整される。
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPhone曲編集アプリ：Medly
 
@@ -190,7 +194,9 @@ Medlyの最大な特徴は、作曲が手軽に完成できる所。初心者で
 
 **Step3：**打ち込んだデータをMIDIファイルにしてメールで送ったりすることができる。
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPhone曲編集アプリ：ボイスメモ
 
@@ -208,8 +214,6 @@ Medlyの最大な特徴は、作曲が手軽に完成できる所。初心者で
 
 **Step5：**音声トリミングしたい場合は、画面右側にあるトリミングマークをタップする。画面左右にある赤いトリミングシークバーを移動したら、音声トリミング作業が開始。トリミング部分が確認して終了したい時は、「トリミング」ボタンをタップしファイルを保存する。
 
-
-
 ## iPhone曲編集アプリ：MP3 Cutter
 
 ![iPhone音楽編集](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/iphone-music-editor-10.jpg) 
@@ -223,15 +227,11 @@ MP3 Cutterは、名前の通りで曲のカットに特化されるアプリケ�
 
 **Step3：**そこからカットしたい部分を設定できる。下には再生ボタンがあり、音声ファイルがカットされた後、すぐに確認できる。
 
-
-
 ## 【まとめ】使用用途に合わせて最適なiPhone音楽編集を選ぼう
 
 iPhoneで音楽を編集できるソフトウェアやアプリケーションについてまとめてみた。疲れを解消するため音楽を視聴したり、自由に編集する人も多くなってきた。
 
 上記で紹介されるiPhone曲編集アプリならではの特徴を持ち、自分の興味やライフスタイルに合わせて最適なものを選んでください。
-
-
 
  iPhone音楽編集・削除・新規作成（プレイリスト・曲情報・アーティスト）を行えるソフト
 
@@ -240,8 +240,6 @@ iPhoneで音楽を編集できるソフトウェアやアプリケーション�
 iPhone曲編集ソフトというより、むしろお持ちのiPhone・iPod・iPadの音楽を簡単に転送・管理するために開発されたアプリである。音楽をiPhone・iPod・iPadとMacの間で双方向同期・転送・移行することができる上、iTunes・Apple MusicのDRMを解除可能し、iTunesなしで、お気に入りの曲だけを集めて、プレイリストの作成/編集/削除が行え、写真/ビデオを暗号化して出力、写真隠しロック、動画をパスワードで暗号化で保存できる。強力なハードウェアアクセラレーション搭載で、超爆速で16分で7000曲をバックアップ可能。**[MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)**で、毎日をもっと楽しく、もっと自由に。
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/btnm.png)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/btnw.png)](https://tools.techidaily.com/winxdvd/products/) 
-
-
 
  国内ユーザー数5000万人突破記念キャンペーンが実施中
 
@@ -259,13 +257,9 @@ iPhone曲編集ソフトというより、むしろお持ちのiPhone・iPod・i
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/../blog/new-fourteen/info.jpg)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/apple-iphone-transfer/../blog/new-fourteen/coupon-btn.jpg)](https://secure.avangate.com/order/checkout.php?PRODS=4626941&QTY=1&CART=1&SHORT%5FFORM=1&COUPON=MACXOBON2014) 
 
-
-
  カテゴリ：[データ転送](https://tools.techidaily.com/macxdvd/products/)[音楽管理](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/zl.png) いつもシェアありがとうございます![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/zr.png) 
-
-
 
 ## コメントの多い記事一覧
 
@@ -278,17 +272,19 @@ iPhone曲編集ソフトというより、むしろお持ちのiPhone・iPod・i
 * [_iPhone認識_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p1.jpg) iTunes iPhone認識しない原因と対処法まとめ！MacとWindows](https://tools.techidaily.com/macxdvd/products/)
 * [_iPhone動画保存_ ![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/p6.jpg) iPhone動画ダウンロード・動画保存アプリおすすめ（無料＆有料）](https://tools.techidaily.com/macxdvd/products/)
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [ホーム](https://tools.techidaily.com/macxdvd/products/)[iPhone・iPad・iPod](https://tools.techidaily.com/macxdvd/products/) \> iPhone曲編集方法
-
-
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/f.png)](https://www.facebook.com/Digiarty.Software.Japan) [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/tw.png)](https://twitter.com/DigiartyInc) [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/y.png)](https://www.youtube.com/channel/UCqY5hItdifUTbKX2sKXe4fQ) 
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/top.png)](https://www.macxdvd.com/apple-iphone-transfer/javascript:;)
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [![](https://www.macxdvd.com/apple-iphone-transfer/images/seomodel/ilogo.png)](https://tools.techidaily.com/macxdvd/products/) 
 
@@ -327,11 +323,27 @@ Digiarty SoftwareがApple Inc.と開発または商業提携をしていませ�
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-competitive-edge-assessing-personal-and-marketplace-videos-for-2024/"><u>[New] Crafting Competitive Edge Assessing Personal and Marketplace Videos for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-art-of-photo-edits-clearing-out-backgrounds/"><u>[Updated] In 2024, The Art of Photo Edits Clearing Out Backgrounds</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-miniature-motorcade-matchups/"><u>[Updated] Miniature Motorcade Matchups</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-filmmakers-guide-to-distorting-space-and-time/"><u>[Updated] The Filmmaker's Guide to Distorting Space & Time</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-toggle-between-normal-and-picture-in-picture-view-for-youtube-on-iphone/"><u>[Updated] Toggle Between Normal and Picture In Picture View for Youtube on iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-thorough-examination-of-dji-inspire-1/"><u>2024 Approved Thorough Examination of DJI Inspire 1</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-handheld-stabilizers-to-elevate-your-vlogging-game/"><u>2024 Approved Top Handheld Stabilizers to Elevate Your Vlogging Game</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/chronicle-custodians-circle-top-7-treasures-for-2024/"><u>Chronicle Custodians Circle - Top 7 Treasures for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-samsung-galaxy-a05s-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Samsung Galaxy A05s Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-ubuntu-core-24-paves-the-way-for-next-gen-iot-and-edge-tech-insights-from-zdnets-in-depth-analysis/"><u>How Ubuntu Core 24 Paves the Way for Next-Gen IoT and Edge Tech - Insights From ZDNet's In-Depth Analysis</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-signs-the-ultimate-list-of-9-iphone-water-damage-symptoms/"><u>Identifying Signs: The Ultimate List of 9 iPhone Water Damage Symptoms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-30-pro-windows-10-mastery-hacks/"><u>In 2024, Top 30 Pro Windows 10 Mastery Hacks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-8-mobile-montages-androidios-screenshot-wonders-for-2024/"><u>Top 8 Mobile Montages Android/iOS Screenshot Wonders for 2024</u></a></li>
+</ul></div>
+

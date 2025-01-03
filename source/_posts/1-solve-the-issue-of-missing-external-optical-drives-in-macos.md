@@ -1,7 +1,7 @@
 ---
 title: 1. Solve the Issue of Missing External Optical Drives in macOS
-date: 2024-08-25 18:24:56
-updated: 2024-08-27 11:56:25
+date: 2024-12-29T05:47:06.077Z
+updated: 2025-01-02T20:48:11.670Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e29c16f1ef4c1543e402a7a3.jpg
@@ -16,8 +16,6 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/troubleshoot-dvd/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [DVD](https://tools.techidaily.com/macxdvd/products/) \> [Play DVD](https://tools.techidaily.com/macxdvd/products/) \> External DVD Player not Working on Mac 
 
 ## \[Fixed\] External CD/DVD Drive Player Not Working/Showing up on Mac
@@ -26,18 +24,37 @@ To make DVD content playback more convenient and efficient, it is recommended to
 
 [Download for Mac](https://tools.techidaily.com/macxdvd/products/) [Learn More](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 _Your external CD/DVD drive player is not working or showing up on Mac? Don't worry. Here are all the fixes to help you open Apple SuperDrive and LG, Asus, Dell, Samsung external CD/DVD drives on Mac._ 
 
 ![](https://www.macxdvd.com/troubleshoot-dvd/../image-style/new-seo/icon6.png) By [Bella Brown](https://www.linkedin.com/in/bella-brown-920145104/) ｜Last updated onJuly 23, 2024 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [![](https://www.macxdvd.com/troubleshoot-dvd/../image-style/new-seo/share-fa.jpg)](https://www.facebook.com/sharer/sharer.php?u=https://www.macxdvd.com/troubleshoot-dvd/external-dvd-player-not-working-on-mac.htm)
 * [![](https://www.macxdvd.com/troubleshoot-dvd/../image-style/new-seo/share-tw.jpg)](https://twitter.com/intent/tweet?url=https://www.macxdvd.com/troubleshoot-dvd/external-dvd-player-not-working-on-mac.htm)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [![](https://www.macxdvd.com/troubleshoot-dvd/../image-style/new-seo/share-email.jpg)](https://www.macxdvd.com/troubleshoot-dvd/mailto:info@example.com?&subject=&body=https://www.macxdvd.com/troubleshoot-dvd/external-dvd-player-not-working-on-mac.htm)
 * [![](https://www.macxdvd.com/troubleshoot-dvd/../image-style/new-seo/share-in.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.macxdvd.com/troubleshoot-dvd/external-dvd-player-not-working-on-mac.htm&title=&summary=https://www.macxdvd.com/troubleshoot-dvd/external-dvd-player-not-working-on-mac.htm&source=)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Every now and then, there are users reporting that their external CD/DVD drive player is not working on MacBooks, MacBook Pros, or Macs (including M1 Macs), not to mention playing a movie or burning a DVD. Sometimes, the external CD/DVD drive player is not recognized by Mac with errors like "Connect Apple USB SuperDrive to a USB port on this Mac.", while in some other cases, the external CD/DVD drive is not showing up on Mac at all. The problem happens with Apple USB SuperDrive and external CD/DVD drives from LG, Asus, Dell, Gotega, and many others. Anyway, how to get your external CD/DVD drive player to work on Mac (Sonoma incl.)? Keep reading.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Quick Fixes to External CD/DVD Drive Player Not Working on Mac Issue
 
@@ -59,6 +76,10 @@ _It can also fix external DVD player not working errors caused by a corrupted or
 
 [Free Download](https://tools.techidaily.com/macxdvd/products/) [Free Download](https://tools.techidaily.com/macxdvd/products/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for you:
 
 * [1\. Open DVD Player using Rosetta](https://tools.techidaily.com/macxdvd/products/)
@@ -66,6 +87,11 @@ _It can also fix external DVD player not working errors caused by a corrupted or
 * [3\. Reset the SMC of your Mac](https://tools.techidaily.com/macxdvd/products/)
 * [4\. Remove the DVD protections](https://tools.techidaily.com/macxdvd/products/) ![](https://www.macxdvd.com/troubleshoot-dvd/../image-style/new-seo/icon4.png)
 * [5\. Try another adapter](https://tools.techidaily.com/macxdvd/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [6\. Remove any virtual machine software](https://tools.techidaily.com/macxdvd/products/)
 * [7\. Check System Information](https://tools.techidaily.com/macxdvd/products/)
 * [8\. Check for Software Conflicts](https://tools.techidaily.com/macxdvd/products/)
@@ -146,8 +172,6 @@ The external DVD player is still not recognized or showing up on Mac? Contact Ap
 
 Tags: [DVD](https://tools.techidaily.com/macxdvd/products/) [Play DVD](https://tools.techidaily.com/macxdvd/products/) 
 
-
-
 Related Articles
 
 ![](https://www.macxdvd.com/troubleshoot-dvd/../image-style/new-seo/pic7.jpg)
@@ -156,6 +180,10 @@ Related Articles
 
 ![](https://www.macxdvd.com/troubleshoot-dvd/../image-style/new-seo/pic6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [How to Eject a (Stuck) Disc from Mac SuperDrive or External Drive](https://www.macxdvd.com/troubleshoot-dvd/how-to-eject-disc-from-mac.htm) 
 
 ![](https://www.macxdvd.com/troubleshoot-dvd/../image-style/new-seo/pic5.jpg)
@@ -163,6 +191,10 @@ Related Articles
 [iMac/MacBook SuperDrive Not Working Issues Fixed](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/troubleshoot-dvd/../image-style/new-seo/pic4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Mac DVD Player Not Responding - Best Fix (100% Working)](https://tools.techidaily.com/macxdvd/products/) 
 
@@ -174,11 +206,13 @@ Related Articles
 
 [How to Fix VLC Not Playing DVD/Blu-rays Issue](https://tools.techidaily.com/macxdvd/products/) 
 
-
-
 ![Digiarty Software](https://www.macxdvd.com/troubleshoot-dvd/../icon/logo.png) 
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Hot Products
 
@@ -202,8 +236,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
 Copyright © 2024 Digiarty Software, Inc (MacXDVD). All rights reserved
@@ -217,11 +249,29 @@ Apple, the Apple logo, Mac, iPhone, iPad, iPod and iTunes are trademarks of Appl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-reimagining-teams-background-beforeafter-conversations-for-2024/"><u>[New] Reimagining Teams' Background Before/After Conversations for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-complete-android-auditory-guide-adding-personalized-sounds-and-ringtones/"><u>[New] The Complete Android Auditory Guide Adding Personalized Sounds and Ringtones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tricks-to-increase-viewership-on-your-tiktok-unboxing-sessions/"><u>[New] Tricks to Increase Viewership on Your TikTok Unboxing Sessions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-iphone-under-the-moonlight-photography-tips/"><u>[Updated] IPhone Under the Moonlight Photography Tips</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-supercharge-your-farming-fun-in-stardew-valley-top-7-upgrades/"><u>[Updated] Supercharge Your Farming Fun in Stardew Valley (Top 7 Upgrades)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-to-engaging-youtube-reactions-top-10/"><u>[Updated] The Ultimate Guide to Engaging YouTube Reactions (Top 10)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-tale-architecting-network/"><u>[Updated] Top Tale Architecting Network</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-xiaomi-redmi-note-12-pro-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Xiaomi Redmi Note 12 Pro 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-mastering-minute-by-minute-srt-conversion-to-text-txt/"><u>In 2024, Mastering Minute-by-Minute SRT Conversion to Text (TXT)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-role-of-visual-aids-in-pedagogy/"><u>In 2024, The Role of Visual Aids in Pedagogy</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-zooms-potential-by-leveraging-skype/"><u>In 2024, Unlocking Zoom's Potential by Leveraging Skype</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1728488793994-iphone-16/"><u>IPhone 16でのフォト移行方法 - 手っ取り早い無料ガイド</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/roguelike-vs-roguelite-debates-and-history-for-2024/"><u>Roguelike Vs. Roguelite Debates and History for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-14-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Samsung Galaxy A05s? | Dr.fone</u></a></li>
+</ul></div>
+

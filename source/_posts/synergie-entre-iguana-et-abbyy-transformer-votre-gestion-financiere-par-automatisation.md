@@ -1,7 +1,7 @@
 ---
 title: "Synergie Entre Iguana Et ABBYY : Transformer Votre Gestion Financière Par Automatisation"
-date: 2024-08-21T17:39:50.506Z
-updated: 2024-08-22T17:39:50.506Z
+date: 2024-12-29T18:26:08.646Z
+updated: 2025-01-02T22:34:18.955Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8e227e065d730938ce0d6ea2261402d78760be14848998b4f825537e8b545d45.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/8e227e065d730938ce0d6ea2261402d78760be148
 
 [Actualités](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iGuana et ABBYY unissent leurs forces pour aider les entreprises à rationaliser et à automatiser leurs processus de comptabilité fournisseurs
 
 15 février 2018
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ABBYY et [iGuana](https://iguana-idm.com/fr/ "iGuana"), fournisseur leader de solutions de gestion de documents et d’archivage numérique dans le BÉNÉLUX, ont le plaisir de vous annoncer le lancement de leur partenariat.
 
@@ -94,8 +102,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -103,8 +109,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-complete-drone-equipment-collection-guide/"><u>[New] 2024 Approved The Complete Drone Equipment Collection Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-boost-your-drive-10-top-motivation-films-for-2024/"><u>[Updated] Boost Your Drive 10 Top Motivation Films for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-initiate-an-impactful-live-stream-on-facebook-today/"><u>[Updated] Initiate an Impactful Live Stream on Facebook Today</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-ae-scripting-tools-and-plug-ins/"><u>[Updated] Top AE Scripting Tools & Plug-Ins</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-pinnacle-montage-apps-androidiphones-creative-powerhouses/"><u>2024 Approved Pinnacle Montage Apps Android/iPhone's Creative Powerhouses</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-logic-of-imovies-trim-feature/"><u>2024 Approved The Logic of iMovie's Trim Feature</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-ultimate-vr-experience-the-htc-vive-story/"><u>2024 Approved Unveiling the Ultimate VR Experience The HTC Vive Story</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/458086-9780307573735-a-path-with-heart/"><u>A Path with Heart | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-to-address-server-stumbled-issues-on-windows-store/"><u>Essential Tips to Address Server Stumbled Issues on Windows Store</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-play-40c-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Honor Play 40C to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-and-repair-xcom-2-crashing-instances-in-windows-environments/"><u>How to Prevent and Repair XCOM 2 Crashing Instances in Windows Environments</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/maximizing-referrals-via-social-media-with-advanced-techniques-from-massmail-software/"><u>Maximizing Referrals via Social Media with Advanced Techniques From MassMail Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-canvas-of-success-unveiling-10-essential-design-tricks-for-2024/"><u>The Canvas of Success Unveiling 10 Essential Design Tricks for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unraveling-the-mystery-of-effective-gif-communication-for-2024/"><u>Unraveling the Mystery of Effective GIF Communication for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->

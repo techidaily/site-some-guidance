@@ -1,7 +1,7 @@
 ---
 title: Cutting-Edge Approaches to Elevate Process Improvement in the Era of Pandemic Resilience
-date: 2024-08-21T17:39:29.345Z
-updated: 2024-08-22T17:39:29.345Z
+date: 2024-12-29T18:42:55.626Z
+updated: 2025-01-03T05:23:56.695Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d3c14a87ffc38827c725ed8de3ccbe916ddb5eb1ee9eb3884a315921c0899b5d.jpg
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/d3c14a87ffc38827c725ed8de3ccbe916ddb5eb1e
 ## Cutting-Edge Approaches to Elevate Process Improvement in the Era of Pandemic Resilience
 
 [Back to Webinars](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A Guide to Achieving Process Excellence during COVID and Beyond
 
@@ -20,8 +24,9 @@ English
 Pen and paper-based value stream mapping (VSM) is the established tool for recording processes, identifying waste, and deriving recommendations for action. However, its application in the healthcare industry today requires a high level of effort and is challenging due to process complexity, variations, and siloed information. Compounding the problem, COVID-19 has made it extremely difficult for process improvement specialists to conduct in-person assessments and Kaizen events.
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Learning Points:
 
 * A brief history on how Prof. dr. ir. Wil van der Aalst invented Process Mining
@@ -31,33 +36,30 @@ Pen and paper-based value stream mapping (VSM) is the established tool for recor
 * Tracking compliance with improvement initiatives post-implementation
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Watch now
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Get in touch with us
 
 Please note that progressive profiling is used on this form to incrementally collect profile data over time.   
 All personal information collected via this method is under full scope of all provisions in our privacy policy.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Thank you, enjoy your webinar!
 
 [![14 A Guide To Achieving Process Excellence During COVID & Beyond](https://static4.abbyy.com/abbyycommedia/29631/14-a-guide-to-achieving-process-excellence-during-covid-beyond.jpg)](https://www.youtube.com/watch?v=VoLSbg-urvE) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 #### Have questions? [Contact ABBYY](https://tools.techidaily.com/abbyy/products/)
 
 #### Please fill in this form to watch the webinar:
@@ -114,8 +116,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +123,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-the-essential-iphone-podcast-retrieval-handbook/"><u>[New] The Essential iPhone Podcast Retrieval Handbook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-3-ways-convert-pinner-vids-into-audios/"><u>[New] Top 3 Ways Convert Pinner Vids Into Audios</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-isolating-pictures-from-video-frames-in-photos-app/"><u>[Updated] Isolating Pictures From Video Frames in Photos App</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-strategies-to-alleviate-vr-motion-woes/"><u>[Updated] Strategies to Alleviate VR Motion Woes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-fostering-a-community-best-practices-for-youtubers/"><u>2024 Approved Fostering a Community Best Practices for YouTubers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-synchronizing-releases-with-listener-habits/"><u>2024 Approved Synchronizing Releases with Listener Habits</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-overview-vsco-creative-suite/"><u>2024 Approved Ultimate Overview VSCO Creative Suite</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/effortless-image-recovery-try-the-stellar-fixer-for-photo-8-standard-on-pc/"><u>Effortless Image Recovery: Try the Stellar Fixer for Photo 8 Standard on PC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/enhance-social-media-presence-by-saving-webcam-videos-via-vlc-for-2024/"><u>Enhance Social Media Presence by Saving Webcam Videos via VLC for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-gt-3-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme GT 3 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-capturing-conversations-iphoneipad-tips-for-top-quality-interviews/"><u>In 2024, The Art of Capturing Conversations IPhone/iPad Tips for Top Quality Interviews</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-7-tools-for-3d-animators-creation/"><u>In 2024, Top 7 Tools for 3D Animator's Creation</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-oneplus-ace-2-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On OnePlus Ace 2? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/open-source-the-catalyst-accelerating-ethical-and-innovative-progress-in-ai-insights-from-zdnet/"><u>Open Source: The Catalyst Accelerating Ethical and Innovative Progress in AI - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/optimal-environmental-film-tech-roundup-for-2024/"><u>Optimal Environmental Film Tech Roundup for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamline-your-content-best-12-html5-video-tools-for-2024/"><u>Streamline Your Content Best 12 HTML5 Video Tools for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-how-to-remove-filmora-watermark-after-exporting-read-this-article-to-find-out-the-details-of-removing-the-filmora-watermark-even-without-pay/"><u>Updated In 2024, How to Remove Filmora Watermark After Exporting? Read This Article to Find Out the Details of Removing the Filmora Watermark Even without Paying</u></a></li>
+</ul></div>
 

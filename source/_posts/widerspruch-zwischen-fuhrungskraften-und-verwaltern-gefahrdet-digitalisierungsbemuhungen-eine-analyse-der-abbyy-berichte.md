@@ -1,7 +1,7 @@
 ---
 title: Widerspruch Zwischen Führungskräften Und Verwaltern Gefährdet Digitalisierungsbemühungen – Eine Analyse Der ABBYY-Berichte
-date: 2024-08-21T17:39:56.023Z
-updated: 2024-08-22T17:39:56.023Z
+date: 2025-01-02T03:28:39.529Z
+updated: 2025-01-03T09:10:23.877Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6244e3ee7a3676c38fda1900.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Studie zeigt: Diskrepanz zwischen leitenden Führungskräften und Managern bedroht erfolgreiche digitale Transformation
 
 8\. Juni 2021
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 72% der leitenden Führungskräfte in Deutschland sind zuversichtlich, dass ihr Unternehmen digital gut vorbereitet ist. Bei den Managern sind es hingegen mit 61% deutlich weniger, die dem zustimmen, so eine neue globale Studie von ABBYY, einem Unternehmen für Digital Intelligence. Auch sagen 37% der befragten Manager in Deutschland, dass sie sich trotz der Verfügbarkeit von neuen Technologien mit Beeinträchtigungen bei der digitalen Transformation konfrontiert sehen. Bei den Führungskräften sind es hingegen nur 28%, die das genauso sehen. Die deutliche Diskrepanz innerhalb der Unternehmen zeigt einen Trend hin zu vertanen Investitionen und verpassten Chancen.
 
@@ -50,6 +58,10 @@ Diese unterschiedliche Wahrnehmung zwischen der obersten Führungsebene eines Un
 
 ![Infografik - Studie über die digitale Transformation | ABBYY](https://static1.abbyy.com/abbyycommedia/33195/infographics-outlook-on-digital-transformation-de.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Methodik**
 
 Diese Studie wurde von Sapio Research im April und Mai 2021 durchgeführt und von ABBYY in Auftrag gegeben. Es wurden 1.220 IT-Entscheider in Unternehmen mit über 1.000 Mitarbeitern in Großbritannien, den USA, Frankreich, Deutschland und Japan zu den durch die Corona-Pandemie entstandenen Auswirkungen auf digitale Transformationsprojekte, den Hindernissen, denen Unternehmen dabei gegenüberstehen und der Rolle, die Automatisierungstechnologien spielen, befragt.
@@ -71,8 +83,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -80,8 +90,20 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-fast-tracking-your-vimeo-watch-time/"><u>[New] Fast-Tracking Your Vimeo Watch Time</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tackling-blurred-images-in-online-meetings-with-zoom-techniques/"><u>[New] Tackling Blurred Images in Online Meetings with Zoom Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-perfecting-screen-magnification-techniques-on-ms-teams/"><u>[Updated] Perfecting Screen Magnification Techniques on MS Teams</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-swirl-device-set/"><u>[Updated] Swirl Device Set</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-basic-blueprint-for-seamless-speech-alteration-in-your-windows-sphere/"><u>2024 Approved The Basic Blueprint for Seamless Speech Alteration in Your Windows Sphere</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-one-stop-guide-to-simplified-podcast-live-broadcasting/"><u>2024 Approved The One Stop Guide to Simplified Podcast Live Broadcasting</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/exploring-the-advantages-how-crypto-investments-can-propel-your-wealth-insights-by-yl-computing/"><u>Exploring the Advantages: How Crypto Investments Can Propel Your Wealth - Insights by YL Computing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-xiaomi-redmi-13c-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Xiaomi Redmi 13C to iPhone | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-creating-compelling-content-using-windows-movie-maker-in-windows-8-os/"><u>In 2024, Creating Compelling Content Using Windows Movie Maker in Windows 8 OS</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-xiaomi-redmi-note-12-proplus-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Xiaomi Redmi Note 12 Pro+ 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-proven-techniques-to-acquire-superior-hdr-cameras/"><u>In 2024, Proven Techniques to Acquire Superior HDR Cameras</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/live-streaming-simplified-a-guide-to-using-onestream-for-2024/"><u>Live Streaming Simplified A Guide to Using OneStream for 2024</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/recuperation-des-fichiers-perdus-details-sur-lutilisation-de-cmd-pour-les-recuperer-facilement/"><u>Récupération Des Fichiers Perdus: Détails Sur L’utilisation De CMD Pour Les Récupérer Facilement</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Ensuring Secure Transactions with Robust ID Authentication in Modern Remote Finance
-date: 2024-08-21T17:39:34.633Z
-updated: 2024-08-22T17:39:34.633Z
+date: 2025-01-01T19:33:03.194Z
+updated: 2025-01-02T23:59:09.941Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/91f7f58741561326931ca324590beadc475f32b45bcc3a270b10ca0d40e00353.jpg
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/91f7f58741561326931ca324590beadc475f32b45
 ## Ensuring Secure Transactions with Robust ID Authentication in Modern Remote Finance
 
 [Back to Webinars](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Proving Identity in Financial Services in An Increasingly Remote and Digital World
 
@@ -23,49 +27,47 @@ English
 
 Solutions Marketing Manager, Financial Services, **ABBYY**
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Be ready for the worst – fraud prevention, detection, and investigation
 
 ![Proving Identity in Financial Services in An Increasingly Remote and Digital World](https://static1.abbyy.com/abbyycommedia/34809/128-proving-identity-in-financial-services-360x232.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 As the banking and financial services industries evolve, so do the opportunities for fraud. Make sure your financial institution has the tools in place to protect yourself and your customers if things go wrong.
 
 ABBYY recently participated in the Transform Finance Fraud in Financial Services event. This event aims to further educate financial service professionals on the risk of fraud. The short session (13 minutes) from this event is now available to view on-demand.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### This session covers:
 
 * Modern ID verification methods.
 * The benefits of proper identification processes.
 * How modern technology can protect you from financial crime risks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fill in the form to register for the webinar now
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Get in touch with us
 
 Please note that progressive profiling is used on this form to incrementally collect profile data over time.   
 All personal information collected via this method is under full scope of all provisions in our privacy policy.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Thank you for registering!
 
 [![14 Proving Identity In Financial Services EN 643X363](https://static1.abbyy.com/abbyycommedia/34810/14-proving-identity-in-financial-services-643x363.jpg)](https://www.youtube.com/watch?v=rdY-3iazdAQ) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 Please check your inbox, we have sent you a confirmation email.
 
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
@@ -126,8 +128,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +135,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-smoothing-iphone-pics-4-methods/"><u>[New] The Ultimate Guide to Smoothing iPhone Pics (4 Methods)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-essential-knowledge-for-youtube-short-creators-for-2024/"><u>[Updated] Essential Knowledge for YouTube Short Creators for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-pioneering-techniques-for-smooth-recording-in-virtual-sessions/"><u>[Updated] In 2024, Pioneering Techniques for Smooth Recording in Virtual Sessions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-subtly-dimming-your-computers-audio-output/"><u>[Updated] Subtly Dimming Your Computer's Audio Output</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-crafting-dynamic-canon-time-lapses/"><u>[Updated] The Ultimate Guide to Crafting Dynamic Canon Time-Lapses</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-enhancing-zoom-meetings-with-effects/"><u>[Updated] The Ultimate Guide to Enhancing Zoom Meetings With Effects</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transforming-patient-reach-top-fb-med-ad-tactics/"><u>[Updated] Transforming Patient Reach Top FB Med Ad Tactics</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-creative-photos-using-pexels-effectively/"><u>[Updated] Unlocking Creative Photos Using Pexels Effectively</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streaming-masterminds-choice-go-with-pmix-or-castpro/"><u>2024 Approved Streaming Masterminds' Choice Go with PMix or CastPro?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-uncovering-inshots-edge-in-the-editing-world/"><u>2024 Approved Uncovering InShot's Edge in the Editing World</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversing-cars-into-customization-masterpieces-via-chatgpt/"><u>Conversing Cars Into Customization Masterpieces via ChatGPT</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/efficient-broadcast-strategies-utilizing-obs-for-youtube-and-twitch-success-for-2024/"><u>Efficient Broadcast Strategies Utilizing OBS for YouTube & Twitch Success for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-iphone-6s-plus-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove iPhone 6s Plus Device from iCloud</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211323677-9781775200451-kundalini-awakening/"><u>Kundalini Awakening | Free Book</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-create-a-sense-of-anticipation-3-steps-to-add-a-countdown-timer-in-fcpx-for-2024/"><u>New Create a Sense of Anticipation 3 Steps to Add a Countdown Timer in FCPX for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/resolving-issues-with-missing-shared-folders-on-onedrive-via-windows-explorer/"><u>Resolving Issues with Missing Shared Folders on OneDrive via Windows Explorer</u></a></li>
+</ul></div>
 
