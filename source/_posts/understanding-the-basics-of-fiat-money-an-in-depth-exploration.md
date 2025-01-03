@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Basics of Fiat Money: An In-Depth Exploration"
-date: 2024-08-31T06:13:52.212Z
-updated: 2024-09-01T06:13:52.212Z
+date: 2024-12-28T17:09:51.969Z
+updated: 2025-01-02T17:34:05.040Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/91640d3f48e05abf1077e677bdbbda7bdefb1b3dd
 ---
 
 ## Understanding the Basics of Fiat Money: An In-Depth Exploration
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/91640d3f48e05abf1077e677bdbbda7bdefb1b3dd
 
  Currencies with no other commodity backing them are known as fiat currency. The euro, pound, yen, and other major currencies are all considered fiat currencies.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  From the Gold Standard to Fiat
 
  In 1971, the United States [officially ended the gold standard](https://www.history.com/this-day-in-history/fdr-takes-united-states-off-gold-standard). Instead of a dollar representing a specified amount of gold, the U.S. dollar is now valued based on supply and demand and faith in the U.S. government.
@@ -29,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/91640d3f48e05abf1077e677bdbbda7bdefb1b3dd
 
  In some cases, these smaller less developed countries don't even issue their own currency. And if by chance they do, they typically peg it to a more stable fiat of a developed economy. For example, most countries in the Caribbean peg their currencies to the U.S dollar since most of their economies are funded by U.S. tourists. Lebanon pegs its currency to the British Pound. Most African countries maintain a peg to the euro.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ##  The Side Effect of Fiat
 
  The goal of doing this is to keep their economies more stable. However, there is one flaw. Economic policy enacted by countries with the reserve currency like the United States or European Union ultimately trickles down to these smaller nations. They have little say and are forced to deal with the hand they are dealt.
@@ -44,8 +48,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  This standardization eliminated exchange rates. Therefore, if you were attempting to convert your British pounds into American dollars, all you would need to know is how many pounds and dollars the British and American governments said one ounce of gold was worth.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Fiats Today
 
  As World War II concluded and a new geopolitical landscape developed, the winners of the war coordinated to unveil the new economic game plan. Originally the plan was for the U.S. dollar to be exchanged with gold at a rate of $35 per ounce. Then every other nation's currency would be tied to the U.S. dollar.
@@ -59,8 +64,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  Yet increased government control over the economy has not always been sustainable. Fiat currencies are not always reliable. They can be overmanipulated and once out of control, it can be difficult to pull in the reins.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Inflation Is Inevitable
 
  One key pitfall of fiat currencies is an increased risk of inflation. There are a handful of examples throughout history when central banks have abused their power.
@@ -74,8 +80,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 Related: [What Is Bitcoin, and How Does it Work?](https://extra-support.techidaily.com/navigating-through-excellent-hdr-cam-choices-for-2024/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Fiat Currencies vs. Cryptocurrencies
 
  Even if not overnight, inflation can slowly take place over decades.
@@ -96,8 +103,6 @@ Related: [What Is Bitcoin, and How Does it Work?](https://extra-support.techidai
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +110,22 @@ Related: [What Is Bitcoin, and How Does it Work?](https://extra-support.techidai
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevate-your-channel-ranking-with-these-11-seo-secrets-for-2024/"><u>[New] Elevate Your Channel Ranking with These 11 SEO Secrets for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-expert-picks-top-12-screen-recording-software-no-time-limit/"><u>[New] Expert Picks Top 12 Screen Recording Software, No Time Limit</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-precision-editing-on-inshot-mastering-the-art-of-transitioning/"><u>[New] Precision Editing on Inshot Mastering the Art of Transitioning</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-strategies-for-eye-catching-podcast-previews/"><u>[New] Strategies for Eye-Catching Podcast Previews</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-streamline-your-screen-captures-with-4-methods/"><u>[Updated] Streamline Your Screen Captures with 4 Methods</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-tutorial-for-setting-up-an-online-livestream/"><u>[Updated] The Ultimate Tutorial for Setting Up an Online Livestream</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-best-zoomed-experience-in-virtual-meetings/"><u>[Updated] Unveiling the Best Zoomed Experience in Virtual Meetings</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-oppo-k11x-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Oppo K11x? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-permanent-deactivation-the-ultimate-guide-to-youtube-shorts/"><u>In 2024, Permanent Deactivation The Ultimate Guide to YouTube Shorts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-hps-bold-new-laptop-design-a-fearless-challenge-to-the-norm-unlikely-from-apple-insights/"><u>Introducing HP's Bold New Laptop Design: A Fearless Challenge to the Norm, Unlikely From Apple - Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-fitness-training-integrating-chatgpt-into-personalized-workout-plan-creation/"><u>The Future of Fitness Training: Integrating ChatGPT Into Personalized Workout Plan Creation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-utilizing-zero-cost-clocks-for-2024/"><u>The Ultimate Guide to Utilizing Zero-Cost Clocks for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-affordable-360-degree-cameras-for-2024/"><u>Top 10 Affordable 360 Degree Cameras for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/toppest-ios-video-capture-aids-for-2024/"><u>Toppest iOS Video Capture Aids for 2024</u></a></li>
+</ul></div>
 

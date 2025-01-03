@@ -1,7 +1,7 @@
 ---
 title: NYC Tightens Regulations Against Cryptocurrency Miners Using Fossil Fuels
-date: 2024-08-31T06:16:17.624Z
-updated: 2024-09-01T06:16:17.624Z
+date: 2024-12-26T17:41:11.513Z
+updated: 2025-01-02T16:10:33.388Z
 tags:
   - cutting-edge
 categories:
@@ -31,8 +31,6 @@ Related: [Cryptocurrency Is Having a Bad Time Right Now](https://remote-screen-c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -40,8 +38,27 @@ Related: [Cryptocurrency Is Having a Bad Time Right Now](https://remote-screen-c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ecoding-youtubes-best-video-editing-practices-for-2024/"><u>[New] Decoding YouTube's Best Video Editing Practices for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-conversion-handbook-from-gif-to-sticker-across-messaging-services/"><u>[New] The Ultimate Conversion Handbook From GIF to Sticker Across Messaging Services</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-your-media-projects-uploading-images-to-youtube/"><u>[New] Transform Your Media Projects Uploading Images to YouTube</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-keep-your-content-safe-guidelines-for-clearance-of-tiktok-videos/"><u>[Updated] In 2024, Keep Your Content Safe Guidelines for Clearance of TikTok Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-essential-guide-to-shopping-for-a-gopro-camera/"><u>[Updated] The Essential Guide to Shopping for a Gopro Camera</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726226162761-avim2ts-movavi/"><u>網路無限制免費改造AVI成M2TS - 利用Movavi影片編輯工具</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-of-achievements-a-million-gaming-milestones/"><u>Arena of Achievements A Million Gaming Milestones</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-lava-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Lava Phone that is Locked?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-oppo-a1-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Oppo A1 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-vivo-y56-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Vivo Y56 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oneplus-ace-3-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from OnePlus Ace 3 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-complete-guide-to-livestreaming-on-mobile-devices/"><u>In 2024, The Complete Guide to Livestreaming on Mobile Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-the-power-of-your-lost-iphone-x/"><u>In 2024, Unleash the Power of Your Lost iPhone X</u></a></li>
+<li><a href="https://extra-information.techidaily.com/skyrocketing-your-iphone-film-quality-essential-filmmaking-insights/"><u>Skyrocketing Your iPhone Film Quality Essential Filmmaking Insights</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-essential-guide-to-iphone-reflections-in-landscapes-for-2024/"><u>The Essential Guide to iPhone Reflections in Landscapes for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-advanced-features-of-vlc-for-mac-users-for-2024/"><u>Unveiling Advanced Features of VLC for Mac Users for 2024</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

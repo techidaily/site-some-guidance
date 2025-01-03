@@ -1,7 +1,7 @@
 ---
 title: Rediscovering My Love for the Arts with Help From AI Tech - My Personal Journey
-date: 2024-08-31T06:15:32.172Z
-updated: 2024-09-01T06:15:32.172Z
+date: 2024-12-31T17:23:38.264Z
+updated: 2025-01-02T16:02:37.659Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Rediscovering My Love for the Arts with Help From AI Tech - My Personal Journey
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -39,12 +43,13 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
  But here’s the twist—words were never my biggest passion. I always felt a stronger affinity towards music and art. So why didn’t I prioritize those over writing? Simple answer: I couldn’t!
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Creative Hobbies Have a Barrier To Entry
 
 ![People caught behind a gate, barrier to entry](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-people-caught-behind-a-gate-barrier-to-entry.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek | Midjourney
 
@@ -54,6 +59,10 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
 ![person creating digital art on a drawing tablet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-person-creating-digital-art-on-a-drawing-tablet.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Dibakar Ghosh / How-To Geek | Midjourney
 
  Music production was even more expensive. While you might want to start with just one instrument—remember, juvenile me wanted to create epic symphonies with quartets sprinkled with piano jingles, solo guitar sections, and all that jazz.
@@ -61,6 +70,10 @@ Dibakar Ghosh / How-To Geek | Midjourney
  Doing that by learning an instrument didn’t seem practical. So, my eyes were set on a [digital audio workstation (DAW)](https://android-unlock.techidaily.com/the-ultimate-guide-to-oppo-find-x7-ultra-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/)—which, again, was very expensive and very complicated.
 
 ![a digital audio workstation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-a-digital-audio-workstation.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Dibakar Ghosh / How-To Geek | Midjourney
 
@@ -73,15 +86,13 @@ Dibakar Ghosh / How-To Geek | Midjourney
  So, investing years in just learning the ropes felt too much of a commitment. I told myself—maybe in another life—and I just gave up! That is until AI came into the picture.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Generative AI Tools Broke These Barriers
 
 ![People cheering a robot who has opened a gate](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-people-cheering-a-robot-who-has-opened-a-gate.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Dibakar Ghosh / How-To Geek | Midjourney
 
  Generative AI has been a game changer for my creative hobbies. It rekindled the lost spark and helped explore new art forms and music styles.
@@ -90,14 +101,15 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
 ![Midjourney web app image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-midjourney-web-app-image.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  I quickly revisited my old notebook (yes, I have a notebook with my earlier ideas because digitizing them was a lot of work) and started _playing_ with Midjourney.
 
  Then, about a year later, [Suno v3](https://extra-skills.techidaily.com/updated-select-15-professional-luts-to-boost-gopro-cinematography/) dropped, followed by [Udio](https://extra-lessons.techidaily.com/cutting-to-perfection-the-science-of-online-photo-trimming/). I have been using these AI text-to-song generators for three-four months now and have already [generated over 1000 songs](https://fox-friendly.techidaily.com/new-in-2024-top-10-compact-dvd-viewers-on-a-go/) with them. It’s extremely fun and addictive.
 
 ![Udio web app music creation interface](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-udio-web-app-music-creation-interface.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, all these tools—Midjourney, Suno, Udio—start at $10 a month, making them extremely affordable. Also, each tool has an intuitive interface with excellent documentation, so I don’t need to invest hours of training or a fancy course.
 
@@ -115,18 +127,6 @@ a cat in space.
 
 ![A cat in space](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10-a-cat-in-space.png) 
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Dibakar Ghosh / How-To Geek | Midjourney
 
  It looks cool, no doubt, but it isn’t what I had in mind. I was envisioning the cat wearing an astronaut suit, looking at me, while climbing up towards me on the International Space Station. So, to actually get what I want, I need to be [more articulate with my prompt](https://facebook-record-videos.techidaily.com/snappy-fortnite-visuals-in-no-time-for-2024/). Kind of like this:
@@ -144,9 +144,6 @@ Dibakar Ghosh / How-To Geek | Midjourney
 
 ![a cartoon cat in space](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/12-a-cartoon-cat-in-space.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 Dibakar Ghosh / How-To Geek | Midjourney
 
  Unfortunately, it’s still not what I have in mind—and this is the essential issue with generative AI: AI can help you visualize an idea but not materialize a visualization.
@@ -187,8 +184,6 @@ Your browser does not support the video tag.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +191,20 @@ Your browser does not support the video tag.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-spotlight-play-how-to-stand-out-with-youtube-gaming/"><u>[New] 2024 Approved Spotlight Play How to Stand Out with YouTube Gaming</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-skype-recording-procedures-streamlined-techniques-for-windows-and-os-x-for-2024/"><u>[New] Skype Recording Procedures - Streamlined Techniques for Windows & OS X for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-essentialists-guide-to-iphone-sound-recording/"><u>[Updated] 2024 Approved The Essentialist's Guide to iPhone Sound Recording</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-hear-the-difference-change-your-playstation-sound/"><u>[Updated] Hear the Difference Change Your PlayStation Sound</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-step-into-successful-online-broadcasting-top-youtube-webcam-choices-for-2024/"><u>[Updated] Step Into Successful Online Broadcasting Top YouTube Webcam Choices for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-thrill-in-the-cold-olympic-showcase-snowboarders-at-peak-performance/"><u>[Updated] Thrill in the Cold Olympic Showcase - Snowboarders at Peak Performance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-series-exceptional-5-slow-mo-tech/"><u>[Updated] Ultimate Series Exceptional 5 Slow Mo Tech</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-potential-with-polarrs-advanced-editing-features/"><u>[Updated] Unlocking Potential with Polarr's Advanced Editing Features</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-creative-trail-steps-towards-thriving-as-a-designer/"><u>2024 Approved The Creative Trail Steps Towards Thriving as a Designer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/newly-released-updates-for-windows-compatible-arduino-usb-controllers/"><u>Newly Released Updates for Windows-Compatible Arduino USB Controllers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamlining-photo-editing-processes-a-guide-for-2024/"><u>Streamlining Photo Editing Processes A Guide for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-gadget-insights-and-performance-analysis/"><u>Tom's Tech Reviews: Expert Gadget Insights and Performance Analysis</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-android-video-brilliance-easy-procedures-for-2024/"><u>Unlocking Android Video Brilliance - Easy Procedures for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Enabling DVD Support on VLC Media Player in Windows, macOS and Linux
-date: 2024-08-27T00:35:51.620Z
-updated: 2024-08-28T00:35:51.620Z
+date: 2024-12-27T16:24:56.131Z
+updated: 2025-01-02T17:40:33.334Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef3054d20b60fdb2ab68b2e719b.png
@@ -16,13 +16,9 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [DVD](https://tools.techidaily.com/macxdvd/products/) \> [Play DVD](https://tools.techidaily.com/macxdvd/products/) \> VLC Won't Play DVD
 
 ## How to Fix VLC Not Playing DVD/Blu-rays Issue
-
-
 
 _Failed to play DVD on computer with VLC Media Player? This article will help you fix VLC not playing DVD error easily. 7 tips are provided._ 
 
@@ -54,14 +50,14 @@ Related: [How to rip DVDs on Mac with VLC](https://tools.techidaily.com/macxdvd/
 
 ### 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Reinstall VLC, Update to the Latest Version 
 
 If you are using older version of VLC, and you are unable to play DVD in VLC media player, uninstall it on your computer and install new version. Outdated version may cause VLC won't play DVD error. The latest version available is 2.2.4\. If VLC cannot read DVDs, write access to DVD device. For example, # chmod 666 /dev/dvd, where /dev/dvd is the device corresponding to DVD drive. 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ### 2\. Set Preferences in VLC and restart VLC
 
 It helps for some to fix VLC not playing DVD by setting preferences. Go to Tools > Preferences (or Ctrl+P), you'll see Show settings at the bottom left corner, select "All", head to Video > Filters > Deinterlace and click the drop-down menu bar next to Streaming deinterlace mode under Deinterlacing video filter and select Yadif mode, click "Save". Close VLC and restart it to see wheter the VLC Media Player won't play DVD problem is resolved. 
@@ -69,8 +65,9 @@ It helps for some to fix VLC not playing DVD by setting preferences. Go to Tools
 ![VLC won't play DVD problem](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/vlc-dvd-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Download and Install Libdvdcss
 
 VLC can't play commercial (encrypted DVDs) without third party help. If your DVD is encrypted, and VLC can't read DVD, not to mention playing DVD, try to download and install Libdvdcss on your computer. Libdvdcss is a library only for freeware and designed to help access DVDs without having to worrying about the decryption. With the help of Libdvdcss, users don't need to set the region of your DVD drive or to [remove region code from DVD](https://tools.techidaily.com/macxdvd/products/). 
@@ -88,15 +85,17 @@ DVD ripper software gives an easy way to solve VLC won't play DVD by converting 
 ![Rip DVD to VLC playable format](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/dvd-to-digital.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Switch to Another Powerful yet Free DVD Player
 
 If all these solutions don't work at all for you, the final way may be to quit VLC and switch to other reliable DVD player. There're tons of factors that lead to DVD not playing in VLC, especially encrypted commercial DVDs. [5KPlayer](https://tools.techidaily.com/5kplayer/products/), known as a region-free DVD player, is a good choice for its ability to play encrypted DVDs needless of any third party help, nice image quality, other bonus features, it's not open source, but free and 100% clean. All the "VLC cannot play DVDs" issues will be gone. 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 7\. Other Solutions to VLC Won't Play Blu-ray DVDs 
 
 Some users reported that when they played Blu ray discs in VLC, an error message said "Your input can't be opened: VLC is unable to open the MRL MRL 'dvd://D:\\'. Check the log for details". First, check for update and upgrade to the new version of VLC. And to solve VLC not playing Blu-ray DVDs and play encrypted Blu-ray DVDs in VLC, you need **keys database and AACS dynamic library**. Go to [VLC Libaacs](http://www.videolan.org/developers/libaacs.html) to download KEYDB.cfg, and libaacs.dall for Windows or libaacs.dylib for Mac. But it doesn't work for all regions and encryptions applied to Blu-rays. Or you can shift to another Blu-ray DVD player to have a try. 
@@ -111,37 +110,46 @@ ABOUT THE AUTHOR
 
 ![author- bella](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/bella.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Bella Brown ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in1.jpg)](https://www.linkedin.com/in/bella-brown-920145104/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Bella has been working with DVD digitization for over 12 years. She writes articles about everything related to DVD, from disc drive, DVD copyright protection, physical structure, burning and backup tips. The unceasing passion of DVD movies helps her build a rich DVD library and ensure a practical solution to address almost all possible DVD issues. Bella is also a crazy fan for Apple products.
-
-
 
 Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Redbox DVD Rental: Rip Redbox DVDs to Keep Them Longer FREE](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [DVD Won't Play on Mac? Solutions to Fix DVD Not Playing Issue](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [iMac/MacBook SuperDrive Not Working Issues Fixed](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [How to Rip Netflix DVD to Movie Collections on macOS](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic3.jpg)
@@ -150,18 +158,14 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [DVD Player Problem: Fix DVD Player No Sound on HDTV/Laptop](https://tools.techidaily.com/macxdvd/products/) 
-
-
 
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
 ### Hot Products
@@ -170,9 +174,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Tips and Tricks
 
 * [DVD Topics >>](https://tools.techidaily.com/macxdvd/products/)
@@ -181,9 +182,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Online Video >>](https://tools.techidaily.com/macxdvd/products/)
 * [Hot Topics >>](https://tools.techidaily.com/macxdvd/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Company
 
 * [About Us >>](https://tools.techidaily.com/macxdvd/products/)
@@ -191,8 +189,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [User Guides >>](https://tools.techidaily.com/macxdvd/products/)
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
-
-
 
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
@@ -207,8 +203,6 @@ Apple, the Apple logo, Mac, iPhone, iPad, iPod and iTunes are trademarks of Appl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +210,23 @@ Apple, the Apple logo, Mac, iPhone, iPad, iPod and iTunes are trademarks of Appl
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-boosting-video-quality-in-zoom-with-advanced-effects/"><u>[New] Boosting Video Quality in Zoom With Advanced Effects</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-inside-the-world-of-xmedia-workshop-a-thorough-examination/"><u>[New] In 2024, Inside the World of XMedia Workshop A Thorough Examination</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-video-conversion-unlocking-the-mp3-potential-for-2024/"><u>[New] Instagram Video Conversion - Unlocking the MP3 Potential for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-synchronize-your-team-with-easy-slack-and-filmora-integration-for-2024/"><u>[New] Synchronize Your Team with Easy Slack & Filmora Integration for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-easy-path-to-engaging-animation-in-your-videos/"><u>[New] The Easy Path to Engaging Animation in Your Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-standout-settings-guide-for-online-events/"><u>[Updated] Standout Settings Guide for Online Events</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-streamers-for-real-time-television-content/"><u>[Updated] Top 10 Streamers for Real-Time Television Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transforming-spaces-the-art-of-metaphysical-marketing/"><u>[Updated] Transforming Spaces The Art of Metaphysical Marketing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-slow-motion-canvas-detailed-slomo-app-analysis-2024/"><u>[Updated] Unveiling the Slow Motion Canvas Detailed SloMo App Analysis, 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-top-5-quandale-dingle-voice-generators/"><u>2024 Approved Top 5 Quandale Dingle Voice Generators</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-recommended-asmrists-for-nighttime-calmness/"><u>2024 Approved Top Recommended ASMRists for Nighttime Calmness</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-detailed-imagery-in-digital-spaces/"><u>2024 Approved Unlocking Detailed Imagery in Digital Spaces</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-action-cameras-for-thrill-seekers/"><u>Elite Action Cameras for Thrill Seekers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-top-10-indoor-alternatives-for-sports-fans/"><u>In 2024, Top 10 Indoor Alternatives for Sports Fans</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/teleportation-illusions-in-visual-effects-artistry-for-2024/"><u>Teleportation Illusions in Visual Effects Artistry for 2024</u></a></li>
+</ul></div>
 

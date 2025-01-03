@@ -1,7 +1,7 @@
 ---
 title: Who Benefits From Perplexity AI’s Query Refinement Feature – Enhance Your Searches!
-date: 2024-08-31T06:13:53.762Z
-updated: 2024-09-01T06:13:53.762Z
+date: 2024-12-29T16:40:21.748Z
+updated: 2025-01-02T17:16:04.188Z
 tags:
   - cutting-edge
 categories:
@@ -23,27 +23,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Perplexity AI is an amazing tool for research![It's a chatbot that answers user queries](https://screen-sharing-recording.techidaily.com/new-step-by-step-guide-to-recording-on-your-macbook/) with its own knowledge and information from the internet. It gives you an excellent answer, and it cites its sources! If you aren't familiar with Perplexity, you should try it![You won't go back to Google.](https://twitter-videos.techidaily.com/new-2024-approved-step-by-step-live-tweeting-tactics/) The new Pages feature allows you to further curate, format, and even add to those amazing search results. You can turn good content into a great presentation. Though, like most modern AI tools, Perplexity has also courted its share of [controversy](https://www.wired.com/story/perplexity-is-a-bullshit-machine/). 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Use the Pages Feature
 
  A Perplexity Page is a presentation created from Perplexity's search results. Click any of your previous threads below the Libraries tab to turn those results into a Page. Or, click the "+" icon next to the Libraries tab to start a new thread. You can also create a Page from scratch.
 
 ![Perplexity main menu with the plus icon selected revealing the "thread", "Page", and "Collection" options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/perplexitylibrary.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ##  How to Create a Page From Scratch
 
  When creating a Page from scratch, Perplexity will ask you what you want the Page to be about. Whatever prompt you enter will be the title for the Page. This prompt is what Perplexity uses to create the initial Page, and you can change the title during editing. I used the prompt, "Tanja Sail", and received a nice overview of the history of this type of sail. Because I used such a simple prompt, I didn't have much control over what was included in the results. However, this is the quickest and easiest method to create a Page.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Creating a Page from Search Results
 
  With most chatbots or AI models, more complex prompts give you more control over results. You can still enter complex prompts on the Pages title bar, but I prefer to start those from the perplexity homepage. This lets me ask follow-up questions in the same thread, and all the Perplexity content in the thread will get transferred over to the Page. I used the following complex prompt:
@@ -55,11 +44,13 @@ Please discuss the Pinchot-Ballinger controversy and its impact on the conservat
 ![A screenshot of Perplexity AI search results on the complex prompt, with the "convert to Page" button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/perplexityballinger.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Pages Feature
 
  After the Page is created, you can edit as much as you like before publishing. You can edit what Perplexity wrote with your own words, add or edit sections with your own headers, or add pictures and video. You can not add an interactive spreadsheet or bring much from the world outside of Perplexity, but you can add YouTube videos and some web content. Once your Page is complete, click "Publish" and share the link with whomever you like. The published Pages look fantastic. I've been impressed with every Page I've created. They look professional, and I can see this being a great resource as long as people keep in mind that the human element is the most crucial part of getting a finished product from AI. Note the picture behind the headline of my Tanja Sail Page is not a Tanja Sail. I also want to point out the ellipsis next to "Edit Page", which is the only way to unpublish or delete your Page. It took me quite a while to find!
@@ -67,20 +58,24 @@ Please discuss the Pinchot-Ballinger controversy and its impact on the conservat
 ![A screenshot demonstrating the ellipsis which brings up the Unpublish and Delete options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/perplexitydelete.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Share With Whomever You Like on Perplexity, and Nowhere Else
 
  The link to your customized Page is the only way to share your information with the outside world. Even more than privacy issues, the inability to easily export your beautiful Page is the number one complaint I've seen about this feature. People want to move their Page to Wordpress, Slides, or other productivity apps. Print to PDF doesn't work, either. This issue is also the number one argument against most realistic use cases. Why build this amazing presentation that you can't take with you?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Share With Everyone You Like, and Everyone You Don't
 
  The next issue with Perplexity is privacy. Privacy issues are common among AI models because some developers save user prompts to further improve the model. However, the privacy issues on the Pages feature go beyond normal questions about prompt data. Once a Page is published to Perplexity, it's searchable and can be discovered by any public user. This is another big limiting factor for who can use the feature. Companies that might use it to analyze markets, competitors, or customer segments risk giving everyone their research. They could only personalize the Page so much without releasing sensitive information. The last part of any great report answers the question, "What does that mean for us?" It would be unwise for a business to publish the answer, and that drastically limits the scope of the Pages feature in a workplace setting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  So, Who Is It for?
 
@@ -98,8 +93,6 @@ Please discuss the Pinchot-Ballinger controversy and its impact on the conservat
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +100,22 @@ Please discuss the Pinchot-Ballinger controversy and its impact on the conservat
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-iphone-photography-top-angles-for-stunning-images/"><u>[New] Unlock iPhone Photography Top Angles for Stunning Images</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-boosting-engagement-joint-video-strategies-for-growth/"><u>[Updated] In 2024, Boosting Engagement Joint Video Strategies for Growth</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-whatsapps-potential-custom-ringtones-for-ios-android/"><u>[Updated] Unlocking WhatsApp's Potential Custom Ringtones for iOS, Android</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-facebook-registration-simplified/"><u>2024 Approved Facebook Registration Simplified</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-premium-microphones-for-videographers/"><u>2024 Approved Premium Microphones for Videographers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-pinnacle-of-visual-expression-best-mac-drawing-tools/"><u>2024 Approved The Pinnacle of Visual Expression - Best Mac Drawing Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/airpods-troubleshooting-dealing-with-a-loudness-discrepancy-between-ears/"><u>AirPods Troubleshooting - Dealing with a Loudness Discrepancy Between Ears</u></a></li>
+<li><a href="https://fox-info.techidaily.com/immersive-image-editing-online-cropping-essentials/"><u>Immersive Image Editing Online Cropping Essentials</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-mastering-powerdirector/"><u>In 2024, The Ultimate Guide to Mastering PowerDirector</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transform-your-youtube-views-with-smart-zoom-practices/"><u>In 2024, Transform Your YouTube Views with Smart Zoom Practices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-gen-airpods-from-apple-now-include-locator-functionality-and-usb-c-support-detailed-review-cnet/"><u>Next-Gen AirPods From Apple Now Include Locator Functionality & USB-C Support - Detailed Review | CNET</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unmatched-performance-and-price-select-top-asmr-microphone-picks-for-2024/"><u>Unmatched Performance & Price - Select Top ASMR Microphone Picks for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unraveling-the-apple-podcast-app-submission-system-for-2024/"><u>Unraveling the Apple Podcast App Submission System for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-enhancing-audio-clarity-in-diy-home-film-production/"><u>Updated 2024 Approved Enhancing Audio Clarity in DIY Home Film Production</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Realme 11X 5G | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: El Salvador Adopts Bitcoin as Official Currency – Insight Into Its Implementation
-date: 2024-08-31T06:15:10.960Z
-updated: 2024-09-01T06:15:10.960Z
+date: 2024-12-27T17:20:09.775Z
+updated: 2025-01-02T17:31:17.917Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ---
 
 ## El Salvador Adopts Bitcoin as Official Currency – Insight Into Its Implementation
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -34,15 +38,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  The government created a $30 incentive available to anyone who downloads the app and enrolls. Keep in mind that $30 is a decent amount of money for many citizens, and is equal to approximately [0.7% of per capita annual income in El Salvador](https://www.statista.com/statistics/1070121/gross-national-income-per-capita-el-salvador/).
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Data Shows Adoption Is Low and Stalled** 
 
 ![Awareness and use of Chivo Wallet graph.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Awareness-of-Chivo-Wallet.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
  The data on El Salvador's Bitcoin strategy is significant because it allows us to see what happens when a country decides to deploy cryptocurrency at a national level. Remember that this has never been done before, so it's essentially an experiment that many stakeholders, industry leaders, investors as well as other nations are observing intently around the globe.
@@ -50,8 +52,9 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 ![$30 Bonus Incentive Use Chat](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/30-Bonus.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
  Bitcoin's use as legal tender and its associated rollout in El Salvador isn't going as well as they hoped it would go. Although many El Salvadorans have a smartphone with internet access, less than 60% of them downloaded the Chivo Wallet required to participate. Less than 40% of citizens who downloaded the app continued to use it after claiming their $30 bonus incentive.
@@ -63,8 +66,9 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
  All businesses were required to begin accepting payments in Bitcoin but that has not happened. Only 20% of companies reported accepting Bitcoin as a form of payment and most of them were large organizations. Out of all sales, only 5% were conducted in Bitcoin and most transactions were converted to dollars within the Chivo Wallet upon receipt of payment.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Chivo App** 
 
 ![Chart of downloads of Chivo Wallet app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Chivo-Downloads-El-Salvador.png) 
@@ -87,19 +91,12 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 
 ![Opinion towards Chivo Wallet Chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Agree-with-Chivo-Wallet.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
  Going from the mindset of a cash economy where all transactions are essentially anonymous to an environment in which every financial transaction is now under the guise of the federal government is a big switch that many citizens were not ready to make.
 
  When you download the Chivo Wallet, you have to complete an identity verification process commonly referred to in the industry as Know Your Customer or KYC. This is a common practice when onboarding into many cryptocurrency exchanges. Because of this process, the government can track and trace every transaction that happens using the Chivo Wallet. Opportunities for surveillance are another critique that people reported in the survey when deciding not to participate citing they didn't trust the system or the technology.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Failure to Capture Remittance Market** 
 
 ![Use of Chivo for Remittances](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Taxes-Remittances-El-Salvador.png) 
@@ -117,6 +114,10 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
  Sometimes it could take an hour or more on a bus to visit a bank on their day off to cash their checks. Workers can now receive their paychecks daily or weekly without having to visit a bank. The Chivo Wallet has two accounts, one for Bitcoin and the other for US dollars. They can transact in Bitcoin or dollars and anyone else with the Chivo wallet app can receive Bitcoin or dollars.
 
  For many El Salvadorans, this is the first time they have encountered the ability to have banking services like a savings account. Many report using the Bitcoin account as their savings account and their US dollar account as their checking account. Increasing access to banking services and financial inclusion is one major positive outcome of this policy shift.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Lessons Learned** 
 
@@ -136,8 +137,6 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +144,18 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-dividing-opinions-is-mirrorless-better-than-dslr-for-vids-for-2024/"><u>[Updated] Dividing Opinions Is Mirrorless Better than DSLR for Vids for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-clip-connoisseurs-essential-list-of-retro-vhs-effects/"><u>[Updated] The Clip Connoisseur's Essential List of Retro VHS Effects</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-sound-with-pazera-a-2024-audio-extractor-review/"><u>[Updated] Unlocking Sound with Pazera A 2024 Audio Extractor Review</u></a></li>
+<li><a href="https://win-data.techidaily.com/datenwiederherstellung-fur-unformatierte-usb-laufwerke-professionelle-tipps-und-tricks/"><u>Datenwiederherstellung Für Unformatierte USB-Laufwerke - Professionelle Tipps Und Tricks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/essential-tips-for-navigating-zoom-on-windows-11-for-2024/"><u>Essential Tips for Navigating Zoom on Windows 11 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/estimating-byte-consumption-of-full-film-daily/"><u>Estimating Byte Consumption of Full Film Daily</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-srt-enhancements-maximizing-performance-on-both-platforms/"><u>In 2024, Top SRT Enhancements Maximizing Performance on Both Platforms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-correcting-ieframedll-errors-and-glitches/"><u>Step-by-Step Guide: Correcting Ieframe.dll Errors and Glitches</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-8-plus-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone 8 Plus Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-a-non-functional-bluetooth-mouse-in-windows/"><u>Troubleshooting Guide: Fixing a Non-Functional Bluetooth Mouse in Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-docs-transcription-feature-a-beginners-guide-for-2024/"><u>Unlocking Docs' Transcription Feature A Beginner’s Guide for 2024</u></a></li>
+</ul></div>
 

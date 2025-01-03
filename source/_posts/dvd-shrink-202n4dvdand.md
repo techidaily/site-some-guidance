@@ -1,7 +1,7 @@
 ---
 title: 【DVD-Shrink 使い方202n4】ダウンロード・セットアップ・日本語化・最適なDVDコピー&圧縮テクニック
-date: 2024-08-27T00:35:42.374Z
-updated: 2024-08-28T00:35:42.374Z
+date: 2025-01-01T16:15:54.486Z
+updated: 2025-01-02T16:35:44.809Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53f4cf1942b1dcf1c240fc190.jpg
@@ -35,8 +35,6 @@ DVD Shrink（DVDシュリンク）とは、片面2層形式のDVDビデオを1�
    6. [6、 DVD ShrinkでDVDを書き込む](https://tools.techidaily.com/macxdvd/products/)  
    7. [7、 DVD Shrinkエラーが出たとき、おすすめのソフトでDVDをコピーする方法](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ## （一）、DVD Shrink使い方を紹介する前、その便利な機能・特徴を見てみよう！
 
 DVD Shrinkは定番DVDリッピングソフトとして、名ばかりではなく、開発終了としても、有料ソフトと比べると劣っていない便利な機能を搭載するため、依然として多くの人々に愛用されている。さて、DVDシュリンク使い方を紹介する前、まず、DVD Shrink便利な機能を紹介しよう。
@@ -68,8 +66,6 @@ DVD Shrinkでは、DVDを汎用性の高い動画形式へ変換することが�
 
  DVDをMP4、FLV、iMovie、MP3、MOV、AVI、MPEG、MKVに変換、DVDをiPhone 14/13/12/11/XS/XR/X/8、iPod、iPad、Android、Xperia、ARROWS、サムスン、iTunes、iMovie、QTで再生したい場合、[第三者のDVDリッピングソフト](https://tools.techidaily.com/macxdvd/products/)が必要。
 
-
-
 ## （二）、DVD Shrink使い方：DVD Shrinkダウンロードとインストール
 
 DVD Shrink使い方1：DVD Shrinkダウンロード方法
@@ -100,11 +96,14 @@ DVD Shrink使い方2：DVD Shrinkインストール手順
 最終確認をして「Install」をクリックするとDVD Shrinkがインストールされる。インストールが完了したら「Launch DVD Shrink」にチェックを入れた状態で「Finish」をクリックするとDVD Shrinkが起動する。そして、DVD Shrink使い方のご案内へ移動しよう。  
 ![DVD Shrinkダウンロード・インストール](https://www.macxdvd.com/blog/img/how-to-use-dvd-shrink-01.jpg)
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## （三）DVD Shrink日本語化：DVDシュリンクを日本語にしたい
 
 DVD Shrinkは10年以上前に開発が終了したため、DVDシュリンク日本語版配信も終了してしまった。
@@ -117,11 +116,10 @@ DVD Shrinkは10年以上前に開発が終了したため、DVDシュリンク�
 
 [DVD Shrink日本語化](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## （四）DVD Shrink使い方：DVD Shrink設定方法を詳しくご紹介
 
 DVD Shrinkを使う前、初期設定を変更する必要がある。下記では、DVD Shrink設定方法について詳しくご紹介する。
@@ -140,12 +138,7 @@ DVD Shrink各種設定といった画面が表示される。ここでは「各�
 **「ファイルI/O」**：初期設定のままでOK。  
 ![DVD Shrink設定方法](https://www.macxdvd.com/blog/img/dvd-shrink-setting-0718.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 それ以外、音声言語と音声形式/字幕言語の設定、出力ファイルの制限除去や特性設定、音声プレビューモードの選択とDirectX Video Rendererの選択の設定などの項目があり、使用用途に合わせて、細かく設定することができる。
-
-
 
 ## （五）DVD Shrink使い方：DVDをコピー・圧縮する手順
 
@@ -159,9 +152,6 @@ DVD Shrink3.2を起動したら、「ディスクを開く」アイコンをク�
 また、DVDが付く[コピーガードを解除](https://tools.techidaily.com/macxdvd/products/)できないなら、DVD Shrinkエラーが出て、DVDを読み込めないケースがよくある。  
 ![DVD ShrinkでDVDを追加](https://www.macxdvd.com/blog/img/smart-how-to-use-dvd-shrink1.jpg)
 * Step2：フルディスクでコピー・圧縮でコピーへの設定  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 フルディスクでコピーとは、つまり、ディスクの中身、本編や字幕・音声や特典映像などすべてをそのままでコピーすることである。一方、圧縮でコピーとは、個人的な使用用途に合わせて、異なる圧縮率でDVDをコピーすることである。  
 **フルディスクでコピーへの設定：**上部メニューで「フルディスク」をクリックして圧縮設定界面での「ビデオ」項目から「非圧縮」を選ぶ。  
 **圧縮でコピーへの設定：**すべて自動モードで簡単に圧縮バックアップするなら、上部メニューで「フルディスク」をクリックし、「DVD構成」で1番上のタイトル部分をクリックし反転させる 次に圧縮設定の「ビデオ」項目を「自動」にする。  
@@ -173,15 +163,26 @@ DVD Shrink3.2を起動したら、「ディスクを開く」アイコンをク�
 出力プロファイルが決まったら、出力映像の保存先を指定ください。「参照」を押して、合要望に合って、保存先を指定可能。  
 ![DVD Shrinkで保存先を指定](https://www.macxdvd.com/blog/img/smart-how-to-use-dvd-shrink3.jpg)
 * Step4：バックアップ開始  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 以上出力プロファイルと保存先の設定が出来たら、「OK」ボタンでエンコード開始  
 ヒント：バックアップの完了画面が出たら無事バックアップコピー完了。 指定したフォルダに保存されているか確認してみてください。  
 ![DVD ShrinkでDVDをコピー・圧縮](https://www.macxdvd.com/blog/img/smart-how-to-use-dvd-shrink4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 以上DVD Shrink使い方を読んだら、迷うことなく簡単にDVD ShrinkでDVDをコピーできるだろう。
 
 [Windows10 DVDコピーフリーソフト](https://tools.techidaily.com/macxdvd/products/)
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## （六）DVD Shrink使い方：DVD書き込み操作手順
 
@@ -199,12 +200,7 @@ DVDをDVD Shrinkで書き込み作業を行う場合、「バックアップ」�
 最後、以上出力プロファイルと保存先の設定が終わったら、「OK」ボタンを押して、DVDコピーが開始。DVD書き込みが終了したら、プレーヤーで正常に再生できるかをご確認ください  
 ![DVD ShrinkでDVDを書き込む](https://www.macxdvd.com/blog/img/smart-use-dvd-shrink-to-burn-dvd-solution3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [DVD Shrink書き込みできない対処法](https://tools.techidaily.com/macxdvd/products/)
-
-
 
 ## （七）DVD Shrink使い方：DVD Shrinkエラーが出たとき、おすすめのソフトでDVDをコピーする方法
 
@@ -214,9 +210,6 @@ DVD Shrinkはちょっと古くても、使い勝手が良くて大勢の日本�
 
 [![](https://www.macxdvd.com/blog/new-fourteen/nfree-down-mac.png)](https://tools.techidaily.com/macxdvd/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 100%安全
 
 [![](https://www.macxdvd.com/blog/new-fourteen/nfree-down-win.png)](https://tools.techidaily.com/macxdvd/products/) 
@@ -233,41 +226,33 @@ DVD Shrinkはちょっと古くても、使い勝手が良くて大勢の日本�
 「RUN」ボタンをクリックして、Windows＆MacでDVDをコピー開始。任意の時点で一時停止或いは変換プロセスを停止できる。そして、出力映像をちゃんと保存して、大切にすることができる。  
 ![DVD Shrinkエラーへの対策](https://www.macxdvd.com/blog/img/zql-2018-03-06-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 使い方から見ると、DVD Shrinkより、MacX DVD Ripper Proの方が楽だろう。
 
 [DVD Ripper for Windows使い方](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/blog/../mobile/img/link_icon_blue.png) **[DVD Shrink DVD Decrypter連携の使い方やエラーの対策](https://tools.techidaily.com/macxdvd/products/)** 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 DVD Shrink DVD Decrypter連携、DVDコピーできない時の対策。
 
 ![](https://www.macxdvd.com/blog/../mobile/img/link_icon_blue.png) **[DVD Shrink保存先わからない対策](https://tools.techidaily.com/macxdvd/products/)** 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 DVD Shrink保存先分からない・見つからない時の対策おすすめ
 
 ![](https://www.macxdvd.com/blog/../mobile/img/link_icon_blue.png) **[DVD Shrinkエラーで読み込め・コピーできない](https://tools.techidaily.com/macxdvd/products/)** 
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 DVD Shrink3.2がエラーが出て、うまくいかない時に対する対策！
 
 ![](https://www.macxdvd.com/blog/../mobile/img/link_icon_blue.png) **[DVD Decrypter書き込みへの対処法](https://tools.techidaily.com/macxdvd/products/)** 
 
 DVD Decrypterで書き込みできない理由と解決策を詳しく解説！
-
-
 
 [ホーム](https://tools.techidaily.com/macxdvd/products/)[Blog](https://tools.techidaily.com/macxdvd/products/) \>DVD Shrink使い方
 
@@ -277,8 +262,6 @@ DVD Decrypterで書き込みできない理由と解決策を詳しく解説！
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -286,4 +269,20 @@ DVD Decrypterで書き込みできない理由と解決策を詳しく解説！
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-master-your-livestream-essential-tips-for-top-9-filters/"><u>[New] Master Your Livestream Essential Tips for Top 9 Filters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamline-your-video-workflow-youtube-to-mpeg-essentials/"><u>[New] Streamline Your Video Workflow YouTube-to-MPEG Essentials</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-demystifying-youtube-edits-an-in-depth-analysis-and-review/"><u>[Updated] In 2024, Demystifying YouTube Edits An In-Depth Analysis and Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-steady-path-adding-your-bio-to-tiktok-unhackable-way/"><u>[Updated] Steady Path Adding Your Bio to TikTok Unhackable Way</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleash-your-full-potential-in-the-metaverse/"><u>[Updated] Unleash Your Full Potential in the Metaverse</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-isolating-image-moments-from-videos-using-windows-photos-software/"><u>In 2024, Isolating Image Moments From Videos Using Windows Photos Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamline-sound-integration-into-premiere-pro-edits/"><u>In 2024, Streamline Sound Integration Into Premiere Pro Edits</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-techniques-to-purge-background-from-photos-using-photopea/"><u>In 2024, Techniques to Purge Background From Photos Using Photopea</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-virtual-stage-enhancement-zooms-filter-guidebook/"><u>In 2024, The Virtual Stage Enhancement Zoom's Filter Guidebook</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/regular-meals-made-easy-the-petsafe-autofeeder-with-six-portion-capacity-offers-consistent-feeding-solutions/"><u>Regular Meals Made Easy: The PetSafe AutoFeeder with Six Portion Capacity Offers Consistent Feeding Solutions.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-creating-smooth-audio-cuts-for-2024/"><u>The Art of Creating Smooth Audio Cuts for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Decoding Blockchain Jargon: An Exploration Into the World of Cryptocurrency Tokens"
-date: 2024-08-31T06:15:06.127Z
-updated: 2024-09-01T06:15:06.127Z
+date: 2025-01-01T17:41:41.000Z
+updated: 2025-01-02T16:53:58.400Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/c811d888eaef42c6d49c05cdca31aa1712344b1b9
 ---
 
 ## Decoding Blockchain Jargon: An Exploration Into the World of Cryptocurrency Tokens
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/c811d888eaef42c6d49c05cdca31aa1712344b1b9
 
  If you've been reading about crypto and the blockchain lately, you may have encountered people talking about "crypto tokens." What exactly are these tokens and how do they differ from cryptocurrencies like Bitcoin? Read on to find out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Crypto Basics
 
  Before we get into the differences between tokens and coins, you may need a quick refresher on what cryptocurrencies are. They are digital currencies that people can exchange with goods and services, similar to regular currencies like dollars and Euros. If you want to learn more about cryptocurrency, you can read our [cryptocurrency explainer](https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-itel-p40plus-phones-by-drfone-android/).
@@ -30,8 +38,9 @@ Related: [What Is Cryptocurrency?](https://sim-unlock.techidaily.com/in-2024-top
  Unlike traditional money, cryptocurrencies aren't managed by government institutions. All transactions involving particular cryptocurrencies get logged onto a centralized [blockchain](https://facebook-videos.techidaily.com/updated-2024-approved-top-playlist-hits-social-medias-1-10-video-winners/), a ledger that facilitates movements between secure addresses. Coins and tokens are both digital assets used to transact on the blockchain.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Coins vs. Tokens
 
  While the words "coin" and "token" are often used interchangeably, they are distinct types of assets. The most significant difference between a coin and a token is where they operate. Coins are units that are native to the blockchain they're built on. For example, Ethereum is native to the Ethereum blockchain, whereas [Bitcoin](https://extra-support.techidaily.com/navigating-through-excellent-hdr-cam-choices-for-2024/) was made for the Bitcoin blockchain. These coins use "keys" to signify ownership of some amount of cryptocurrency.
@@ -43,8 +52,9 @@ Related: [What Is Bitcoin, and How Does it Work?](https://extra-support.techidai
  On the other hand, tokens are not native to the blockchain they're operating on. For example, many of today's most widely used crypto tokens are run and exchanged on the Ethereum blockchain. Examples include Tether, which is intended to mirror the value of the US dollar, and Uniswap, a protocol used to trade different cryptocurrencies.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Do Crypto Tokens Work?
 
  Crypto coins are comparable to the money you have in a bank account. While you own that amount, the money is not tied to any particular dollar bill or coin. It's when you withdraw from your account that you get a tangible representation of that value. On the other hand, tokens are "owned," and each is an individual asset that you own. For example, game tokens at arcades each represent a claim to play a game.
@@ -55,9 +65,6 @@ Related: [What is Ethereum, and What Are Smart Contracts?](https://extra-informa
 
  Unlike coins, which use a system of public and private keys to facilitate transactions, exchanges made with tokens use a system called "[smart contracts](https://extra-information.techidaily.com/in-2024-automated-opener-your-srt-files-windows-and-mac/)." These blockchain applications can be programmed to perform trades or transfers when certain conditions are met. Each blockchain that serves as a platform for tokens has a technical standard for defining a smart contract. For example, Ethereum uses one called ERC-20.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ##  Where Can You Get Them?
 
  A common way to get crypto tokens is through [cryptocurrency exchanges](https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/). These are large-scale platforms that facilitate trades across a wide array of different coins and tokens. These will allow you to trade between different cryptocurrencies and regular currencies, manage various wallets, check the value of each crypto, and facilitate the process of sending and receiving currency.
@@ -67,8 +74,9 @@ Related: [What is Ethereum, and What Are Smart Contracts?](https://extra-informa
  Sometimes, tokens represent something else you've paid for. An example of this is a "security token." These are assets that signify your ownership of part of a company. A security token essentially replaces share or stock certificates, an official document that shows how much of a corporation someone owns.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What's a "Non-Fungible" Token?
 
  Some of the most popular types of tokens are ["non-fungible tokens," or NFTs](https://sound-tweaking.techidaily.com/updated-2024-approved-mastering-echo-effects-implementing-reverb-in-digital-sound-environments-windows-edition/). They are "non-fungible" because they are not interchangeable with each other. Each token represents ownership of a particular asset, such as art, digital property, or the rights to a specific physical item.
@@ -83,8 +91,6 @@ Related: [What Are NFTs? Meet Crypto's Digital Collectibles](https://sound-tweak
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +98,18 @@ Related: [What Are NFTs? Meet Crypto's Digital Collectibles](https://sound-tweak
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-focal-points-the-most-superior-camera-lens-rankings-2024/"><u>[New] Focal Points The Most Superior Camera Lens Rankings 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-science-of-display-understanding-srgb-vs-rgb-colors/"><u>[Updated] The Science of Display Understanding Srgb vs Rgb Colors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-global-linguists-guide-to-top-28-applications-for-seamless-translation/"><u>2024 Approved The Global Linguist's Guide to Top 28 Applications for Seamless Translation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-user-insights-on-vllo/"><u>2024 Approved User Insights on VLLO</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/be-energy-independent-harness-the-power-of-solar-to-avert-outages-and-save-hundred-dollars/"><u>Be Energy Independent: Harness the Power of Solar to Avert Outages and Save Hundred Dollars!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/communicate-on-the-go-sending-messages-from-your-apple-watch-with-friends-and-family/"><u>Communicate on the Go: Sending Messages From Your Apple Watch with Friends and Family</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-hdr-camera-connoisseurs-handbook/"><u>In 2024, The HDR Camera Connoisseur's Handbook</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tips-for-quickerslower-video-in-instagram-stories/"><u>In 2024, Tips for Quicker/Slower Video in Instagram Stories</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-quintessential-collection-of-anime-intros/"><u>The Quintessential Collection of Anime Intros</u></a></li>
+</ul></div>
 

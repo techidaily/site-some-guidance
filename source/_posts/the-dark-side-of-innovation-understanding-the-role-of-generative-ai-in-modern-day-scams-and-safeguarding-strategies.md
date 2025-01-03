@@ -1,7 +1,7 @@
 ---
 title: "The Dark Side of Innovation: Understanding the Role of Generative AI in Modern-Day Scams and Safeguarding Strategies"
-date: 2024-08-31T06:15:39.622Z
-updated: 2024-09-01T06:15:39.622Z
+date: 2024-12-29T16:00:43.879Z
+updated: 2025-01-02T16:30:00.556Z
 tags:
   - cutting-edge
 categories:
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/7145ec69591f6ebc68facf261c1d68971298e27f3
 
  The term “scam” applies to everything from a sophisticated targeted attack to a dodgy pre-roll ad on your favorite video streaming site. The bad news is that engineering these scams is getting easier.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Democratization of Fake Images
 
  There’s a fine yet distinct line between scam and spam, but the two realms regularly overlap. This is especially true when it comes to online advertising, whether you’re browsing the web or scrolling through social media. Advertisers don’t approve every advert they show, instead relying on user reports to weed out the bad actors.
@@ -38,18 +42,12 @@ thumbnail: https://thmb.techidaily.com/7145ec69591f6ebc68facf261c1d68971298e27f3
 
 ![Fake "Cat's Eye Dazzle" plants on Facebook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-09-at-13-10-22-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  In April 2024 Snopes [reported](https://www.snopes.com/fact-check/cats-eye-dazzle-flower-seeds/) that a large number of “Cat’s Eye Dazzle” scams were hitting social media like a storm. The scam involved generating fake flowers that look like cats, to draw in users on social networks like Facebook. eBay listings popped up for the seeds, while other “vendors” used self-hosted shopping portals to cash out.
 
  For some, the fact that these flowers are AI-generated fakes is immediately obvious. Other similar scams aren’t quite as far-fetched. YouTube channel Atomic Shrimp created a [video](https://www.youtube.com/watch?v=K278xvkem4U) documenting the phenomenon, exploring more reasonable-sounding listings for “true” blue roses and sunflowers, neither of which exist.
 
  Flowers that look like cats and plants with impossible colorings are just two examples of scams that appear to have caught hundreds if not thousands of people out. These images took a few seconds to generate, and a few more to post on Facebook.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  AI Voices Lend Credibility to Video
 
  You’re probably well aware of the rise of text-to-voice features, with social platforms like TikTok making it easy to generate a voiceover that sounds natural but is also easy to understand. By now, the “TikTok lady” voice is as much about TikTok’s branding as it is a useful tool for content creators.
@@ -62,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/7145ec69591f6ebc68facf261c1d68971298e27f3
 
  For now, it’s not too hard to identify AI-generated voiceover. Inflections and pronunciation can sound a bit robotic, and the natural rhythm of human speech isn’t quite there. Buckle up, because these tools are only going to improve and eventually you won’t be able to tell the difference.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Dating App Scammers Cast Wider Nets
 
  It’s one thing being baited with fake products and a robotic voiceover, but what about a scam that personally targets you? That’s exactly what’s happening within the online dating space on a massive scale, thanks to the power of large language models that can converse like real people (well, close enough).
@@ -72,30 +74,14 @@ thumbnail: https://thmb.techidaily.com/7145ec69591f6ebc68facf261c1d68971298e27f3
 
 ![Microsoft Copilot generating an image specifically for use on a dating profile.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-09-at-13-22-23.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Things take a decidedly more sinister turn when these tools are used to find targets for financial scams. Online scammers have long exploited the basic human desire for companionship in a bid to extract money from their marks. Now they can put chatbots to work for them, taking over when they feel it’s necessary.
 
  Couple this with an AI image generator that gives you access to as many original pretty faces as you want, and scammers don’t even need to steal someone else’s dating profile pictures anymore.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  AI Video Is On the Horizon
 
  Convincing text-to-video isn’t broadly available at the time of writing, but with [tools like OpenAI SORA on the horizon](https://some-guidance.techidaily.com/unveiling-the-art-of-cinematography-basic-shots-explained-for-2024/) it’s set to become a force to be reckoned with. With only a prompt, OpenAI’s tool can generate realistic-looking moving pictures (though if you [look carefully you can spot the flaws](https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-apple-iphone-8-in-3-ways-drfone-by-drfone-virtual-ios/)).
@@ -108,6 +94,10 @@ OpenAI
 
  If you’re feeling especially enterprising, you can then use a large language model to boost your product’s standing…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  AI Can Even Fake Reviews
 
  Fake reviews are nothing new. We’ve all seen them and many of us have fallen for them (whether we know it or not). But until only a few years ago, fake reviews required some effort. With the advent of large language models, fake reviews can quite literally write themselves on a massive scale.
@@ -116,13 +106,6 @@ OpenAI
 
  Couple AI-generated reviews with [more traditional brushing scams](https://screen-capture.techidaily.com/2024-approved-advanced-movie-file-management-six-tips-for-the-modern-user-in-windows-11/) and you’ve got the believability of a “verified purchase” label to boot. Ultimately it’s up to platform holders to combat this [new wave](https://www.theguardian.com/money/2023/jul/15/fake-reviews-ai-artificial-intelligence-hotels-restaurants-products) of misleading online content.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ##  Things Can Only Get Better (Worse)
 
  These tools will get better over time, making it more difficult to tell the real from the fantastical. You’ll need to be wise to the technology if you want to stay ahead of scammers. If you understand what is possible, you’re better armed to understand what’s real and what’s not.
@@ -132,9 +115,9 @@ No advertising on the website.
 ![An image created by DALL-E of a man with way too many fingers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/designer-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 DALL-E
 
  Always do your research before you buy something, whether it’s a piece of technology or a packet of seeds you saw on Facebook. Ironically, you could also ask [your favorite chatbot that sources its claims](https://vp-tips.techidaily.com/updated-unveiling-the-1-to-5-of-windows-free-screen-capture-apps-for-2024/).
@@ -145,8 +128,6 @@ DALL-E
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +135,18 @@ DALL-E
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-budget-friendly-broadcaster-gear-for-video-voyeurs-for-2024/"><u>[New] Budget-Friendly Broadcaster Gear for Video Voyeurs for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-masterclass-top-10-makeup-artists-shaping-online-beauty-trends/"><u>[New] In 2024, Masterclass Top 10 Makeup Artists Shaping Online Beauty Trends</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-useful-tips-to-make-your-instagram-video-viral-for-2024/"><u>[New] Useful Tips to Make Your Instagram Video Viral for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-leading-waterproof-cams-7-compilation-review-for-2024/"><u>[Updated] Leading Waterproof Cams #7 Compilation Review for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-leading-edge-of-virtual-reality-technology-2023-edition/"><u>[Updated] The Leading Edge of Virtual Reality Technology - 2023 Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-trending-images-tales-behind-the-graphics/"><u>[Updated] Top Trending Images Tales Behind the Graphics</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-building-your-own-youtube-organization-toolkit-the-watch-later-way/"><u>2024 Approved Building Your Own YouTube Organization Toolkit The Watch Later Way</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-12-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 12?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-method-for-seamless-volume-dialing-down-in-audacity/"><u>In 2024, The Method for Seamless Volume Dialing Down in Audacity</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-next-level-windows-experience-for-2024/"><u>The Next-Level Windows Experience for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-ffmpegs-potential-for-original-formatted-audio-retrieval-for-2024/"><u>Unveiling FFmpeg's Potential for Original Formatted Audio Retrieval for 2024</u></a></li>
+</ul></div>
 

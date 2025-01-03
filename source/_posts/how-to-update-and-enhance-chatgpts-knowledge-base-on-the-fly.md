@@ -1,7 +1,7 @@
 ---
 title: How to Update and Enhance ChatGPT's Knowledge Base on the Fly
-date: 2024-08-31T06:14:18.901Z
-updated: 2024-09-01T06:14:18.901Z
+date: 2024-12-29T17:38:44.850Z
+updated: 2025-01-02T16:36:14.596Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## How to Update and Enhance ChatGPT's Knowledge Base on the Fly
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -25,8 +29,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 [ChatGPT](https://smart-video-editing.techidaily.com/new-how-to-find-free-sites-for-sound-effect-and-add-them-in-final-cut-pro-for-2024/) is limited by the age of its data set, so it won't give you answers or perform tasks that rely on newer information than that. However, you can manually update what it knows, at least for your current chat.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  ChatGPT's Default Knowledge Limits
 
  ChatGPT is a language model that has been developed based on the GPT-3.5 architecture, and it's capable of providing answers to a wide range of questions by drawing on a vast knowledge base. However, like any tool, ChatGPT has its limitations.
@@ -40,8 +45,9 @@ Related: [Don't Trust ChatGPT to Do Math](https://win-blog.techidaily.com/172299
  By [using the correct prompts](https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-realme-v30t-drfone-by-drfone-virtual-android/), you can work around some of these limitations, at least to a degree. Let's look at some ways you can give ChatGPT a temporary IQ boost.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Give ChatGPT a Briefing
 
  In some ways, ChatGPT is like an ancient oracle or a Djinn that knows everything there is to know, but it will only answer the specific questions you ask. They say that there's no such thing as a dumb question, but there are certain questions that won't get what you need out of ChatGPT.
@@ -55,29 +61,21 @@ Related: [How to Fact-Check ChatGPT With Bing AI Chat](https://facebook-video-fo
 ![A briefing asking ChatGPT to help draft a report.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-31-at-17.39.43.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Using the information we've given it, and what it knows in general, ChatGPT comes up with a pretty decent outline.
 
 ![A briefing asking ChatGPT to help draft a report.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-31-at-17.39.43.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It almost goes without saying that if you've been given a briefing by someone to do a particular task, you can give that entire briefing into ChatGPT so that it considers any further prompts in a given chat thread.
 
  We can now also ask ChatGPT to help us write sections of the outline by simply prompting it with the headings from the outline it generated.
 
 ![A briefing asking ChatGPT to help draft a report.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-31-at-17.39.43.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Don't hesitate when it comes to feeding information into ChatGPT. It will remember what's been said in a given thread so you can keep adding context. The more context and information it gets from you, the smarter and more useful it is at [helping you with a specific task](https://solve-manuals.techidaily.com/boost-your-sites-analytics-using-our-advanced-cookiebot-technology/).
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Feed Source Material Into ChatGPT
 
  As we mentioned above, at the time of writing ChatGPT doesn't know anything that happened past September 2021\. So if you want it to do anything that involves newer information, you'll have to tell ChatGPT about it.
@@ -87,6 +85,10 @@ Related: [How to Fact-Check ChatGPT With Bing AI Chat](https://facebook-video-fo
  For example, you can prompt it with something like "Please read the following text and keep it in mind for the rest of this conversation:" and then just paste the text after the colon.
 
 Related: [How to Make ChatGPT Copy Your Writing Style](https://solve-manuals.techidaily.com/boost-your-sites-analytics-using-our-advanced-cookiebot-technology/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Getting Around ChatGPT Input Limits
 
@@ -112,8 +114,6 @@ Related: [How to Create ChatGPT Personas for Every Occasion](https://vp-tips.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +121,26 @@ Related: [How to Create ChatGPT Personas for Every Occasion](https://vp-tips.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-free-professional-youtuber-backgrounds/"><u>[New] 2024 Approved Free Professional YouTuber Backgrounds</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-essential-framework-for-adding-media-to-youtube-compilations/"><u>[New] The Essential Framework for Adding Media to YouTube Compilations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tips-for-gradual-decrease-of-audio-loudness-in-fl-studio/"><u>[New] Tips for Gradual Decrease of Audio Loudness in FL Studio</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-navigating-free-vs-paid-the-ultimate-guide-to-downloading-videos-from-vimeo/"><u>[Updated] 2024 Approved Navigating Free Vs. Paid The Ultimate Guide to Downloading Videos From Vimeo</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-aps-hdr-essentials-for-professionals-and-enthusiasts/"><u>[Updated] In 2024, APS HDR Essentials for Professionals & Enthusiasts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-navigating-ig-videos-successfully-building-an-efficient-marketing-blueprint/"><u>[Updated] In 2024, Navigating IG Videos Successfully Building an Efficient Marketing Blueprint</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-step-by-step-guide-for-updating-and-changing-social-video-covers/"><u>[Updated] In 2024, Step-by-Step Guide for Updating and Changing Social Video Covers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-streamlining-your-zoom-recordings-a-comprehensive-workshop-for-2024/"><u>[Updated] Streamlining Your Zoom Recordings A Comprehensive Workshop for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-techniques-for-accelerating-playback-on-spotify/"><u>[Updated] Techniques for Accelerating Playback on Spotify</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transform-your-typography-the-3d-text-technique-explained-psx/"><u>[Updated] Transform Your Typography The 3D Text Technique Explained PSX</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-leverage-canva-design-top-10-stealthy-methods-revealed/"><u>2024 Approved Leverage Canva Design Top 10 Stealthy Methods Revealed</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-realme-gt-5-240w-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Realme GT 5 (240W) online without jailbreak</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-case-for-high-dynamic-range-in-modern-videography/"><u>In 2024, The Case for High Dynamic Range in Modern Videography</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-honor-x50iplus-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Honor X50i+ Phones</u></a></li>
+<li><a href="https://driver-install.techidaily.com/leverage-win10-features-essential-updates-for-yoga-900s-pcs/"><u>Leverage Win10 Features: Essential Updates for Yoga 900S PCs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transcription-tech-zero-fee-for-the-user-for-2024/"><u>Transcription Tech, Zero Fee for the User for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-21-monitors-showdown-the-clear-winners-for-2024/"><u>Ultimate 2.1 Monitors Showdown - The Clear Winners for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-list-seamless-no-download-gif-to-video-converters-for-2024/"><u>Ultimate List Seamless No-Download GIF to Video Converters for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/ultimate-tutorial-for-transforming-dvd-content-into-wmv-files-with-top-pixel-and-audio-quality-on-a-pc/"><u>Ultimate Tutorial for Transforming DVD Content Into WMV Files with Top Pixel and Audio Quality on a PC</u></a></li>
+</ul></div>
 

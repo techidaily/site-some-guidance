@@ -1,7 +1,7 @@
 ---
 title: Umwandlung Von HEIC Bilder in JPG Format - Eine Einfache Anleitung Für iOS 11 Benutzer
-date: 2024-08-27T00:36:20.370Z
-updated: 2024-08-28T00:36:20.370Z
+date: 2025-01-01T16:41:55.404Z
+updated: 2025-01-02T16:05:02.566Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/fc99fe36b86d59343c284f9325e42d18bed568fbce4953c66b51cbd30def1721.jpg
@@ -9,11 +9,13 @@ thumbnail: https://thmb.techidaily.com/fc99fe36b86d59343c284f9325e42d18bed568fbc
 
 ## Umwandlung Von HEIC Bilder in JPG Format - Eine Einfache Anleitung Für iOS 11 Benutzer
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## HEIC Converter: iOS 11 HEIC in JPG umwandeln mit 4 einfachen Wegen
 
 Apple hat Unterstützung für HEIC-Format in iOS 11 hinzugefügt, das bis zu 50% Speicherplatz für iPhone iPad mit iOS 11 spart. Jetzt müssen Benutzer nicht mehr den Balanceakt zwischen dem Qualitätsverlust und der Dateigröße vollziehen. HEIC-Format klingt viel mehr 21\. Jahrhundert, aber es ist kein universelles Format wie JPG. Derzeit gibt es keine Foto Editors sowie Fotoverwaltungssoftwares, die Fotos im neuen HEIC-Format unterstützen, und kein Plug-in zur Verfügung für Windows Foto-App zum Öffnen und Ansehen von HEIC Fotos. Nur Apple Geräte, die unter iOS 11 oder höher sowie macOS High Sierra oder höher laufen, unterstützen das Öffnen und Anzeigen von HEIC Fotos. Glücklicherweise ist es recht einfach, HEIC in JPG umzuwandeln. Sie haben mehrere zuverlässige Möglichkeiten, um das HEIF (.heic)-Bilder in die .jpg Datei zu ändern. Folgen Sie unserer Anleitung. 
-
-
 
 ## Teil 1\. Bilder im HEIC in JPG umwandeln unter Mac/Windows (10) mit Foto Transfer
 
@@ -43,8 +45,6 @@ Sicherer Download
 
 ![HEIF HEIC in JPG umwandeln](https://www.macxdvd.com/tutorial-de/article-image/heic-in-jpg.jpg)
 
-
-
 ## Teil 2\. HEIC Bilder in JPG mit Online HEIC Converter (Freeware)
 
 Einige kostenlose Online HEIC Converter bieten die Möglichkeit zur Konvertierung von HEIC in JPG Online. HEIC to JPG Converter (Englisch) ist eine von ihnen und erwies sich als eine gute Wahl. Das HEIC to JPC Online Converter unterstützt die Konvertierung von **bis zu 30 HEIC Fotos** in JPG auf einmal. Folgen Sie folgenden Schritten, um HEIC in JPG kostenlos online umzuwandeln. 
@@ -57,11 +57,6 @@ Einige kostenlose Online HEIC Converter bieten die Möglichkeit zur Konvertierun
 
 ![HEIC in JPG/JPEG Online](https://www.macxdvd.com/tutorial-de/article-image/heic-to-jpg-3.jpg)
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Teil 3\. HEIC in JPG ändern via Cloud-Service
 
 **Wie kann man HEIC in JPG mit Dropbox umwandeln**  
@@ -78,27 +73,15 @@ OneDrive auf iOS kann jetzt HEIC Bildformat erkennen, und die aktualisierte Vers
 
 ![HIEC in JPG/JPEG ändern Dropbox](https://www.macxdvd.com/tutorial-de/article-image/heic-to-jpg-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
-
-
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Teil 4\. HEIC in JPG via E-Mail umwandeln
 
 Bilder per E-Mail zu versenden ist ein weiterer sicherer Weg, HEIC in JPEG zu ändern. Wählen Sie Bilder aus und senden Sie sie an E-Mail-Box als Anhang. Dann erhalten Sie Bilder in JPG schnell. Auf diese Weise können Sie die von HEIC konvertierten JPG Fotos auf Android-Geräten, Windows PC, Mac bzw. allen Geräten zugreifen und ansehen - mit WLAN. Aber es hat ein Größenlimit, zum Beispiel, Gmail erlaubt **nur 25MB** in Anhängen. Die E-Mail-Weise ist nicht der ideale Weg, wenn Sie eine große Zahl von HEIC Bildern haben, die Sie zu jpg konvertieren möchten. 
-
-
 
 ### Aktuelle Unterstützung von Fotos im HEIF (.heic)
 
 | **HEIC Fotos können angesehen und geöffnet werden**    | **HEIC Fotos können nicht angesehen und geöffnet werden**     |
 | ------------------------------------------------------ | ------------------------------------------------------------- |
 | iOS 11 oder neuer macOS High Sierra oder neuer tvOS 11 | Android Windows iOS 10 oder älterer macOS Sierra oder älterer |
-
-
 
 ### HEIF vs JPEG: Grundinfo über HEIF und JPEG Bildformat
 
@@ -113,60 +96,55 @@ Bilder per E-Mail zu versenden ist ein weiterer sicherer Weg, HEIC in JPEG zu ä
 | **Einschränkungen**      | Nicht überall unterstützt werden                                                            | Verlustbehaftete Komprimierung                 |
 | **Kompatibilität**       | iOS 11, macOS High Sierra                                                                   | Die meisten Geräte und Foto Editors            |
 
-
-
 ![](https://www.macxdvd.com/tutorial-de/howto_image/media.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## HEIC in JPG umwandeln unter Mac/Windows - im Batch
 
 MacX MediaTrans \- Foto Transfer mit dem eingebauten HEIC to JPG Converter downloaden, um automatisch Fotos im HEIC in JPG umzuwandeln und Fotos vom iPhone iPad auf Mac/Windows zu übertragen. Der HEIC Converter kann auch Fotos verwalten, iPhone Fotos/Alben löschen, andere Daten wie Videos, Musik, Klingeltöne, Bücher, Dokumente, etc übertragen. Unterstützt iOS 12, iPhone Xs/Xs Max/Xr, macOS Mojave. 
 
 * ![](https://www.macxdvd.com/tutorial-de/howto_image/foto-icon.png)_Foto_
 * ![](https://www.macxdvd.com/tutorial-de/howto_image/musik-icon.png)_Musik_
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * ![](https://www.macxdvd.com/tutorial-de/howto_image/film-icon.png)_Video_
 * ![](https://www.macxdvd.com/tutorial-de/howto_image/buch-icon.png)_iBook_
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
-* ![](https://www.macxdvd.com/tutorial-de/howto_image/klingelton-icon.png)_Klingelton_
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-* ![](https://www.macxdvd.com/tutorial-de/howto_image/usb-icon.png)_USB_
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+* ![](https://www.macxdvd.com/tutorial-de/howto_image/klingelton-icon.png)_Klingelton_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+* ![](https://www.macxdvd.com/tutorial-de/howto_image/usb-icon.png)_USB_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [![](https://www.macxdvd.com/tutorial-de/howto_image/macx-de.png)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/tutorial-de/howto_image/winx-de.png)](https://tools.techidaily.com/winxdvd/products/) 
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.macxdvd.com/tutorial-de/howto_image/image2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## HEIC in JPG unter Mac/Windows ändern - So einfach
 
 MacX MediaTrans bietet den einfachsten Weg, Fotos im HEIC-Format in JPG/JPEG automatisch umwandeln. Mit dem Programm kann man auch Filme, Videos, Musik, Fotos, Sprachmemos, Bücher und mehr zwischen iPhone iPad iPod und Computer austauschen.   
 
 [![](https://www.macxdvd.com/tutorial-de/howto_image/macx-de.png)](https://tools.techidaily.com/macxdvd/products/) [![](https://www.macxdvd.com/tutorial-de/howto_image/winx-de.png)](https://tools.techidaily.com/winxdvd/products/) 
-
-
 
 ## Verwandte Tipps & Tricks
 
@@ -176,13 +154,14 @@ MacX MediaTrans bietet den einfachsten Weg, Fotos im HEIC-Format in JPG/JPEG aut
 
 ![](https://www.macxdvd.com/tutorial-de/howto_image/pic-photo-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Fotos vom iPhone löschen](https://tools.techidaily.com/macxdvd/products/)
 
 ![](https://www.macxdvd.com/tutorial-de/howto_image/pic-photo-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 [Musik auf iPhone ohne iTunes](https://tools.techidaily.com/macxdvd/products/)
 
 ![](https://www.macxdvd.com/tutorial-de/howto_image/pic-photo-4.jpg) 
@@ -195,6 +174,10 @@ iPhone Klingelton erstellen mit dem besten Klingelton Maker.
 
 ![](https://www.macxdvd.com/tutorial-de/../seoimage/link_icon_blue.png) **[iPhone als USB Stick](https://tools.techidaily.com/macxdvd/products/)** 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  iPhone iPad als USB Stick verwenden ohne iTunes/Jailbreak.
 
 ![](https://www.macxdvd.com/tutorial-de/../seoimage/link_icon_blue.png) **[Die besten iTunes Alternativen](https://tools.techidaily.com/macxdvd/products/)** 
@@ -204,9 +187,9 @@ iPhone Klingelton erstellen mit dem besten Klingelton Maker.
 ![](https://www.macxdvd.com/tutorial-de/../seoimage/link_icon_blue.png) **[iPhone Speicher voll](https://tools.techidaily.com/macxdvd/products/)** 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 So kann man iPhone aufräumen mit den effizientsten Wegen.
 
 <ins class="adsbygoogle"
@@ -215,8 +198,6 @@ So kann man iPhone aufräumen mit den effizientsten Wegen.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -224,4 +205,23 @@ So kann man iPhone aufräumen mit den effizientsten Wegen.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-tech-talk-optimizing-for-the-apple-store/"><u>[New] Tech Talk Optimizing for the Apple Store</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-complete-guide-to-premiere-pro-full-scene-preview/"><u>[Updated] A Complete Guide to Premiere Pro Full Scene Preview</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streaming-wars-the-ultimate-twitch-vs-youtube-battle/"><u>[Updated] Streaming Wars The Ultimate Twitch Vs. YouTube Battle</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-quintessential-editing-advantages-of-filmora/"><u>[Updated] The Quintessential Editing Advantages of Filmora</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-strategies-to-enhance-gopros-electric-efficiency/"><u>2024 Approved Strategies to Enhance GoPro's Electric Efficiency</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/comment-recuperer-les-fichiers-dun-sauvegarde-sur-windows-server-2012-r2/"><u>Comment Recuperer Les Fichiers D'Un Sauvegarde Sur Windows Server 2012 (R2)</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-unresponsive-load-screen-in-fortnite-a-comprehensive-guide/"><u>Fixing the Unresponsive Load Screen in Fortnite: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-itel-p55t-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-yuva-2-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Lava Yuva 2 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-complete-guide-to-saving-live-periscope-broadcasts/"><u>In 2024, The Complete Guide to Saving Live Periscope Broadcasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transformative-techniques-applying-luts-for-dynamic-effects-in-after-effects/"><u>In 2024, Transformative Techniques Applying LUTs for Dynamic Effects in After Effects</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-tecno-spark-10cs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Tecno Spark 10Cs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-the-simplicity-of-monitoring-and-viewing-loved-youtube-remarks/"><u>In 2024, Unlocking the Simplicity of Monitoring and Viewing Loved YouTube Remarks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/superior-lineup-elite-webcam-holders-for-2024/"><u>Superior Lineup Elite Webcam Holders for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-when-astro-a50-headset-wont-connect-to-the-control-panel/"><u>Troubleshooting Steps for When Astro A50 Headset Won't Connect to the Control Panel</u></a></li>
+</ul></div>
 

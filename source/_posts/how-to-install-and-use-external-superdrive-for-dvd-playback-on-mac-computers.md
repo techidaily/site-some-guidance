@@ -1,7 +1,7 @@
 ---
 title: How to Install & Use External SuperDrive for DVD Playback on Mac Computers
-date: 2024-08-27T00:36:56.385Z
-updated: 2024-08-28T00:36:56.385Z
+date: 2025-01-01T16:16:34.774Z
+updated: 2025-01-02T16:20:15.202Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad3863dd1f8be14d01cc17569.jpg
@@ -16,13 +16,9 @@ thumbnail: https://thmb.techidaily.com/05054cfe506491b99a35f8cf834debaebdbdb9bad
 * [Support](https://tools.techidaily.com/macxdvd/products/)
 * [Free Download](https://tools.techidaily.com/macxdvd/products/)
 
-
-
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/icon7.png) [Home](https://tools.techidaily.com/macxdvd/products/) \> [DVD](https://tools.techidaily.com/macxdvd/products/) \> [Play DVD](https://tools.techidaily.com/macxdvd/products/) \> Superdrive Mac 
 
 ## SuperDrive Mac Overview and How to Play DVD on Mac without Mac SuperDrive 
-
-
 
 _What is SuperDrive? As the removal of DVD drive on MacBook Pro / Air, how to play DVD on Mac computer? This article will guide you to play DVD movies on Mac easily without Mac SuperDrive._ 
 
@@ -30,8 +26,21 @@ _What is SuperDrive? As the removal of DVD drive on MacBook Pro / Air, how to pl
 
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-fa.jpg)](https://www.facebook.com/sharer/sharer.php?u=https://www.macxdvd.com/mac-dvd-video-converter-how-to/superdrive-mac.htm)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-tw.jpg)](https://twitter.com/intent/tweet?url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/superdrive-mac.htm)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-go.jpg)](https://pinterest.com/pin/create/button/?url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/superdrive-mac.htm)
 * [![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.macxdvd.com/mac-dvd-video-converter-how-to/superdrive-mac.htm&title=&summary=https://www.macxdvd.com/mac-dvd-video-converter-how-to/superdrive-mac.htm&source=)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Many Mac users often fail to burn a DVD from iDVD or play DVD on Mac. Most of time, it caused by no available SuperDrive on Mac. So, what is SuperDrive for Mac and how could you play or burn DVDs successfully if there is no optical one? Take it easy; in this article, we provide all the info, including definition, how to judge whether your Mac includes one, the development history and usages, how to fluently play DVDs/CDs on Mac without built-in one, etc. 
 
@@ -50,9 +59,6 @@ In fact, it is a trademark used by Apple and stands for two different storage dr
 
 ![SuperDrive Mac](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/superdrive-mac.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 SuperDrive Mac
 
 Later, Apple started to reuse the trademark to refer to the optical drives embeded into its Macintosh models, which could read and write both CDs and DVDs. This SuperDrives for Mac featured 6-24x wirte speeds and supported the DVD±R, DVD±R DL, DVD±RW, CD-R, DVD-RAM, CD-RW formats and other normal read-only media. But, there is never a Blu-ray drive and Apple also doesn't support for Blu-ray playback.
@@ -66,12 +72,13 @@ And, Apple began to phase SuperDrives out in 2011 and the second generation MacB
 
 You may need to know: [Superdrive not recognize a DVD](https://tools.techidaily.com/macxdvd/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## Part 2: How to Play DVDs/CDs without Built-in SuperDrive for Mac?
 
 It is true that most of Mac made after 2008 that doesn't have a built-in optical drive. On the other hands, though there is SuperDrive on Mac, users also will come across some unexpected not working problems. Therefore, to play DVDs, CDs, Blu-ray or other optical discs on your Mac, you can take advantage of below two simple ways. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Get an external Apple USB SuperDrive
 
@@ -81,20 +88,16 @@ In addition to playing CDs/DVDs, it is also very useful when you watch a new DVD
 
 ![External SuperDrive Mac](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/superdrive-mac1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 External SuperDrive Mac
 
 The size of Apple external CD drive is only slightly bigger than a CD case so that it is pretty suitable for travelling. Apparently, this is another selling point of USB SuperDrive Apple. But a large number of people still complain that they often get a DVD stuck due to various reasons. So, to fix the "DVD stuck" issue and watch DVD movies on-the-go, you can rip DVDs to hard drive at first via a functional DVD ripper for Mac like MacX DVD Ripper Pro. 
 
 [Download for Mac](https://tools.techidaily.com/macxdvd/products/) [Download for PC](https://tools.techidaily.com/macxdvd/products/) 
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Use Remote Disc sharing and another Mac
 
 Some people believe that it is a little bit tricky to buy an external USB SuperDrive Mac. Is there any alternative way to stream DVD on Mac without buying it? As a matter of fact, you can depend on Mac's built-in Remote Disc feature. Your Mac on your network can function as a server and your Mac is capable of accessing discs inserted into that server. In other words, you can insert a DVD into a SuperDrive on one Mac and watch it on another Mac over a network as long as another Mac computer has an optical drive. 
@@ -104,6 +107,10 @@ Whereas not all kinds of discs are supported by the Remote Disc feature includin
 Now, we take a look at how to play DVD on Mac using Remote Disc sharing feature.
 
 ![Play DVD on Mac without SuperDrive Mac](https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/superdrive-mac2.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Play DVD on Mac without SuperDrive Mac
 
@@ -125,25 +132,14 @@ ABOUT THE AUTHOR
 
 ![author- bella](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/bella.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Bella Brown ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/share-in1.jpg)](https://www.linkedin.com/in/bella-brown-920145104/) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Bella has been working with DVD digitization for over 12 years. She writes articles about everything related to DVD, from disc drive, DVD copyright protection, physical structure, burning and backup tips. The unceasing passion of DVD movies helps him build a rich DVD library and ensure a practical solution to address almost all possible DVD issues. Bella is also a crazy fan for Apple products.
-
-
 
 Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Top External DVD Drive for Mac to Play DVD Disc](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic6.jpg)
@@ -156,37 +152,37 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Tutorial to Copy DVD to Hard Drive on Mac](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 [Top Solutions to Fix RedBox DVD Rental Won't Play Problems](https://tools.techidaily.com/macxdvd/products/)
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../image-style/new-seo/pic2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Best SSDs for Mac You Must Never Miss](https://tools.techidaily.com/macxdvd/products/) 
-
-
 
 ![Digiarty Software](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../icon/logo.png) 
 
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### Hot Products
 
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tips and Tricks
 
@@ -196,10 +192,6 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [Online Video >>](https://tools.techidaily.com/macxdvd/products/)
 * [Hot Topics >>](https://tools.techidaily.com/macxdvd/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Company
 
 * [About Us >>](https://tools.techidaily.com/macxdvd/products/)
@@ -207,8 +199,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 * [User Guides >>](https://tools.techidaily.com/macxdvd/products/)
 * [Contact Us >>](https://tools.techidaily.com/macxdvd/products/)
 * [Partner >>](https://tools.techidaily.com/macxdvd/products/)
-
-
 
 [Home](https://tools.techidaily.com/macxdvd/products/) | [About](https://tools.techidaily.com/macxdvd/products/) | [Privacy Policy](https://tools.techidaily.com/macxdvd/products/) | [Terms and Conditions](https://tools.techidaily.com/macxdvd/products/) | [License Agreement](https://tools.techidaily.com/macxdvd/products/) | [Resource](https://tools.techidaily.com/macxdvd/products/) | [News](https://tools.techidaily.com/macxdvd/products/) | [Contact Us](https://tools.techidaily.com/macxdvd/products/)
 
@@ -223,8 +213,6 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -232,4 +220,24 @@ Digiarty Software is not developed by or affiliated with Apple Inc.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-repair-glitches-in-instagram-likescomments/"><u>[New] Repair Glitches in Instagram Likes/Comments</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unique-soundscapes-for-your-one-person-show/"><u>[New] Unique Soundscapes for Your One-Person Show</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-exclusive-software-gamers-streaming-companions-for-2024/"><u>[Updated] Exclusive Software Gamers' Streaming Companions for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-mirthful-moments-the-10-funniest-youtube-short-film-ideas-ever/"><u>[Updated] In 2024, Mirthful Moments The 10 Funniest YouTube Short Film Ideas Ever</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-hidden-guide-watching-highly-engaged-comments-with-ease-on-youtube/"><u>[Updated] The Hidden Guide Watching Highly Engaged Comments with Ease on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-trailblazers-in-vr-eyewear-design/"><u>[Updated] Trailblazers in VR Eyewear Design</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-64128gbs-full-potential-for-video-storing/"><u>[Updated] Unlocking 64/128GB's Full Potential for Video Storing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamline-and-optimize-google-for-podcasters/"><u>2024 Approved Streamline & Optimize Google for Podcasters</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/download-free-seagate-data-recovery-tool-restore-files-from-damaged-external-hd/"><u>Download Free Seagate Data Recovery Tool - Restore Files From Damaged External HD</u></a></li>
+<li><a href="https://program-issues.techidaily.com/outpost-infinaturd-siege-stability-tips-avoid-game-crashing-on-pc-systems/"><u>Outpost: Infinaturd Siege Stability Tips - Avoid Game Crashing on PC Systems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/prime-video-upload-solutions-for-twitter-for-2024/"><u>Prime Video Upload Solutions for Twitter for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-artisans-blueprint-for-striking-image-collage-for-2024/"><u>The Artisan's Blueprint for Striking Image Collage for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-financials-of-boosting-your-youtube-videos-for-2024/"><u>The Financials of Boosting Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-in-game-identity-with-these-free-free-fire-vocal-hacks-for-2024/"><u>Transform Your In-Game Identity with These Free Free Fire Vocal Hacks for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-techniques-for-refreshing-webcam-drivers-on-windows-10-machines/"><u>Troubleshooting Techniques for Refreshing Webcam Drivers on Windows 10 Machines</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-unbeatable-pricing-on-apple-watch-series-ten-with-a-pre-order-from-best-buy-at-99-your-guide-to-saving-more-zdnet/"><u>Unlock Unbeatable Pricing on Apple Watch Series ˈTen with a Pre-Order From Best Buy at $99 - Your Guide to Saving More | ZDNET</u></a></li>
+</ul></div>
 

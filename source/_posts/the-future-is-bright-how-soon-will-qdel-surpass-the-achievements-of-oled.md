@@ -1,7 +1,7 @@
 ---
 title: "The Future Is Bright: How Soon Will QDEL Surpass the Achievements of OLED?"
-date: 2024-08-31T06:15:41.172Z
-updated: 2024-09-01T06:15:41.172Z
+date: 2024-12-28T17:40:59.242Z
+updated: 2025-01-02T16:53:09.246Z
 tags:
   - cutting-edge
 categories:
@@ -25,11 +25,19 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
 
 ![Artist's impression of quantum dots.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/qdel-display-04.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Nanosys_
 
  As you can see below, technologies that utilize quantum dots, namely [QLED](https://extra-hints.techidaily.com/how-to-do-time-lapse-on-samsung-phones/) and [QD-OLED](https://win-answers.techidaily.com/solved-metro-exodus-pc-enhanced-edition-keeps-crashing/), use quantum dots to produce more vibrant colors than regular LCD and [OLED](https://review-topics.techidaily.com/mkv-to-sony-xperia-5-v-converter-convert-mkv-for-sony-xperia-5-v-by-aiseesoft-video-converter-play-mkv-on-android/) displays. In the case of QLED displays, which combine quantum dots with a [mini-LED](https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/) backlight layer, you also get higher contrast compared to edge-lit LCD panels. The next step is using only self-emitting quantum dots, which produce color and backlight without the need for an LCD or a blue OLED layer, nor a backlight layer, thus allowing for thinner displays with a wider color gamut.
 
 ![Different display technologies that include quantum dots.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/qdel-display-01.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [_Ishida et al./Information Display_](https://sid.onlinelibrary.wiley.com/doi/full/10.1002/msid.1395)
 
@@ -47,17 +55,22 @@ _Nanosys_
 
 ![Patterning methods used for manufacturing of QDEL displays.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/qdel-display-02.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Ishida et al./Information Display_](https://sid.onlinelibrary.wiley.com/doi/full/10.1002/msid.1395)
 
  While inkjet printing is the main method of manufacturing QDEL displays right now, its main disadvantage is not being able to produce panels that have a pixel density noticeably higher than 200ppi. Luckily, there's another method to manufacture QDEL displays—photolithography. This solves the low pixel density issue. This should ultimately result in QDEL displays being suitable for smartphones, smartwatches, and VR headsets.
 
 ![Different manufacturing methods of QDEL displays.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/qdel-display-03.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [_Ishida et al./Information Display_](https://sid.onlinelibrary.wiley.com/doi/full/10.1002/msid.1395)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  How Is QDEL Better Than OLED?
 
  QDEL displays are thinner than OLEDs because they use fewer layers than OLED and QD-OLED panels. Also, since quantum dots are inorganic, their lifespan, once the technology matures, ought to be longer than what’s offered by OLED, thus almost completely addressing the issue of burn-in.
@@ -67,8 +80,9 @@ _Nanosys_
  Because QDEL panels use fewer layers, we should also expect wider color gamuts in mass-produced QDEL displays compared to what regular OLED screens are capable of. For example, TCL’s prototype display covers more than 85% of the Rec. 2020 image space, while OLEDs [can reproduce](https://avantama.com/comparing-color-gamut-qd-and-oled-displays/#:~:text=Rec.2020%20Coverage%20with%20QD%20and%20OLED%20Displays&text=Perovskite%20Quantum%20Dots-,Rec.,technologies%20and%20content%20producers%20alike.) up to about 75% of Rec. 2020\. The best QD-OLED TVs, though, such as the Samsung S95C, [cover nearly 90%](https://www.digitec.ch/en/page/a-qd-oled-miracle-testing-samsungs-best-tv-ever-28920) of the Rec. 2020 color space.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  When Can You Expect QDEL TVs and Monitors?
 
  In early 2023, Nanosys, the company behind the quantum dots used by Samsung and others in their QLED and QD-OLED panels, [mentioned 2025 or 2026](https://www.hdtvtest.co.uk/n/Nanosys-shows-off-next-generation-NanoLED-display-tech) as tentative dates for the beginning of mass production of its QDEL panels. [In a statement](https://arstechnica.com/gadgets/2024/04/meet-qdel-the-backlight-less-display-tech-that-could-replace-oled-in-premium-tvs/) to Ars Technica from April 2024, a Nanosys representative reiterated 2026 as the commercial readiness date for QDEL panels.
@@ -89,8 +103,6 @@ _Nanosys_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +110,24 @@ _Nanosys_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-quick-recording-tips-mastering-screen-captures-on-hp-systems/"><u>[New] 2024 Approved Quick Recording Tips Mastering Screen Captures on HP Systems</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-your-top-tools-for-facebook-video-retrieval-revealed/"><u>[New] 2024 Approved Your Top Tools for Facebook Video Retrieval Revealed</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-from-film-to-instagram-editing-tall-videos-on-fcpx/"><u>[New] From Film to Instagram Editing Tall Videos on FCPX</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-4k-experience-deep-dive-into-samsungs-ue590/"><u>[New] The Ultimate 4K Experience - Deep Dive Into Samsung's UE590</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-voice-memo-basics-your-complete-guide-to-audio-recording/"><u>[New] Voice Memo Basics Your Complete Guide to Audio Recording</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-syncing-images-and-footage-on-iphone/"><u>2024 Approved Syncing Images and Footage on iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-sdr-to-hdr-conversion-companion-book/"><u>2024 Approved The SDR to HDR Conversion Companion Book</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-undo-livestream-progress-with-twitch-tricks/"><u>2024 Approved Undo Livestream Progress with Twitch Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diagnosing-the-issue-understanding-why-your-vehicles-audio-system-failed/"><u>Diagnosing the Issue: Understanding Why Your Vehicle's Audio System Failed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-nvidia-geforce-mx150-graphics-card-driver-on-windows-pc/"><u>Download & Install NVIDIA GeForce MX150 Graphics Card Driver on Windows PC</u></a></li>
+<li><a href="https://win-updates.techidaily.com/free-techniques-to-eliminate-watermarks-from-videos/"><u>Free Techniques to Eliminate Watermarks From Videos</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-silent-learners-guide-to-bypassing-edgenuity-videos-effortlessly/"><u>In 2024, The Silent Learner's Guide to Bypassing Edgenuity Videos Effortlessly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-asmrs-benefits-a-health-perspective/"><u>In 2024, Unveiling ASMR’s Benefits A Health Perspective</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-core-elements-of-kinetic-visual-storytelling-for-2024/"><u>The Core Elements of Kinetic Visual Storytelling for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-speech-refinement-kit-free-tools-for-flawless-audio-effects-for-2024/"><u>The Ultimate Speech Refinement Kit Free Tools for Flawless Audio Effects for 2024</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-top-6-celebrity-text-to-speech-ai-voice-generators-you-may-like-for-2024/"><u>Updated Top 6 Celebrity Text to Speech AI Voice Generators You May Like for 2024</u></a></li>
+</ul></div>
 

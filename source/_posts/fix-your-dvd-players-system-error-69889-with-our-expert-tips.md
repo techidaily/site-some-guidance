@@ -1,7 +1,7 @@
 ---
 title: Fix Your DVD Player's System Error 69889 with Our Expert Tips
-date: 2024-08-27T00:39:37.057Z
-updated: 2024-08-28T00:39:37.057Z
+date: 2024-12-28T17:36:17.617Z
+updated: 2025-01-02T16:17:11.235Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/94949839e44613400bd5d58f4fe6242909222f90165f20a133ed7c6cab443aea.png
@@ -44,6 +44,10 @@ You may also need: [best external DVD drives for Mac](https://tools.techidaily.c
 
 Digitize the DVD into video files to trouble-free playback on Apple video players. For this task, **MacX DVD Ripper Pro** is your best choice.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [**MacX DVD Ripper Pro**](https://tools.techidaily.com/macxdvd/products/) \- Digitize DVDs into any Formats You Need
 
 * Convert DVDs to any formats: ISO (1:1 ratio), Video\_TS, MPEG, MKV, MOV, MP4, HEVC, AVI, etc. for Mac, PC, mobiles, TVs, any other devices.
@@ -53,6 +57,10 @@ Digitize the DVD into video files to trouble-free playback on Apple video player
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../troubleshoot-adobe/img/mac.png)[Download MacX DVD Ripper Pro macOS version![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../troubleshoot-adobe/img/download.png)](https://tools.techidaily.com/macxdvd/products/) to convert a DVD on Mac
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../troubleshoot-adobe/img/win02.png)[Download MacX DVD Ripper Pro Windows version![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../troubleshoot-adobe/img/download.png)](https://tools.techidaily.com/macxdvd/products/) to convert a DVD on PC
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../mac-dvd-ripper-pro/step-images/dvd-to-mp4-700.jpg) 
 
@@ -66,11 +74,10 @@ Digitize DVD for Mac
 
 _Disclaimer: This post is to help users who encounter DVD Player encountered a system error 69889\. It does not in any way advocate ripping a DVD for any commercial or other illegal use. Please consult the law in your country before you convert any disc._
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Why Is MacX DVD Ripper Pro Your Choice? _See What Tech Websites and Customers Say about Us_
 
 #### Stars 4.8
@@ -91,11 +98,6 @@ Cover over 79 Countries
 * 100% safe
 * Money Back
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Related Article
 
 #### [4 Ways to Play DVDs on Mac (MacBook Pro/Air, iMac, etc.)](https://tools.techidaily.com/macxdvd/products/)
@@ -114,9 +116,6 @@ If your superdrive is not reading or recognizing a DVD, don't rush to Apple Stor
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../troubleshoot-adobe/img/pic3.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 You can't play region 2 DVD in USA or play region 1 DVD in UK... But with 3 clicks, you can bypass the region codes permanently and play DVDs in different regions freely.
 
 #### [How to Rip DVD to Hard Drive on Mac (MacBook and iMac)](https://tools.techidaily.com/macxdvd/products/)
@@ -124,8 +123,9 @@ You can't play region 2 DVD in USA or play region 1 DVD in UK... But with 3 clic
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../troubleshoot-adobe/img/pic4.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 This guide will present an easy method to backup and digitize DVD collection onto your Mac's hard drive so as to save your space and organize your movie library easily. 
 
  s 
@@ -135,8 +135,9 @@ This guide will present an easy method to backup and digitize DVD collection ont
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../troubleshoot-adobe/img/pic5.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 DVD won't play or eject and MacBook Pro says Supported Disc Not Available. Why does this problem occur and how to fix it? Check here.
 
 #### [How to Remove DVD Protection with a Strong Decrypter](https://tools.techidaily.com/macxdvd/products/)
@@ -145,20 +146,17 @@ DVD won't play or eject and MacBook Pro says Supported Disc Not Available. Why d
 
 You will need to decrypt the protected DVDs. This DVD decrypter for Mac will rip and decrypt any DVD and end DVD ripping errors.
 
-
-
 ### ABOUT THE AUTHOR
 
 ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../troubleshoot-adobe/img/p1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### [Bella Brown ![](https://www.macxdvd.com/mac-dvd-video-converter-how-to/../troubleshoot-adobe/img/tw.png)](https://tools.techidaily.com/macxdvd/products/)
 
 Bella Brown has been a copywriter at Digiarty since 2009\. Because of the occupational requirement and personal interest, Farrah has carried on broad and profound study and researches to multimedia related stuff, popular electronic devices and multimedia programs in the market.
-
-
 
 [Home](https://tools.techidaily.com/macxdvd/products/) \> [DVD Tips](https://tools.techidaily.com/macxdvd/products/) \> **SuperDrive won't Recognize/Play DVD Fixed**
 
@@ -168,8 +166,6 @@ Bella Brown has been a copywriter at Digiarty since 2009\. Because of the occupa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +173,26 @@ Bella Brown has been a copywriter at Digiarty since 2009\. Because of the occupa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-easy-start-the-definitive-guide-to-free-channel-openers-for-2024/"><u>[New] Easy Start The Definitive Guide to Free Channel Openers for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-background-elimination-in-graphic-designs/"><u>[New] The Art of Background Elimination in Graphic Designs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-xps-movie-magic-software-essentials/"><u>[New] Unlock XP's Movie Magic Software Essentials</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-utilizing-netflixs-floating-window-feature-effectively/"><u>[New] Utilizing Netflix's Floating Window Feature Effectively</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mastering-screens-with-active-8-a-comparative-review/"><u>[Updated] In 2024, Mastering Screens with Active 8 - A Comparative Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unrivaled-video-tech-for-apple-phones/"><u>[Updated] Unrivaled Video Tech for Apple Phones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-sync-your-style-across-ios-and-android-with-a-customized-whatsapp-sound/"><u>2024 Approved Sync Your Style Across iOS and Android with a Customized WhatsApp Sound</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-i-expect-varying-response-sizes-from-chatgpt/"><u>Can I Expect Varying Response Sizes From ChatGPT?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/digital-content-excellence-through-effective-screencasts-for-2024/"><u>Digital Content Excellence Through Effective Screencasts for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-apple-iphone-8-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on Apple iPhone 8</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-note-30-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Infinix Note 30 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-sunshine-strategies-to-lighten-up-android-videos/"><u>In 2024, Sunshine Strategies to Lighten up Android Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-playbook-iphone-downloading-for-podcast-enthusiasts/"><u>In 2024, The Ultimate Playbook IPhone Downloading for Podcast Enthusiasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-ranked-instagram-tunes-and-secrets-for-exceptional-call-alerts/"><u>In 2024, Top-Ranked Instagram Tunes & Secrets for Exceptional Call Alerts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-guide-to-virtual-reality-gaming-gear/"><u>In 2024, Ultimate Guide to Virtual Reality Gaming Gear</u></a></li>
+<li><a href="https://os-tips.techidaily.com/in-depth-analysis-of-macgo-ios-erase-app-strengths-weaknesses-alternatives-and-faqs-covered/"><u>In-Depth Analysis of Macgo iOS Erase App – Strengths, Weaknesses, Alternatives, and FAQs Covered</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-a2frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo A2FRP Lock</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-websites-for-digital-3d-text-with-a-golden-accent-for-2024/"><u>Leading Websites for Digital 3D Text with a Golden Accent for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-file-is-locked-hurdles-in-your-steam-library/"><u>Overcoming 'File Is Locked' Hurdles in Your Steam Library</u></a></li>
+</ul></div>
 

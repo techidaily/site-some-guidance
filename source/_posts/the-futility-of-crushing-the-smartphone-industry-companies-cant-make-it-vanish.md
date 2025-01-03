@@ -1,7 +1,7 @@
 ---
 title: The Futility of Crushing the Smartphone Industry - Companies Can’t Make It Vanish.
-date: 2024-08-31T06:14:41.058Z
-updated: 2024-09-01T06:14:41.058Z
+date: 2024-12-28T16:37:09.822Z
+updated: 2025-01-02T16:17:59.263Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## The Futility of Crushing the Smartphone Industry - Companies Can’t Make It Vanish.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -37,8 +41,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Woman receiving a call on an Apple smartwatch.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/Screen-Shot-2023-06-21-at-11.24.48-AM.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 _[Apple](https://www.amazon.com/dp/B0BDHW8P4P)_
 
  A smartwatch can track your workouts and vitals, tell the weather, show notifications, play music, and more, but it also has a tiny screen that makes it hard to type on, no cameras to speak of, and weak processing power.
@@ -53,11 +58,12 @@ _[Apple](https://www.amazon.com/dp/B0BDHW8P4P)_
 
 ![person wear the Apple Vision Pro with two head bands](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/person-wear-the-apple-vision-pro-with-two-head-bands.JPG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ##  It's Hard to Cram Lots of Tech Into a Tiny Device
 
  Devices that want to replace our phones must be about the same size or, more commonly, smaller than a typical smartphone by design. However, it's hard to squeeze a powerful [SoC](https://screen-activity-recording.techidaily.com/new-discovering-win11s-finest-screen-grabbers-for-2024/) (System on a Chip) into a form factor that's even smaller than a smartphone due to thermal and battery constraints—smartphone SoCs can easily drain a large smartphone battery in a day, and they get relatively hot while gaming.
@@ -70,14 +76,12 @@ Tyler Hayes / How-To Geek
 
 ![Person holding the GameSir G8 Galileo to game on an Android phone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53377685174_ffe91434e9_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  We Want Supplementary Tech, Not Smartphone Replacements
 
  Instead of trying to recreate the smartphone experience on a novelty device, I believe that the best course of action for tech companies is to create devices that complement our smartphones instead, at least for the time being. Most of us carry our phones wherever we go, and we can all agree that there's nothing inherently wrong with that.
@@ -88,16 +92,14 @@ Sergio Rodriguez / How-To Geek
 
 ![The R1 Rabbit companion device held in a hand, showing the Rabbit icon on its screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/r1-rabbit.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 Rabbit Tech
 
  Exhibit B is the [Rabbit R1](https://youtube-web.techidaily.com/ed-2024-approved-elevating-your-vlog-with-proper-tripod-angles/), which is a $199 handheld AI gadget that reminds me of an AI-only version of a smartphone. It's a cool idea, but it was also later revealed that the whole thing is allegedly [just an Android app](https://www.androidauthority.com/rabbit-r1-is-an-android-app-3438805/). Even if it isn't an app, there's no denying that it could be replaced by one, so I don't really see the point of the Rabbit R1—though its design exudes an undeniably cool aesthetic.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Wearable Tech Raises Serious Privacy Concerns
 
  Let's set technological limitations aside for now to discuss the potential lack of privacy that could arise from a gadget that's capable of seeing and hearing everything around you. While our smartphones don't necessarily [listen to us](https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-zte-axon-40-lite-drfone-by-drfone-virtual-android/)—at least not all the time—smart gadgets that rely on cameras and microphones to work would have to stay permanently turned on to allow for real-time scanning, suggestions, and responses.
@@ -114,8 +116,6 @@ Rabbit Tech
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +123,23 @@ Rabbit Tech
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-harnessing-viral-power-your-pathway-to-youtube-fame/"><u>[New] 2024 Approved Harnessing Viral Power Your Pathway to YouTube Fame</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-ios-and-android-techniques-to-record-live-video-chats/"><u>[Updated] 2024 Approved IOS & Android Techniques to Record Live Video Chats</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-crafting-impactful-content-on-tiktok-with-these-best-quotes/"><u>[Updated] In 2024, Crafting Impactful Content on TikTok with These Best Quotes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-movavi-video-plus-review-and-performance-in-the-new-year-2024/"><u>[Updated] Movavi Video Plus Review & Performance in the New Year 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-techniques-to-amplify-gopro-battery-duration/"><u>[Updated] Techniques to Amplify GoPro Battery Duration</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-turning-xmlssattml-into-srt-practical-steps/"><u>[Updated] Turning XML/SSA/TTML Into SRT Practical Steps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-iphone-cinematography-transforming-fast-motion-into-sluggish-sequences/"><u>2024 Approved The Art of iPhone Cinematography Transforming Fast Motion Into Sluggish Sequences</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-complete-guide-to-adding-powerful-narrations/"><u>2024 Approved The Complete Guide to Adding Powerful Narrations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-potential-in-your-podcasts-xml-structure/"><u>2024 Approved Unlocking the Potential in Your Podcast's XML Structure</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-motorola-moto-g-stylus-5g-2023-frp-bypass-by-drfone-android/"><u>About Motorola Moto G Stylus 5G (2023) FRP Bypass</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-visuals-what-sets-360-apart-for-2024/"><u>Comprehensive Visuals What Sets 360° Apart for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Realme GT 5 (240W)? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-art-of-subscriber-chatter-best-practices-for-comments-for-2024/"><u>The Art of Subscriber Chatter Best Practices for Comments for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-huawei-nova-y71s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Huawei Nova Y71s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-the-magic-advanced-techniques-for-tiktok-videos-for-2024/"><u>Unlocking the Magic Advanced Techniques for TikTok Videos for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-secrets-to-profitable-brands-partnerships-on-youtube-for-2024/"><u>Unveiling the Secrets to Profitable Brands Partnerships on YouTube for 2024</u></a></li>
+</ul></div>
 

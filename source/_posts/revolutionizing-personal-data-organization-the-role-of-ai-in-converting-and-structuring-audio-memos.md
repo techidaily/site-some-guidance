@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Personal Data Organization: The Role of AI in Converting and Structuring Audio Memos"
-date: 2024-08-31T06:15:33.481Z
-updated: 2024-09-01T06:15:33.481Z
+date: 2025-01-01T16:22:49.604Z
+updated: 2025-01-02T17:42:52.666Z
 tags:
   - cutting-edge
 categories:
@@ -19,9 +19,17 @@ thumbnail: https://thmb.techidaily.com/7951d32be8f36c4eb18b2a1ca73585423cfb1568f
 
  I speak faster than I write. It's also easier for me to blurt out a thought than to write it down. If you also prefer to think out loud like I do, steal my system for transcribing voice notes and keeping them organized so you never lose track of your ideas again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  My Free System to Transcribe, Refine, and Organize My Voice Notes
 
  I have a three-part system where I use free apps and tools to transcribe, refine, and organize my voice notes. Here's a step-by-step guide showcasing how I use it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Step 1: Use Whisper to Transcribe Your Voice
 
@@ -31,18 +39,12 @@ thumbnail: https://thmb.techidaily.com/7951d32be8f36c4eb18b2a1ca73585423cfb1568f
 
 ![Whisper Jax Home Page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/0-whisper-jax-home-page.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Personally, I record my voice using my PC's voice recorder (or my phone's) and then upload that file to the website. I do this because I like to store my voice recordings along with the written notes. If you don’t want to do that, you can simply use the microphone feature on the site to directly transcribe your voice.
 
  You can also access this website from your phone and transcribe your voice on the go.
 
 ![Whisper Jax takes 1 second to Transcribe 1 min long audio file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1-whisper-jax-takes-1-second-to-transcribe-1-min-long-audio-file.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The developer claims you can transcribe a 30-min audio file in 30 seconds, and I agree—it’s blazing fast. In the above example, you can see my 1-min 22-sec recording gets transcribed in 1.5 seconds.
 
  The only problem is that it’s a free demo, and user requests are handled on a first-come, first-served basis. So, when the site gets a lot of users, you might have to wait in a queue. Sometimes, the load can be so high that it might not register your request, in which case, you'll need to keep clicking the "Submit" button till you get in the queue.
@@ -55,9 +57,6 @@ Close
 
  The transcription speed will depend on your GPU and how much [VRAM you have](http://github.com/openai/whisper/discussions/5#discussioncomment-3703959). If you don’t have a dedicated GPU, you can still run Whisper using your CPU, but it's so slow that you're better off using the Whisper Jax free demo on Hugging Face, even if you have to wait in a queue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ###  Step 2: Use ChatGPT to Summarize the Transcription Into Concise Notes
 
  After you’ve transcribed your audio file using Whisper, you’ll get an unstructured text blurb as an output. It’ll be messy, verbose, and look like a huge wall of text. We need to clean up the text by eliminating all fluff, structuring it, and presenting all the ideas with clear, easy-to-understand formatting. To do this, we’ll be using ChatGPT—even the [free version will suffice](https://hardware-reviews.techidaily.com/unveiling-the-insights-from-toms-computer-gear-exploration/).
@@ -74,13 +73,18 @@ I have a long transcribed text from a voice recording, and I need your help to c
  In my personal experience, ChatGPT works best when your input text is 1500 words or fewer. As such, if the transcription is more than 1500 words long, I’d advise you to break it up into chunks and then feed it to ChatGPT. You’ll then end up with multiple summarized notes. You can then instruct ChatGPT to combine all the notes into a single one and use that as the final output.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Step 3: Save the Notes Inside a Note-Taking App
 
  Once you have the transcription in summarized note form, the final step is to save it to a note-taking app of your choice. You can keep it inside of [Apple Notes](https://tech-recovery.techidaily.com/professional-insights-mastering-the-use-of-slack-in-your-business-environment/) or [Google Keep](https://facebook-video-recording.techidaily.com/tips-for-posting-wide-angle-photos-to-facebook-from-smartphones/). I personally prefer using [Notion](https://extra-approaches.techidaily.com/updated-prime-focus-the-top-10-high-res-shoulder-rigs/) for its more advanced features.
 
  And that's it! You now know how to turn what you say out loud into concise, easy-to-read notes and save them for quick retrieval and future reference.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  The Main Problem With My System
 
@@ -93,17 +97,15 @@ I have a long transcribed text from a voice recording, and I need your help to c
  I developed my free three-part system actually to reverse engineer AudioPen because I liked it so much!
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  AudioPen—One App to Transcribe, Refine, and Organize Your Voice Notes
 
  AudioPen is an all-in-one tool that can transcribe your voice, refine it, give it structure, and store it as notes so you can access them whenever necessary. Furthermore, it’s a web app that’s not dependent on your system specs to perform optimally.
 
 ![AudioPen Home Page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-audiopen-home-page.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It has a free version, but it's somewhat barebones. It only allows you to record (not upload) voice notes, and each recording is limited to 3 minutes.
 
  To use it, simply click on the Microphone button and start talking. Once done, press the stop button to submit your recording. AudioPen will take a few seconds to a minute to transcribe what you said and present all the key points in a clean and structured note. The free account has a limit of 10 notes, so you’ll need to delete older notes to create new ones if you reach the limit.
@@ -131,8 +133,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +140,16 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-radeon-remembrance-set/"><u>[New] In 2024, Radeon Remembrance Set</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-the-ultimate-windows-11-guide-to-recording-games/"><u>[Updated] 2024 Approved The Ultimate Windows 11 Guide to Recording Games</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-path-to-subtle-iphone-shots-4-essential-techniques-discovered/"><u>[Updated] The Path to Subtle iPhone Shots 4 Essential Techniques Discovered</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-best-professional-template-pack-for-premiere-pro/"><u>2024 Approved The Best Professional Template Pack for Premiere Pro</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-whats-new-with-bandicam-the-2023-expert-analysis/"><u>2024 Approved What's New with Bandicam – The 2023 Expert Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accessing-chatgpt-benefits-without-membership/"><u>Accessing ChatGPT Benefits Without Membership</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-redmi-13c-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi Redmi 13C 5G</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-podcast-rankings-seo-techniques-uncovered/"><u>In 2024, Ultimate Podcast Rankings SEO Techniques Uncovered</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/reign-over-the-market-selecting-the-best-7-nft-enabling-services-for-2024/"><u>Reign Over the Market Selecting the Best 7 NFT-Enabling Services for 2024</u></a></li>
+</ul></div>
 

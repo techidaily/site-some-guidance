@@ -1,7 +1,7 @@
 ---
 title: "Top 6 Innovative Uses for Microsoft's Bing Chat AI: Unleashing the Power of Conversational Tech"
-date: 2024-08-31T06:15:44.116Z
-updated: 2024-09-01T06:15:44.116Z
+date: 2024-12-31T17:23:51.095Z
+updated: 2025-01-02T16:46:58.296Z
 tags:
   - cutting-edge
 categories:
@@ -34,15 +34,27 @@ thumbnail: https://thmb.techidaily.com/d04592384de68d589b01721c4dc554252c1ab00ca
 
 ![Create a table comparing the specifications of the M2 MacBook Air and Surface Laptop 4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-06-at-2.32.08-PM.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With that prompt, Bing will try to guess the most important specifications, and lay them out in an easily readable table format. You can also tweak it by listing variables manually, like "Create a table comparing the specifications of the M2 MacBook Air and Surface Laptop 4, listing the display and ports." With that example, the only rows of the table are "Display" and "Ports."
 
  If you're trying to compare two products or objects in the same field, like [Arch Linux and Ubuntu](https://fox-access.techidaily.com/updated-fiendish-film-pause-techniques-for-2024/) or [Wi-Fi and Ethernet](https://android-transfer.techidaily.com/how-to-transfer-photos-from-sony-xperia-10-v-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/), there are probably guides written by real humans that can offer more insight than Bing. However, the feature is still helpful for comparisons that might not exist in written content, or quickly checking one or two specific details across a wide range of devices. You also still need to check the citations, because Bing isn't perfect at interpreting web pages.
 
 ![Create a table comparing the specifications of the M2 MacBook Air and Surface Laptop 4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-06-at-2.32.08-PM.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This feature can also be entertaining if you ask Bing to compare two things that no one would ever have a reason to compare. Ask it to lay out the differences between a phone and a dinosaur, or a car and a pencil. You'll almost always get some funny results.
 
 ![Create a table comparing the specifications of the M2 MacBook Air and Surface Laptop 4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-06-at-2.32.08-PM.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the data is helpful and accurate, you can also export it for use in a document or other resource. Try asking it "Convert that table into Markdown format" or "Convert that table into HTML format." You can ask for CSV format, which you can then copy and paste into a text editor (like Notepad) and save as [a .CSV file](https://instagram-video-files.techidaily.com/updated-from-followers-to-fans-a-guide-to-thriving-instagram-presence/) for use with applications like Microsoft Excel and LibreOffice Calc. It wouldn't surprise me if Microsoft eventually adds a built-in "Open in Excel" button for table results.
 
@@ -55,8 +67,9 @@ Opening a .CSV file in Excel with data pasted from Bing's CSV export
  Again, you should always check Bing's citations to make sure the information is correct. For example, with tech products like iPhones, I've found Bing often citing old articles about rumored details rather than finalized specifications or product pages.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Multi-step Web Searches
 
  Bing's greatest strength might be its ability to convey information in a single response that normally takes several web searches. For example, let's say I'm watching Star Trek: Enterprise, and I see [a character](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU202470/https://www.youtube.com/watch?v=GbpNgKUP6n4) who I recognize as being played by the actor who played the android Data in Star Trek: The Next Generation, but the character in this show is not Data.
@@ -65,9 +78,6 @@ Opening a .CSV file in Excel with data pasted from Bing's CSV export
 
 !["Data is a character from Star Trek: The Next Generation and its spin-off movies, not Star Trek: Enterprise12. He is an android created by Dr. Noonian Soong3, who is a descendant of Arik Soong, a geneticist who appeared in three episodes of Star Trek: Enterprise3. Are you looking for those episodes?"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-07-at-3.55.58-PM.png) 
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
  Meanwhile, I asked Bing "There's someone who looks like Data in Star Trek Enterprise, which episodes does he appear in?" Bing Chat correctly identified that Spiner plays [Arik Soong](https://memory-alpha.fandom.com/wiki/Arik%5FSoong) in Star Trek Enterprise, and why he was cast in the role: "\[Data\] is an android created by Dr. Noonian Soong, who is a descendant of Arik Soong, a geneticist who appeared in three episodes of Star Trek: Enterprise." Bing then provided a list of episodes with Arik Soong, citing IMDB and various fan wikis.
 
  There are other examples of this with more practical purposes, but if it's an important question, you need to double-check Bing's logic. I asked Bing to tell me the minimum box size I would need to ship a Nintendo Switch Lite and an M1 MacBook Air, and it checked the web for the dimensions of both devices to produce an answer: 8.51 by 8.18 by 1.43 inches. The answer didn't include padding, which would definitely be needed if I was shipping those items, but Bing did in fact tell me "you may also want to consider adding some padding or cushioning materials."
@@ -84,14 +94,8 @@ Related: [Bing Chat AI Is a Surprisingly Good Travel Agent](https://fox-friendly
 
 ![Bing ASCII car art](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-06-at-4.17.36-PM.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Maybe the lines could be arms? It looks more like a person standing next to a tent. Oh well.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ##  Date and Time Conversions
 
  Time zone conversions can be tricky, especially when the difference is enough to shift the date, or when one place is following Daylight Savings Time (DS) and another place is not. Bing can easily handle these conversions, usually while explaining the logic involved.
@@ -104,9 +108,6 @@ Opening a .CSV file in Excel with data pasted from Bing's CSV export
 
  I still prefer Time.is for most time-related tasks, especially since [the link for an event](https://time.is/compare/0800AM%5F16%5FJuly%5F2024%5Fin%5FParis) can be shared, but I haven't noticed Bing providing incorrect data for time conversions yet.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Turn Web Pages Into Quizzes
 
  Multiple-choice quizzes or flash cards can be a helpful tool for studying, but the process of converting notes, web resources, or book chapters into actionable data can be time-intensive. That process in itself can sometimes help you memorize information, but Bing can also quiz you on any provided data.
@@ -114,6 +115,10 @@ Opening a .CSV file in Excel with data pasted from Bing's CSV export
  Bing is inconsistent with how it generates answers to prompts about quizzes, sometimes choosing to give you all the questions and answers in one statement (which you then have to handle yourself), and sometimes starting an interactive quiz. I've had the best luck with getting the latter format by asking "Quiz me with multiple choices based on this page only:" followed by a pasted web address.
 
 ![Bing ASCII car art](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-06-at-4.17.36-PM.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Even when saying "this page only," Bing will sometimes use data from similar web pages. For example, I asked it to quiz me about a How-To Geek article, which also pulled in a post on Twitter that linked to the article. There seems to be no way to fully override this except to use the Bing sidebar in Microsoft Edge (only the [Canary](https://www.microsoftedgeinsider.com/en-us/download/canary) and [Dev](https://www.microsoftedgeinsider.com/en-us/download/dev) versions have Bing, as of March 2023).
 
@@ -123,14 +128,15 @@ Opening a .CSV file in Excel with data pasted from Bing's CSV export
 
  I've still encountered a few bugs in this mode where data is pulled from elsewhere -- Bing asked me about the core temperature of the Sun from a How-To Geek article about [collecting DVDs](https://extra-lessons.techidaily.com/instantaneous-infiltration-of-lost-reddit-threads/). There's a chance Microsoft has fixed those problems by the time you read this article.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ##  Get Up to Speed on Current Events
 
  Every once in a while, there will be something that everyone is talking about and simultaneously requires a detailed explanation of context to understand. If it's a news topic, recent articles usually include recent context as you read past the first few sentences, but not always. Bing can be helpful in circumstances where you have no clue what is going on, and recent news coverage isn't helping.
 
 !["Data is a character from Star Trek: The Next Generation and its spin-off movies, not Star Trek: Enterprise12. He is an android created by Dr. Noonian Soong3, who is a descendant of Arik Soong, a geneticist who appeared in three episodes of Star Trek: Enterprise3. Are you looking for those episodes?"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-07-at-3.55.58-PM.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Usually, you can ask something like "explain Sweden in NATO," and Bing will describe the topic in a few sentences. As with all of Bing's responses, make sure to check the citation links and ensure they are reputable sources that you trust. I've also found that Bing occasionally pulls data from outdated news articles, so if you're asking about an ongoing situation in the news, it may tell you outdated information.
 
@@ -140,8 +146,6 @@ Opening a .CSV file in Excel with data pasted from Bing's CSV export
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +153,18 @@ Opening a .CSV file in Excel with data pasted from Bing's CSV export
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-the-battle-of-accessible-viewerships-google-vs-samsung-headsets/"><u>[New] The Battle of Accessible Viewerships Google Vs. Samsung Headsets</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-screencast-essentials-from-basics-to-advanced-tactics/"><u>[Updated] Screencast Essentials From Basics to Advanced Tactics</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-low-fee-android-communication-options-10-best/"><u>2024 Approved Low-Fee Android Communication Options, 10 Best</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-path-to-crafting-killer-podcast-names-plus-inspiration-sparks/"><u>2024 Approved The Ultimate Path to Crafting Killer Podcast Names, Plus Inspiration Sparks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boost-your-audio-experience-easy-peasy-new-nahimic-driver-version-available/"><u>Boost Your Audio Experience Easy-Peasy: New Nahimic Driver Version Available</u></a></li>
+<li><a href="https://win-top.techidaily.com/guide-complet-pour-rechercher-des-fichiers-disparus-dans-windows-10-et-11-8-techniques-essentielles/"><u>Guide Complet Pour Rechercher Des Fichiers Disparus Dans Windows 10 Et 11 - 8 Techniques Essentielles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transforming-srt-a-complete-reference-guide-for-conversion/"><u>In 2024, Transforming SRT A Complete Reference Guide for Conversion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unearthed-30-window-11-insider-strategies-to-boost-performance/"><u>In 2024, Unearthed 30 Window 11 Insider Strategies to Boost Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-challenges-with-your-dhcp-server-effective-strategies-for-restoring-connectivity/"><u>Overcoming Challenges with Your DHCP Server - Effective Strategies for Restoring Connectivity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unfolding-cinema-narratives-for-2024/"><u>Unfolding Cinema Narratives for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-tiktoks-secrets-10-steps-to-make-your-videos-go-viral/"><u>Unlocking TikTok's Secrets: 10 Steps to Make Your Videos Go Viral</u></a></li>
+</ul></div>
 
