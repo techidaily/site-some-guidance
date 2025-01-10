@@ -1,7 +1,7 @@
 ---
 title: Intégration De Nouvelles Fonctionnalités Dans La Plateforme Timeline D'ABBYY Pour Soutenir Les Entreprises Dans L'atteinte De Leurs Objectifs Opérationnels
-date: 2024-08-21T17:45:12.924Z
-updated: 2024-08-22T17:45:12.924Z
+date: 2025-01-02T22:22:39.050Z
+updated: 2025-01-09T20:32:41.951Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068fdbe75a38577d96433ea41b.jpg
@@ -11,13 +11,25 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY introduit de nouvelles fonctionnalités à sa plateforme Timeline pour aider les entreprises à atteindre leurs objectifs opérationnels
 
 31 janvier 2023
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Timeline 6 News](https://static4.abbyy.com/abbyycommedia/36644/timeline-6-news.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * ABBYY Timeline permet d'identifier les opportunités d'automatisation 80 % plus rapidement et d'accélérer de 30 % la restructuration des processus en vue d'améliorer l'expérience des collaborateurs et des clients.
 * Les fonctionnalités de modélisation des processus veillent à ce que les investissements en matière de développement produisent les résultats escomptés afin de conserver un avantage concurrentiel.
@@ -47,6 +59,10 @@ _Richard Davis, Partner, Management Consulting, Business and Technology Transfor
 
 Pour en savoir plus sur ABBYY Timeline, veuillez télécharger un extrait gratuit du rapport The ISG Provider Lens™ Intelligent Automation Platforms and Products, visionner la démo et vous inscrire aux futurs événements [ici](https://tools.techidaily.com/abbyy/products/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### À propos d’ABBYY
 
 ABBYY est un acteur référent de l’Intelligent Process Automation. L’entreprise ambitionne de réinventer la manière dont ses clients et leurs équipes se développent en leur apportant la connaissance nécessaire au bon fonctionnement des plateformes d’automatisation. Les solutions d’ABBYY transforment les données d’entreprise dans le but de permettre un gain en agilité et en rapidité. ABBYY aide plus de 10 000 clients dans le monde, dont bon nombre des entreprises du Fortune 500, à obtenir un impact positif dans des domaines majeurs tels que l’expérience client, la rentabilité et la compétitivité.
@@ -54,15 +70,13 @@ ABBYY est un acteur référent de l’Intelligent Process Automation. L’entrep
 ABBYY est une multinationale basée aux États-Unis, et dont les bureaux sont répartis au sein de 15 pays. Pour plus d’informations, veuillez consulter le site[https://www.abbyy.com/fr/](https://tools.techidaily.com/abbyy/products/).
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Contact presse
 
 ![02E Eva Mariahufschmitt](https://static4.abbyy.com/abbyycommedia/23663/02e-eva-mariahufschmitt.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 #### Eva-Maria Hufschmitt
 
 _ABBYY_
@@ -77,8 +91,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -86,4 +98,23 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-achieve-maximum-impact-in-fb-video-ads-use-free-tools-for-2024/"><u>[Updated] Achieve Maximum Impact in FB Video Ads - Use Free Tools for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-unlocking-windows-11-your-ultimate-cheat-sheet/"><u>2024 Approved Unlocking Windows 11 Your Ultimate Cheat Sheet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-xiaomi-redmi-12-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Xiaomi Redmi 12 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/becoming-a-visionary-in-depth-guide-to-hdr-photography/"><u>Becoming a Visionary In-Depth Guide to HDR Photography</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-free-4k-video-players-of-2023-top-picks-for-windows-11-macos-and-more/"><u>Best Free 4K Video Players of 2023: Top Picks for Windows 11, macOS & More</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725287624344-digiarty-software-dvd/"><u>Digiarty Software ラインナップ: DVD焼き付け・コピー、動画変換・ファイル転送ツール一式</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725287644874-dvdpc/"><u>DVD儲存技巧：探索三大有效方法將光碟資料遷移至PC</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/explore-discoworld-the-top-10-theme-hits/"><u>Explore DiscoWorld The Top 10 Theme Hits</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unlock-the-secrets-of-automatic-youtube-videos-on-fb/"><u>In 2024, Unlock the Secrets of Automatic YouTube Videos on FB</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-depth-analysis-applying-luts-to-elevate-your-cinematography-for-2024/"><u>In-Depth Analysis Applying LUTs to Elevate Your Cinematography for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-sony-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Sony Phone FRP Lock</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/journey-to-picture-perfection-iphone-tips-for-stunning-skylines/"><u>Journey to Picture Perfection IPhone Tips for Stunning Skylines</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-3-best-free-video-converters-in-2019-for-mac-and-pc-convert-high-resolution-4k-to-hd/"><u>Top 3 Best Free Video Converters in 2019 for Mac & PC: Convert High-Resolution 4K to HD</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-videos-into-high-quality-masterpieces-using-winxvideo-ai/"><u>Transform Your Videos Into High-Quality Masterpieces Using Winxvideo AI</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windows-10-11dvd-shrink-dvd/"><u>Windows 10 或 11不支持DVD Shrink?發現功能強大的 DVD 克隆工具</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winx-dvd-copy-tutorial-und-benutzungsanleitung-professionelles-dvd-duplikat-handwerk/"><u>WinX DVD Copy Tutorial Und Benutzungsanleitung: Professionelles DVD Duplikat-Handwerk</u></a></li>
+</ul></div>
 

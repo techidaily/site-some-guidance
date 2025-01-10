@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enabled: Enhance Your Site's User Experience with Personalized Marketing"
-date: 2024-08-21T17:43:26.964Z
-updated: 2024-08-22T17:43:26.964Z
+date: 2025-01-02T19:38:36.540Z
+updated: 2025-01-09T16:52:20.763Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a23b6166dff1d71405deccff3c580ba47c280d1fae23b982db1e3d6f2479cd12.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/a23b6166dff1d71405deccff3c580ba47c280d1fa
 
 [Actualités](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Étude ABBYY : 96 % des entreprises françaises ont investi sur des projets d’automatisation en 2019, mais avec un manque de stratégie et de compétences
 
 09 mai 2019
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### _Un quart des entreprises françaises (25 %) ont investi plus de 300 000 euros dans des projets reposant sur l’intelligence artificielle en 2019_
 
@@ -27,6 +35,10 @@ Selon l’étude réalisée par ABBYY, plus de la moitié des entreprises franç
 Les technologies d’automatisation de contenu permettent l’amélioration de la rentabilité des entreprises en augmentant la productivité des équipes, et ce, davantage que les autres méthodes d’automatisation. De surcroît, l’enquête démontre que les résultats enregistrés par les entreprises faisant appel à ces technologies dépassent leurs espérances initiales.
 
 ![abbyy96pr-desktop](https://static1.abbyy.com/abbyycommedia/22494/01a-abbyy96pr-desktop.jpg)![abbyy96pr-desktop](https://static1.abbyy.com/abbyycommedia/22494/01a-abbyy96pr-desktop.jpg)![abbyy96pr-320](https://static1.abbyy.com/abbyycommedia/22495/01b-abbyy96pr-320.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Graphique récapitulatif des domaines dans lesquels les entreprises ont implémenté des technologies d’automatisation_
 
@@ -69,8 +81,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -78,8 +88,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-speech-file-extract-and-critical-assessment/"><u>[New] In 2024, Speech File Extract & Critical Assessment</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-investigating-the-underreported-drawbacks-of-vr-for-2024/"><u>[New] Investigating the Underreported Drawbacks of VR for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/iuoajowgjeeunplusocveodleodioobqplusocioociplusocpoodsplusocvplusodvoodroodvoocueinoplusmzpdog5pya5paw5oqa6kgt44gu5luv57we44g44go44oh44kj44ki44oz44og44o844k125/"><u>「再生ソフトによるインターレース解除: 最新技術の仕組みとディアンテージプロセスを理解する」</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-steigern-sie-mithilfe-von-winxvideo-ai-die-professionalitat-ihrer-videodateien/"><u>1. Steigern Sie Mithilfe Von Winxvideo AI Die Professionalität Ihrer Videodateien</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2023-fb-video-downloader-app-windows-macos-android/"><u>2023 FB Video Downloader App - Windows, macOS, Android</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-deeper-insight-into-augmented-reality-stickers-by-google/"><u>2024 Approved A Deeper Insight Into Augmented Reality Stickers by Google</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windows-movie-makerwindows-1011/"><u>解決方式： Windows Movie Maker在Windows 10/11發生故障時的修復技巧 - 包含失去音效的問題</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725287308428-windows-1110-10/"><u>最新Windows 11/10用户必携 10款安全迅速视频编码软件选择</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722972435332-amd-gpu-utility-tools-download-your-free-driver-package-today/"><u>AMD GPU Utility Tools - Download Your Free Driver Package Today!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ing-the-gap-incorrancing-youtube-links-within-presentation-software-for-2024/"><u>Bridging the Gap Incorrancing YouTube Links Within Presentation Software for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comment-guerir-un-fichier-video-mp4-endommage-sans-cout-sur-ordinateur-et-mac/"><u>Comment Guérir Un Fichier Video MP4 Endommagé Sans Coût Sur Ordinateur Et Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/como-transferir-archivos-de-dvd-a-tu-cuenta-de-google-drive-efectivamente/"><u>Cómo Transferir Archivos De DVD a Tu Cuenta De Google Drive Efectivamente</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/converting-avchd-format-a-comprehensive-tutorial-for-editing-in-windows-movie-maker/"><u>Converting AVCHD Format: A Comprehensive Tutorial for Editing in Windows Movie Maker</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-step-into-the-world-of-incredible-ig-filmmaking/"><u>In 2024, Step Into the World of Incredible IG Filmmaking</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2212474-9780007537013-the-monkey-in-2014-your-chinese-horoscope/"><u>The Monkey in 2014: Your Chinese Horoscope | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-budget-friendly-marvel-iphone-amo-14-plus-offers-all-day-power-and-surprising-features-reviewed/"><u>Unveiling the Budget-Friendly Marvel: IPhone Amo 14 Plus Offers All-Day Power & Surprising Features - Reviewed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windows-10-video-format-converter-open-source-change-your-videos-from-avimpegmp4wmvflv-into-any-desired-type-for-free/"><u>Windows 10 Video Format Converter (Open Source): Change Your Videos From AVI/MPEG/MP4/WMV/FLV Into Any Desired Type for Free</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Harness the Power of Cookiebot Technology for Targeted Marketing Insights
-date: 2024-08-21T17:41:44.652Z
-updated: 2024-08-22T17:41:44.652Z
+date: 2025-01-05T23:50:02.552Z
+updated: 2025-01-09T20:57:14.206Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/986874e17643e7ae409323b1b4781d84760454bfaeee292d2afe0ece59b7e568.jpg
@@ -11,45 +11,50 @@ thumbnail: https://thmb.techidaily.com/986874e17643e7ae409323b1b4781d84760454bfa
 
 White paper
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use Process Mining to Automate Wisely, Not to Automate Everything
 
 ![process mining and task mining - ABBYY](https://static1.abbyy.com/abbyycommedia/35762/181-use-process-mining-to-automate-wisely-en-262x340.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Learn how to be more strategic about where you implement process automation
 
 While process automation tools have been available for many years, identifying the right processes to automate is still a challenge. Manually mapping out how processes actually work and, more importantly, how they should work requires extensive engagement with process owners and subject matter experts. And at the end of the day, the results may not even be accurate, as they are based on human perceptions.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Download it now!
 
 That’s why so many organizations are starting their process automation journeys with process and task mining. These automated tools can quickly create a comprehensive and reliable view of how a process works to provide a solid, data-based foundation for an automation strategy. But should you rush to automate every opportunity revealed by these tools? No.
 
 Use this white paper to understand how to use process and task mining to ensure that the automation targets you select are the right ones for your goals.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Thank you for your interest in ABBYY.
 
 [Read white paper](https://digital.abbyy.com/hubfs/documents/content/whitepaper-timeline-process-task-mining-en.pdf "Read white paper") 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### You might also be interested in...
 
 [![NelsonHall Process Discovery and Process Mining NEAT Evaluation](https://static1.abbyy.com/abbyycommedia/34916/136-nelsonhall-2021-en-360x232.jpg) NelsonHall names ABBYY a Leader in 2021 Process Discovery & Mining NEAT Assessment See report](https://digital.abbyy.com/hubfs/documents/content/report-process-discovery-and-mining-evaluation-nelsonhall-2021-en.pdf "NelsonHall names ABBYY a Leader in 2021 Process Discovery & Mining NEAT Assessment")[![ABBYY TImeline Process Mining](https://static4.abbyy.com/abbyycommedia/31769/02-timeline-video-2021.jpg) ABBYY Timeline: A Cloud-Based, AI-Driven Process Mining Platform Learn more](https://www.abbyy.com/timeline/ "ABBYY Timeline: A Cloud-Based, AI-Driven Process Mining Platform")[![What Is Process Mining | ABBYY Blog](https://static1.abbyy.com/abbyycommedia/33617/timeline-screenshot.jpeg) What Is Process Mining (and Why Isn’t It Enough)? Read article](https://www.abbyy.com/blog/what-is-process-mining/ "What Is Process Mining (and Why Isn’t It Enough)?") 
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 #### Have questions? [Contact ABBYY](https://tools.techidaily.com/abbyy/products/)
 
 #### Get your copy by filling in the form.
@@ -110,8 +115,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +122,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-ultimate-guide-to-customized-text-editing-techniques/"><u>[New] 2024 Approved The Ultimate Guide to Customized Text Editing Techniques</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-how-to-download-gif-images-from-twitter/"><u>[Updated] 2024 Approved How to Download GIF Images From Twitter</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-understanding-the-dynamics-of-facebooks-in-stream-ad-model/"><u>[Updated] In 2024, Understanding the Dynamics of Facebook's In-Stream Ad Model</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-xml-ssa-ttml-conversion-your-pathway-to-perfected-srts/"><u>[Updated] XML, SSA, TTML Conversion Your Pathway to Perfected SRTs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-14-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 14 without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-your-first-sound-recording-guide-in-audacity-on-a-mac/"><u>In 2024, Your First Sound Recording Guide in Audacity on a Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-to-configuring-windows-firewall-ports/"><u>Step-by-Step Guide to Configuring Windows Firewall Ports</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-formatting-your-hard-diskssd-in-windows-11/"><u>Step-by-Step Guide: Formatting Your Hard Disk/SSD in Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-installing-universal-color-pickers-on-windows-11/"><u>Step-by-Step Guide: Installing Universal Color Pickers on Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-navigating-and-accessing-files-with-the-command-line-interface/"><u>Step-by-Step Guide: Navigating & Accessing Files with the Command Line Interface</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-turning-off-your-touchpad-in-windows-11/"><u>Step-by-Step Guide: Turning Off Your Touchpad in Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-verifying-java-installation-and-version-in-windows-10/"><u>Step-by-Step Guide: Verifying Java Installation & Version in Windows 10</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/unlinking-and-deleting-onedrive-from-your-pc-a-comprehensive-walkthrough-for-windows-11-users/"><u>Unlinking and Deleting OneDrive From Your PC: A Comprehensive Walkthrough for Windows 11 Users</u></a></li>
+</ul></div>
 

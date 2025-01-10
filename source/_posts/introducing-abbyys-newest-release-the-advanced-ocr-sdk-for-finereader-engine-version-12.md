@@ -1,7 +1,7 @@
 ---
 title: "Introducing ABBYY's Newest Release: The Advanced OCR SDK for Finereader Engine Version 12"
-date: 2024-08-21T17:44:30.780Z
-updated: 2024-08-22T17:44:30.780Z
+date: 2025-01-08T21:17:53.586Z
+updated: 2025-01-09T23:14:24.695Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee9116697553e1d530781cf64808b0b00.png
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY veröffentlicht FineReader Engine 12, das umfassende OCR SDK für virtuelle und Cloud-Umgebungen
 
 17\. Mai 2018
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### _Die neue Version des Software Development Kits ermöglicht die Integration von Texterkennung (OCR), PDF-Konvertierung und Data Capture in Anwendungen, die in einer virtuellen Umgebung, in der Cloud oder on-premise laufen_
 
@@ -76,8 +84,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -85,8 +91,20 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-cutting-edge-methods-for-capturing-audio-in-audacity/"><u>[New] In 2024, Cutting-Edge Methods for Capturing Audio in Audacity</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-turn-your-screen-time-into-earnings/"><u>[Updated] 2024 Approved Turn Your Screen Time Into Earnings</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-oppo-find-n3-flip-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Oppo Find N3 Flip without App | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725289193837-dvd2024/"><u>究極のDVDビューンズ！2024年の冷やかし方：画質改善ヒントと上達のコツを学ぶ</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-vivo-s18-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Vivo S18 Pro via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-dell-network-adapter-driver-for-windows-7/"><u>Download Dell Network Adapter Driver for Windows 7</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725288020796-dvd/"><u>DVD個人利用のための安全コピー・リッピングガイド |合法コピー保護権維持</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/gamings-finest-top-12-tycoon-games-ensuring-hours-of-fun/"><u>Gaming's Finest - Top 12 Tycoon Games Ensuring Hours of Fun</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guia-definitiva-de-software-digiarty-termos-del-acuerdo-final-para-usuarios-de-winxdvd/"><u>Guía Definitiva De Software Digiarty: Termos Del Acuerdo Final Para Usuarios De WinXDVD</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guida-per-trasformare-file-hevc-into-mp4-con-quality-preservation/"><u>Guida Per Trasformare File HEVC Into MP4 Con Quality Preservation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-convert-subtitles-from-a-dvd-into-srt-format-on-pc-or-mac/"><u>How to Convert Subtitles From a DVD Into SRT Format on PC or Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-recorder-decran-pour-les-utilisateurs-de-systemes-windows-1087-comment-capturer-entierement-ou-simplement-une-section-ecran/"><u>Top Recorder D'Écran Pour Les Utilisateurs De Systèmes Windows 10/8/7: Comment Capturer Entièrement Ou Simplement Une Section Écran</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-speedy-pics-viewing-tool/"><u>Ultimate Speedy Pics Viewing Tool</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

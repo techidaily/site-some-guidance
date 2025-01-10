@@ -1,7 +1,7 @@
 ---
 title: Can You Rely on the Authenticity of Generative AI?
-date: 2024-08-21T17:44:52.004Z
-updated: 2024-08-22T17:44:52.004Z
+date: 2025-01-04T17:52:33.808Z
+updated: 2025-01-10T00:30:18.768Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef3415c454c76fbd282fafbfc.jpg
@@ -41,6 +41,10 @@ Fourth is what is referred to as the “[Overton window bias](https://www.newsta
 
 Fifth is “deference bias,” wherein there is a tendency to trust technology, [considering the “workload of most knowledge workers and the immense promise of this shiny new toy”](https://www.forbes.com/sites/forbestechcouncil/2023/03/31/uncovering-the-different-types-of-chatgpt-bias/?sh=531d33c1571b).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The urgent need for AI regulation
 
 To address these biases, it’s prudent to adhere to ethical principles and values relating to the development and regulation of artificial intelligence (AI) technologies. There are four key reasons that the need for AI regulations must be addressed immediately:
@@ -58,9 +62,6 @@ It is for these reasons that there is increased urgency in developing AI regulat
 
 It can’t be ignored, however, that artificial intelligence systems are man-made, including the data on which they are trained. The bias that is being demonstrated by these systems mirrors the bias that exists in the human race. To improve this, the responsibility lies not only on developers but the end users of these technologies themselves—everyone must be held to a higher standard in order to correct the problem we have created.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Leveraging ChatGPT with ABBYY Vantage
 
 Blog
@@ -68,8 +69,9 @@ Blog
 [Learn more](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### What can be done to optimize ChatGPT output accuracy?
 
 Regulations that mitigate against the most obvious potential harms of generative AI is just one dimension to harness its potential. There are best practices and technological approaches that can improve the accuracy and reliability of generative AI-based applications.
@@ -89,8 +91,9 @@ Would you like to stay up to date on the latest thought leadership from ABBYY ex
 ![Andrewpery 99X99](https://static1.abbyy.com/abbyycommedia/25715/andrewpery-99x99.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Andrew Pery
 
 Digital transformation expert and AI Ethics Evangelist for ABBYY
@@ -101,9 +104,6 @@ Connect with Andrew on [LinkedIn](https://www.linkedin.com/in/andrew-pery-ll-m-c
 
 ![Maxime Vermeir 110X110 (1)](https://static3.abbyy.com/abbyycommedia/37004/maxime-vermeir_110x110-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 Maxime Vermeir
 
 Senior Director of AI Strategy
@@ -113,8 +113,9 @@ With a decade of experience in product and technology, Maxime Vermeir is an entr
 Connect with Max on [LinkedIn](https://www.linkedin.com/in/maximevermeir/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Additional Insights:
 
 1 / 3 
@@ -122,8 +123,9 @@ Connect with Max on [LinkedIn](https://www.linkedin.com/in/maximevermeir/).
 [![Are Large Language Models (LLMs) the Future?](https://static2.abbyy.com/abbyycommedia/37511/are-llms-the-future_848x444.jpg) **Are Large Language Models (LLMs) the Future?** Read more](https://tools.techidaily.com/abbyy/products/) [![The Gap Is Closing Between AI Innovation and Time-to-Value](https://static4.abbyy.com/abbyycommedia/37512/executive-insight_848x444.jpg) **The Gap Is Closing Between AI Innovation and Time-to-Value** Read more](https://tools.techidaily.com/abbyy/products/) [![How Banks Are Meeting Compliance Regulations and Fighting Fraud with AI and Machine Learning](https://static3.abbyy.com/abbyycommedia/37506/how-banks-fight-fraud-with-ai-and-ml_848x444.jpg) **How Banks Are Meeting Compliance Regulations and Fighting Fraud with AI and Machine Learning** Read more](https://tools.techidaily.com/abbyy/products/) [![How Process Mining Improves Business Processes and Prevents Cyber Threats](https://static3.abbyy.com/abbyycommedia/37507/howprocessminingpreventscyberthreats_848x444.jpg) **How Process Mining Improves Business Processes and Prevents Cyber Threats** Read more](https://tools.techidaily.com/abbyy/products/) [![Customer Point of View: Process Mining Reveals $6 Million in Savings](https://static2.abbyy.com/abbyycommedia/37509/leading-financial-institution-saves-millions_848x444.jpg) **Customer Point of View: Process Mining Reveals $6 Million in Savings** Read more](https://tools.techidaily.com/abbyy/products/) [![Analysis Reveals Top Use Cases for IDP in US, Europe, and Asia-Pacific](https://static4.abbyy.com/abbyycommedia/37508/idp-trends-and-outcomes-report_848x444.jpg) **Analysis Reveals Top Use Cases for IDP in US, Europe, and Asia-Pacific** Read more](https://tools.techidaily.com/abbyy/products/) [![The Second Tax Revolution—How Trustworthy AI Transforms Online Tax Filing](https://static1.abbyy.com/abbyycommedia/37510/the-second-tax-revolution_848x444.jpg) **The Second Tax Revolution—How Trustworthy AI Transforms Online Tax Filing** Read more](https://tools.techidaily.com/abbyy/products/) [![How AI Can Help Government Agencies Win at Total Experience (TX)](https://static5.abbyy.com/abbyycommedia/37014/government_1214434168_848x444.jpg) **How AI Can Help Government Agencies Win at Total Experience (TX)** Read more](https://tools.techidaily.com/abbyy/products/) [![Creating an Intelligent Automation Symphony](https://static1.abbyy.com/abbyycommedia/36940/tlp_ia_orchestra_485765348_848x444.jpg) **Creating an Intelligent Automation Symphony** Read more](https://tools.techidaily.com/abbyy/products/) [![Document AI Creating a Safer World](https://static1.abbyy.com/abbyycommedia/37016/saferworld_863497498_848x444.jpg) **Document AI Creating a Safer World** Read more](https://tools.techidaily.com/abbyy/products/) [![Customer Point of View: Approach Automation Step by Step](https://static4.abbyy.com/abbyycommedia/37013/fte_613347676_848x444.jpg) **Customer Point of View: Approach Automation Step by Step** Read more](https://tools.techidaily.com/abbyy/products/) [![Top Reasons Why Customers Abandon Your Onboarding Processes...and How to Fix Them](https://static1.abbyy.com/abbyycommedia/37015/onboarding_875247286_848x444.jpg) **Top Reasons Why Customers Abandon Your Onboarding Processes...and How to Fix Them** Read more](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### Subscribe for updates
 
 Get updated on the latest insights and perspectives for business & technology leaders
@@ -172,8 +174,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +181,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-how-to-seamlessly-observe-the-most-praised-youtube-comments/"><u>[New] 2024 Approved How to Seamlessly Observe the Most Praised YouTube Comments</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-entering-the-world-of-content-creation-sign-up-tutorial/"><u>[Updated] Entering the World of Content Creation Sign Up Tutorial</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/avchdandmp4/"><u>「高画質AVCHD&MP4間をスムーズに変換する簡単ガイド!」</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-how-to-activate-and-customize-zooms-virtual-screen-mode/"><u>2024 Approved How to Activate and Customize Zoom's Virtual Screen Mode</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/customize-your-desktop-view-easily-with-the-windows-display-settings-walkthrough-by-yl-software-specialists/"><u>Customize Your Desktop View Easily with the Windows Display Settings Walkthrough by YL Software Specialists</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/get-your-free-avi-format-support-software-for-modern-windows-operating-systems/"><u>Get Your Free AVI Format Support Software for Modern Windows Operating Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-complet-expertise-sur-le-retournement-video-mp4-avec-haute-fidelite-pour-les-angles-cles-de-90180270-degres-methodes-securisees-et-efficaces/"><u>Guide Complet : Expertise Sur Le Retournement Vidéo MP4 Avec Haute Fidélité Pour Les Angles Clés De 90/180/270 Degrés - Méthodes Sécurisées Et Efficaces !</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-poco-m6-pro-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725290058200-macdvd/"><u>MacでDVDのコピー・移行手順：ディスクユーティリティ使い方</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/perfect-your-projects-a-step-by-step-tutorial-on-using-imovie-for-frame-by-frame-video-slowdowns/"><u>Perfect Your Projects: A Step-by-Step Tutorial on Using iMovie for Frame-By-Frame Video Slowdowns</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-what-to-do-if-paradox-launcher-wont-open/"><u>Solving the Issue: What to Do If Paradox Launcher Won't Open</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-solution-for-digital-conversions-with-digiartys-advanced-dvd-and-video-editing-tools/"><u>The Ultimate Solution for Digital Conversions with Digiarty's Advanced DVD & Video Editing Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-how-to-fix-euro-truck-simulator-2-pc-stability-issues/"><u>Troubleshooting Guide: How to Fix Euro Truck Simulator 2 PC Stability Issues</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725288426601-winxdvd-dvd-iphone/"><u>WinXDVD 最新版本下載 - DVD 切片工具，影片編解碼器，適用 iPhone</u></a></li>
+</ul></div>
 

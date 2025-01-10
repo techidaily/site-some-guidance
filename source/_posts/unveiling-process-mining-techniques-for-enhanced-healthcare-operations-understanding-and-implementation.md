@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Process Mining Techniques for Enhanced Healthcare Operations: Understanding and Implementation."
-date: 2024-08-21T17:44:15.868Z
-updated: 2024-08-22T17:44:15.868Z
+date: 2025-01-04T00:31:14.852Z
+updated: 2025-01-10T01:39:10.327Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7920bad9c940d300dc2622371db47153e51643f1951aaa98f2575aa4c7a7894a.jpg
@@ -17,9 +17,17 @@ December 11, 2020
 
 ![TL Forblog | ABBYY Blog Post](https://static4.abbyy.com/abbyycommedia/31568/tl-forblog-848x444.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Every hospital, health system, and physician is facing increasing pressure to [manage revenue](https://tools.techidaily.com/abbyy/products/), optimize utilization, and reduce costs across their care continuum. Providers are being asked to do more with less amid tremendous complexity. With the proliferation of investments in EHR and other technologies, administrators and clinical teams are being inundated with dashboards and reports. Despite having all the information, they are often forced to make crucial operational decisions without complete insight.
 
 To manage the future of healthcare needs, providers must be able to better manage their business and clinical processes. Determining where and how to employ a quality improvement strategy is complex, but Process Mining can help medical professionals better understand clinical processes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How is Process Mining used in Healthcare?
 
@@ -29,13 +37,18 @@ To get a complete understanding of end-to-end processes, even in a complex indus
 
 ![healthcare process improvement](https://static1.abbyy.com/abbyycommedia/30413/healthcare-process-improvement.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Research for the application of [Process Mining in healthcare](https://tools.techidaily.com/abbyy/products/) is transitioning from academic theory to real transformation of your business processes. While this concept may be relatively new, there are reports by leading data scientists into the practical application with real world results.
 
 The Journal of Biomedical Informatics, a review analyzing the current adoption of Process Mining in healthcare by Eric Rojas et al., found that leading the way in the utilization of Process Mining for healthcare is in Europe, with 73% of current research being conducted here. According to a [recent survey into the State of Process Mining and RPA](https://tools.techidaily.com/abbyy/products/) in 2020, companies in France lead the way in terms of Process Mining, with 78% of respondents stating they are already using such tools.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### So how does Process Mining work?
 
 Process Mining is a technique that captures event logs from any number of systems of record and processes this data, allowing you to discover, monitor, visualize and ultimately improve your processes.
@@ -52,9 +65,6 @@ As discussed in Process Mining in Healthcare: Data Challenges when Answering Fre
 
 ![process improvement in healthcare](https://static1.abbyy.com/abbyycommedia/30414/healthcare-process.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 As a healthcare professional, you can use Process Mining to identify the best candidates for [process improvement in healthcare](https://tools.techidaily.com/abbyy/products/), which are often complex and time-sensitive and can take it one step further to improve the patient experience, avoid compliance risks and increase efficiency with Process Intelligence, a next-generation Process Mining solution.
 
 ABBYY’s Process Intelligence platform leverages advanced Process Mining technology, which includes process mapping and understanding, task mining and AI process forecasting capabilities, for process transformation. [**Click here**](https://tools.techidaily.com/abbyy/products/) to learn more.
@@ -62,8 +72,9 @@ ABBYY’s Process Intelligence platform leverages advanced Process Mining techno
 [Digital Transformation](https://tools.techidaily.com/abbyy/products/) [Process Mining](https://tools.techidaily.com/abbyy/products/) [Healthcare](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Like, share or repost
 
 Share 
@@ -118,8 +129,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +136,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/as-maiores-solucoes-reprodutoras-gratis-de-dvd-para-windows-top-12-selecionadas-por-usuarios-e-desenvolvedores/"><u>As Maiores Soluções Reprodutoras Grátis De DVD Para Windows: Top 12 Selecionadas Por Usuários E Desenvolvedores</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-free-aac-audio-players-top-5-choices-for-windows-and-macos/"><u>Best Free AAC Audio Players: Top 5 Choices for Windows & macOS</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210424923-9781789048476-beyond-sex-and-soup/"><u>Beyond Sex and Soup | Free Book</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725290420365-boosting-hevch265-video-compression-speed-tips-and-tricks/"><u>Boosting HEVC/H.265 Video Compression Speed – Tips and Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-tailoring-your-desktops-finder-display-settings-on-macos/"><u>Easy Steps: Tailoring Your Desktop's Finder Display Settings on MacOS</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/embracing-change-adaptability-as-the-new-normal-in-business-for-2024/"><u>Embracing Change Adaptability as the New Normal in Business for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-tips-for-intimate-filmmaking-approaches/"><u>Expert Tips for Intimate Filmmaking Approaches</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guia-rapida-como-hacer-que-tu-contenido-de-video-sea-mas-compartible-en-facebook-al-disminuir-su-tamano/"><u>Guía Rápida: Cómo Hacer Que Tu Contenido De Video Sea Más Compartible en Facebook Al Disminuir Su Tamaño</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-xiaomi-redmi-a2-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Xiaomi Redmi A2</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/keepvidcom-compatible-video-file-types-a-comprehensive-guide/"><u>KeepVid.com Compatible Video File Types: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/los-conversores-de-video-mas-efectivos-y-sin-coste-para-windows-10-explicado/"><u>Los Conversores De Video Más Efectivos Y Sin Coste Para Windows 10 Explicado</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/masterclass-guide-15-tripods-perfect-for-gopro/"><u>Masterclass Guide 15 Tripods Perfect for GoPro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ripper-dvd-gratuit-et-integral-telecharger-a-volonte-pour-une-conversion-video-infinie/"><u>Ripper DVD Gratuit Et Intégral : Télécharger À Volonté Pour Une Conversion Vidéo Infinie</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-silent-siri-a-step-by-step-guide-to-restoring-audio-on-your-iphone/"><u>Solving Silent Siri: A Step-by-Step Guide to Restoring Audio on Your iPhone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ultimate-selection-the-most-advanced-4k-tvs-available-in-202erlincoln-nebraska/"><u>Ultimate Selection: The Most Advanced 4K TVs Available in 202Erlincoln, Nebraska</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Empower Your Tech Savviness with Confident Data Management, Password Restoration Tips, and Skill Expansion | Wisdom From Within ABBYY
-date: 2024-08-21T17:41:30.149Z
-updated: 2024-08-22T17:41:30.149Z
+date: 2025-01-05T02:13:33.703Z
+updated: 2025-01-09T22:20:14.918Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4b5a03be31336b43fbf43c35.jpg
@@ -17,11 +17,19 @@ April 23, 2018
 
 ![](https://static1.abbyy.com/abbyycommedia/31055/mobile-monday-31.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Editorial note: FineReader PDF Mobile for Android, Business Card Reader for Android, and Text Grabber for Android & iOS have been discontinued since September 2023\. You can learn more about that [here](https://tools.techidaily.com/abbyy/products/)._
 
 ---
 
 Buying a new phone is always exciting. But what about all that useful stuff on your old phone? We show how to transfer your data and preserve your BCR account. Our colleague shares some tips on learning a new language.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **iOS Tip: How to Transfer Data From One iPhone to Another**
 
@@ -40,9 +48,6 @@ If you own a device running iOS 11, you can use it to set up your new iPhone. Yo
 
 While the data are being transferred, both phones have to remain side by side, connected to your Wi-Fi network, and their power adapters must be plugged into a wall socket.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### **2\. Using iCloud**
 
 Before using this method, create a backup of your phone data in iCloud (see [this newsletter](https://tools.techidaily.com/abbyy/products/) for detailed instructions). And here’s how can transfer your backup from iCloud on to your new phone:
@@ -54,8 +59,9 @@ Before using this method, create a backup of your phone data in iCloud (see [thi
 Stay connected until the restore process completes. Then complete the remaining steps. Once you are done setting up the device, stay connected and plugged into power while the device downloads your photos, music, apps, and other content from iCloud.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **3\. Using iTunes**
 
 The third method is to use iTunes. As with iCloud, you will have to make a backup first.
@@ -68,9 +74,6 @@ The third method is to use iTunes. As with iCloud, you will have to make a backu
 
 That’s it! Now you are all set up to use your new phone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## **Android Tip: How to Transfer Data From One Phone to Another**
 
 The most obvious and perhaps the easiest way to transfer your data between Android devices is through Google Drive (see [here](https://tools.techidaily.com/abbyy/products/) for instructions on how to back up your Android to Google Drive).
@@ -80,15 +83,9 @@ The most obvious and perhaps the easiest way to transfer your data between Andro
 3. Once you sign in to your account, your new device will automatically get all the settings from your old phone. Your phone book will be populated with your Google contacts, and all of the synched data will be downloaded, including your Gmail correspondence and **Calendar** events.  
 ![calendar gmail](https://static1.abbyy.com/abbyycommedia/31054/4.png)
 4. All the apps that you ever installed on your old phone from Play Market will be available on your new device at no charge. For your convenience, they will be listed separately under **My Apps** on the Play Market screen, where you can download and install them.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 
 Some device manufacturers (e.g. Sony and HTC) have designed their own backup software to make it easier for you to migrate to your newly purchased device.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## **ABBYY Tip: How to Restore Your ABBYY Cloud Password in BCR**
 
 Bad things may happen to good people. If you lose your ABBYY Cloud password, here’s how you can easily restore it in [BCR Android](http://qrs.ly/ip56xfe):
@@ -120,9 +117,9 @@ _By Alexander Poludnitsin, Junior Project Manager, Mobile Team_
 ![abbyy advice motivation learn new](https://static1.abbyy.com/abbyycommedia/26247/img_4057_small.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 The tips I want to share with you today will help you learn a new skill within the shortest possible time. A few years ago I quite unexpectedly had to relocate to France where I was to spend nine months. The only snag was that all I could say in French at the time was “Bonjour” and “Je m’appelle Alexander”. Here are the three key points that helped me become fluent in French within a very short time:
 
 1. **Motivation** helps people create companies and change their lives and the lives of millions around them. So, how can you motivate yourself? I think it’s all about having an honest conversation with yourself. Formulate (and preferably write down) your answers to these questions: Why do I need this skill? Why is it important to me? Save this note as a background picture on your phone or stick it on to a mirror. Now you will always have your goal before your eyes together with the reason why you need to achieve it.
@@ -134,6 +131,10 @@ Keep at it, and you’ll be glad you did!
 That’s it from us for today. See you next Monday! You can find the previous issue of this newsletter [here](https://tools.techidaily.com/abbyy/products/).
 
 [Mobile](https://tools.techidaily.com/abbyy/products/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -189,8 +190,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,4 +197,19 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-jubilant-join-and-disconnect-protocols/"><u>[New] Jubilant Join & Disconnect Protocols</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-know-your-rights-sharing-videos-with-friends-on-fb-for-2024/"><u>[New] Know Your Rights Sharing Videos with Friends on FB for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-ultimate-vision-ai-photography-workshop/"><u>[New] Ultimate Vision AI Photography Workshop</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-remove-background-using-picsart/"><u>[Updated] How to Remove Background Using Picsart</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-beginners-guide-going-live-with-ease-on-facebook/"><u>2024 Approved Beginner’s Guide Going Live with Ease on Facebook</u></a></li>
+<li><a href="https://win11.techidaily.com/dodging-delayed-wow-update-cycles/"><u>Dodging Delayed WoW Update Cycles</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-top-rated-free-video-editing-apps-with-effects-for-mobile/"><u>New 2024 Approved Top-Rated Free Video Editing Apps with Effects for Mobile</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tesla-model-3-cutting-edge-features-complement-its-stylish-appearance-in-the-new-2024-release/"><u>Tesla Model 3: Cutting-Edge Features Complement Its Stylish Appearance in the New 2024 Release</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-crucial-role-of-trust-in-advancing-ai-powered-search-technologies-and-the-challenge-of-gaining-it/"><u>The Crucial Role of Trust in Advancing AI-Powered Search Technologies and the Challenge of Gaining It</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-definitive-path-from-twitter-video-to-creatively-crafted-gifs/"><u>The Definitive Path From Twitter Video to Creatively Crafted GIFs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-futility-of-crushing-the-smartphone-industry-companies-cant-make-it-vanish/"><u>The Futility of Crushing the Smartphone Industry - Companies Can’t Make It Vanish.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-oura-ring-gen-3-next-level-personal-health-monitoring-explored/"><u>The Ultimate Guide to Oura Ring Gen 3: Next-Level Personal Health Monitoring Explored</u></a></li>
+</ul></div>
 

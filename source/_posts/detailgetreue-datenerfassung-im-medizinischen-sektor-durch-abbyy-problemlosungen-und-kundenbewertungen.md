@@ -1,7 +1,7 @@
 ---
 title: Detailgetreue Datenerfassung Im Medizinischen Sektor Durch ABBYY - Problemlösungen Und Kundenbewertungen
-date: 2024-08-21T17:43:38.636Z
-updated: 2024-08-22T17:43:38.636Z
+date: 2025-01-04T16:13:13.951Z
+updated: 2025-01-09T21:02:02.362Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f620077177c71b194a7d51d8ecab.jpg
@@ -17,7 +17,15 @@ Healthcare & Pharmaceuticals | Digital Archiving
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/de/70324.png?h=40&iar=0&w=120)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Zurück zu den Kundenreferenzen](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Detaillierte Dokumenten­erfassung im Dienste der Gesundheit
 
@@ -25,9 +33,17 @@ Gesundheitswesen und Pharmazie | Digitale Archivierung
 
 ![](https://static1.abbyy.com/abbyycommedia/15248/4208e_images_cs_bankstream556x303.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Über den Kunden
 
 ![Boehringer Ingelheim](https://static5.abbyy.com/abbyycommedia/16276/boeringer-ingelheim-155x69.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 | Name        | Boehringer Ingelheim                                                |
 | ----------- | ------------------------------------------------------------------- |
@@ -86,6 +102,10 @@ Die Installation bei Boehringer Ingelheim umfasst einen ABBYY Recognition Server
 
 [![cs-fraunhofernzz-360x162](https://static3.abbyy.com/abbyycommedia/17083/cs-fraunhofernzz-360x162.jpg)](https://static3.abbyy.com/abbyycommedia/6139/fallstudie-boehringer-ingelheim-healthcare-de.pdf "PDF-Version") [PDF-Version](https://static3.abbyy.com/abbyycommedia/6139/fallstudie-boehringer-ingelheim-healthcare-de.pdf "PDF-Version") 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Zum Dokument](https://static3.abbyy.com/abbyycommedia/6139/fallstudie-boehringer-ingelheim-healthcare-de.pdf "PDF-Version") 
 
 ###### Like, share or repost
@@ -96,9 +116,6 @@ Teilen  True ?  : ""
 
 [Alle ABBYY-Niederlassungen](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Sind Sie bereit, mit einem Experten zu sprechen?
 
 Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
@@ -111,8 +128,6 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +135,16 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-innovative-techniques-for-engaging-igtv-thumbnails/"><u>[New] In 2024, Innovative Techniques for Engaging IGTV Thumbnails</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/bewahrter-dvd-audioripper-kostenlos-professionelle-klangqualitat-aus-filmmaterial-extrahieren/"><u>Bewährter DVD-Audioripper Kostenlos: Professionelle Klangqualität Aus Filmmaterial Extrahieren</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comprehensive-guide-to-mastering-winx-dvd-creator-program-easily/"><u>Comprehensive Guide to Mastering WinX DVD Creator Program Easily</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-detaille-pour-sauvegarder-et-recopier-des-dvd-vers-disque-dur-en-iso-a-laide-de-winx-dvd-copy-pro/"><u>Guide Détaillé Pour Sauvegarder Et Recopier Des DVD Vers Disque Dur en ISO À L'aide De WinX DVD Copy Pro</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-setting-up-your-own-gmail-email-address-alternative/"><u>Step-by-Step Guide: Setting Up Your Own Gmail Email Address Alternative</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-guide-transforming-your-audiobooks-from-audible-format-to-mp3-on-macos-and-windows-systems/"><u>Step-by-Step Guide: Transforming Your Audiobooks From Audible Format to MP3 on macOS and Windows Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unrivaled-list-of-team-video-calling-services/"><u>Unrivaled List of Team Video Calling Services</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windows-11-mp42024-mp4/"><u>Windows 11 MP4プレーヤー導入ガイド：2024年版 - MP4再生手順と一般的エラートラブルシューティング</u></a></li>
+</ul></div>
 

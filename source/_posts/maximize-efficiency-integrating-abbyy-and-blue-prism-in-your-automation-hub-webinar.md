@@ -1,7 +1,7 @@
 ---
 title: "Maximize Efficiency: Integrating ABBYY & Blue Prism in Your Automation Hub Webinar"
-date: 2024-08-21T17:41:52.759Z
-updated: 2024-08-22T17:41:52.759Z
+date: 2025-01-03T19:42:45.048Z
+updated: 2025-01-10T02:44:05.265Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf84d67c3864e5678ef96194e7.jpg
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/1327be62e2a36c04a123df979f8639b0dac23eaf8
 
 [Back to Webinars](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Automation CoEs are Realizing Value with Data Driven Process Optimization
 
 English
@@ -19,15 +23,16 @@ English
 
 ![Webinar on demand: How Automation CoEs are Realizing Value with Data Driven Process Optimization](https://static1.abbyy.com/abbyycommedia/29928/97-how-automation-coes-en-360x232.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 That means that organizations already hold a wealth of data about every aspect of their process execution; but are they driving value from it?
 
 When properly ingested, merged, and analyzed, this wealth of data can be used to discover patterns and insights that illuminate paths to better customer experiences and new operational efficiencies.
 
 Organizations often struggle with where to start automation projects and how to quantify the value of an RPA project. ABBYY's Process Intelligence platform delivers that end-to-end system view that provides insight into sources of friction and where the greatest impact of automation resides. By applying advanced artificial intelligence and machine learning, you can predict and forecast processes into the future, while optimizing business operations through real-time monitoring.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Watch it now!
 
 This session outlines how pharmaceutical giant Pfizer is using ABBYY’s Process Intelligence platform and a proven methodology to build a roadmap for rapid automation across their enterprise utilizing Blue Prism Digital Workers:
@@ -39,11 +44,16 @@ This session outlines how pharmaceutical giant Pfizer is using ABBYY’s Process
 * Bring business users into the automation journey
 * Use Process Intelligence to drive sustainable competitive advantages
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fill in the form to register for the webinar now
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Get in touch with us
 
 Please note that progressive profiling is used on this form to incrementally collect profile data over time.   
@@ -53,30 +63,22 @@ All personal information collected via this method is under full scope of all pr
 
 [![How Automation Coes Are Realizing Value With Data Driven Process Optimization](https://static3.abbyy.com/abbyycommedia/29882/how-automation-coes-are-realizing-value-with-data-driven-process-optimization.png)](https://www.youtube.com/watch?v=aftXSUvP4JU) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 Please check your inbox, we have sent you a confirmation email.
 
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Have questions? [Contact ABBYY](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### You might also be interested in these assets
 
 [![Cards Financialservices 360X232](https://static2.abbyy.com/abbyycommedia/34945/cards-financialservices-360x232.jpg) Shared Services & Outsourcing Woche 2021 ![ABBYY Logo Forcards](https://static4.abbyy.com/abbyycommedia/25122/logo-2021-76x23.svg) ![Fraunhofer Logo Forcards 118X33 (1)](https://static2.abbyy.com/abbyycommedia/35533/fraunhofer-logo-forcards-118x33.png) German Watch webinar](https://www.abbyy.com/webinars/on-demand/handelsblatt-podcast-so-klingt-wirtschaft/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [![Cards BPO 360X232](https://static5.abbyy.com/abbyycommedia/34944/cards-bpo-360x232.jpg) Shared Services & Outsourcing Woche 2021 ![SSON Logo Forcards 180X30](https://static4.abbyy.com/abbyycommedia/34860/sson-logo-forcards-180x30.png) ![Bosch Logo Forcards 113X27](https://static5.abbyy.com/abbyycommedia/34858/bosch-logo-forcards-113x27.png) ![ABBYY Logo Forcards](https://static4.abbyy.com/abbyycommedia/25122/logo-2021-76x23.svg) German Watch webinar](https://www.abbyy.com/webinars/on-demand/shared-services-and-outsourcing-woche-2021/) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 #### Please fill in this form to watch the webinar:
 
 First name\*
@@ -131,8 +133,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +140,19 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-dynamic-typography-for-effects-top-10-picks-for-2024/"><u>[New] Dynamic Typography for Effects Top 10 Picks for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-revenue-harnessing-video-ad-dollars-on-youtube/"><u>[Updated] Unlocking Revenue Harnessing Video Ad Dollars on YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/boosted-visuals-a-beginners-guide-to-gopro-video-editing-for-2024/"><u>Boosted Visuals A Beginner's Guide to GoPro Video Editing for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/elgato-stream-deck-neo-review-initial-thoughts-and-features/"><u>Elgato Stream Deck Neo Review: Initial Thoughts and Features</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/expand-your-windows-experience-with-the-new-start11-start-menu-for-arm-based-computers/"><u>Expand Your Windows Experience with the New Start11 Start Menu for ARM-Based Computers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/exploring-macos-monterey-sequoia-unveiling-launch-timeline-device-support-and-exciting-enhancements/"><u>Exploring macOS Monterey (Sequoia): Unveiling Launch Timeline, Device Support & Exciting Enhancements</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/exploring-the-evolution-the-comprehensive-journey-through-microsoft-windows-wallpaper-design/"><u>Exploring the Evolution: The Comprehensive Journey Through Microsoft Windows Wallpaper Design</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-access-chatgpt-now-available-on-mac-without-subscription/"><u>Free Access: ChatGPT Now Available on Mac Without Subscription</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/high-impact-hairstyle-ideas/"><u>High-Impact Hairstyle Ideas</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-haul-videography-101-preparation-and-editing-for-maximum-impact/"><u>In 2024, Haul Videography 101 Preparation & Editing for Maximum Impact</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-oppo-reno-10-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Oppo Reno 10 5G Phones</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/up-your-game-mastering-effective-video-title-and-tag-techniques-for-2024/"><u>Step Up Your Game Mastering Effective Video Title & Tag Techniques for 2024</u></a></li>
+</ul></div>
 

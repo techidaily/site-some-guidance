@@ -1,7 +1,7 @@
 ---
 title: "Affordable News Transformation: How DL Consulting Reduces Costs with ABBYY® Technology"
-date: 2024-08-21T17:43:12.611Z
-updated: 2024-08-22T17:43:12.611Z
+date: 2025-01-07T00:47:51.733Z
+updated: 2025-01-09T18:52:53.125Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9aa59aabf55be668d5e1078d.jpg
@@ -13,11 +13,19 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
 
 Other | Digital Archiving
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## DL Consulting is cutting the cost on digitizing the news with ABBYY®
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/abbyy.png?h=40&iar=0&w=120)
 
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## DL Consulting is cutting the cost on digitizing the news with ABBYY®
 
@@ -94,13 +102,25 @@ The Veridian solution utilizing ABBYY Recognition Server has been built entirely
 
 [![ABBYY Recognition Server has rebranded as ABBYY FineReader Server](https://static4.abbyy.com/abbyycommedia/20638/11-frs-casepreview.jpg)](https://tools.techidaily.com/abbyy/products/) ") [ABBYY Recognition Server (now FineReader Server)](https://tools.techidaily.com/abbyy/products/) ") 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [read more](https://tools.techidaily.com/abbyy/products/) ") 
 
 [![5-Document-Archiving](https://static1.abbyy.com/abbyycommedia/14355/5-document-archiving.jpg)](https://tools.techidaily.com/abbyy/products/) [Document Archiving](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![4208e_Images_CS_DL-Consulting362x162](https://static4.abbyy.com/abbyycommedia/15252/4208e_images_cs_dl-consulting362x162.png)](https://static2.abbyy.com/abbyycommedia/15188/case-studies-dl-consulting-education-digital-archiving-en.pdf "PDF version") [PDF version](https://static2.abbyy.com/abbyycommedia/15188/case-studies-dl-consulting-education-digital-archiving-en.pdf "PDF version") 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [read more](https://static2.abbyy.com/abbyycommedia/15188/case-studies-dl-consulting-education-digital-archiving-en.pdf "PDF version") 
 
@@ -112,9 +132,6 @@ Share  True ?  : ""
 
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -127,8 +144,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +151,18 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-fist-of-legends-highest-rated-kung-fu-virtual-battles-for-2024/"><u>[New] Fist of Legends Highest-Rated Kung Fu Virtual Battles for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-mastering-macbook-air-beginners-guide-to-screen-recording/"><u>[New] Mastering MacBook Air Beginner's Guide to Screen Recording</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/15-best-youtube-channels-for-stock-market-to-follow-for-2024/"><u>15 Best YouTube Channels for Stock Market to Follow for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/hlsmp4/"><u>無償でHLSをMP4にするためのガイド：最新フリーソフト・サイト解説</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comparing-optical-media-key-contrasts-between-compact-discs-cds-and-digital-versatile-disks-dvds/"><u>Comparing Optical Media: Key Contrasts Between Compact Discs (CDs) and Digital Versatile Disks (DVDs)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/descubre-el-topo-programa-de-dvd-video-para-windows-11-descarga-su-version-gratuita-ahora/"><u>Descubre El Topo Programa De DVD Video Para Windows 11: ¡Descarga Su Versión Gratuita Ahora!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-launch-issues-with-roblox-a-step-by-step-guide/"><u>Fixing Launch Issues with Roblox – A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-back-to-gaming-immediate-fixes-for-voice-chat-glitches-in-fortnite/"><u>Get Back to Gaming: Immediate Fixes for Voice Chat Glitches in Fortnite</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-comprehensive-list-of-premium-ways-to-access-cricket-live/"><u>In 2024, Comprehensive List of Premium Ways to Access Cricket Live</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/kostenlose-moglichkeiten-eine-dvd-auf-einen-usb-stick-zu-kopieren-schritt-fur-schritt-anleitung/"><u>Kostenlose Möglichkeiten, Eine DVD Auf Einen USB-Stick Zu Kopieren - Schritt-Für-Schritt Anleitung</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/masterclass-in-merging-movies-with-modern-education/"><u>Masterclass in Merging Movies with Modern Education</u></a></li>
+</ul></div>
 

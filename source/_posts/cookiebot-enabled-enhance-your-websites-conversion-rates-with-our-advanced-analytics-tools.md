@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enabled: Enhance Your Website's Conversion Rates with Our Advanced Analytics Tools"
-date: 2024-08-21T17:41:19.003Z
-updated: 2024-08-22T17:41:19.003Z
+date: 2025-01-03T20:49:27.336Z
+updated: 2025-01-09T17:49:56.068Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c8dd3de60bc0fcf279454931.jpg
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 [Retourner aux expériences clients](https://tools.techidaily.com/abbyy/products/)
 
 Healthcare & Pharmaceuticals
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Gaches Chimie numérise les documents réception fournisseur pour en extraire les données pertinentes avec ABBYY FlexiCapture
 
@@ -67,9 +71,6 @@ convivialité de la recherche)
 
 #### Utilisation de la Solution
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### 1\. Alimentation de la solution en documents
 
 Les 15 000 documents réception fournisseurs qui arrivent chaque année dans l’entreprise au format papier sont numérisés sur chaque site par les 2 ou 3 personnes habilitées et non informaticiens (magasiniers formés par le service informatique de Gaches Chimie), et intégrés au fil de l’eau. Leur « identité » est automatiquement déterminée par ABBYY Flexicapture: bulletin d'analyse de matières chimiques versus certificat de conformité.
@@ -79,26 +80,29 @@ Les informations qu’ils contiennent sont également reconnues automatiquement 
 Les documents clients sont intégrés automatiquement dans la solution depuis l’ERP ; tous les mois, 5 documents sont archivés après avoir été traités dans le logiciel « maison » : bon de livraison client, certificat de conformité Gaches Chimie, facture client, commande fournisseur et réception fournisseur : ils sont exportés au format PDF dans Documind, accompagnés de leurs méta-données et deviennent immédiatement disponibles en consultation.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Stockage
 
 Les documents sont stockés dans Documind Advanced Solution : classés dans un plan de classement métier et indexés par des critères personnalisés selon le type de documents. Alors que le délai de purge est de 30 mois dans l’ERP, les documents sont conservés 10 ans dans Documind, car pendant cette période ils peuvent être demandés par la douane, la police…
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Recherche / Consultation
 
 Tous les profils de collaborateurs sont amenés à rechercher les documents gérés par la solution : les magasiniers, à qui un client peut demander de retrouver « le certificat de conformité de tel lot de janvier 2009 », les comptables à qui un client peut demander une copie de sa dernière facture… Les utilisateurs retrouvent les documents grâce à une recherche plein texte et/ou une exploration de plan de classement et/ou une recherche multicritère sur les index personnalisés par type de documents.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Publication
 
 Les documents peuvent être ponctuellement envoyés par mail aux clients et fournisseurs « à la demande » après une recherche dans Documind. En outre, au moment de l’édition du bon de livraison client dans l’ERP, les documents fournisseurs associés (certificat de conformité…) sont automatiquement envoyés.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Données clés
 
 * 150 utilisateurs, de tous les profils (magasiniers, comptables…)
@@ -107,6 +111,10 @@ Les documents peuvent être ponctuellement envoyés par mail aux clients et four
 par l’ERP au format PDF), et 15 000 documents fournisseurs par an (documents papier  
 numérisés et intégrés au fil de l’eau depuis chaque site après traitement par ABBYY FlexiCapture)
 * Délai de purge des documents: 30 mois dans l’ERP, 10 ans dans Documind.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bénéfices
 
@@ -122,9 +130,6 @@ Grâce à cette nouvelle solution, Gaches Chimie traite de manière plus efficac
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ### À propos d’ABBYY et contact
 
 [Vers la description d’ABBYY ›](https://tools.techidaily.com/abbyy/products/)
@@ -133,9 +138,6 @@ Grâce à cette nouvelle solution, Gaches Chimie traite de manière plus efficac
 
 Partager 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Prêt à parler à un expert ?
 
 Nous serions ravis de vous aider tout au long de votre parcours d’automatisation.
@@ -148,8 +150,6 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +157,16 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-revolutionize-digital-diaries-with-complimentary-tools/"><u>[Updated] Revolutionize Digital Diaries with Complimentary Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-your-marketing-journey-begins-here-experience-the-full-spectrum-of-over-50-free-ads/"><u>[Updated] Your Marketing Journey Begins Here - Experience the Full Spectrum of Over 50 FREE Ads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/desktop-accessible-now-discover-the-latest-chatgpt-software-version/"><u>Desktop Accessible Now: Discover the Latest ChatGPT Software Version</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-installation-realtek-audio-controller-drivers-for-windows-11-users/"><u>Effortless Installation: Realtek Audio Controller Drivers for Windows 11 Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/el-salvador-adopts-bitcoin-as-official-currency-insight-into-its-implementation/"><u>El Salvador Adopts Bitcoin as Official Currency – Insight Into Its Implementation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/eligibility-changes-could-disqualify-your-preferred-electric-vehicle-from-new-tax-incentives/"><u>Eligibility Changes Could Disqualify Your Preferred Electric Vehicle From New Tax Incentives</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/exploring-the-absence-of-virtual-reality-in-xbox-series-x-a-comprehensive-analysis/"><u>Exploring the Absence of Virtual Reality in Xbox Series X: A Comprehensive Analysis</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/gamers-insights-essential-tech-selection-criteria/"><u>Gamers’ Insights: Essential Tech Selection Criteria</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-itel-p40-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Itel P40 Device</u></a></li>
+</ul></div>
 

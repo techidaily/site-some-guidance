@@ -1,7 +1,7 @@
 ---
 title: Innovative Artificial Intelligence Enhancing Digital Tax Preparation
-date: 2024-08-21T17:41:50.101Z
-updated: 2024-08-22T17:41:50.101Z
+date: 2025-01-03T19:38:56.244Z
+updated: 2025-01-09T20:18:36.435Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbdb0f91708d2d1f403ab43196.jpg
@@ -41,13 +41,9 @@ AI can be trusted to fill in gaps in customers’ understanding of the tax proce
 From the customer’s perspective, AI-assisted filing eliminates the monotonous task of manual entry and provides the tools needed to maximize their return without assuming total control. By leaving the wheel in the filer’s hands, AI offers value while avoiding added risk.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Delivering on Artificial Intelligence’s Potential
 
 eBook
@@ -55,8 +51,9 @@ eBook
 [Learn more](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Enhancing business outcomes
 
 Some tax preparation companies use legacy systems that aren’t conducive to easy customization, restricting their agility in adapting to the wide variety of forms and special circumstances that arise during tax season. This means bottle necked back-end processes, which will delay customers’ returns and damage brand reputation.
@@ -68,14 +65,11 @@ One leading tax preparation company found that ABBYY Vantage extracted tier-one 
 [![Vantage Video Scr](https://static5.abbyy.com/abbyycommedia/37535/vantage-video-scr.jpg)](https://www.youtube.com/watch?v=8D3a48b1dF8) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 By putting more control in the hands of citizen developers to quickly deliver IDP solutions for their highest value use cases, artificial intelligence provides organizations with both immediate and long-term business value.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Enhancing public outcomes
 
 According to the [White House AI Bill of Rights](https://www.whitehouse.gov/ostp/ai-bill-of-rights/), artificial intelligence must work for the benefit of the public to be considered responsible and trustworthy. By using AI-driven software to inform government entities like Congress, the IRS, and courts of discrepancies within proposed tax law, [artificial intelligence could help close the $500 billion gap in tax revenue](https://hub.jhu.edu/2023/04/06/ai-tax-loopholes/) that is lost to legal loopholes.
@@ -87,17 +81,9 @@ This is an advanced application of artificial intelligence that currently exists
 ![Chip Vonburg Blog](https://static5.abbyy.com/abbyycommedia/37527/chip-vonburg-blog.png)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Chip VonBurg
 
 Chief Customer Officer at ABBYY
@@ -109,9 +95,9 @@ Chip’s deep knowledge of AI, machine learning and the systems driving organiza
 Connect with Chip on [LinkedIn](https://www.linkedin.com/in/chipvonburg/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Additional Insights:
 
 1 / 3 
@@ -166,8 +152,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +159,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-building-bridges-pathways-for-graphic-design-aspirants-for-2024/"><u>[New] Building Bridges Pathways for Graphic Design Aspirants for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-influencers-playbook-5-tips-for-building-brand-authority-through-reddit-partnerships-for-2024/"><u>[New] The Influencer's Playbook 5 Tips for Building Brand Authority Through Reddit Partnerships for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-ultimate-keyboard-shortcut-compendium-for-mac-screening/"><u>[Updated] In 2024, The Ultimate Keyboard Shortcut Compendium for Mac Screening</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-effortless-techniques-for-extracting-songs-from-a-compact-disc-using-microsoft-windows/"><u>1. Effortless Techniques for Extracting Songs From a Compact Disc Using Microsoft Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/almost-here-the-anticipated-windows-11-upgrade-of-2024/"><u>Almost Here: The Anticipated Windows 11 Upgrade of 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/childhood-wellness-and-tasty-treats-google-plays-best-kids-app-mondly-kids-guide-of-2017/"><u>Childhood Wellness and Tasty Treats - Google Play’s Best Kids App, Mondly Kids Guide of 2017</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-disable-windows-11s-newly-added-start-menu-advertisements/"><u>How to Disable Windows 11'S Newly Added Start Menu Advertisements</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-d3dx925dll-is-missing-or-not-found-errors/"><u>How to Fix D3dx9_25.dll Is Missing or Not Found Errors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/introducing-qualcoms-innovative-arm-processor-for-windows-desktops-a-new-era-of-efficiency-and-performance/"><u>Introducing Qualcom's Innovative ARM Processor for Windows Desktops: A New Era of Efficiency and Performance</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-disc-creation-in-windows-11-a-comprehensive-tutorial-for-cds-and-dvds/"><u>Mastering Disc Creation in Windows 11: A Comprehensive Tutorial for CDs & DVDs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/monitor-your-documents-accessing-print-log-history-in-microsoft-windows-10/"><u>Monitor Your Documents: Accessing Print Log History in Microsoft Windows 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavis-easy-solution-convert-your-avi-videos-to-compatible-3gp-format-at-no-cost/"><u>Movavi's Easy Solution: Convert Your AVI Videos to Compatible 3GP Format at No Cost</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-your-apple-watch-touch-problems-understanding-why-it-may-fail-to-react/"><u>Resolving Your Apple Watch Touch Problems: Understanding Why It May Fail to React</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-troubleshooting-for-windows-nwhere-there-is-no-audio-output-device-installed-error/"><u>Step-by-Step Troubleshooting for Windows Nwhere There Is No Audio Output Device Installed' Error</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-best-exercise-journaling-apps-for-the-year-2024/"><u>The Ultimate List: Best Exercise Journaling Apps for the Year 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-solving-among-us-pc-voice-chat-issues/"><u>Troubleshooting Steps: Solving 'Among Us' PC Voice Chat Issues</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unbeatable-technology-deals-save-big-on-google-pixel-7a-phones-sleek-anker-headsets-crystal-clear-hisense-tvs-and-efficient-robovacs/"><u>Unbeatable Technology Deals! Save Big on Google Pixel 7a Phones, Sleek Anker Headsets, Crystal Clear Hisense TVs & Efficient RoboVacs.</u></a></li>
+</ul></div>
 

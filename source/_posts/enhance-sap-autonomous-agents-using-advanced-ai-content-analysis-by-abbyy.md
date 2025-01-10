@@ -1,7 +1,7 @@
 ---
 title: Enhance SAP Autonomous Agents Using Advanced AI Content Analysis by ABBYY
-date: 2024-08-21T17:43:44.582Z
-updated: 2024-08-22T17:43:44.582Z
+date: 2025-01-09T02:01:54.929Z
+updated: 2025-01-10T03:12:40.721Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/436e7c090c1399dacbfd65fa5eec6eb667bcc5539d8f70bb67561d5aae5ff3b5.jpg
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/436e7c090c1399dacbfd65fa5eec6eb667bcc5539
 ## Enhance SAP Autonomous Agents Using Advanced AI Content Analysis by ABBYY
 
 ## 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ABBYY | SAP 
 
@@ -24,6 +28,10 @@ Le partenariat entre ABBYY et SAP offre aux entreprises la possibilité d’amé
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/hyperautomation/overview-image.jpg?h=440&iar=0&w=848)
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/digital-document-archiving/drawer-image.jpg?h=392&iar=0&w=696)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Comment ABBYY et SAP collaborent 
 
@@ -43,8 +51,9 @@ Comment obtenir une transparence totale de chaque activité, identifier les oppo
 [Télécharger la brochure](https://static1.abbyy.com/abbyycommedia/33180/brochure-timeline-sap-connector-en.pdf)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Avantages de l’intégration 
 
 ##### Respectez la réglementation 
@@ -72,11 +81,13 @@ Téléchargez le connecteur FlexiCapture pour SAP Intelligent RPA depuis la bout
 ![](https://content.abbyy.com/-/media/feature/basecomponents/clients/sap.png?h=40&iar=0&w=120)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Prêt à parler à un expert ?
 
 [Demander une démo](https://tools.techidaily.com/abbyy/products/)[Contactez-nous](https://tools.techidaily.com/abbyy/products/)
@@ -87,8 +98,6 @@ Téléchargez le connecteur FlexiCapture pour SAP Intelligent RPA depuis la bout
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -96,4 +105,16 @@ Téléchargez le connecteur FlexiCapture pour SAP Intelligent RPA depuis la bout
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-navigating-tiktoks-guest-entry-guide/"><u>[Updated] 2024 Approved Navigating TikTok's Guest Entry Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/googlemp3/"><u>「Google検索エンジンに適したMP3ダウンロードベストプラクティス - コマンドライン無制限」</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-realme-narzo-60-pro-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Realme Narzo 60 Pro 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-mkv-editor-software-top-10-tools-for-trimming-cropping-and-combining-matroska-video-files/"><u>Best MKV Editor Software: Top 10 Tools for Trimming, Cropping, and Combining Matroska Video Files</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/descubre-el-secreto-para-reducir-tamano-de-videos-grandes-a-la-perfecta-resolucion-para-whatsapp/"><u>Descubre El Secreto Para Reducir Tamaño De Videos Grandes a La Perfecta Resolución Para WhatsApp</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-google-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Google Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/lia-interpolation-dimages-pour-ameliorer-les-frames-per-second-et-les-transitions-sans-perturbation/"><u>L'IA Interpolation D'Images Pour Améliorer Les Frames Per Second Et Les Transitions Sans Perturbation</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-mac-users-rejoice-download-splice-video-editor-today/"><u>New In 2024, Mac Users Rejoice Download Splice Video Editor Today</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-p55plus-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from P55+.</u></a></li>
+</ul></div>
 

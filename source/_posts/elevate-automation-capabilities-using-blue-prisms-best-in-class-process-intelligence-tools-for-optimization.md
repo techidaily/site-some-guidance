@@ -1,7 +1,7 @@
 ---
 title: Elevate Automation Capabilities Using Blue Prism's Best in Class Process Intelligence Tools for Optimization
-date: 2024-08-21T17:40:16.622Z
-updated: 2024-08-22T17:40:16.622Z
+date: 2025-01-06T16:58:59.242Z
+updated: 2025-01-09T21:04:42.687Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d18b4563b5a8924a658295ed.jpg
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 ![Blueprism News 848X444](https://static4.abbyy.com/abbyycommedia/34371/blueprism-news-848x444.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### _Blue Prism integriert ABBYY Timeline in Blue Prism Capture, um eine vollständige Prozess- und Aufgabenerkennung als Standardfunktion anzubieten._
 
@@ -47,15 +51,12 @@ Das neue Angebot trägt wesentlich zum Erfolg eines jeden Unternehmens, für das
 
 [Erfahren Sie mehr](https://www.blueprism.com/products/blue-prism-process-intelligence/?utm%5Fsource=prnewswire&utm%5Fmedium=press-release&utm%5Fcampaign=gl-product-2021-q4-10-1-blue-prism-process-intelligence) über Blue Prism Process Intelligence Powered by ABBYY Timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ### Hinweise an die Redaktion: 
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Über Blue Prism
 
 Blue Prism ist der weltweit führende Anbieter intelligenter Automatisierung und robotergesteuerter Prozessautomatisierung (RPA) für Unternehmen und verändert die Art und Weise, wie Arbeiten ausgeführt werden. Wir haben 2.000 Kunden in über 170 Ländern und 70 Branchen – 30 % der Unternehmen gehören zu denGlobal 2000 (gemäß Forbes), die mit neuen Arbeitsweisen ihre Effizienz steigern und Millionen ihrer Arbeitsstunden anderweitig nutzbar machen. Unsere Digital Workforce ist intelligent, sicher, skalierbar und für alle zugänglich. 
@@ -65,24 +66,23 @@ Das schafft Freiräume, um Arbeit wirklich neu zu gestalten. Weitere Information
 © 2021 Blue Prism Limited. „Blue Prism“, das „Blue Prism“-Logo und das Prism Device sind Marken bzw. eingetragene Marken von Blue Prism Limited und seiner Vertragspartner. Alle Rechte vorbehalten. 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Über ABBYY
 
 ABBYY ermöglicht es, mit seiner Digital Intelligence Plattform die gesamten Geschäftsprozesse und Informationen, die ein Unternehmen antreiben, zu analysieren und im Detail zu verstehen. ABBYY-Technologien werden von mehr als 5.000 Unternehmen weltweit eingesetzt, darunter viele Fortune-500-Unternehmen. Die als führend ausgezeichneten Lösungen im Bereich [Intelligent Document Processing (IDP)](https://tools.techidaily.com/abbyy/products/) und [Process Discovery & Mining](https://tools.techidaily.com/abbyy/products/) steigern Effizienz, Rentabilität und Wettbewerbsfähigkeit eines Unternehmens und verbessern das Kundenerlebnis nachhaltig. ABBYY ist ein globales Unternehmen mit Niederlassungen in 14 Ländern. Weitere Informationen finden Sie unter <https://www.abbyy.com/de>.
 
 ABBYY und das ABBYY Logo sind entweder registrierte Warenzeichen oder Warenzeichen von ABBYY Software Ltd. Alle anderen Warenzeichen sind Eigentum ihrer jeweiligen Inhaber.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Medienansprechpartner:
 
 ![Nophoto 110X110](https://static4.abbyy.com/abbyycommedia/34370/nophoto-110x110.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### Paul Taylor 
 
 **Blue Prism**
@@ -92,8 +92,9 @@ ABBYY und das ABBYY Logo sind entweder registrierte Warenzeichen oder Warenzeich
 ![Nophoto 110X110](https://static4.abbyy.com/abbyycommedia/34370/nophoto-110x110.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### Bianca Stupp
 
 **ABBYY**
@@ -108,8 +109,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +116,26 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-best-8-concealed-video-downloading-software-of-2023/"><u>[New] 2024 Approved Best 8 Concealed Video Downloading Software of 2023</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-freeze-frame-creation-through-stabilized-capture/"><u>2024 Approved Freeze-Frame Creation Through Stabilized Capture</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macmp4movaacipadapple-tv/"><u>移動式電影文件傳輸工具 - 高清/標準畫面從Mac系統將MP4、MOV、AAC音頻等轉送到iPad和Apple TV</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/av-dvd/"><u>最新手段でAVコピーガードを解除: アダルトDVDコピーへの完全ガイド</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-fn-key-configurations-for-windows-11-enthusiasts/"><u>Deciphering FN Key Configurations for Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-solutions-for-handling-the-avcodecdll-file-doesnt-exist-issue/"><u>Effective Solutions for Handling the 'Avcodec.dll' File Doesn't Exist Issue</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ble-dynamics-crafting-collaborative-content-for-musicians/"><u>Ensemble Dynamics Crafting Collaborative Content for Musicians</u></a></li>
+<li><a href="https://article-posts.techidaily.com/how-to-record-audio-on-windows-10/"><u>How To Record Audio on Windows 10?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-refresh-the-software-for-your-logitech-m310-wireless-mouse/"><u>How to Refresh the Software for Your Logitech M310 Wireless Mouse</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-save-data-from-your-iphone-to-a-mac-music-movies-and-images/"><u>How to Save Data From Your iPhone to a Mac: Music, Movies, and Images</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nubia-red-magic-9-proplus-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nubia Red Magic 9 Pro+ to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-erased-typing-on-windows-systems/"><u>Mending Erased Typing on Windows Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mp4-file-compression-techniques-on-a-mac-preserving-high-quality-output/"><u>MP4 File Compression Techniques on a Mac: Preserving High-Quality Output</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/setze-deine-personliche-musik-als-anrufbeantworter-ton-auf-ihrem-iphone-xs-xs-max-oder-xr/"><u>Setze Deine Persönliche Musik Als Anrufbeantworter-Ton Auf Ihrem iPhone XS, XS Max Oder XR</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-efficiency-of-apple-macbook-air-with-m1-for-editors/"><u>The Efficiency of Apple MacBook Air with M1 for Editors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-16-free-movies-downloading-sites-the-ultimate-selection/"><u>Top 16 Free Movies Downloading Sites - The Ultimate Selection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-converting-imovie-projects-into-hd-quality-mp4-format/"><u>Ultimate Guide: Converting iMovie Projects Into HD-Quality MP4 Format</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unauthorized-access-a-step-by-step-process-to-copy-secure-discs-on-apple-computers/"><u>Unauthorized Access: A Step-by-Step Process to Copy Secure Discs on Apple Computers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-eerie-discounts-and-haunting-treasures-in-the-macxdvd-all-hallows-spooktacular-giveaway/"><u>Unlock Eerie Discounts & Haunting Treasures in the MacXDVD All-Hallows Spooktacular Giveaway!</u></a></li>
+</ul></div>
 

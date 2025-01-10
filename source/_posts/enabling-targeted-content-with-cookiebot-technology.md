@@ -1,7 +1,7 @@
 ---
 title: Enabling Targeted Content with Cookiebot Technology
-date: 2024-08-21T17:42:35.484Z
-updated: 2024-08-22T17:42:35.484Z
+date: 2025-01-05T19:05:23.829Z
+updated: 2025-01-09T16:51:17.261Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be75696460e14e09acd5a7ef9a37fabd.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Compreno Named ‘Trend-Setting Product of 2016’ by KMWorld Magazine
 
 September 08, 2016
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **ABBYY Compreno Surpasses Traditional Data Capture and Text Analytics by Understanding Contextual Meaning, Facts and Story Lines in Business Documents**
 
@@ -55,8 +63,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -64,8 +70,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-adventure-showdown-analyzing-gopros-hero5b-and-session/"><u>[New] Adventure Showdown Analyzing GoPro's Hero5B & Session</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-to-create-impressive-slow-motion-content-a-step-by-step-instagram-reel-masterclass/"><u>[New] How to Create Impressive Slow Motion Content A Step by Step Instagram Reel Masterclass</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-how-does-vidma-stack-up-as-a-screen-recorder/"><u>[New] In 2024, How Does Vidma Stack Up as a Screen Recorder?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-complete-guide-to-producing-professional-gopro-video-content/"><u>[New] The Complete Guide to Producing Professional GoPro Video Content</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtubes-short-form-videos-10-tactics-for-dominance-in-views/"><u>[Updated] In 2024, Youtube's Short-Form Videos - 10 Tactics for Dominance in Views</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-visual-data-extractor/"><u>[Updated] Visual Data Extractor</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/alert-newly-uncovered-security-flaw-in-google-chrome-demands-prompt-patching-action/"><u>Alert: Newly Uncovered Security Flaw in Google Chrome Demands Prompt Patching Action!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/complete-tutorial-how-to-delete-history-across-different-internet-browsers/"><u>Complete Tutorial: How to Delete History Across Different Internet Browsers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/crowdstrikes-recent-downtime-echoes-the-infamous-y2k-bug-a-modern-day-tech-scare/"><u>CrowdStrike's Recent Downtime Echoes the Infamous Y2K Bug: A Modern-Day Tech Scare</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/discover-8-hidden-facebook-tricks-that-will-enhance-your-social-media-experience/"><u>Discover 8 Hidden Facebook Tricks That Will Enhance Your Social Media Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/discovering-your-old-messages-a-step-by-step-guide-to-accessing-deleted-emails-on-gmail/"><u>Discovering Your Old Messages: A Step-by-Step Guide to Accessing Deleted Emails on Gmail</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effective-strategies-to-shield-your-loved-ones-from-cyber-frauds-and-deception/"><u>Effective Strategies to Shield Your Loved Ones From Cyber Frauds and Deception</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enhanced-browsing-experience-with-improved-web-search-and-live-sportscasts-in-the-latest-google-chrome-update/"><u>Enhanced Browsing Experience with Improved Web Search & Live Sportscasts in the Latest Google Chrome Update</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-se-2020-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone SE (2020) Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-tutorial-for-downloading-wm6/"><u>Ultimate Tutorial for Downloading WM6</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/years-of-exposed-personal-information-the-flightaware-privacy-breach-scandal/"><u>Years of Exposed Personal Information: The FlightAware Privacy Breach Scandal</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->

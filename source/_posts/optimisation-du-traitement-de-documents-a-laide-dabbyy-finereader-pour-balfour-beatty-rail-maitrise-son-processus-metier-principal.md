@@ -1,7 +1,7 @@
 ---
 title: Optimisation Du Traitement De Documents À L'aide D'ABBYY FineReader Pour Balfour Beatty Rail Maîtrise Son Processus Métier Principal
-date: 2024-08-21T17:42:52.715Z
-updated: 2024-08-22T17:42:52.715Z
+date: 2025-01-06T20:44:51.310Z
+updated: 2025-01-09T21:30:55.175Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/747b49f807ccf9f14c19b340ff456a78dd6771beaa7f3b2a1e86afcc1230369a.jpg
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/747b49f807ccf9f14c19b340ff456a78dd6771bea
 [Retourner aux expériences clients](https://tools.techidaily.com/abbyy/products/)
 
 Construction | PDF and Document Conversion | Document Processing
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Balfour Beatty Rail maîtrise son processus métier principal grâce à ABBYY FineReader
 
@@ -24,6 +28,10 @@ Construction | PDF and Document Conversion | Document Processing
 Construction | Conversion de PDF et de documents 
 
 ![](https://static1.abbyy.com/abbyycommedia/14875/cs-balfour-556x303.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Aperçu du client
 
@@ -82,9 +90,17 @@ ABBYY FineReader est un logiciel de reconnaissance optique des caractères (OCR)
 
 [![2-finereader](https://static1.abbyy.com/abbyycommedia/14345/2-finereader.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FineReader](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [En savoir plus](https://tools.techidaily.com/abbyy/products/) 
 
 [![1-accounts-payable](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://tools.techidaily.com/abbyy/products/) [Dématérialisation des factures](https://tools.techidaily.com/abbyy/products/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [En savoir plus](https://tools.techidaily.com/abbyy/products/) 
 
@@ -101,8 +117,9 @@ Partager  True ?  : ""
 [Tous les sièges d’ABBYY](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Prêt à parler à un expert ?
 
 Nous serions ravis de vous aider tout au long de votre parcours d’automatisation.
@@ -115,8 +132,6 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +139,22 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-capturing-both-webcam-and-monitor-live-feed/"><u>[New] 2024 Approved Capturing Both Webcam & Monitor Live Feed</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-premium-jokester-visualizer/"><u>[New] In 2024, Premium Jokester Visualizer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/disney-dvddvd/"><u>如何去除Disney DVD的安全锁和将DVD刻录成其他格式指南</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/compatibilita-e-funzioni-lettori-dvd-scopri-quali-supportano-leggono-o-riproducono-il-tuo-dispositivo/"><u>Compatibilità E Funzioni Lettori DVD - Scopri Quali Supportano, Leggono O Riproducono Il Tuo Dispositivo</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortless-steps-to-access-bup-file-contents-on-pcs-and-mac-computers/"><u>Effortless Steps to Access BUP File Contents on PCs and Mac Computers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/expertly-edit-your-imagery-with-top-androidios-montage-apps-for-2024/"><u>Expertly Edit Your Imagery with Top Android/iOS Montage Apps for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-by-frame-verbalizer/"><u>Frame by Frame Verbalizer</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-13c-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-iphone-xs-max-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off iPhone XS Max without Password</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/meilleur-encodeur-video-h265-pour-pc-et-mac-convertisseur-hevc-optimise-pour-windows-10/"><u>Meilleur Encodeur Vidéo H.265 Pour PC Et Mac - Convertisseur HEVC Optimisé Pour Windows 10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/pc-iphone-ipad-winx-mediatrans/"><u>PC에서 iPhone, iPad로 원활하게 이동시키는 WinX MediaTrans™: 최고의 미디어 전송 수단</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/teletraitement-assistance-et-services-de-formation-pour-lutilisation-du-winx-dvd-ripper-et-des-logiciels-convertisseurs-videos/"><u>Télétraitement Assistance Et Services De Formation Pour L'utilisation Du WinX DVD Ripper Et Des Logiciels Convertisseurs Vidéos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-powerhouse-of-4k-reviewing-the-nikon-j5-camera/"><u>The Powerhouse of 4K Reviewing the Nikon J5 Camera</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-7-free-dvd-ripping-software-best-of-both-worlds-windows-and-mac-os/"><u>Top 7 Free DVD Ripping Software: Best of Both Worlds - Windows & Mac OS</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-asus-chromebook-flip-c302ca-exceptional-value-convertible-design-and-impressive-features/"><u>Top Rated ASUS Chromebook Flip C302CA - Exceptional Value, Convertible Design, and Impressive Features</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ABBYY at the Forefront of Financial Strategy: Highlights From the 2017 Summit"
-date: 2024-08-21T17:41:05.278Z
-updated: 2024-08-22T17:41:05.278Z
+date: 2025-01-05T22:36:35.935Z
+updated: 2025-01-09T22:59:20.944Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/fddafecbf8d052882c8613835d6b91422875b8a8af17428f6e6ddf368419a301.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/fddafecbf8d052882c8613835d6b91422875b8a8a
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Neue Impulse für die Kreditorenbuchhaltung mit ABBYY auf den StrategieTagen Finance 2017
 
 30\. März 2017
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ABBYY, ein führender und globaler Anbieter von Technologien und Lösungen für den effektiven Einsatz von Informationen in Organisationen, zeigt Finanzvorständen vom 4\. – 5\. April 2017 auf Schloß Bensberg, wie sie ihre Kreditorenbuchhaltung durch Automatisierung optimieren können und worauf sie bei der Umsetzung neuer, digitaler Prozesse achten müssen. Die StrategieTage Finance sind ein wichtiges Forum, um sich über Trends, Herausforderungen und Lösungen für die Finanzbranche auszutauschen. CFOs namhafter Unternehmen sprechen mit Politikern und Lösungsanbietern über zukunftsweisende Themen: unter anderem Machine Learning, intelligente Erfassung und Robotic Process Automation (RPA).
 
@@ -60,8 +68,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -69,8 +75,26 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-directing-your-camera-roll-a-step-by-step-snapchat-integration/"><u>[Updated] In 2024, Directing Your Camera Roll A Step-by-Step Snapchat Integration</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-top-high-definition-video-player-apps-for-macos-ultimate-guide-for-el-capitan-users/"><u>1. Top High-Definition Video Player Apps for macOS - Ultimate Guide for El Capitan Users</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-choosing-top-8-free-ai-powered-srt-translators/"><u>2024 Approved Choosing Top 8 Free, AI-Powered SRT Translators</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-wave-riders-guide-tips-on-underwater-video-with-your-gopro-camera/"><u>2024 Approved Wave Riders' Guide Tips on Underwater Video with Your GoPro Camera</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macx-iphone-ipad-androidgoogle/"><u>最高にするMacXモバイル - iPhone iPad AndroidおよびGoogleデバイス向け動画変換器</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/conversion-video-sans-limites-avec-freemake-sur-macos-instructions-de-download-gratuitement/"><u>Conversion Vidéo Sans Limites Avec Freemake Sur macOS - Instructions De Download Gratuitement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/descubre-las-ventajas-de-comprar-la-aplicacion-mediatrans-en-linea-con-descuento/"><u>Descubre Las Ventajas De Comprar La Aplicación MediaTrans en Línea Con Descuento</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enhance-your-ipad-air-experience-flawless-wmv-video-playback-tutorial/"><u>Enhance Your iPad Air Experience: Flawless WMV Video Playback Tutorial</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-realtek-hd-audio-manager-wont-launch-solutions-revealed/"><u>How to Fix Realtek HD Audio Manager Won't Launch – Solutions Revealed</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c12-plus-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Nokia C12 Plus Phone without Google Account?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-standout-1980s-visual-techniques-in-media-editing/"><u>In 2024, Standout 1980S Visual Techniques in Media Editing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/learn-how-to-speed-up-mp4-compression-while-preserving-image-clarity-an-online-guide/"><u>Learn How to Speed Up MP4 Compression While Preserving Image Clarity: An Online Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1724766284382-macx-mediatrans/"><u>MacX MediaTrans 在线下单-专业版可信任的数据传输解决方案</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/master-imagery-renewal-top-10-professional-photo-enhancement-applications-for-pc-and-macos/"><u>Master Imagery Renewal: Top 10 Professional Photo Enhancement Applications for PC & macOS</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ng-reign-supreme-with-these-11-video-seo-techniques-on-youtube/"><u>Ranking Reign Supreme with These 11 Video SEO Techniques on YouTube</u></a></li>
+<li><a href="https://win-forum.techidaily.com/speeding-up-the-launch-of-windows-11-a-comprehensive-guide-using-revouninstaller/"><u>Speeding Up the Launch of Windows 11: A Comprehensive Guide Using RevoUninstaller</u></a></li>
+<li><a href="https://win-news.techidaily.com/streamline-your-files-enable-auto-sync-with-onedrive-on-windows-11-two-simple-methods/"><u>Streamline Your Files: Enable Auto-Sync with OneDrive on Windows 11 – Two Simple Methods</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-tips-overcoming-the-ios-17-update-installation-hurdle-for-iphone-and-ipad-users/"><u>Troubleshooting Tips: Overcoming the iOS 17 Update Installation Hurdle for iPhone and iPad Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-heif-and-jpeg-essential-differences-explained/"><u>Unveiling HEIF and JPEG: Essential Differences Explained</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

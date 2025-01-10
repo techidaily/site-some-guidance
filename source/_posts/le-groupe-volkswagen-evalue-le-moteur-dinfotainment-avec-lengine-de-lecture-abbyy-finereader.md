@@ -1,7 +1,7 @@
 ---
 title: Le Groupe Volkswagen Évalue Le Moteur D'Infotainment Avec L'Engine De Lecture ABBYY FineReader
-date: 2024-08-21T17:40:33.591Z
-updated: 2024-08-22T17:40:33.591Z
+date: 2025-01-08T17:14:39.761Z
+updated: 2025-01-10T03:03:04.558Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/086d7c930c164ea9d01018f76fb536ddc6879aa44f658266ac4dd473faff469b.jpg
@@ -13,11 +13,23 @@ thumbnail: https://thmb.techidaily.com/086d7c930c164ea9d01018f76fb536ddc6879aa44
 
 Automotive | Machine Vision
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Le groupe Volkswagen teste son système d'infotainment avec ABBYY FineReader Engine
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/fr/93419.png?h=40&iar=0&w=120)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Retourner aux expériences clients](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Le groupe Volkswagen teste son système d'infotainment avec ABBYY FineReader Engine
 
@@ -28,6 +40,10 @@ Automobile | Vision industrielle
 #### Aperçu du client
 
 ![Le groupe Volkswagen](https://static2.abbyy.com/abbyycommedia/1003/vw_155x80.gif) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 | Prénom         | Le groupe Volkswagen                            |
 | -------------- | ----------------------------------------------- |
@@ -79,6 +95,10 @@ Le service Essais a imposé des exigences élevées en termes d'utilisation d'AB
 
 [![3-finereader-engine](https://static2.abbyy.com/abbyycommedia/14346/3-finereader-engine.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FineReader Engine](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [En savoir plus](https://tools.techidaily.com/abbyy/products/) 
 
 [![17-SAP](https://static2.abbyy.com/abbyycommedia/14367/17-sap.jpg)](https://tools.techidaily.com/abbyy/products/) [Technologie pour la vision industrielle](https://tools.techidaily.com/abbyy/products/) 
@@ -93,9 +113,6 @@ Le service Essais a imposé des exigences élevées en termes d'utilisation d'AB
 
 Partager  True ?  : "" 
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Prêt à parler à un expert ?
 
 Nous serions ravis de vous aider tout au long de votre parcours d’automatisation.
@@ -108,8 +125,6 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +132,17 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-detailed-examination-intuitive-hdr-techniques/"><u>[New] 2024 Approved Detailed Examination Intuitive HDR Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-ultimate-psd-shadow-gradient/"><u>[Updated] Ultimate PSD Shadow Gradient</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comparing-codecs-exploring-key-distinctions-between-x264-and-x2-groper-codec/"><u>Comparing Codecs: Exploring Key Distinctions Between X264 & X2 Groper Codec.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comprehensive-tutorial-on-how-to-safely-acquire-1080p-resolution-moviesvideos-from-popular-websites-including-youtube-dailymotion-and-facebook/"><u>Comprehensive Tutorial on How to Safely Acquire 1080P Resolution Movies/Videos From Popular Websites Including YouTube, Dailymotion, and Facebook</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-txt-file-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .txt file document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-action-packed-snapshots-of-x-snow-2022/"><u>In 2024, Action-Packed Snapshots of X-Snow 2022</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/playing-avi-files-on-your-ipad-without-the-need-for-conversion/"><u>Playing AVI Files on Your iPad Without the Need for Conversion</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/premium-8-chatgpt-strategies-to-curtail-tech-interruptions/"><u>Premium 8 ChatGPT Strategies to Curtail Tech Interruptions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-list-of-top-compact-audio-gadgets-for-music-lovers/"><u>Ultimate List of Top Compact Audio Gadgets for Music Lovers!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Seamless Personalization with Cutting-Edge Cookiebot Technology Powering Your Site
-date: 2024-08-21T17:44:40.179Z
-updated: 2024-08-22T17:44:40.179Z
+date: 2025-01-04T20:04:29.739Z
+updated: 2025-01-10T00:51:08.448Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/fea6185edc685da72ba963a46eed57a3a71d461697393364ab3bd89b9977de72.jpg
@@ -11,13 +11,25 @@ thumbnail: https://thmb.techidaily.com/fea6185edc685da72ba963a46eed57a3a71d46169
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY、オペレーショナルエクセレンスを向上させるための組織の優先事項についてのインサイトを盛り込んだ、インテリジェント文書処理（IDP）のグローバルな動向と成果に関するレポートを発表
 
 6月6日, 2023
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![News Colleagues2](https://static1.abbyy.com/abbyycommedia/33744/news-colleagues2.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ABBYYは今日、インテリジェント文書処理（IDP）のグローバルな動向と成果に関するレポートを発表しました。これは、企業のインテリジェントオートメーションの取り組みにおける文書処理の課題とチャンスに焦点を当てて作成されたものです。 このレポートでは、企業がどのように文書中心のプロセスを最適化し、オペレーショナルエクセレンスを達成し、顧客体験を向上させ、ビジネス価値を加速させているかについての有益なインサイトをまとめ、それをイノベーションリーダーに向けて発信しています。
 
@@ -57,13 +69,18 @@ ABBYYは、2023年1月から3月までの初期データに基づき、今後、
 
 ABBYY IDPの導入とパーソナライズに関する詳細については、[www.abbyy.com/resources/report/global-intelligent-document-processing-trends-outcomes-report](https://tools.techidaily.com/abbyy/products/)にアクセスして、レポートの全編とインフォグラフィックをダウンロードしてください。
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### ABBYYについて
 
 ABBYYは、貴社の情報を有効に運用するお手伝いをします。 当社のソリューションは、あらゆる文書、あらゆるフォーマット、あらゆる言語、あらゆる時間のデータを、インテリジェントな実用的成果へと変換します。 当社は、世界10,000社以上の企業をサポートし、その中にはフォーチュン500に名を連ねる企業も多数含まれており、最も重要な分野で当社との提携による恩恵を得ることができます。 ABBYYは、米国に本社を置き、世界14カ国にオフィスを構えるグローバル企業です。 詳細については、[www.abbyy.com/ja/company](https://tools.techidaily.com/abbyy/products/)をご参照ください。 [LinkedIn](https://www.linkedin.com/company/abbyy)、[Twitter](https://twitter.com/ABBYY%5FSoftware)、[Facebook](https://www.facebook.com/ABBYYsoft)でのフォローもお待ちしております。
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 報道関係者お問い合わせ先
 
 #### 株式会社井之上パブリックリレーションズ 
@@ -78,8 +95,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -87,4 +102,21 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-reimagining-design-post-acid-pro-landscape-for-2024/"><u>[New] Reimagining Design Post-ACID Pro Landscape for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-integrated-dynamic-movement-analysis/"><u>[Updated] 2024 Approved Integrated Dynamic Movement Analysis</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comprehensive-guide-to-creating-dvd-copies-and-iso-images-with-winx-dvd-copy-tool/"><u>Comprehensive Guide to Creating DVD Copies and ISO Images with WinX DVD Copy Tool</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/digiarty-software-professionelle-dvd-video-konvertierung-losung/"><u>Digiarty Software: Professionelle DVD-Video Konvertierung Lösung</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortlessly-convert-vob-files-into-mp4-format-for-all-windows-10-11-and-macos-users/"><u>Effortlessly Convert VOB Files Into MP4 Format for All Windows (10, 11) & macOS Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-improving-win11-point-accuracy-and-size/"><u>Guide to Improving Win11' Point Accuracy & Size</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-free-visual-treasury-select-10-sites-included/"><u>In 2024, Free Visual Treasury – Select 10 Sites Included</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/replace-medical-terms-with-laymans-language-where-possible-such-as-changing-neoadjuvant-radiation-to-pre-surgery-radiation/"><u>Replace Medical Terms with Layman’s Language Where Possible, Such as Changing Neoadjuvant Radiation to “Pre-Surgery Radiation.”</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/1720673064943-stellar-solves-non-responsive-drive-woes/"><u>Stellar Solves Non-Responsive Drive Woes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-complete-loss-of-sound-reviving-audios-in-mkv-media-player-on-pcs-with-windows-11-or-10/"><u>Troubleshooting Complete Loss of Sound: Reviving Audios in MKV Media Player on PCs with Windows 11 or 10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-user-guide-to-winxvideo-ai-techniques-for-improving-and-managing-video-content-efficiently/"><u>Ultimate User Guide to Winxvideo AI: Techniques for Improving & Managing Video Content Efficiently</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-elevate-your-storytelling-with-wevideos-online-video-editor-for-2024/"><u>Updated Elevate Your Storytelling with WeVideos Online Video Editor for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Harnessing the Power of Cookiebot for Enhanced Site SEO Performance
-date: 2024-08-21T17:42:45.627Z
-updated: 2024-08-22T17:42:45.627Z
+date: 2025-01-06T00:57:37.099Z
+updated: 2025-01-10T02:11:46.761Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f620077177c71b194a7d51d8ecab.jpg
@@ -22,6 +22,10 @@ Meet Milos Savic, our dedicated Security Compliance Officer who makes sure every
 In this Meet Our Team interview, he shares his journey to ABBYY, how he maintains a work-life balance making the most of our flexible working arrangements, and even recommends some of his favorite entertainment picks.
 
 **[Follow us on Instagram and get to know the people at ABBYY](https://www.instagram.com/abbyyglobal/ "Instagram")**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What is your role at ABBYY and what is your favorite thing about it?
 
@@ -44,8 +48,9 @@ Overall, each day presents a new set of challenges and opportunities. This varia
 ![Milos Savic ABBYY](https://static1.abbyy.com/abbyycommedia/37581/milos-blog-3.png?width=750&height=570)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### What was your previous experience before ABBYY?
 
 Before joining ABBYY, I worked in a couple of different companies. But I would like to highlight my position as an IT Audit Analyst at Deloitte. That role was instrumental in shaping my career path and honing my interest in security.
@@ -54,9 +59,6 @@ Working at one of the Big Four accounting firms was an enriching experience. It 
 
 This experience was not just a job but a significant turning point in my career. It directed me toward the realm of security, inspiring me to pursue a path where I could make a difference by safeguarding information and systems. The skills and knowledge I gained there are invaluable in my current role at ABBYY and have significantly contributed to my career in security compliance.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### What attracted you to ABBYY, what made you join?
 
 What attracted me to ABBYY was its innovative and forward-thinking approach to technology, coupled with its strong, unwavering commitment to security. ABBYY's long-standing history in the tech industry, marked by resilience and evolution, translated into a stable yet dynamic environment to me.
@@ -64,6 +66,10 @@ What attracted me to ABBYY was its innovative and forward-thinking approach to t
 I chose to join ABBYY because I recognized a unique opportunity to be a part of and contribute to, a dynamic, innovative company. I saw it as a platform where I could leverage my skills and experience to add value while also growing both personally and professionally. The convergence of these aspects - progressive technology, robust security, rich history, and people-focused culture - made ABBYY the perfect fit for me.
 
 [Learn from senior executives and ABBYY customers on how to successfully adapt to contemporary challenges using innovative technologies | ABBYY’s The Intelligent Enterprise](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What keeps you going, and what are some highlights of your journey with ABBYY so far?
 
@@ -73,29 +79,24 @@ These certifications are critical for our products, showcasing our commitment to
 
 This experience was a significant highlight of my journey with ABBYY, reinforcing the importance and the impact of my role in the company. The success of these projects, along with the continuous support and collaboration from my colleagues, makes my journey at ABBYY truly fulfilling and motivates me to continue striving.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### What’s your favorite benefit at ABBYY? Is there something particular that you enjoy?
 
 My favorite benefit at ABBYY is the flexible working arrangements. The ability to work remotely allows me to balance my professional and personal life effectively. It also empowers me to work at my most productive times and creates a trust-based working environment.
 
 ![Milos Savic ABBYY](https://static1.abbyy.com/abbyycommedia/37583/milos-blog.png?width=750&height=570)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### Your top advice to someone joining ABBYY, and for someone joining ABBYY in a similar role?
 
 For someone joining ABBYY, my advice would be to embrace the learning opportunities. The company thrives on innovation and values continuous learning. For those joining in a similar role, understanding the broader business context of your work is crucial. It not only makes your work more impactful but also helps in proactive problem-solving.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What is your definition of work-life balance?
 
 To me, work-life balance isn't just about dividing hours between work and personal life, it's about integration and flexibility. It's about having the autonomy to fulfill my professional commitments without compromising on my personal life and well-being. ABBYY contributes greatly to this understanding, for example, through our wellbeing and wellness days. These days offer us the chance to step away from our usual tasks and focus on self-care and rejuvenation, reflecting the company's understanding that personal health is a key aspect of overall productivity and job satisfaction. So, work-life balance in this context is about creating harmony between our professional goals and personal well-being, and I appreciate ABBYY's commitment to supporting this balance.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Outside of work, what are your hobbies and interests?
 
 Outside of my professional life, two activities that I particularly enjoy are traveling and fitness. Traveling has always been a captivating pastime for me. It's about much more than just seeing new places; it's about immersing myself in diverse cultures, absorbing different lifestyles, and appreciating the stunning variety our world has to offer. The sense of adventure and the thrill of the unknown that accompanies each journey make every trip a memorable experience. One of the most exciting aspects of my travels is the opportunity to capture unique moments, landscapes, and views and share them on my Instagram account.
@@ -108,16 +109,16 @@ So, between my globe-trotting adventures and my daily fitness routine, I strike 
 
 ![Travel photography of castle and flowers](https://static1.abbyy.com/abbyycommedia/37582/milos-blog-4.png?width=750&height=570)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Lastly, could you recommend us a book/movie/series/ or activity you have recently discovered or are enjoying at the moment? What’s so great about it?
 
 Absolutely, as a frequent consumer of many different streaming services, I've come across numerous captivating series and films. One series I'd highly recommend is "Black Mirror". It's a unique anthology series that explores a high-tech near future where the greatest innovations collide with the darkest instincts of humanity. Each standalone episode presents a thought-provoking story, making us reconsider the direction our society is heading in, especially regarding our relationship with technology. The series' ability to mix contemporary issues with suspenseful and often dystopian narratives makes it incredibly engaging.
 
 In addition to this, if you have a penchant for thrilling suspense and storytelling, there are some fantastic Spanish thriller movies that I would recommend. "The Invisible Guest" (Contratiempo) and "The Body" (El cuerpo) are two of my favorites. Both films masterfully weave intricate narratives with unexpected twists, keeping you on the edge of your seat throughout. Their ability to blend suspense with engaging characters and deep emotional narratives is truly remarkable. So, whether you are in the mood for a mind-bending series or an enthralling movie, these selections should have you covered!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Interested in joining the ABBYY team? Please check the vacancies below and apply!
 
 [See all open positions](https://boards.eu.greenhouse.io/abbyy?itm%5Fsource=corpblog)
@@ -129,20 +130,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 Share 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Related posts
 
 ![](https://static2.abbyy.com/abbyycommedia/37760/nina-walker.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [ABBYY Spotlight: Nina Walker, Head of Customer Experience](https://tools.techidaily.com/abbyy/products/) 
 
 ![](https://static5.abbyy.com/abbyycommedia/37764/viacheslav-prodan.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 [ABBYY Spotlight: Viacheslav Prodan, Director Customer Excellence (CEx) Systems, Processes, and Automations](https://www.abbyy.com/blog/meet-viacheslav-prodan/) 
 
 #### Subscribe for blog updates
@@ -195,8 +197,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,4 +204,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-tips-labeling-footage-with-text-via-photos-app-win-11/"><u>[New] 2024 Approved Tips Labeling Footage with Text via Photos App (Win 11)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/uilding-an-engaging-sports-highlight-reel/"><u>[New] Building an Engaging Sports Highlight Reel</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-ultra-short-timelapse-capture-methods-for-2024/"><u>[Updated] Top Ultra-Short Timelapse Capture Methods for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-real-time-visual-documentation/"><u>2024 Approved Real-Time Visual Documentation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comparing-avchd-and-avcrec-clear-insights-into-their-distinct-features/"><u>Comparing AVCHD and AVCREC - Clear Insights Into Their Distinct Features</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-no-cost-windows-11-media-player-with-built-in-dvd-support/"><u>Download No-Cost Windows 11 Media Player with Built-In DVD Support</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-14ipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 14/iPad Without Computer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/professionelle-methode-zum-hochladen-einer-dvd-mit-itunes-unter-macoswindows-mehrstufige-losung-in-2-schritten/"><u>Professionelle Methode Zum Hochladen Einer DVD Mit iTunes Unter macOS/Windows - Mehrstufige Lösung in 2 Schritten</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-unable-to-create-directx-3d-device-error-a-comprehensive-fix-guide/"><u>Resolving the 'Unable to Create DirectX 3D Device' Error - A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-no-cost-dvd-duplication-tools-the-ultimate-guide-to-free-dvd-ripping/"><u>Top 10 No-Cost DVD Duplication Tools: The Ultimate Guide to Free DVD Ripping</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-5-free-video-recording-software-of-2024-best-picks-for-creatives/"><u>Top 5 Free Video Recording Software of 2024: Best Picks for Creatives</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/verbesserung-und-rekonstruktion-von-fotografien-in-extremer-detailqualitat-4k-8k-bis-hin-zu-10k-auf-google-mit-hilfe-von-winxvideo-kunstlicher-intelligenz.m80/"><u>Verbesserung Und Rekonstruktion Von Fotografien in Extremer Detailqualität - 4K, 8K, Bis Hin Zu 10K Auf Google Mit Hilfe Von WinxVideo-Künstlicher Intelligenz</u></a></li>
+</ul></div>
 

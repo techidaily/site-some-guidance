@@ -1,7 +1,7 @@
 ---
 title: "Navigating Contract Analysis: Actionable Tips for Optimizing Document Management with ABBYY Solutions"
-date: 2024-08-21T17:45:18.538Z
-updated: 2024-08-22T17:45:18.538Z
+date: 2025-01-04T20:19:33.144Z
+updated: 2025-01-09T21:06:59.877Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566be785a358865debf94836fef.jpg
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## So, What Should We Do With Contract Analytics?
 
 ###### Michael Simon
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 November 13, 2018
 
 ![What Should We Do With Contract Analytics?- ABBYY Blog Post #4 of 5 Content Analytics](https://static5.abbyy.com/abbyycommedia/25322/9787e_blog_content-analytics-blog-seriesblog_4.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now that we have looked into the power of Contract Analytics as well as the features that we need to make it truly deliver upon the promise of intelligent document processing, what can we do with it? We should probably start with the most critical pain points for General Counsel, Procurement and business unit leaders:
 
@@ -55,11 +63,19 @@ Companies need to extract all information in their contracts relating to perform
 
 ![Mike Simon Attorney](https://static1.abbyy.com/abbyycommedia/25501/21-mikesimon-198x198.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Michael Simon
 
 Michael Simon is the Principal of Seventh Samurai, an e-Discovery and Information Governance expert consulting firm. As a trial attorney in Chicago, he was an early innovator in using electronic evidence to win cases for his clients. He is an adjunct professor at Michigan State University College of Law (and formerly at Boston University School of Law), teaching classes in e-Discovery. He has advised a number of companies and government agencies on how to best mitigate the risks arising from their information while best optimizing value, and provides strategic consulting for companies in the analytics, security, privacy, and legal technology markets.
 
 Michael is a legal technology thought leader, having made over 100 presentations and written dozens of articles on e-Discovery and legal technology topics, including a book on Internet Law in 2002\. He received his J.D. from Loyola University Chicago School of Law, and his B.A. cum laude from Tufts University.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -115,8 +131,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,8 +138,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-align-video-elements-in-your-playback-directory/"><u>[New] 2024 Approved Align Video Elements in Your Playback Directory</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-accelerating-instagram-videos-quick-tips/"><u>[New] In 2024, Accelerating Instagram Videos Quick Tips</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-navigating-the-riches-of-stardews-ginger-isle/"><u>[New] In 2024, Navigating the Riches of Stardew’s Ginger Isle</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-building-a-robust-360-video-broadcast-framework-for-fb/"><u>[Updated] 2024 Approved Building a Robust 360 Video Broadcast Framework for FB</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-clipcutting-masterwin8/"><u>[Updated] ClipCutting MasterWin8</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-comparing-standard-video-to-immersive-vr-experiences/"><u>2024 Approved Comparing Standard Video to Immersive, VR Experiences</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/codifica-con-handbrake-supporto-per-il-codec-video-av1/"><u>Codifica Con Handbrake Supporto per Il Codec Video AV1?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diagnosing-and-repairing-android-device-issues-for-restored-calls-handling/"><u>Diagnosing and Repairing Android Device Issues for Restored Calls Handling</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-htc-has-native-mkv-support-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does HTC has native MKV support?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/easy-steps-to-convert-your-dvd-collection-into-itunes-with-one-click-solutions/"><u>Easy Steps to Convert Your DVD Collection Into iTunes with One-Click Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guia-para-convertir-dvds-a-formatos-divx-en-el-ano-202-cuidando-la-calidad-original/"><u>Guia Para Convertir DVDs a Formatos DivX en El Año 202 Cuidando La Calidad Original</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/highest-quality-mp4-compression-techniques-reduce-file-size-without-losing-clarity/"><u>Highest Quality MP4 Compression Techniques - Reduce File Size Without Losing Clarity</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-infinix-smart-8-plus-frp-bypass-by-drfone-android/"><u>In 2024, About Infinix Smart 8 Plus FRP Bypass</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/kostenlose-conversion-von-wmv-in-mp4-format-fast-unverandert-hochwertig/"><u>Kostenlose Conversion Von WMV in MP4 Format – Fast Unverändert Hochwertig</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/leading-free-hd-h265-encoded-video-players-for-ultra-high-definition-content/"><u>Leading Free HD H.265 Encoded Video Players for Ultra-High Definition Content</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210352818-9781637108093-parkinsons-life-lessons-five-years-into-the-journey/"><u>Parkinson's: Life Lessons Five Years into the Journey | Free Book</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/resolving-connection-issues-in-discord-step-by-step-guide-with-support-tips/"><u>Resolving Connection Issues in Discord - Step-by-Step Guide with Support Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/solve-handbrake-issues-on-windows-11-effective-solutions-and-suggestions/"><u>Solve HandBrake Issues on Windows 11: Effective Solutions & Suggestions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windows-11-iso-burning-guide-how-to-write-iso-images-onto-dvd-efficiently/"><u>Windows 11 ISO Burning Guide: How to Write ISO Images Onto DVD Efficiently</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->

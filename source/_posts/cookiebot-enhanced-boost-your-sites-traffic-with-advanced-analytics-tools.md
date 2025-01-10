@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enhanced: Boost Your Site's Traffic with Advanced Analytics Tools"
-date: 2024-08-21T17:40:10.246Z
-updated: 2024-08-22T17:40:10.246Z
+date: 2025-01-08T17:22:32.716Z
+updated: 2025-01-10T01:37:27.415Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/fb282d9804e61f76170ce10cf4356b1c491a6302864785ed4f9f0f7226141ae1.jpg
@@ -11,15 +11,27 @@ thumbnail: https://thmb.techidaily.com/fb282d9804e61f76170ce10cf4356b1c491a63028
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ヘルスケアにおけるプロセスマイニング
 
 1月27日, 2021
 
 ![TL Forblog | ABBYY Blog Post](https://static4.abbyy.com/abbyycommedia/31568/tl-forblog-848x444.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 すべての病院、医療システム、および医師は、[収益を管理し](https://tools.techidaily.com/abbyy/products/)、使用率を最適化し、一連のケア全体でコストを削減するというプレッシャーに直面しています。病院、医師たちは、途方もない複雑さの中で、より少ない労力でより多くのことを行うよう求められています。電子健康記録（Electronic Health Record）やその他のテクノロジーへの投資が急増しているため、管理者や臨床チームはダッシュボードやレポートで溢れています。 すべての情報を持っているにもかかわらず、彼らはしばしば完全な洞察なしに重要な運用上の決定を下すことを余儀なくされています。
 
 医療ニーズの将来を管理するために、病院、医師たちはビジネスおよび臨床プロセスをより適切に管理できなければなりません。 品質改善戦略をどこでどのように採用するかを決定することは複雑ですが、医療専門家が臨床プロセスをよりよく理解するのにプロセスマイニングが役立ちます。
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ヘルスケア業界でどのようにプロセスマイニングが使われているか
 
@@ -29,13 +41,14 @@ thumbnail: https://thmb.techidaily.com/fb282d9804e61f76170ce10cf4356b1c491a63028
 
 ![ヘルスケア管理](https://static1.abbyy.com/abbyycommedia/30413/healthcare-process-improvement.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [ヘルスケア業界におけるプロセスマイニング](https://tools.techidaily.com/abbyy/products/)の適用に関する調査、実施研究は、学術理論からビジネスプロセスの実際の変革へと移行しています。 この概念は比較的新しいかもしれませんが、データサイエンティストを実際のアプリケーションに導き、実際世界で起こっている結果を得ているという報告が出てきています。
 
 Journal of Biomedical Informaticsは、Eric Rojas らによるヘルスケアにおけるプロセスマイニングの現在の採用を分析するレビューで、ヘルスケアへのプロセスマイニングの利用の最先端はヨーロッパにあり、現在の調査、実施研究の73％がここで行われていることを明らかにしました。 2020年の[プロセスマイニングとRPAの現状に関する最近の調査](https://tools.techidaily.com/abbyy/products/)によると、フランスの企業がプロセスマイニングの面で先導しており、回答者の78％がすでにそのようなツールを使用していると述べています。
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### では、プロセスマイニングはどのように動くのでしょうか？
 
 プロセスマイニングは、任意の数の記録システムからイベントログをキャプチャし、このデータを処理して、プロセスを検出、監視、視覚化、および最終的に業務プロセスを改善できるようにするテクニックです。
@@ -53,17 +66,15 @@ Prof. Dr. ir Will Van der Aalst らによる「ヘルスケアにおけるプロ
 ![rpaプロセスマイニング](https://static1.abbyy.com/abbyycommedia/30414/healthcare-process.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 医療専門家は、プロセスマイニングを使用して、[医療におけるプロセス改善](https://tools.techidaily.com/abbyy/products/)の最適な候補を特定できます。これは、複雑で、時間的にシビアであることが多いのですが、一歩踏み込んで患者の顧客体験を改善したり、コンプライアンスリスクを避けたり、次世代プロセスマイニングソリューションであるプロセスインテリジェンスを使って効率を上げたりすることが可能です。
 
 ABBYYのプロセスインテリジェンスプラットフォームは、プロセスのマッピングと理解、タスクマイニング、AIプロセス予測機能など、高度なプロセスマイニングテクノロジーを活用してプロセスを変革します。 詳細については、[こちら](https://tools.techidaily.com/abbyy/products/) をクリックしてください。なお今回のソリューションにあたるABBYY Timelineの[体験版申し込みはこちら](https://tools.techidaily.com/abbyy/products/)から承っております。
 
 [DX（デジタルトランスフォーメーション）](https://tools.techidaily.com/abbyy/products/) [ヘルスケア](https://tools.techidaily.com/abbyy/products/) [デジタルインテリジェンス](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### いいね！、シェア、再投稿
 
 シェア 
@@ -118,8 +129,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +136,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-the-complete-nvidia-screenshot-user-manual/"><u>[New] The Complete NVIDIA Screenshot User Manual</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-deciphering-the-language-of-youtube-live-images-for-2024/"><u>[Updated] Deciphering the Language of YouTube Live Images for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/animeflv/"><u>【究極レポ】アニメフラッシュビデオ(AnimeFLV) 安全確保・正しい利用法・万が一見られなくなった時の対策解説！</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-pro-mic-tech-scoring-the-top-9-mic-recorder-brands/"><u>2024 Approved Pro Mic Tech Scoring the Top 9 Mic Recorder Brands</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-y200e-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo Y200e 5G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/boosting-visuals-with-photoshops-motion-blur-effect-tutorial-for-2024/"><u>Boosting Visuals with Photoshop's Motion Blur Effect Tutorial for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/elite-software-solutions-for-fluent-communication/"><u>Elite Software Solutions for Fluent Communication</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/exploring-video-codecs-comparing-the-features-of-mp4-and-mov-for-optimal-use/"><u>Exploring Video Codecs: Comparing the Features of MP4 and MOV for Optimal Use</u></a></li>
+<li><a href="https://win11.techidaily.com/facilitating-regular-updates-toolbar-integration-in-the-windows-ui/"><u>Facilitating Regular Updates: Toolbar Integration in the Windows UI</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-honor-v-purse-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Honor V Purse online without jailbreak</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-snapshot-elite-windows-vista2008/"><u>In 2024, SnapShot Elite Windows Vista/2008</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/preserve-and-upload-the-ultimate-guide-to-moving-all-music-from-iphone-to-itunes-effortlessly/"><u>Preserve and Upload: The Ultimate Guide to Moving All Music From iPhone to iTunes Effortlessly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/simplified-steps-seamlessly-adding-hdsd-content-to-youtube-from-your-mac-device/"><u>Simplified Steps: Seamlessly Adding HD/SD Content to YouTube From Your Mac Device</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Drive Website Engagement Using Cookiebot Solutions
-date: 2024-08-21T17:42:33.230Z
-updated: 2024-08-22T17:42:33.230Z
+date: 2025-01-07T20:54:50.009Z
+updated: 2025-01-09T21:12:12.175Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1b6976dc536a482a8440b6155a5c6ffdb602672c280e778006363b18d82c63d3.jpg
@@ -22,18 +22,28 @@ English
 ![Timo Neff](https://static1.abbyy.com/abbyycommedia/31906/timoneff-198x198.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Timo Neff
 
 Team Lead, Automation Designers & Architects Digitalization@GBS Program, Global Business Services, Deutsche Post, **DHL**
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Overview
 
 In the face of business continuity disruptions, one thing is undeniable – users expect quick results, reliable services, and digital accessibility. Organisations that respond to those demands with agility to improve customer service levels and productivity, with a focus on digital transformation will undoubtedly find success.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What you will learn
 
@@ -44,44 +54,22 @@ In this video, Deutsche Post, DHL, shares how ABBYY modernised their shipping lo
 * …learn how to mitigate risks in RPA technology and accelerate DHL’s transformation journey.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Watch now
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### Get in touch with us
 
 Please note that progressive profiling is used on this form to incrementally collect profile data over time.   
 All personal information collected via this method is under full scope of all provisions in our privacy policy.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Thank you, enjoy your webinar.
 
 ### Check out some of the best moments and watch the full recording below.
 
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Have questions? [Contact ABBYY](https://tools.techidaily.com/abbyy/products/)
 
 #### Please fill in this form to watch the webinar:
@@ -138,8 +126,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +133,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-fixing-non-functional-airdrop-between-iphones-ipads-and-macs/"><u>[New] In 2024, Fixing Non-Functional AirDrop Between iPhones, iPads & Macs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-screencapturepro-review-expert-insights-and-comparisons/"><u>[New] ScreenCapturePro Review Expert Insights and Comparisons</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-compelling-iphone-photo-and-video-applications-87x-for-2024/"><u>[Updated] Compelling iPhone Photo & Video Applications (8/7/X) for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-how-to-make-money-on-vimeo-your-ultimate-guide-to-vimeo-monetization/"><u>[Updated] How to Make Money on Vimeo Your Ultimate Guide to Vimeo Monetization</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/discover-the-clues-solving-the-nyt-connections-challenge-on-aug-13-entry-428/"><u>Discover the Clues: Solving The NYT Connections Challenge on Aug 13, Entry #428</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enjoy-the-benefits-of-facebook-marketplace-even-without-signing-up/"><u>Enjoy the Benefits of Facebook Marketplace Even Without Signing Up</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-nubia-z50-ultra-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Nubia Z50 Ultra to Another | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-wobbly-snipshot-commands-in-windows/"><u>Mending Wobbly Snipshot Commands in Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-game-interruptions-essential-fixes-for-persistent-among-us-crashes/"><u>Overcome Game Interruptions: Essential Fixes for Persistent Among Us Crashes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-review-of-the-ugreen-2-in-1-qi2-portable-and-compact-charging-station-for-on-the-go-professionals/"><u>The Ultimate Review of the Ugreen 2-in-1 Qi2 Portable and Compact Charging Station for On-the-Go Professionals</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-no-cost-4k-uhd-media-viewer-for-windows-11-users/"><u>Top No-Cost 4K UHD Media Viewer for Windows 11 Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unboxing-the-lenovo-thinkbook-plus-gen-4-a-surprising-overhaul-of-whats-expected-from-a-2-in-1-laptop/"><u>Unboxing the Lenovo ThinkBook Plus Gen 4 – A Surprising Overhaul of What's Expected From a 2-in-1 Laptop?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-apples-new-gem-the-iphone-15-pro-with-stunning-titanium-finish-and-revolutionary-usb-c/"><u>Unveiling Apple's New Gem: The iPhone 15 Pro with Stunning Titanium Finish & Revolutionary USB-C</u></a></li>
+</ul></div>
 

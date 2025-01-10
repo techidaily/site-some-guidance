@@ -1,7 +1,7 @@
 ---
 title: "Streamlining E-Invoicing with Smart Automation: 'Zero Touch' Strategy Through Advanced Document Processing by ABBYY"
-date: 2024-08-21T17:42:01.860Z
-updated: 2024-08-22T17:42:01.860Z
+date: 2025-01-04T23:39:48.054Z
+updated: 2025-01-09T20:37:17.581Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c706e3284222e7ce2389a41f.jpg
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 ## Streamlining E-Invoicing with Smart Automation: 'Zero Touch' Strategy Through Advanced Document Processing by ABBYY
 
 [Back to Webinars](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ‘The Zero Touch Goal’ - Using Intelligent Document Processing to Support an E-Invoice Initiative
 
@@ -22,8 +26,9 @@ English
 ![Bruce Orcutt](https://static2.abbyy.com/abbyycommedia/31954/bruceorcutt-198x198.png)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Bruce Orcutt
 
 Vice President - Head of Product Marketing, **ABBYY**
@@ -31,13 +36,11 @@ Vice President - Head of Product Marketing, **ABBYY**
 ![Kathy Mahaney](https://static2.abbyy.com/abbyycommedia/35578/proctergamble-forspeakers-56x56.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Kathy Mahaney](https://static1.abbyy.com/abbyycommedia/32334/kathymahaney-198x198.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Kathy Mahaney
 
 IT Director - SPPO Smart Automation, **Procter & Gamble**
@@ -48,10 +51,11 @@ Join Procter & Gamble and ABBYY in this Fireside Chat & Live Q&A from IQPC’s I
 
 Company experts Kathy Mahaney (IT Director – SPPO Smart Automation, Procter & Gamble) and Bruce Orcutt (Vice President – Head of Product Marketing, ABBYY) discuss how integrated document processing enables automation and capture of invoices from email - and helps achieve corporate goals of “Zero Touch Processing” for e-invoice initiatives.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Watch now
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Get in touch with us
 
@@ -59,17 +63,15 @@ Please note that progressive profiling is used on this form to incrementally col
 All personal information collected via this method is under full scope of all provisions in our privacy policy.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Thank you, enjoy your webinar!
 
 [![The Zero Touch Goal](https://static2.abbyy.com/abbyycommedia/34170/the-zero-touch-goal.jpg)](https://www.youtube.com/watch?v=L4%5FFSXcK3VY) 
 
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Have questions? [Contact ABBYY](https://tools.techidaily.com/abbyy/products/)
 
 #### Please fill in this form to watch the webinar:
@@ -126,8 +128,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +135,18 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/advanced-systems-for-tracking-human-manoeuvres/"><u>Advanced Systems for Tracking Human Manoeuvres</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/beginners-guide-easy-steps-to-prepare-your-first-windows-laptop/"><u>Beginner's Guide: Easy Steps to Prepare Your First Windows Laptop</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/choosing-arc-over-safari-top-3-benefits-for-my-macos-experience/"><u>Choosing Arc over Safari: Top 3 Benefits for My macOS Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cloud-costs-top-picks-for-value-for-2024/"><u>Cloud Costs Top Picks for Value for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/convince-people-youre-a-crafty-linux-whiz-with-five-easy-terminal-hacks/"><u>Convince People You're a Crafty Linux Whiz with Five Easy Terminal Hacks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/discover-the-outstanding-features-of-the-latest-darter-pro-a-top-notch-choice-in-the-linux-notebook-lineup/"><u>Discover the Outstanding Features of the Latest Darter Pro: A Top-Notch Choice in the Linux Notebook Lineup</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-guide-intel-hduhd-graphics-drivers-on-windows-11/"><u>Download & Update Guide: Intel HD/UHD Graphics Drivers on Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-arc-browser-latest-version-released-for-windows-11-users/"><u>Download Arc Browser - Latest Version Released for Windows 11 Users</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/photo-to-video-magic-add-music-and-tell-a-story-for-2024/"><u>Photo to Video Magic Add Music and Tell a Story for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-black-ops-cold-war-error-code-0xc0000005/"><u>Troubleshooting Steps for Black Ops: Cold War Error Code 0Xc0000005</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-lenovo-thinkpad-x1-titanium-yoga-a-revolutionary-2-in-1-laptop-that-captivates-longtime-thinkpad-connoisseurs/"><u>Unveiling the Lenovo ThinkPad X1 Titanium Yoga: A Revolutionary 2-in-1 Laptop That Captivates Longtime ThinkPad Connoisseurs</u></a></li>
+</ul></div>
 

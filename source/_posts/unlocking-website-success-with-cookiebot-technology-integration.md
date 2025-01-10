@@ -1,7 +1,7 @@
 ---
 title: Unlocking Website Success with Cookiebot Technology Integration
-date: 2024-08-21T17:44:14.417Z
-updated: 2024-08-22T17:44:14.417Z
+date: 2025-01-07T21:22:29.652Z
+updated: 2025-01-09T18:23:35.871Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be75696460e14e09acd5a7ef9a37fabd.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY とアメディアが提携して視覚障害者向けOCR/読み上げアプリを開発
 
 6月8日, 2016
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _情報をより有効に活用するための技術 やソリューションを提供するリーダー企業であるABBYY®は、日本のアメディア社と提 携して、視覚障害者向けのモバイル用OCR アプリ、Amedia Live Reader を開発しまし た。_
 
@@ -45,8 +53,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -54,8 +60,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-unlock-youtubes-enigmentic-video-cache-for-2024/"><u>[New] How to Unlock YouTube’s Enigmentic Video Cache for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-easing-into-cinematic-scene/"><u>[Updated] 2024 Approved Easing Into Cinematic Scene</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-echo-chambers-tech-updates/"><u>2024 Approved Echo Chambers Tech Updates</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovations-in-podcasting-generating-custom-rss-files/"><u>2024 Approved Innovations in Podcasting Generating Custom RSS Files</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725287900188-4k/"><u>全新無限制的免費4K影片格式切換工具</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mac-dvd-dvd-mp4-h264-hevc-itune/"><u>無限制的Mac DVD字處理器: 任何DVD節流轉化到 MP4 H264 HEVC供 Itune使用</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/beste-kostenlose-mp4-video-konverter-umwandeln-zwischen-verschiedenen-formaten/"><u>Beste Kostenlose MP4 Video Konverter: Umwandeln Zwischen Verschiedenen Formaten</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bring-to-life-the-dance-of-light-on-faces-employing-motion-blur-effects-in-picsart-for-2024/"><u>Bring to Life the Dance of Light on Faces Employing Motion Blur Effects in Picsart for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comment-liberer-un-dvd-de-son-filigrane-anti-copie-sur-ordinateurs-windows-et-mac/"><u>Comment Libérer Un DVD De Son Filigrane Anti-Copie Sur Ordinateurs Windows Et Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/convert-heic-images-to-jpg-format-on-pc-and-mac-a-step-by-step-guide/"><u>Convert HEIC Images to JPG Format on PC and Mac: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/digiartys-end-user-license-terms-for-winxdvd-comprehensive-guide/"><u>Digiarty's End-User License Terms for WinXDVD - Comprehensive Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-verizon-iphone-7-by-drfone-ios/"><u>In 2024, How to Unlock Verizon iPhone 7</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-depth-review-of-the-razer-portal-top-choice-wireless-router-for-gamers/"><u>In-Depth Review of the Razer Portal: Top Choice Wireless Router for Gamers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/newly-fixed-64-bit-handbrake-version-dealing-with-vlc-missing-64-bit-error/"><u>Newly Fixed: 64-Bit Handbrake Version – Dealing with VLC Missing 64-Bit Error</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/unveiling-the-potential-gains-from-cryptocurrency-investments-with-guidance-from-yl-tech-experts/"><u>Unveiling the Potential Gains From Cryptocurrency Investments with Guidance From YL Tech Experts</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->

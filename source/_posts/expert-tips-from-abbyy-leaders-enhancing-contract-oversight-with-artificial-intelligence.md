@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips From ABBYY Leaders: Enhancing Contract Oversight with Artificial Intelligence"
-date: 2024-08-21T17:40:28.433Z
-updated: 2024-08-22T17:40:28.433Z
+date: 2025-01-06T23:18:25.221Z
+updated: 2025-01-09T19:20:08.302Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/b291d1186c17a0e27af028a28ffb312d4304bf88d64275a707a4eb2f0cc766f8.jpg
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/b291d1186c17a0e27af028a28ffb312d4304bf88d
 ## Expert Tips From ABBYY Leaders: Enhancing Contract Oversight with Artificial Intelligence
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Q&A with ABBYY Top Voices on LinkedIn: Leveraging AI for Contract Management
 
@@ -25,7 +29,15 @@ Two Top Voices we are highlighting are Filip Horvat, Top Voice on LinkedIn for C
 
 ![max-filip-headshots-abbyy](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/linkedin-top-voices-q-and-a/max-filip-headshots-abbyy.png?h=419&w=800)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 As an experienced professional in contract management and in-house counsel, the challenges of navigating complex legal documents and ensuring compliance are all too familiar to Filip. In recent years, AI has emerged as a game-changer, offering innovative solutions to streamline processes and enhance the overall efficiency of in-house legal teams. To specifically cater to the needs of in-house counsel, this blog will explore three key AI use cases: document sifting, contract provision extraction, and legal research.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How can AI accelerate the contract review process?
 
@@ -34,8 +46,9 @@ As an experienced professional in contract management and in-house counsel, the 
 **Max:** _When using purpose-built AI to take on document sifting, it’s not just scanning text; it’s engaging with every word through the lens of advanced natural language processing (NLP). This AI uses named entity recognition (NER) to pick out specific entities like names, dates, and contract specifics, making the retrieval of vital information as effortless as finding Waldo in a crowd. By leveraging small, efficient language models, ABBYY’s technology ensures swift processing, enabling real-time insights even from the densest documents. This level of interaction transforms piles of paperwork into neatly organized, easily accessible data._
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Contract Provisions, how do you find the needle in the haystack?
 
 **Filip:** _Extracting key provisions from contracts is a meticulous task that demands both time and attention to detail. AI excels in this area by employing NLP to understand and extract specific clauses, dates, and obligations from contracts. This not only saves valuable time but also significantly reduces the margin of error associated with manual extraction._
@@ -45,8 +58,9 @@ _By integrating AI-powered contract provision extraction tools into your workflo
 **Max:** _ABBYY’s purpose-built AI showcases its mastery through NLP, distinguishing between the myriad of legal terminologies with the precision of a skilled artist. It employs NER to highlight critical contract clauses, ensuring nothing slips through the cracks. Small language models tailored for the legal domain, enables AI to navigate the complexity of legal jargon efficiently, ensuring every relevant detail is captured and categorized with precision._
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### When leveraging AI for legal research, what are the benefits?
 
 Legal research is a cornerstone of in-house counsel responsibilities. AI-driven legal research tools sift through vast databases, court rulings, and precedents to provide quick and comprehensive insights. These tools go beyond keyword searches, offering contextual understanding and analysis of legal documents to aid in more informed decision-making.
@@ -109,8 +123,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +130,16 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-camstudio-screen-recorder-review-2023/"><u>[New] CamStudio Screen Recorder Review 2023</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-discover-the-power-of-voice-in-tiktok-videos/"><u>[Updated] 2024 Approved Discover the Power of Voice in TikTok Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-frame-your-fantasy-the-most-uplifting-instagram-captures/"><u>2024 Approved Frame Your Fantasy The Most Uplifting Instagram Captures</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/downloading-vevo-content-rechtliche-wege-and-empfehlungen-kostelos-guide/"><u>Downloading Vevo-Content: Rechtliche Wege & Empfehlungen - Kostelos Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-note-12-pro-4g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi Note 12 Pro 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-downloading-and-watching-youtube-videos-offline-on-your-ipad/"><u>Guide: Downloading and Watching YouTube Videos Offline on Your iPad</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-create-a-funny-meme/"><u>How To Create A Funny Meme</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-for-mac-users-convert-dvds-to-high-quality-video-formats-using-the-pro-pack-of-macx-dvd-video-converter/"><u>Step-by-Step Guide for Mac Users: Convert DVDs to High-Quality Video Formats Using the Pro Pack of MacX DVD Video Converter</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/xdvddvd70/"><u>マックXDVDで超安さ!世界的なセールスイベントによる、最高人気のDVDと動画コンバーターの70%割引</u></a></li>
+</ul></div>
 

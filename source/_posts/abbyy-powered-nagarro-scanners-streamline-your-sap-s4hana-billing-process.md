@@ -1,7 +1,7 @@
 ---
 title: "ABBYY-Powered Nagarro Scanners: Streamline Your SAP S/4HANA Billing Process"
-date: 2024-08-21T17:42:14.171Z
-updated: 2024-08-22T17:42:14.171Z
+date: 2025-01-04T02:16:15.532Z
+updated: 2025-01-10T01:29:53.843Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1fac24bb52cc0d4742cbe1750.jpg
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 
 CASE STUDY | TECHNOLOGY
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Nagarro Invoice Scanner for SAP S/4HANA® Delivers Impressive ROI, Powered by ABBYY
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/customer-stories/white-logos/nagarro_logo_new_white.png?h=30&iar=0&w=120)
@@ -22,6 +26,10 @@ Nagarro ES GmbH, a global digital product engineering and technology consulting 
 Since adopting ABBYY Vantage, we’ve seen remarkable improvements. The improved browser UI and very good scanning results have significantly improved our document processing, saving time and resources.
 
 Ulrich Winter, Head of Application Development, Nagarro ES GmbH
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Challenge
 
@@ -35,9 +43,6 @@ Requirements:
 * Interpret this content accurately
 * Create an invoice object in SAP S/4HANA®
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Solution
 
 Nagarro used ABBYY Vantage to power the recognition within their Invoice Scanner.
@@ -47,8 +52,9 @@ Vantage applies artificial intelligence technology to accurately extract data fr
 Customers can use Nagarro’s ROI calculator to see the amount of money saved using their Invoice Scanner over manual methods.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Value
 
 * Nagarro processes 700 invoices per month
@@ -63,8 +69,9 @@ Customers can use Nagarro’s ROI calculator to see the amount of money saved us
 ![FC_1](https://content.abbyy.com/-/media/project/abbyy/abbyy/products/flexicapture/fc_1.jpg?h=392&iar=0&w=696)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### ABBYY Solutions for Accounts Payable Automation
 
 [Learn more](https://tools.techidaily.com/abbyy/products/)
@@ -72,21 +79,15 @@ Customers can use Nagarro’s ROI calculator to see the amount of money saved us
 ![overview image](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/ap-automation/overview-image.jpg?h=800&iar=0&w=1392)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### PDF Version
 
 [Read the document](https://content.abbyy.com/-/media/Project/Abbyy/Abbyy/Insights/Customer-Stories/PDFs/nagarro-case-study-intelligent-document-processing-en.pdf)
 
 ![laptop mug](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/newsroom/news-images/laptop-mug.jpg?h=836&iar=0&w=1486)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Ready to speak with an expert?
 
 [Contact us](https://tools.techidaily.com/abbyy/products/)
@@ -97,8 +98,6 @@ Customers can use Nagarro’s ROI calculator to see the amount of money saved us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +105,24 @@ Customers can use Nagarro’s ROI calculator to see the amount of money saved us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/oosting-views-with-captivating-intros-filmed-in-imovie-for-2024/"><u>[New] Boosting Views with Captivating Intros Filmed in iMovie for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-historical-explorations-10-must-see-educational-channels-on-yt/"><u>2024 Approved Historical Explorations - 10 Must-See Educational Channels on YT</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/fortnite-access-denied-heres-how-you-can-regain-entry-successfully/"><u>Fortnite Access Denied? Here’s How You Can Regain Entry Successfully</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-oneplus-nord-n30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-apple-iphone-12-mini-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About Apple iPhone 12 mini Activation Lock</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-v30-lite-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo V30 Lite 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/inflammation-is-a-protective-response-that-involves-immune-cells-blood-vessels-and-molecular-mediators/"><u>Inflammation Is a Protective Response that Involves Immune Cells, Blood Vessels, and Molecular Mediators.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ipads-latest-functionality-includes-ability-to-reformat-exterior-hard-drives/"><u>IPad's Latest Functionality Includes Ability to Reformat Exterior Hard Drives</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/is-the-apple-model-of-modular-accessories-a-feasible-strategy-for-competitors-to-adopt/"><u>Is the Apple Model of Modular Accessories a Feasible Strategy for Competitors to Adopt?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/launch-announcement-unveiling-of-the-new-google-pixel-phone-on-august-13th/"><u>Launch Announcement: Unveiling of the New Google Pixel Phone on August 13Th</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/locate-lost-iphone-using-android-a-step-by-step-guide/"><u>Locate Lost iPhone Using Android - A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/maximize-iphone-protection-with-these-7-key-safety-features/"><u>Maximize iPhone Protection with These 7 Key Safety Features!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/motorolas-roadmap-find-out-your-phones-eligibility-for-the-new-android-15-update/"><u>Motorola's Roadmap: Find Out Your Phone's Eligibility for the New Android 15 Update</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/my-amazing-experience-with-newly-released-airpods-pro-2-the-stunning-upgrades-you-need-to-know-about/"><u>My Amazing Experience with Newly Released AirPods Pro 2: The Stunning Upgrades You Need to Know About!</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-t2x-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo T2x 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-selection-of-premium-apple-watch-bands-featuring-professional-assessments-zdnet/"><u>Ultimate Selection of Premium Apple Watch Bands , Featuring Professional Assessments | ZDNET</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/winxvideo-artificial-intelligence-instant-download-for-mobile-users-ios-android/"><u>WinxVideo Artificial Intelligence: Instant Download for Mobile Users (iOS, Android)</u></a></li>
+</ul></div>
 

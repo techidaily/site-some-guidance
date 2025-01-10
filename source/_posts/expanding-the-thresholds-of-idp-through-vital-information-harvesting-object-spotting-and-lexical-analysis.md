@@ -1,7 +1,7 @@
 ---
 title: Expanding the Thresholds of IDP Through Vital Information Harvesting, Object Spotting, and Lexical Analysis
-date: 2024-08-21T17:45:05.017Z
-updated: 2024-08-22T17:45:05.017Z
+date: 2025-01-07T03:29:59.002Z
+updated: 2025-01-10T00:51:10.363Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/b9b7665577f766113660c4c3c2e978c3705b755579fa83e6d4b9ffe0b41b7175.jpg
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/b9b7665577f766113660c4c3c2e978c3705b75557
 ## Expanding the Thresholds of IDP Through Vital Information Harvesting, Object Spotting, and Lexical Analysis
 
 [Back to The Intelligent Enterprise](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Pushing the Boundaries of IDP: Object Detection, Word Recognition, and Key-Value Extraction
 
@@ -34,6 +38,10 @@ Taking a large, general key-value extraction model and training it on a set of d
 ABBYY’s current path towards this solution consists of two independent workflows: entity extraction and linking models for general documents, and key summarization and QA models for text-heavy documents such as contracts. Both models are based on the transformer architecture that is ubiquitous in modern neural networks, e.g., the GPT-family and other LLMs.
 
 ![pushing-the-boundaries-of-idp-2](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/intelligent-enterprise/content-media/pushing-the-boundaries-of-idp-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The image above portrays a form-like document where green highlights indicate keys, and yellow highlights indicate values that must be extracted from their respective keys. In a form, there are visual indicators such as layouts and blank cells that suggest where key-values lie. The world classification model tags each word as either a background or a part of a key or value, while the entity linking model combines the tagged words into key/value sequences and matches them together. Within this workflow, text is processed by a RoBERTa transformer, while visual data (images) are processed by a compact YOLOv8 model.
 
@@ -127,8 +135,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,8 +142,21 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-leverage-youtube-metrics-for-enhanced-visibility/"><u>[New] Leverage YouTube Metrics for Enhanced Visibility</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unveiling-the-secrets-of-instagrams-musical-emoji-usage/"><u>[New] Unveiling the Secrets of Instagram's Musical Emoji Usage</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-smiles-on-signal-best-humorous-tones-online/"><u>[Updated] In 2024, Smiles on Signal Best Humorous Tones Online</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-ultimate-list-of-androids-best-music-video-apps-for-2024/"><u>[Updated] The Ultimate List of Android's Best Music Video Apps for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-mastering-ppt-recording-techniques/"><u>2024 Approved Mastering PPT Recording Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/64-bit-handbrake-now-supports-vlc-overcome-the-previous-compatibility-mistake/"><u>64-Bit Handbrake Now Supports VLC! Overcome the Previous Compatibility Mistake.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/aktiver-nvenc-encoder-in-handbrake-schritt-fur-schritt-anleitung-zur-einrichtung/"><u>Aktiver NVENC-Encoder in HandBrake: Schritt-Für-Schritt Anleitung Zur Einrichtung</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/creating-dvds-at-no-cost-using-winx-dvd-author-software/"><u>Creating DVDs at No Cost Using WinX DVD Author Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-find-the-sid-of-any-user-in-windows-11/"><u>How to Find the SID of Any User in Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-legally-watch-resurrections-of-the-matrix-on-popular-streaming-services/"><u>How to Legally Watch 'Resurrections of the Matrix' On Popular Streaming Services</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ideal-iphone-extras-maximize-your-phone-experience/"><u>Ideal iPhone Extras: Maximize Your Phone Experience</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/quick-and-efficient-cuda-dvd-extractor-apps-for-rapid-disk-digitization/"><u>Quick & Efficient CUDA DVD Extractor Apps for Rapid Disk Digitization!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-androidios-engagement-with-chatgpt/"><u>Seamless Android/iOS Engagement with ChatGPT</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->

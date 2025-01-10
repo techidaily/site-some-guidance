@@ -1,7 +1,7 @@
 ---
 title: "Millennial Majority Seeks Mobile Management Tools: Only 35%% of Compan#ies Respond - Insights From ABBYY"
-date: 2024-08-21T17:44:33.450Z
-updated: 2024-08-22T17:44:33.450Z
+date: 2025-01-07T20:34:05.562Z
+updated: 2025-01-10T01:08:44.915Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/403ee604a3f16d045c6709201099032edd204086d93c80ae19bbdd0f525004e0.png
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/403ee604a3f16d045c6709201099032edd204086d
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Over half of millennials want to use mobile for admin, with only 35% of businesses catching on
 
 February 25, 2019
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### _Organisations struggling to digitise as 46% of employees find pen and paper simpler to use_
 
@@ -67,8 +75,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -76,8 +82,21 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-comparing-the-best-of-gopro-cameras/"><u>[New] Comparing the Best of GoPro Cameras</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-prolonging-gopro-battery-usage-efficiency/"><u>[New] Prolonging GoPro Battery Usage Efficiency</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-the-iphone-8-plus-icloud-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing the iPhone 8 Plus iCloud Lock</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/como-hacer-una-copia-clonacion-o-convertir-un-dvd-con-winx-dvd-copy-pro-en-iso-o-archivos-similares-para-su-almacenamiento-y-uso-seguro/"><u>Cómo Hacer Una Copia Clonación O Convertir Un DVD Con WinX DVD Copy Pro en ISO O Archivos Similares Para Su Almacenamiento Y Uso Seguro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/descubra-la-facil-tecnica-de-convertir-cintas-dvr-a-mp4-soluciones-para-windows-10-y-mac-con-vob-seguro/"><u>Descubra La Fácil Técnica De Convertir Cintas DVR a MP4: Soluciones Para Windows 10 Y Mac Con VOB Seguro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/die-effektivsten-wege-um-den-av1-videocodec-auf-windows-11-zu-aktualisieren-und-zu-laden/"><u>Die Effektivsten Wege, Um Den AV1 Videocodec Auf Windows 11 Zu Aktualisieren Und Zu Laden</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/google-maps-mastery-tracking-down-electric-car-chargers-with-ease/"><u>Google Maps Mastery: Tracking Down Electric Car Chargers With Ease</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-itel-s23plus-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Itel S23+ to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-photo-transformations-with-adobe-photoshops-background-erase-technique/"><u>In 2024, Seamless Photo Transformations with Adobe Photoshop's Background Erase Technique</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/quickwinx-pro-hd-dvd-extractor-and-converter-fast-h264-hevc-mp4-conversion/"><u>QuickWinX Pro: HD DVD Extractor & Converter - Fast H.264 HEVC MP4 Conversion</u></a></li>
+<li><a href="https://games-able.techidaily.com/serene-gameplay-strategies-with-xbox/"><u>Serene Gameplay Strategies with Xbox</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/swipe-savings-secure-a-nearly-half-price-samsung-t5-ssd-on-amazon-prior-to-prime-day-zdnet-exclusive/"><u>Swipe Savings: Secure a Nearly Half-Price Samsung T5 SSD on Amazon Prior to Prime Day - ZDNet Exclusive!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/synergy-suite-bringing-xbone-to-win11-seamlessly/"><u>Synergy Suite: Bringing Xbone to Win11 Seamlessly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-understanding-gpu-acceleration-in-handbrake-for-quick-and-efficient-video-conversion/"><u>The Ultimate Guide: Understanding GPU Acceleration in HandBrake for Quick and Efficient Video Conversion</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "ABBYY Reports 25%% Sales Growth in 2017: Key Insights"
-date: 2024-08-21T17:42:15.872Z
-updated: 2024-08-22T17:42:15.872Z
+date: 2025-01-04T17:39:01.652Z
+updated: 2025-01-10T01:00:30.227Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/918241799e85f81dec9b4161207ab0693452bcd53dc379a61f25b9401249f9af.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/918241799e85f81dec9b4161207ab0693452bcd53
 
 [Actualités](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY annonce une augmentation de 25 % de son chiffre d’affaires en 2017
 
 14 février 2018
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### _La multiplication des initiatives de transformation numérique, d’intelligence artificielle et d’automatisation des processus par la robotique favorise la croissance_
 
@@ -65,8 +73,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -74,8 +80,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-laughing-in-the-metaverse-how-to-create-your-own-funny-memes-for-2024/"><u>[New] Laughing in the Metaverse How to Create Your Own Funny Memes for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unveiling-the-mystery-of-instagrams-most-trusted-6-techniques-for-building-a-fanbase/"><u>[New] Unveiling the Mystery of Instagram's Most Trusted 6 Techniques for Building a Fanbase</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-streamlining-your-instagram-video-experience/"><u>[Updated] In 2024, Streamlining Your Instagram Video Experience</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/discover-the-top-5-leading-photo-background-editor-tools-of-2021-available-on-iphone-and-android-platforms/"><u>Discover the Top 5 Leading Photo Background Editor Tools of 2021 Available on iPhone & Android Platforms</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-zbook-15-g3-windows-driver-installation-instructions-and-download-links/"><u>HP ZBook 15 G3 - Windows Driver Installation Instructions & Download Links</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-infusing-instant-storytelling-with-musical-essence/"><u>In 2024, Infusing Instant Storytelling With Musical Essence</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/on-the-hunt-for-the-perfect-tablet-exploring-why-ipad-mini-stands-out-in-the-crowd/"><u>On the Hunt for the Perfect Tablet? Exploring Why iPad Mini Stands Out in the Crowd</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/pyroptosis-is-an-inflammatory-form-of-programmed-cell-death-that-occurs-in-response-to-microbial-infection-characterized-by-pore-formation-in-the-cell-membr45/"><u>Pyroptosis Is an Inflammatory Form of Programmed Cell Death that Occurs in Response to Microbial Infection, Characterized by Pore Formation in the Cell Membrane Leading to Lysis.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/reevaluating-my-views-on-tracking-sleep-patterns-for-better-health/"><u>Reevaluating My Views on Tracking Sleep Patterns for Better Health</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/secure-your-ios-device-a-must-know-guide-for-losing-or-theft-scenarios/"><u>Secure Your iOS Device: A Must-Know Guide for Losing or Theft Scenarios</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamline-your-day-to-day-the-power-of-apples-freeform-app-for-personal-efficiency/"><u>Streamline Your Day-to-Day: The Power of Apple's Freeform App for Personal Efficiency</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-6-ways-to-enhance-your-productivity-with-samsung-dex/"><u>Top 6 Ways to Enhance Your Productivity with Samsung DeX</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-perfect-chromebook-for-academic-excellence-in-depth-analysis-and-ratings/"><u>Ultimate Guide to Choosing the Perfect Chromebook for Academic Excellence: In-Depth Analysis and Ratings</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-a-closer-look-at-vn-video-editor-for-windows-and-macos/"><u>Updated In 2024, A Closer Look at VN Video Editor for Windows and macOS</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->

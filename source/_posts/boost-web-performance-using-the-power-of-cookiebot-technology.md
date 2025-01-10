@@ -1,7 +1,7 @@
 ---
 title: Boost Web Performance Using The Power of Cookiebot Technology
-date: 2024-08-21T17:41:13.392Z
-updated: 2024-08-22T17:41:13.392Z
+date: 2025-01-02T18:45:32.110Z
+updated: 2025-01-09T20:01:06.567Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/640d7e8ae71734e741d90b60c7027d369bb73ea6dc95cbde06bedc68934e5552.jpg
@@ -11,13 +11,25 @@ thumbnail: https://thmb.techidaily.com/640d7e8ae71734e741d90b60c7027d369bb73ea6d
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bosch relies on Intelligent Automation from ABBYY
 
 June 21, 2022
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![News Partners7](https://static2.abbyy.com/abbyycommedia/33722/news-partners7.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### _ABBYY's IDP solutions enable Bosch to significantly reduce document processing time in goods inspection and complaint management, and improve process quality in the company_  
   
@@ -42,24 +54,19 @@ ABBYY is a US-based global company with offices in 14 countries. For more inform
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY group companies and may not be used without consent of its respective owners.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### ABBYY Editorial Contact:
 
 ![Nophoto 110X110](https://static4.abbyy.com/abbyycommedia/34370/nophoto-110x110.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 #### Bianca Stupp
 
 _ABBYY_
 
 [bianca.stupp@abbyy.com](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### About the Bosch Group
 
 The Bosch Group is a leading international technology and services company with around 401,300 associates worldwide (as of Dec. 31, 2021). According to preliminary figures, it generated sales of 78.8 billion euros in fiscal 2021\. Its activities are divided into four business sectors: Mobility Solutions, Industrial Technology, Consumer Goods, and Energy and Building Technology. As a leading provider in the Internet of Things (IoT), Bosch offers innovative solutions for Smart Home, Industry 4.0, and Connected Mobility. Bosch pursues the vision of sustainable, safe and inspiring mobility. With its expertise in sensor technology, software, and services, as well as its own IoT cloud, the company is able to offer its customers connected and cross-domain solutions from a single source. The Bosch Group's strategic goal is to provide solutions and products for connected life that either have artificial intelligence (AI) or are developed or manufactured with its help. Bosch improves the quality of people's lives worldwide with innovative and inspiring products and services. Bosch offers "technology for life." The Bosch Group comprises Robert Bosch GmbH and its approximately 440 subsidiaries and regional companies in some 60 countries. Including trade and service partners, Bosch's global manufacturing, development, and sales network extends to almost every country in the world. With its more than 400 locations worldwide, the Bosch Group has been CO2-neutral since spring 2020\. The basis for future growth is the company's innovative strength. Bosch employs some 76,300 associates in research and development at 128 locations worldwide, including more than 38,000 software developers.
@@ -67,15 +74,13 @@ The Bosch Group is a leading international technology and services company with 
 The company was founded in 1886 as the "Workshop for Precision Mechanics and Electrical Engineering" by Robert Bosch (1861-1942) in Stuttgart. The corporate structure of Robert Bosch GmbH ensures the entrepreneurial independence of the Bosch Group. It enables the company to plan for the long term and to invest in significant up-front investments for the future. The non-profit Robert Bosch Stiftung GmbH holds 94 percent of the capital of Robert Bosch GmbH. The remaining shares are held by a Bosch family company and Robert Bosch GmbH. The majority of voting rights are held by Robert Bosch Industrietreuhand KG; it exercises the entrepreneurial shareholder function.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Bosch contact:
 
 ![Nophoto 110X110](https://static4.abbyy.com/abbyycommedia/34370/nophoto-110x110.png)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Andreas Magnussen
 
 _Bosch_
@@ -91,8 +96,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +103,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-beam-breakthroughs-lighting-know-how-for-video-success/"><u>[New] Beam Breakthroughs Lighting Know-How for Video Success</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-elevate-your-craft-canvas-hidden-design-secrets/"><u>[Updated] Elevate Your Craft Canva's Hidden Design Secrets</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-drone-vfx-essentials-free-luts-for-dji-drones-available/"><u>[Updated] In 2024, Drone VFX Essentials - Free LUTS for DJI Drones Available</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-step-by-step-guide-to-crafting-youtube-splitscreen-content/"><u>[Updated] In 2024, Step-by-Step Guide to Crafting YouTube Splitscreen Content</u></a></li>
+<li><a href="https://discover-great.techidaily.com/mydocument/"><u>「オンディーブでのMyDocumentの自動保存手順」</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-androids-premier-8-apps-harmonizing-free-and-paid-videomosaic-experience/"><u>2024 Approved Android's Premier 8 Apps Harmonizing Free & Paid Videomosaic Experience</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-tutorial-solve-your-dells-pitch-black-screen-problem-with-ease/"><u>Comprehensive Tutorial: Solve Your Dell's Pitch-Black Screen Problem with Ease</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/distinguishing-human-creativity-techniques-to-elevate-your-writing-beyond-artificial-intelligence/"><u>Distinguishing Human Creativity: Techniques to Elevate Your Writing Beyond Artificial Intelligence</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/exploring-the-top-long-range-electric-vehicles-teslas-best-performers/"><u>Exploring the Top Long-Range Electric Vehicles: Tesla's Best Performers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/get-your-oculus-certified-quest-2-set-for-less-avail-50-off-at-amazon-today/"><u>Get Your Oculus Certified Quest 2 Set for Less: Avail 50% Off at Amazon Today!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-many-words-can-you-type-in-chatgpt-conversations/"><u>How Many Words Can You Type in ChatGPT Conversations?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-streamline-movie-viewing-direct-loading-on-your-meta-quest-a-step-by-step-guide/"><u>How to Streamline Movie Viewing: Direct Loading on Your Meta Quest – A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/introducing-new-capabilities-chatgpt-optimizes-user-experience-with-slashed-api-subscription-rates/"><u>Introducing New Capabilities: ChatGPT Optimizes User Experience with Slashed API Subscription Rates</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/introducing-the-elegant-space-saving-ev5-kias-latest-electrifying-crossover-compact-suv/"><u>Introducing the Elegant, Space-Saving EV5 – Kia’s Latest Electrifying Crossover Compact SUV</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/is-an-artificially-intelligent-film-your-next-must-watch-choice/"><u>Is an Artificially Intelligent Film Your Next Must-Watch Choice?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/is-there-a-mobile-application-version-of-chatgpt-available/"><u>Is There a Mobile Application Version of ChatGPT Available?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-realme-gt-5-pro-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Realme GT 5 Pro for Streaming | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-apple-iphone-12-pro-max-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile Apple iPhone 12 Pro Max Before the Plan Expires</u></a></li>
+</ul></div>
 

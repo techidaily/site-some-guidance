@@ -1,7 +1,7 @@
 ---
 title: ABBYY Et Xerox Collaborent Sur AbilDoc Lors De La Conférence Internationale Sur La Documentation De 2016
-date: 2024-08-21T17:44:46.774Z
-updated: 2024-08-22T17:44:46.774Z
+date: 2025-01-02T21:23:14.678Z
+updated: 2025-01-10T00:38:14.850Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4bb09ddf21259f8aa35372dd3bddaab5a52e4c2f70a7e62b027db40747b04fa4.jpeg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/4bb09ddf21259f8aa35372dd3bddaab5a52e4c2f7
 
 [Actualités](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY participe à Documation 2016 avec Xerox et AbilDoc
 
 30 mars 2016
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Les 6 et 7 avril 2016 – Paris Porte de Versailles, stand B33
 
@@ -38,6 +46,10 @@ Proposant un vaste panel d’outils pour les développeurs, ABBYY offre aussi la
 
   
 ABBYY propose une large gamme de solutions conçues pour répondre à des besoins métier ou à ceux d’un secteur d’activité en particulier.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### À propos d’ABBYY Europe
 
@@ -68,8 +80,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -77,8 +87,19 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-analyzing-online-video-discussions/"><u>[Updated] 2024 Approved Analyzing Online Video Discussions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-silencing-the-quiet-how-to-enhance-tweeted-vids/"><u>[Updated] 2024 Approved Silencing the Quiet How to Enhance Tweeted Vids</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-decoding-love-for-filmora-the-editors-prime-traits/"><u>[Updated] Decoding Love for Filmora The Editor’s Prime Traits</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/freier-video-player-fur-die-wiedergabe-von-mkv-filmen-kostenlos/"><u>Freier Video-Player Für Die Wiedergabe Von MKV-Filmen Kostenlos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guia-sencilla-para-convertir-videos-mkv-a-avi-con-seguridad-usando-el-reproductor-vlc-garantizando-la-integridad-del-contenido-original/"><u>Guía Sencilla Para Convertir Videos MKV a AVI Con Seguridad Usando El Reproductor VLC, Garantizando La Integridad Del Contenido Original</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-update-when-it-gets-stuck-on-100-solution/"><u>How to Fix Windows Update When It Gets Stuck on 100% - SOLUTION</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-to-make-your-facebook-profile-cover-video-more-attractive/"><u>How to Make Your Facebook Profile Cover Video More Attractive</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-guide-to-top-8-free-high-definition-video-players/"><u>In 2024, Exclusive Guide to Top 8 FREE, High Definition Video Players</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725287583597-music-fm/"><u>Music FM復活へ：最新版無料音楽アプリインストールガイド</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/social-broadcast-battleground-fb-live-yt-live-twitvision-for-2024/"><u>Social Broadcast Battleground FB Live, YT Live, TwitVision for 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/top-4-quality-substitutes-for-tenorshare-your-ultimate-guide/"><u>Top 4 Quality Substitutes for Tenorshare: Your Ultimate Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/vlc-streaming-app-for-windows-11-users-complete-free-download-and-installation-tutorial/"><u>VLC Streaming App for Windows 11 Users: Complete Free Download & Installation Tutorial</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

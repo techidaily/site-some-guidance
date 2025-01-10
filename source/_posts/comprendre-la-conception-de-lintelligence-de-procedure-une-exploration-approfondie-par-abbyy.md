@@ -1,7 +1,7 @@
 ---
 title: "Comprendre La Conception De L'Intelligence De Procédure : Une Exploration Approfondie Par ABBYY"
-date: 2024-08-21T17:43:16.437Z
-updated: 2024-08-22T17:43:16.437Z
+date: 2025-01-07T02:10:46.580Z
+updated: 2025-01-10T00:31:33.221Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f02287ca2d451303bdd76b5dd20.jpg
@@ -29,13 +29,18 @@ Passer à :
 [Associer la process intelligence à l’IPA](https://tools.techidaily.com/abbyy/products/)  
 [Foire aux questions](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Qu’est-ce que la Process Intelligence ?
 
 **La Process intelligence est une combinaison de fonctionnalités reposant sur les données, dédiée à l’analyse et à l’amélioration des opérations de l’entreprise.** Elle utilise les données tirées des propres systèmes d’information de l’entreprise pour dévoiler des schémas et des renseignements qui indiquent la voie vers une nouvelle efficacité opérationnelle. **Les cinq piliers essentiels d’une process intelligence soutenable sont la découverte des processus (process discovery), l’analyse des processus (process analysis), le suivi des processus (process monitoring), la prédiction des résultats des processus (process prediction), et la simulation des processus (process simulation).**  Les entreprises peuvent utiliser ces renseignements pour découvrir, comprendre et gérer plus efficacement l’exécution de leurs processus.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Les cinq piliers de la process intelligence
 
 #### 1\. Découverte des processus (Process Discovery)
@@ -76,20 +81,18 @@ En tirant le meilleur parti de la process intelligence, les entreprises peuvent 
 
 **Économies.** En identifiant et en éliminant les inefficacités des processus, les organisations peuvent faire baisser leurs frais de fonctionnement. La Process intelligence permet d’allouer les ressources de façon rentable et d’éviter les dépenses inutiles liées aux interventions manuelles ou aux erreurs.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Exemples d’utilisation de la process intelligence
 
 Dans tout secteur d’activité, incorporer la [process intelligence à la stratégie de transformation numérique](https://tools.techidaily.com/abbyy/products/) permet aux organisations d’évaluer le futur impact des changements proposés, de gérer les transitions plus efficacement, de garantir la performance des étapes d’automatisation mises en place et de mettre en place une boucle de rétroaction pour une amélioration continue. Les entreprises, quel que soit leur secteur d’activité, utilisent la process intelligence pour booster leurs résultats dans de nombreuses situations.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Santé
 
 Les hôpitaux et d’autres prestataires de santé peuvent tirer le meilleur parti de la process intelligence pour améliorer l’expérience des patients et l’efficacité clinique, maintenir les normes de qualité, et éviter les risques de conformité. Ils peuvent être plus facilement en conformité en suivant les opérations en temps réel, tout en alertant le personnel de manière proactive lorsque les protocoles ne sont pas respectés ou que des écarts dans la trajectoire du processus sont détectés.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ### Banque
 
 La Process intelligence permet aux banques et autres institutions financières de piloter leur transformation numérique et de gérer les risques et les priorités de conformité réglementaire. Elles peuvent analyser les données des transactions quasiment en temps réel pour améliorer le service aux clients, accroître la précision du reporting, et réduire les risques d’erreurs coûteuses. Le suivi des processus les aide à garantir que le niveau de service (SLA), les exigences de conformité et les exigences législatives sont maintenus, ce qui limite les risques d’erreurs coûteuses qui pourraient autrement être négligées.
@@ -99,8 +102,9 @@ La Process intelligence permet aux banques et autres institutions financières d
 Les compagnies d’assurance peuvent utiliser l’analyse prédictive pour entreprendre une évaluation et une sélection des risques, ainsi que pour faire des arbitrages. Elles peuvent améliorer leur conformité grâce au suivi automatisé et aux mesures de remédiation. Elles peuvent en même temps gagner en productivité grâce au traitement direct des données. La Process analytics permet de dégager de la valeur commerciale, pour le personnel en interne, pour les experts, pour les organismes tiers d’assistance et pour les autres partenaires.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Associer la process intelligence à l’automatisation intelligente des processus
 
 La transformation numérique est l’intégration de la technologie numérique à tous les aspects de l’activité de l’entreprise, ce qui modifie fondamentalement la façon dont elle fonctionne et dont elle crée de la valeur pour ses clients. Pour que ces efforts portent leurs fruits, il faut radicalement repenser la façon dont l’entreprise emploie la technologie, les ressources humaines et les processus afin de vraiment influer sur sa performance. L'[IPA (automatisation intelligente des processus)](https://www.abbyy.com/fr/solutions/intelligent-process-automation-ipa/?itm%5Fsource=corpblog-fr) est au cœur de cette transformation. Elle combine l’intelligence artificielle (IA) à l’automatisation, pour créer des processus métier intelligents, pouvant s’adapter et évoluer au fil du temps.
@@ -116,6 +120,10 @@ Avant de l’automatiser, elle a utilisé des outils de process mining pour anal
 * Standardisant l’exécution des tâches
 
 Après avoir mis en œuvre ces optimisations, l’entreprise a mis en place une solution d’automatisation intelligente des processus, comprenant des bots de RPA (automatisation robotisée des processus) pour la saisie et l’extraction des données, des algorithmes d’IA pour la prise de décision, l’automatisation des flux de travail pour orchestrer les processus de bout en bout et de outils de process intelligence pour suivre la performance du processus automatisé et identifier d’autres axes d’amélioration.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Approche holistique de la process intelligence
 
@@ -147,9 +155,6 @@ Pour réussir l’automatisation d’un processus, il faut d’abord le comprend
 
 ![Scott Opitz ABBYY](https://static1.abbyy.com/abbyycommedia/25562/02a-scottopitz-99x99.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Scott Opitz
 
 Chief Technology Officer at ABBYY
@@ -160,9 +165,6 @@ Ayant 30 ans d’expérience dans le secteur informatique, Scott a créé et dé
 
 Précédemment, Scott a également occupé les fonctions de Vice-Président Senior, Chargé du développement marketing & commercial de webMethods (aujourd’hui Software AG), où il était également responsable de la commercialisation, du développement commercial et de la planification stratégique pour les produits. Il a rejoint webMethods suite à son acquisition d’IntelliFrame Corporation, fournisseur de produits d’intégration des données, et du flux intégré InVista, ainsi que de la plateforme BPM qu’il a cofondée. Scott a également occupé de nombreuses fonctions de cadre dans la technologie, le marketing et le développement commercial, tant pour des entreprises publiques que privées. 
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Aimer, partager ou reposter 
 
 Partager 
@@ -217,8 +219,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -226,4 +226,21 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-turbocharge-your-youtube-videos-swift-render-and-transfer-strategies/"><u>[New] 2024 Approved Turbocharge Your YouTube Videos Swift Render & Transfer Strategies</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-celebrity-fleeting-frame-revisit-for-2024/"><u>[Updated] Celebrity Fleeting Frame Revisit for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-role-of-authenticity-in-client-generated-marketing-for-2024/"><u>[Updated] The Role of Authenticity in Client-Generated Marketing for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/adding-visual-disk-space-analyzer-to-windows-explorer-menu/"><u>Adding Visual Disk Space Analyzer to Windows Explorer Menu</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comprehensive-guide-to-digiarty-winxdvd-eulas-for-consumers/"><u>Comprehensive Guide to Digiarty WinXDVD EULAs for Consumers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/digital-assistance-desk-expert-guidance-for-winx-dvd-ripping-and-video-transcoding-solutions/"><u>Digital Assistance Desk: Expert Guidance for WinX DVD Ripping & Video Transcoding Solutions</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/essential-audio-techniques-capturing-clear-sound/"><u>Essential Audio Techniques Capturing Clear Sound</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-non-detection-of-razers-by-synapse-on-windows-operating-systems/"><u>Fixing Non-Detection of Razers by Synapse on Windows Operating Systems</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-amplify-content-with-free-audio-samples/"><u>In 2024, Amplify Content with Free Audio Samples!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/seamless-transfer-of-dvd-content-to-mp4-format-with-winx-ripper-compatible-with-windows-10-and-iphones/"><u>Seamless Transfer of DVD Content to MP4 Format with WinX Ripper - Compatible with Windows 10 and iPhones</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-motorola-edge-40-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Motorola Edge 40 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-top-x265-to-x264-converters-compared-reviews-and-how-tos/"><u>Ultimate Guide: Top X265 to X264 Converters Compared - Reviews and How-Tos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/wie-man-eine-dvd-sicherlich-auf-die-festplatte-uberspielt-methodik-und-tipps/"><u>Wie Man Eine DVD Sicherlich Auf Die Festplatte Überspielt – Methodik Und Tipps</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-realme-c55-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Realme C55 | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Driven Solutions: Optimize Your Website with Cutting-Edge Automation"
-date: 2024-08-21T17:40:05.659Z
-updated: 2024-08-22T17:40:05.659Z
+date: 2025-01-03T20:27:05.258Z
+updated: 2025-01-09T16:40:35.923Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d509215d95604071818ec4e7dc281.jpg
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 Februar 13, 2024
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Immer mehr globale Unternehmen erkennen den Bedarf an zweckgebundener KI, um Daten zu nutzen und große Sprachmodelle und generative KI für das Geschäft nutzbar zu machen
 
@@ -45,6 +49,10 @@ Bruce Orcutt, Chief Marketing Officer bei ABBYY
 
 ![bruce orcutt ABBYY](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/newsroom/content-images/bruce-orcutt-rgb.jpg?h=540&w=800)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Zusätzlich zur Ernennung von Orcutt zum CMO wurde Stefan Sommer zum Managing Director von ABBYY Europe mit Sitz in Deutschland befördert. ABBYY beschleunigt außerdem seine Produktinnovation und Markteinführung mit einem neuen Team erfahrener Ingenieure, darunter Patrick (PJ) Jean, CTO/CPO, Sanju Nair, VP of Product Operations and Enterprise PMO, Morgan Logue, VP of Engineering, Cloud Platform, und Andy Wahrenberger, VP of Engineering. Das Executive Engineering Team wird mit ABBYYs globalem Team von Entwicklern und Ingenieuren zusammenarbeiten, um Produktverbesserungen zu skalieren und zu liefern, um die wachsende Nachfrage zu befriedigen. 
 
 Die globale Präsenz von ABBYY wird durch das wachsende Partnerprogramm weiter verstärkt, das strategische Allianzen mit Anbietern von Automatisierungsplattformen, Beratungsunternehmen, Anbietern integrierter Lösungen (ISVs) und Wiederverkäufern umfasst, die sich für eine Zusammenarbeit mit dem führenden Anbieter von IDP- und Process-Mining-Lösungen entscheiden. Partner wie Blue Prism, PwC, Deloitte, Workato, Mendix, NICE, Novelis und Pipefy haben ABBYY AI erfolgreich in ihr Portfolio integriert, um ihren Kunden weltweit wirkungsvolle und wiederholbare Transformationen zu ermöglichen. 
@@ -52,6 +60,11 @@ Die globale Präsenz von ABBYY wird durch das wachsende Partnerprogramm weiter v
 Um mehr über die intelligenten Automatisierungslösungen von ABBYY zu erfahren, besuchen Sie [www.abbyy.com](https://tools.techidaily.com/abbyy/products/). 
 
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Über ABBYY
 
 ABBYY macht Ihre Informationen nutzbar. Unsere Lösungen kombinieren Innovation und Erfahrung, um Daten aus geschäftskritischen Dokumenten in über 200 Sprachen und in Echtzeit in intelligente, umsetzbare Ergebnisse umzuwandeln. Wir helfen mehr als 10.000 Unternehmen weltweit, darunter vielen der Fortune-500-Unternehmen, dort etwas zu bewegen, wo es am wichtigsten ist: Bei der Customer Experience, der operativen Exzellenz und in puncto Wettbewerbsvorteile. ABBYY ist ein globales Unternehmen mit Sitz in Milpitas, Kalifornien (USA) und Niederlassungen in 14 Ländern und [offizieller Intelligent Automation Partner des Arsenal Women Football Club](https://tools.techidaily.com/abbyy/products/). Weitere Informationen finden Sie unter <https://www.abbyy.com/de> und folgen Sie uns auf [LinkedIn](https://www.linkedin.com/company/abbyy), [Twitter](https://twitter.com/ABBYY%5FSoftware) und [Facebook](https://www.facebook.com/ABBYYsoft).
@@ -59,16 +72,17 @@ ABBYY macht Ihre Informationen nutzbar. Unsere Lösungen kombinieren Innovation 
 ABBYY ist als Wort- und Bildmarke, auch in Verbindung mit ABBYY Produkten, geschützt. Die Marken dürfen nicht ohne Zustimmung der Inhaber verwendet werden.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Pressekontakt:
 
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### Gina Ray
 
 _ABBYY_
@@ -83,8 +97,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +104,24 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-secrets-of-effective-iptv-broadcasting-capture/"><u>[New] In 2024, Secrets of Effective IPTV Broadcasting Capture</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-understanding-cultural-influences-on-consumer-behavior-in-global-markets/"><u>[Updated] In 2024, Understanding Cultural Influences on Consumer Behavior in Global Markets</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-disoriented-footage-instagrams-upside-down-trend/"><u>2024 Approved Disoriented Footage Instagram's Upside-Down Trend</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvd-2024-dvd/"><u>非合法DVDコピー保護システムを解除する方法 - 2024年新しい手順とそれに伴う刑事罰のリスク | DVD市販・レンタル用ガイドブック</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-free-and-premium-4k-video-editors-of-2022-ultimate-guide-for-mac-and-pc-users/"><u>Best Free and Premium 4K Video Editors of 2022 - Ultimate Guide for Mac & PC Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-play-mkv-movies-on-samsung-galaxy-xcover-7-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can I play MKV movies on Samsung Galaxy XCover 7?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/get-the-complete-toolset-for-macxdvd-secure-your-legitimate-full-version-today-complimentary/"><u>Get the Complete Toolset for MacXDVD – Secure Your Legitimate Full Version Today, Complimentary!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/hop-into-fun-enter-our-easter-giveaway-for-a-free-macx-dvd-ripper-pro-from-macxdvd/"><u>Hop Into Fun - Enter Our Easter Giveaway for a Free MacX DVD Ripper Pro From MacXDVD!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-actor-rights-free-movie-downloads-license/"><u>In 2024, Actor Rights Free Movie Downloads License</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/kissanime-and/"><u>KissAnime フルコンプリートガイド&見難い詳細への解決策が明らかに!</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/reset-your-pc-with-windows-10-commands-mastering-the-command-prompt-for-system-recovery/"><u>Reset Your PC with Windows 10 Commands: Mastering the Command Prompt for System Recovery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/secrets-to-finding-and-sharing-music-for-free-the-right-way/"><u>Secrets to Finding and Sharing Music for Free, the Right Way</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stuck-with-an-outdated-ios-discover-9-effective-fixes-for-failed-apple-updates/"><u>Stuck with an Outdated iOS? Discover 9 Effective Fixes for Failed Apple Updates</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-solving-playback-issues-on-your-instagram-videos/"><u>Ultimate Guide to Solving Playback Issues on Your Instagram Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrading-worthwhile-a-comparative-analysis-of-ipad-air-4-vs-ipad-air/"><u>Upgrading Worthwhile: A Comparative Analysis of iPad Air 4 vs iPad Air</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-tecno-spark-20-proplus-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Tecno Spark 20 Pro+ on Mac?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/watch-the-2022-super-bowl-live-anywhere-top-streaming-apps-for-ios-devices/"><u>Watch the 2022 Super Bowl Live Anywhere: Top Streaming Apps for iOS Devices</u></a></li>
+</ul></div>
 

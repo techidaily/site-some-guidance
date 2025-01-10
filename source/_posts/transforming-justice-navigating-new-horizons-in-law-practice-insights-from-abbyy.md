@@ -1,7 +1,7 @@
 ---
 title: "Transforming Justice: Navigating New Horizons in Law Practice - Insights From ABBYY"
-date: 2024-08-21T17:42:04.458Z
-updated: 2024-08-22T17:42:04.458Z
+date: 2025-01-02T17:42:09.361Z
+updated: 2025-01-09T16:44:31.819Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb30cdb412a437151bb1d88f5.jpg
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Changing Landscape of the Legal Profession
 
 ###### Andrew Pery
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 March 12, 2020
 
 ![SMM Blog | ABBYY Blog Post](https://static4.abbyy.com/abbyycommedia/25405/11572_smm_blog_the-changing-landscape-of-the-legal-profession_blog-copy.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The practice of law is experiencing digital disruption. The intersection of competitive pressures and technological innovation have transformed the way law firms and legal departments operate. The growth of the [alternative legal services providers](https://legal.thomsonreuters.com/content/dam/ewp-m/documents/legal/en/pdf/reports/alsp-report-final.pdf) market and increased adoption of DIY solutions such as [Rocket Lawyer](https://www.rocketlawyer.com/) place enormous pressures on the legal profession to become more efficient and competitive. 
 
@@ -41,6 +49,10 @@ In today’s fast paced global environment, legal professionals must remain agil
 
 ![Andrew Pery ABBYY](https://static1.abbyy.com/abbyycommedia/25715/andrewpery-99x99.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Andrew Pery
 
 Digital transformation expert and AI Ethics Evangelist for ABBYY
@@ -48,6 +60,10 @@ Digital transformation expert and AI Ethics Evangelist for ABBYY
 Andrew Pery is an AI Ethics Evangelist at intelligent automation company [ABBYY](https://tools.techidaily.com/abbyy/products/). His expertise is in artificial intelligence (AI) technologies, application software, data privacy and AI ethics. He has written and presented several papers on the ethical use of AI and is currently co-authoring a book for the American Bar Association. He holds a Masters of Law degree with Distinction from Northwestern University Pritzker School of Law and is a Certified Information Privacy Professional (CIPP/C), (CIPP/E) and a Certified Information Professional (CIP/AIIM).
 
 Connect with Andrew on [LinkedIn](https://www.linkedin.com/in/andrew-pery-ll-m-cipp-c-cipp-e-3a536726/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -103,8 +119,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,8 +126,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-mastering-the-craft-of-macro-video-production-techniques/"><u>[New] 2024 Approved Mastering the Craft of Macro Video Production Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-economical-microphones-catered-to-vloggers/"><u>[New] In 2024, Economical Microphones Catered to Vloggers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-streaming-software-spectacle-choosing-between-virusmix-and-castpro/"><u>[New] Streaming Software Spectacle Choosing Between VirusMix and CastPro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-tips-for-capturing-evening-portraits/"><u>[Updated] In 2024, Essential Tips for Capturing Evening Portraits</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-in-depth-analysis-of-powerdirector-24-features/"><u>2024 Approved In-Depth Analysis of PowerDirector '24 Features</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-music-broadcasts-online/"><u>2024 Approved Premier Music Broadcasts Online</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/audio-amplification-for-powerpoint-presentations-for-2024/"><u>Audio Amplification for PowerPoint Presentations for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-positioning-your-ubuntu-dock-at-the-bottomright-edge/"><u>Guide: Positioning Your Ubuntu Dock at the Bottom/Right Edge</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-chatgpt-elevated-my-linux-skills-a-personal-journey/"><u>How ChatGPT Elevated My Linux Skills: A Personal Journey</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-exclusive-dj-design-samples-high-quality-downloads-ready/"><u>In 2024, Exclusive DJ Design Samples High-Quality Downloads Ready</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/latest-security-flaw-in-windows-affects-computers-using-ipv6-protocol/"><u>Latest Security Flaw in Windows Affects Computers Using IPv6 Protocol</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/lockscreen-forecasts-arrive-for-windows-10-and-windows-11-users/"><u>Lockscreen Forecasts Arrive for Windows 10 and Windows 11 Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/maximize-productivity-top-secret-windows-functionality-for-enhanced-usability/"><u>Maximize Productivity: Top Secret Windows Functionality for Enhanced Usability</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/plan-ahead-as-windows-10-reaches-end-of-life-in-one-year-whats-next-for-users/"><u>Plan Ahead as Windows 10 Reaches End of Life in One Year – What's Next for Users?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/protecting-your-online-experience-google-chromes-version-127-introduces-advanced-anti-malware-tools/"><u>Protecting Your Online Experience: Google Chrome's Version 127 Introduces Advanced Anti-Malware Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/quickly-move-and-edit-your-android-pictures-using-windows-11-a-simple-guide/"><u>Quickly Move & Edit Your Android Pictures Using Windows 11: A Simple Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/rebooting-quality-in-operating-systems-how-microsoft-can-improve-windows-today/"><u>Rebooting Quality in Operating Systems: How Microsoft Can Improve Windows Today</u></a></li>
+<li><a href="https://win11.techidaily.com/successfully-solving-steam-readwrite-issues-in-windows/"><u>Successfully Solving Steam Read/Write Issues in Windows</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-complete-drone-racing-playbook-plus-5-elite-fpv-brands/"><u>The Complete Drone Racing Playbook + 5 Elite FPV Brands</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

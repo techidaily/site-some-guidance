@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enabled: Enhancing User Experience with Smart Marketing Automation"
-date: 2024-08-21T17:41:20.353Z
-updated: 2024-08-22T17:41:20.353Z
+date: 2025-01-04T00:00:47.700Z
+updated: 2025-01-09T22:06:11.497Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/87c61f765040c8533bc15b7b64ecc936c1a1ca311366f831bc1f4f0913b3fbac.jpg
@@ -19,7 +19,15 @@ June 07, 2023
 
 ![](https://static3.abbyy.com/abbyycommedia/37275/abbyy-fic-podcast-maxime-848x444.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Modern finance is broken, forcing finance and accounting teams to work like it was in 1985 (the year Excel was invented). In this podcast episode, ABBYY thought leader Maxime Vermeir joins Jake Jones, Multimedia Producer and Brand Influencer at [Zone & Co](https://www.zoneandco.com/company). on the Finance in the Clouds podcast. This discussion covers how artificial intelligence (AI), machine learning, intelligent document processing (IDP), and optical character recognition (OCR) work together to automate your invoice processing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Episode transcript
 
@@ -68,9 +76,9 @@ From your perspective and from ABBYY's perspective, how can OCR, invoice scannin
 And for that, you need to have good insights into what your businesses are doing. And especially finance leaders need elevate the conversation in thinking about what's driving your team; what value is my team delivering? Is that entering data—or is that thinking about our processes delivering the accounting, giving insights to the business? I think it's the latter. 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### The Changing Role of the Finance Leader
 
 ABBYY Chief Financial Officer James Ritter shares insights on how finance leaders can adapt to the changing business landscape with the help of intelligent automation.
@@ -112,8 +120,9 @@ A lot of great conversation today, Max. But before we go, is there anything else
 ![](https://static3.abbyy.com/abbyycommedia/37004/maxime-vermeir_110x110-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Maxime Vermeir
 
 Senior Director of AI Strategy
@@ -123,22 +132,17 @@ With a decade of experience in product and technology, Maxime Vermeir is an entr
 Connect with Max on [LinkedIn](https://www.linkedin.com/in/maximevermeir/).
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Like, share or repost
 
 Share 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### Related posts
 
 ![](https://static1.abbyy.com/abbyycommedia/37736/idp-scheme-848x444-b.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [What Is Intelligent Document Processing, and How Does It Work?](https://tools.techidaily.com/abbyy/products/) 
 
 #### Subscribe for blog updates
@@ -191,8 +195,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,4 +202,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-harnessing-hashtags-for-hitting-video-hotspots-on-fb-for-2024/"><u>[New] Harnessing Hashtags for Hitting Video Hotspots on FB for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-accessing-and-making-sense-of-twitter-archives/"><u>2024 Approved Accessing and Making Sense of Twitter Archives</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-make-and-download-your-own-instagram-sound/"><u>2024 Approved How to Make & Download Your Own Instagram Sound</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/exploring-the-advantages-of-satellite-cell-phone-services-are-they-right-for-you/"><u>Exploring the Advantages of Satellite Cell Phone Services: Are They Right For You?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/exploring-the-restrictions-unveiling-reasons-behind-drone-bans-in-us-national-parks/"><u>Exploring the Restrictions: Unveiling Reasons Behind Drone Bans in U.S. National Parks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-nvidia-turned-a-legacy-april-fools-hoax-into-reality-with-groundbreaking-g-assist-technology/"><u>How NVIDIA Turned a Legacy April Fool's Hoax Into Reality with Groundbreaking G-Assist Technology</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/identifying-if-your-content-is-crafted-with-chatgpt/"><u>Identifying if Your Content Is Crafted with ChatGPT</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/image-recovery-wizardry-restore-jpegs/"><u>Image Recovery Wizardry - Restore JPEGs</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-video-merger-software-alternatives-online-tools-you-need/"><u>In 2024, Free Video Merger Software Alternatives Online Tools You Need</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-depth-analysis-of-the-nebula-mars/"><u>In-Depth Analysis of the Nebula Mars</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/introducing-chatgpt-the-new-desktop-application-launch/"><u>Introducing ChatGPT: The New Desktop Application Launch</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/latest-android-update-unveils-revamped-google-assistant-app-icon/"><u>Latest Android Update Unveils Revamped Google Assistant App Icon</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/maximize-efficiency-with-one-hub-for-all-your-ai-tools-heres-how-i-did-it-and-why-you-should-too/"><u>Maximize Efficiency with One Hub for All Your AI Tools – Here's How I Did It and Why You Should Too!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/meet-the-formidable-competitor-in-ai-language-models-google-unveils-gemini-to-take-on-gpt-n/"><u>Meet the Formidable Competitor in AI Language Models: Google Unveils Gemini to Take on GPT-N</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-galaxy-s24-ultra-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Galaxy S24 Ultra has been deleted</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reviewing-rokus-affordable-smart-home-devices-a-single-flaw-discovered/"><u>Reviewing Roku’s Affordable Smart Home Devices - A Single Flaw Discovered!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-issues-with-valorants-in-game-voice-communication/"><u>Troubleshooting Steps: Resolving Issues with Valorant's In-Game Voice Communication</u></a></li>
+</ul></div>
 

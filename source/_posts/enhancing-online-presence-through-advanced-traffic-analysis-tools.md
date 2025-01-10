@@ -1,7 +1,7 @@
 ---
 title: Enhancing Online Presence Through Advanced Traffic Analysis Tools
-date: 2024-08-21T17:43:51.777Z
-updated: 2024-08-22T17:43:51.777Z
+date: 2025-01-05T17:47:16.041Z
+updated: 2025-01-10T00:01:07.208Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/dab8cabffeddc700c42a5606e02b205ea6f1fa907c56db6f2e6e81070455269a.jpg
@@ -14,8 +14,6 @@ thumbnail: https://thmb.techidaily.com/dab8cabffeddc700c42a5606e02b205ea6f1fa907
 SOLUTION BRIEF | HEALTHCARE Key challenge When physicians refer patients to hospitals or medical centers, the primary method for submitting referrals remains via a fax service. Processing the referral documents then requires a number of manual steps, which are often interrupted due to missing information or authorizations. The process becomes lengthy, causing unnecessary stress for patients and driving them to seek care elsewhere. Missed opportunities for patient referral appointments cost hospitals between $821k and $971k per physician per year. Solution ABBYY’s intelligent automation platform for referral management combines intelligent document processing with process mining to automate the integration of patient referral fax data into the EHR and provide guidance to improve the entire referral process end to end. It’s helping U.S. hospitals and medical centers to improve both patient and revenue cycle outcomes. Referral Management Transform patient referrals into revenue Only 54% of faxed referrals result in scheduled appointments. Source Reduce referral leakage and improve patient experience with ABBYY With ABBYY’s AI-driven platforms, ABBYY Vantage and ABBYY Timeline, hospitals and medical centers are achieving results like: • Touchless processing of 100% of referrals • 10 minutes per referral saved • 80% straight-through processing of referrals • 50% higher automation of referral process • 20% revenue gain in 12 months • 50% reduced processing cost per referral 
 
 For more information, please visit [www.abbyy.com](https://tools.techidaily.com/abbyy/products/) If you have additional questions, contact your local ABBYY representative listed under [www.abbyy.com/contacts](https://tools.techidaily.com/abbyy/products/). © ABBYY 2024\. ABBYY is a registered trademark or a trademark of ABBYY Development Inc. and/or its affiliates. This designation can also be logo, product or company name (or part of any of the above) of ABBYY Development Inc. and/ or its affiliates and may not be used without consent of their respective owners. All other product names and trademarks mentioned herein are the property of their respective owners. DS-440 abbyy.com ABBYY Vantage – Intelligent Document Processing [ABBYY Vantage](https://tools.techidaily.com/abbyy/products/) is the industry’s first low-code / no-code intelligent document processing platform, built specifically for the needs of the enterprise. Vantage provides pre-trained AI models that understand each of your document types (structured, semi- structured, and unstructured), enabling straight-through, touchless processing of document data with unprecedented speed and accuracy. Use Vantage in referral management to: Automatically process fax referrals and prior authorizations accurately and timely, so patients can be seen faster Integrate data from faxes into EHRs automatically, eliminating manual data entry and delivering more accurate data Automate the process of onboarding a referred patient Partner with ABBYY ABBYY puts healthcare organizations’ information to work to enable them to address today’s financial and regulatory challenges while maintaining high standards for patient care. The ABBYY approach to purpose-built AI ensures that technology accelerates the organization toward the achievement of its goals, now and in the future. Learn more at [ABBYY.com/healthcare](https://tools.techidaily.com/abbyy/products/) ABBYY Timeline – Process Intelligence [ABBYY Timeline](https://tools.techidaily.com/abbyy/products/) is a market-leading platform for process mining, task mining, prediction, and simulation. Timeline uses the data from healthcare systems (EHR, ERP, LIMS, etc.) to provide an interactive model of your processes, enabling you to analyze events, visualize bottlenecks, and identify potential risks, so you can take remedial actions. Use Timeline in referral management to: Use your data to visualize the referral process and patient experience end to end Identify process bottlenecks that contribute to delays, errors, added costs, and missed opportunities Measure and monitor the effectiveness of your entire referral program, including cost per referral Discover revenue leakage in your referral and prior authorization process 
-
-
 
 0/0
 
@@ -35,8 +33,6 @@ For more information, please visit [www.abbyy.com](https://tools.techidaily.com/
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -44,8 +40,24 @@ For more information, please visit [www.abbyy.com](https://tools.techidaily.com/
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unveiling-iphone-features-producing-and-modifying-videos-at-a-tranquil-pace/"><u>[New] 2024 Approved Unveiling iPhone Features Producing and Modifying Videos at a Tranquil Pace</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-caption-kings-and-queens-top-10-mobile-writing-aids-iosandroid-for-2024/"><u>[New] Caption Kings and Queens Top 10 Mobile Writing Aids (iOS/Android) for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-iphone-x-handbook-for-users-for-2024/"><u>[New] The Ultimate iPhone X Handbook for Users for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-achieve-sharp-footage-with-best-rated-camera-gimbals/"><u>[Updated] Achieve Sharp Footage with Best-Rated Camera Gimbals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effective-methods-to-converting-your-mp4-content-into-high-quality-ogg-video-ogv-files/"><u>Effective Methods to Converting Your MP4 Content Into High-Quality Ogg Video (OGV) Files</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-dnssddll-misplacement-or-loss-error-in-windows-10/"><u>Fixing dnssd.dll Misplacement or Loss Error in Windows 10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-get-quicktime-running-smoothly-again-on-your-macbook-or-imac-expert-tips/"><u>How to Get QuickTime Running Smoothly Again on Your MacBook or iMac - Expert Tips!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-loom-labyrinthine-exploring-the-art-of-recordings/"><u>In 2024, Loom Labyrinthine Exploring the Art of Recordings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/secure-your-digital-copy-of-winx-seasonal-celebration-videos-today/"><u>Secure Your Digital Copy of WinX Seasonal Celebration Videos Today!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transformar-mpeg-gratis-al-formato-mp4-soluciones-faciles-de-uso-en-sistemas-operativos-windows-11macos/"><u>Transformar MPEG Gratis Al Formato MP4: Soluciones Fáciles De Uso en Sistemas Operativos Windows 11/macOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-tutorial-syncing-iphone-melodies-with-itunes-for-easy-access/"><u>Ultimate Tutorial: Syncing iPhone Melodies with iTunes for Easy Access</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-codegpt-your-new-ally-in-programming-scripts-creation/"><u>Understanding CodeGPT - Your New Ally in Programming Scripts Creation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winx-dvd-ripper-platinum-effettua-una-copia-dei-tuoi-dvd-in-formato-mp4-h2-64hevc-rapidamente-opzione-ufficiale/"><u>WinX DVD Ripper Platinum: Effettua Una Copia Dei Tuoi DVD in Formato MP4 H.2 64/HEVC Rapidamente - Opzione Ufficiale</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

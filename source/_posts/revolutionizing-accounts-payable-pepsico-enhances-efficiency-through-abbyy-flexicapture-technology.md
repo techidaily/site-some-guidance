@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Accounts Payable: PepsiCo Enhances Efficiency Through ABBYY FlexiCapture Technology"
-date: 2024-08-21T17:42:56.547Z
-updated: 2024-08-22T17:42:56.547Z
+date: 2025-01-05T16:42:41.459Z
+updated: 2025-01-09T18:10:06.156Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7f58c54be3fb446b417c67b3b88e71900b79dad1ab69f246e6dc4f6374786b65.jpg
@@ -29,6 +29,10 @@ Other | Accounts Payable
 
 ![PepsiCo Imaging Technology](https://static2.abbyy.com/abbyycommedia/15266/pepsico_for-uk.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 | Name         | PepsiCo Imaging Technology                |
 | ------------ | ----------------------------------------- |
 | Headquarters | Harrison, New York, USA                   |
@@ -38,6 +42,10 @@ Other | Accounts Payable
 #### Partner Overview
 
 ![Criteria First, Inc.](https://static2.abbyy.com/abbyycommedia/15267/criteria-first-logo.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 | Name         | Criteria First, Inc.                                  |
 | ------------ | ----------------------------------------------------- |
@@ -64,22 +72,21 @@ PepsiCo Imaging Technology creates document imaging and management solutions for
 ###### SEE HOW ABBYY CAN HELP
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### over **21,000**
 
 documents for processing
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **40,000** pages
 
 in a mix of 5 languages
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### a **3**\-month
 
 project for testing a heavy workload
@@ -133,9 +140,9 @@ According to Patel, the Imaging Technology team is working on new ways to levera
 [![ABBYY FlexiCapture](https://static2.abbyy.com/abbyycommedia/21380/4-flexicapture.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FlexiCapture](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![Accounts Payable Automation](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://tools.techidaily.com/abbyy/products/) [Accounts Payable](https://tools.techidaily.com/abbyy/products/) 
@@ -144,18 +151,12 @@ According to Patel, the Imaging Technology team is working on new ways to levera
 
 [![PDF Version](https://static2.abbyy.com/abbyycommedia/15765/pepsico1.png)](https://static5.abbyy.com/abbyycommedia/7370/case-study-pepsico-beverage-en.pdf "PDF version") [PDF version](https://static5.abbyy.com/abbyycommedia/7370/case-study-pepsico-beverage-en.pdf "PDF version") 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [Read more](https://static5.abbyy.com/abbyycommedia/7370/case-study-pepsico-beverage-en.pdf "PDF version") 
 
 ###### Like, share or repost
 
 Share  True ?  : "" 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -168,8 +169,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +176,22 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-a-comprerant-guide-to-enhanced-captioning-on-instagram-platforms-for-2024/"><u>[Updated] A Compreran't Guide to Enhanced Captioning on Instagram Platforms for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-discover-keyword-power-30-must-use-hashtags-for-freegame-content-for-2024/"><u>[Updated] Discover Keyword Power 30 Must-Use Hashtags for FreeGame Content for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-quick-and-efficient-authorized-ultimatewinx-dvd-ripper-pro-convert-dvds-to-high-quality-mp4-format-in-just-five-minutes/"><u>1. Quick & Efficient: [AUTHORIZED] UltimateWinX DVD Ripper Pro - Convert DVDs to High-Quality MP4 Format in Just Five Minutes!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-confirming-correct-youtube-ad-revenue-allocation/"><u>2024 Approved Confirming Correct YouTube Ad Revenue Allocation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-effortless-capture-of-virtual-meeting-footage-on-pcs/"><u>2024 Approved Effortless Capture of Virtual Meeting Footage on PCs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-top-free-dvd-player-software-reviews-for-windows-users/"><u>2024 Top Free DVD Player Software Reviews for Windows Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/convert-vob-files-into-mp4-format-a-simple-guide-for-windows-and-macos-users/"><u>Convert VOB Files Into MP4 Format: A Simple Guide for Windows and macOS Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-decoding-zdsofts-key-recording-features/"><u>In 2024, Decoding ZDSoft's Key Recording Features</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-revolutionary-entry-points-for-zooids/"><u>In 2024, Revolutionary Entry Points for Zooids</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mediatrans-masterclass-seamless-syncing-of-images-videos-and-audio-files-from-iphoneipad-to-pc/"><u>MediaTrans Masterclass: Seamless Syncing of Images, Videos & Audio Files From iPhone/iPad to PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-the-witcher-3-on-pc-when-it-keeps-crashing/"><u>Resolved: How to Fix The Witcher 3 on PC When It Keeps Crashing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/schnellfreischleifen-ihres-dvd-playerbereichs-eine-umfassende-leitfadenanleitung/"><u>Schnellfreischleifen Ihres DVD-Playerbereichs: Eine Umfassende Leitfadenanleitung</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/techniques-faciles-pour-conversion-et-transfert-video-vhs-vers-dvd-via-pc-un-guide-complet/"><u>Techniques Faciles Pour Conversion Et Transfert Vidéo VHS Vers DVD via PC: Un Guide Complet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winx-mediatrans-pro-iphoneipad-best-remote-file-manager/"><u>WinX MediaTrans Pro: 원격 이미지, 음악, 동영상 효율적으로 iPhone/iPad에 전송하는 대답 - Best Remote File Manager</u></a></li>
+</ul></div>
 

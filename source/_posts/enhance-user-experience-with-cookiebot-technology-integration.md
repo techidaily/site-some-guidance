@@ -1,7 +1,7 @@
 ---
 title: Enhance User Experience with Cookiebot Technology Integration
-date: 2024-08-21T17:42:37.690Z
-updated: 2024-08-22T17:42:37.690Z
+date: 2025-01-05T02:30:42.043Z
+updated: 2025-01-09T20:52:34.737Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/3d668bfb6eaaff582ac6a3ef0ec269ab4610d6df4de409efc683d784a7434cf5.jpg
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/3d668bfb6eaaff582ac6a3ef0ec269ab4610d6df4
 ## Enhance User Experience with Cookiebot Technology Integration
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Q&A with ABBYY Top Voices on LinkedIn: Leveraging AI for Contract Management
 
@@ -25,7 +29,15 @@ Two Top Voices we are highlighting are Filip Horvat, Top Voice on LinkedIn for C
 
 ![max-filip-headshots-abbyy](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/linkedin-top-voices-q-and-a/max-filip-headshots-abbyy.png?h=419&w=800)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 As an experienced professional in contract management and in-house counsel, the challenges of navigating complex legal documents and ensuring compliance are all too familiar to Filip. In recent years, AI has emerged as a game-changer, offering innovative solutions to streamline processes and enhance the overall efficiency of in-house legal teams. To specifically cater to the needs of in-house counsel, this blog will explore three key AI use cases: document sifting, contract provision extraction, and legal research.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How can AI accelerate the contract review process?
 
@@ -34,8 +46,9 @@ As an experienced professional in contract management and in-house counsel, the 
 **Max:** _When using purpose-built AI to take on document sifting, it’s not just scanning text; it’s engaging with every word through the lens of advanced natural language processing (NLP). This AI uses named entity recognition (NER) to pick out specific entities like names, dates, and contract specifics, making the retrieval of vital information as effortless as finding Waldo in a crowd. By leveraging small, efficient language models, ABBYY’s technology ensures swift processing, enabling real-time insights even from the densest documents. This level of interaction transforms piles of paperwork into neatly organized, easily accessible data._
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Contract Provisions, how do you find the needle in the haystack?
 
 **Filip:** _Extracting key provisions from contracts is a meticulous task that demands both time and attention to detail. AI excels in this area by employing NLP to understand and extract specific clauses, dates, and obligations from contracts. This not only saves valuable time but also significantly reduces the margin of error associated with manual extraction._
@@ -45,10 +58,9 @@ _By integrating AI-powered contract provision extraction tools into your workflo
 **Max:** _ABBYY’s purpose-built AI showcases its mastery through NLP, distinguishing between the myriad of legal terminologies with the precision of a skilled artist. It employs NER to highlight critical contract clauses, ensuring nothing slips through the cracks. Small language models tailored for the legal domain, enables AI to navigate the complexity of legal jargon efficiently, ensuring every relevant detail is captured and categorized with precision._
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### When leveraging AI for legal research, what are the benefits?
 
 Legal research is a cornerstone of in-house counsel responsibilities. AI-driven legal research tools sift through vast databases, court rulings, and precedents to provide quick and comprehensive insights. These tools go beyond keyword searches, offering contextual understanding and analysis of legal documents to aid in more informed decision-making.
@@ -111,8 +123,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +130,18 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-quickfirerecorder-firefox-plugin/"><u>[New] QuickFireRecorder Firefox Plugin</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-step-by-step-guide-to-exceptional-instagram-stories-for-2024/"><u>[Updated] Step-by-Step Guide to Exceptional Instagram Stories for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-the-latest-epson-xp-640-printer-driver-in-windows/"><u>How to Install the Latest Epson XP-640 Printer Driver in Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-sony-xperia-1-v-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Sony Xperia 1 V</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/insightful-answers-from-todays-new-york-times-connection-tips-and-highlights-august-edition/"><u>Insightful Answers From Today's New York Times: Connection Tips & Highlights - August Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/july-19th-new-york-times-brainteaser-challenge-solutions-and-insights-404/"><u>July 19Th New York Times Brainteaser Challenge: Solutions & Insights #404</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/july-25th-new-york-times-puzzle-insights-and-solution-guide-week-410-edition/"><u>July 25Th New York Times Puzzle Insights & Solution Guide - Week 410 Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/june-12th-insightful-puzzles-dive-into-the-latest-new-york-times-connection-challenge-367/"><u>June 12Th Insightful Puzzles: Dive Into the Latest New York Times Connection Challenge #367</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/june-17-insights-unlocking-clues-in-the-new-york-times-connection-puzzle-372/"><u>June 17 Insights: Unlocking Clues in The New York Times Connection Puzzle #372</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/rewind-and-repeat-mastering-youtube-inversion-for-2024/"><u>Rewind and Repeat Mastering YouTube Inversion for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-guide-to-video-dimensions-on-the-yt-platform-for-2024/"><u>The Ultimate Guide to Video Dimensions on the YT Platform for 2024</u></a></li>
+</ul></div>
 

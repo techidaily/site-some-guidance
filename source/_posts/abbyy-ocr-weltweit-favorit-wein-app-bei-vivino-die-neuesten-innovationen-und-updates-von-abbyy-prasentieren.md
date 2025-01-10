@@ -1,7 +1,7 @@
 ---
 title: ABBYY OCR Weltweit Favorit Wein-App Bei Vivino - Die Neuesten Innovationen Und Updates Von ABBYY Präsentieren
-date: 2024-08-21T17:43:09.887Z
-updated: 2024-08-22T17:43:09.887Z
+date: 2025-01-05T21:03:50.794Z
+updated: 2025-01-09T16:59:33.014Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/ed631fce79a85bf0cd5e756384d355b32be9ff521aba55cfa7af4917eeac790c.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/ed631fce79a85bf0cd5e756384d355b32be9ff521
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY OCR powert weltweit beliebteste Wein-App von Vivino
 
 23\. Mai 2016
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ABBYY Europe, ein führender Anbieter von Technologien für Dokumentenerkennung, Data Capture und Linguistik, hat heute bekanntgegeben, dass [Vivino](https://www.vivino.com/), der Entwickler der weltweit am meisten heruntergeladenen Wein-App\*, ABBYY Technologie für Texterkennung (OCR) erfolgreich in sein Produkt integriert hat, um Informationen von Weinkarten in Restaurants zu erfassen. Bei der Weinbestellung können Restaurantbesucher mit der Vivino App ein Foto des Weinangebots machen und erhalten sofort nützliche Informationen, die ihnen bei der Wahl des passenden Weines helfen. Die integrierte ABBYY OCR-Technologie extrahiert den Text aus dem Foto. Damit wird auf Vivinos Datenbank für Bewertungen und Verkostungsnotizen von rund 12 Millionen Nutzern zugegriffen – das weltweit größte Weinverzeichnis.\*
 
@@ -67,8 +75,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -76,8 +82,20 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-converting-zip-to-subrip-srt-format-a-step-by-step-guide/"><u>[New] 2024 Approved Converting ZIP to SubRip (SRT) Format A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ace-your-searches-essential-tips-and-techniques-for-google-gemini-usage/"><u>Ace Your Searches: Essential Tips and Techniques for Google Gemini Usage</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elite-psd-bevel-and-emboss-styles/"><u>Elite PSD Bevel & Emboss Styles</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-itel-a70-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Itel A70 Pattern Lock Screen</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/get-your-handbrake-up-and-running-again-on-latest-windows-systems-with-easy-solutions/"><u>Get Your Handbrake Up & Running Again on Latest Windows Systems with Easy Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/handbrack-conversion-issue-resolved-now-producing-smaller-output-files-than-original/"><u>Handbrack Conversion Issue Resolved - Now Producing Smaller Output Files than Original</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-honor-x8b-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Honor X8b</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-high-quality-15-inch-asus-notebook-with-all-the-essential-ports-now-available-from-walmart-for-an-unbeatable-price-of-250-coverage/"><u>Score a High-Quality 15-Inch Asus Notebook with All the Essential Ports - Now Available From Walmart for an Unbeatable Price of $250 Coverage</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-issues-with-your-logitech-g430-microphone-a-step-by-step-guide/"><u>Solving Issues with Your Logitech G430 Microphone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-nokia-c22-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Nokia C22 for Parents | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-5-high-performance-dvd-burners-featuring-built-in-hard-drives/"><u>Top 5 High-Performance DVD Burners Featuring Built-In Hard Drives</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725287183626-winxvideo-ai/"><u>Winxvideo AI 使用手冊：影片加強、錄製及編輯技巧</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

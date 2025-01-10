@@ -1,7 +1,7 @@
 ---
 title: 古い文書調達アップグレード - ABBYY FineReader Serverが解く
-date: 2024-08-21T17:41:07.776Z
-updated: 2024-08-22T17:41:07.776Z
+date: 2025-01-09T03:07:47.067Z
+updated: 2025-01-10T03:22:50.060Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2f41b747bf89f0bfa4fc6d71.jpg
@@ -19,6 +19,10 @@ Construction | Engineering & Manufacturing | Digital Archiving | Document Manage
 
 [お客様のストーリーに戻る](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 過去50年分のドキュメントの検索性を高めるため ABBYY FineReader Serverを導入
 
 製造 | デジタルアーカイブ 
@@ -28,6 +32,10 @@ Construction | Engineering & Manufacturing | Digital Archiving | Document Manage
 #### お客様の概要
 
 ![千代田化工建設](https://static4.abbyy.com/abbyycommedia/23841/logo-chiyoda-small.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 | 氏名     | 千代田化工建設                                             |
 | ------ | --------------------------------------------------- |
@@ -109,9 +117,17 @@ FineReader Serverを使い、ドキュメントの検索効率が大幅に向上
 
 [![ドキュメントアーカイブ <small>ENG</small>](https://static1.abbyy.com/abbyycommedia/14355/5-document-archiving.jpg)](https://tools.techidaily.com/abbyy/products/) [ドキュメントアーカイブ ENG](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [詳細を読む](https://tools.techidaily.com/abbyy/products/) 
 
 [![PDF版](https://static4.abbyy.com/abbyycommedia/23844/chiyoda-360x162.jpg)](https://static4.abbyy.com/abbyycommedia/23839/customer-story-chiyoda-ja.pdf "PDF版") [PDF版](https://static4.abbyy.com/abbyycommedia/23839/customer-story-chiyoda-ja.pdf "PDF版") 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [詳細を読む](https://static4.abbyy.com/abbyycommedia/23839/customer-story-chiyoda-ja.pdf "PDF版") 
 
@@ -124,10 +140,9 @@ FineReader Serverを使い、ドキュメントの検索効率が大幅に向上
 [お問い合わせ](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 専門家に相談する準備はできていますか?
 
 私たちは、自動化への取り組みをお手伝いさせていただきたいと思っています。
@@ -140,8 +155,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +162,20 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-stream-perfecting-tweets-with-correct-video-formats/"><u>[New] 2024 Approved Stream-Perfecting Tweets with Correct Video Formats</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-font-powerhouses-for-captivating-youtube-thumbnails/"><u>[Updated] Font Powerhouses for Captivating YouTube Thumbnails</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-legal-harmonies-unpacking-music-policy-on-instagram-for-2024/"><u>[Updated] Legal Harmonies Unpacking Music Policy on Instagram for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-videovault-youtube-extractor-fb/"><u>2024 Approved VideoVault YouTube Extractor FB</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/change-location-on-yik-yak-for-your-tecno-spark-20-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Tecno Spark 20 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/cinematic-chronicles-reviewing-high-fidelity-recorders/"><u>Cinematic Chronicles Reviewing High-Fidelity Recorders</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comprehensive-tutorial-on-downgrading-your-macs-operating-system-from-ventura-to-monterey-or-older-oses/"><u>Comprehensive Tutorial on Downgrading Your Mac's Operating System From Ventura To Monterey or Older OSes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/die-besten-wmv-player-unterwegs-auf-dem-mac-losungen-zum-reibungslosen-abspielen-von-wmv-formaten/"><u>Die Besten WMV-Player Unterwegs Auf Dem Mac - Lösungen Zum Reibungslosen Abspielen Von WMV-Formaten</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/get-your-favorite-disney-tunes-for-free-childrens-songs-iconic-scores-and-enchanting-princess-ballads/"><u>Get Your Favorite Disney Tunes for Free! Children's Songs, Iconic Scores, and Enchanting Princess Ballads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macx-dvd-video-converter-pro-pack-online-order-enjoy-exclusive-discounts-on-official-site/"><u>MacX DVD Video Converter Pro Pack Online Order - Enjoy Exclusive Discounts on Official Site</u></a></li>
+<li><a href="https://win11.techidaily.com/step-up-your-system-management-skills-with-these-20-cmd-commands/"><u>Step Up Your System Management Skills with These 20 CMD Commands</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/steven-spielbergs-legendary-cinema-top-titles-that-defined-an-era-and-outlived-it/"><u>Steven Spielberg's Legendary Cinema: Top Titles That Defined an Era and Outlived It</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/windowsmacwavmp3/"><u>Windows/Macで簡単にWAVファイルをMP3にリマスター - デジタル音楽変換ガイド</u></a></li>
+</ul></div>
 

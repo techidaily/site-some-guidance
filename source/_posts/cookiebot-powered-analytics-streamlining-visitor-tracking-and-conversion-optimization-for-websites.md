@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot Powered Analytics: Streamlining Visitor Tracking and Conversion Optimization for Websites"
-date: 2024-08-21T17:43:32.947Z
-updated: 2024-08-22T17:43:32.947Z
+date: 2025-01-07T01:36:24.584Z
+updated: 2025-01-10T00:21:04.820Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/2433e8487276cb58cffff3a517668c314cffea5887d41e0c1ef577cb2cf34c4d.jpg
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/2433e8487276cb58cffff3a517668c314cffea588
 ## Cookiebot Powered Analytics: Streamlining Visitor Tracking and Conversion Optimization for Websites
 
 [全てのブログ](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## DX初心者向けファーストステップ
 
@@ -23,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/2433e8487276cb58cffff3a517668c314cffea588
 
 [世界でも使われている「DX」の意味は？](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 経済産業省が提唱する DX（デジタルトランスフォーメーション）
 
 経産省の[DXを推進するためのガイドライン](https://www.meti.go.jp/press/2018/12/20181212004/20181212004-1.pdf)を確認しますと、DXの定義は「企業がビジネス環境の激しい変化に対応し、データとデジタル技術を活用して、顧客や社会のニーズを基に、製品やサービス、ビジネスモデルを変革するとともに、業務そのものや、組織、プロセス、企業文化・風土を変革し、競争上の優位性を確立すること」とあります。まずは、データとデジタル技術の活用が重要です。つまり、できるだけ業務をPCで行うようにし、それをオンライン化し、データを蓄積するようにします。このアプローチにより、はじめて、データの活用と様々なデジタル技術の活用が可能となります。直接的に業務と関係するデータをAI（人工知能）によって様々な角度から分析・予測することや全ての従業員・機械の作業ログデータからそれぞれの業務の効率化・自動化をおこなうことができるようになります。
@@ -31,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/2433e8487276cb58cffff3a517668c314cffea588
 
 このあたりを切り口に、クラウド、モビリティ、ビッグデータ／アナリティクス、ソーシャル技術に慣れ親しみ、活用し、新しい製品・サービス・ビジネスモデルを通して、ネットとリアルの両面での顧客エクスペリエンスの変革を図ること、そして最終的にその価値を創出していくのがDX、デジタルトランスフォーメーションとなります。
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## なぜ、DXが求められるのか？その背景とデータの活用
 
 日本においては、今後、労働人口の減少していくことは明らかであり、DXの主要部である「労働生産性を向上させるような業務の見直し・変革やロボット導入による人力の置き換え」が必須です。これが、前述の経産省のDXレポートでも述べられており、DXが求められる主因となります。他にも、爆発的に増え続けるデータを活用しきれず、デジタル競争の敗者となるのを避けるため（少々ネガティブな表現ですが経産省の資料からそのまま引用します）、旧システムを使い続けることによるサイバーセキュリティや事故・災害によるシステムトラブルやデータ滅失・流出等のリスクを防ぐためにDXが求められています。
@@ -54,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/2433e8487276cb58cffff3a517668c314cffea588
     
 上述の経産省の[DXを推進するためのガイドライン](https://www.meti.go.jp/press/2018/12/20181212004/20181212004-1.pdf)中にも、「既存のITシステムが老朽化・複雑化・ブラックボックス化する中では、データを十分に活用しきれず、新しいデジタル技術を導入したとしても、データの利活用・連携が限定的であるため、その効果も限定的となってしまうという問題が指摘されている」と述べられています。さらには、「加えて、既存のITシステムがビジネスプロセスに密結合していることが多いため、既存のITシステムの問題を解消しようとすると、ビジネスプロセスそのものの刷新が必要となり、これに対する現場サイドの抵抗が大きいため、いかにこれを実行するかが課題となっているとの指摘もなされている」と続いています。つまり、現行プロセスにおいて、問題点・ボトルネックを含め全システムの現状把握を定量的にできてないこと、この解決において投資対費用効果が得られるのか不明瞭であることの2点が大きな課題です。これらを解決するために、DXを活用した、複数のシステムを含むシステムログからの定量的な現状プロセスの可視化と把握、そして問題点・ボトルネックへの気づきが必要となります。
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## まず手を打つべき対策として
 
 (1)-(3)に上げた労働生産性を向上させるような業務の把握、見直し、改善は、経産省が[DX Report2 (2020年12月)中間取り纏め](https://www.meti.go.jp/press/2020/12/20201228004/20201228004-2.pdf)の中で強調する「DXのファーストステップ」の「業務プロセスのデジタル化」に含まれます。ABBYYでもさまざまなソリューションを用意しております。前述の業務把握、見直し、改善分野に沿って、ソリューションを紹介します。
@@ -67,9 +69,6 @@ thumbnail: https://thmb.techidaily.com/2433e8487276cb58cffff3a517668c314cffea588
 * (2) データエントリ作業、紙ベースの書類からのビジネスデータの抽出、システムへの転記等  
 ![FlexiCapture Step by Step on whiteboard in meeting room with four people](https://static1.abbyy.com/abbyycommedia/34148/413686-4.jpg)  
 AI OCR導入が最も効果的です。ただ、単なるOCR文字認識精度ではなく、トータルでの認識精度、検証時の使いやすさ、入出力連携を含むワークフローとしての柔軟な対応、処理性能、開発・メンテナンスコスト等、さまざまな[ポイント](https://tools.techidaily.com/abbyy/products/)を考慮する必要があることを忘れてはなりません。ここを間違えるとROI（費用対効果）が薄れるケースが多くなります。ABBYYでは、紙文書からの文字認識、仕分け、インテリジェントなデータ抽出、検証、出力（外部連携）といったワークフローを10年以上かけて柔軟に作り上げてきた[ABBYY FlexiCapture 12](https://tools.techidaily.com/abbyy/products/)が最適な商品となります。複雑な表、複数ページに渡る明細行からの読み取りまで対応しており、外部連携も豊富です。また、[AIを活用した仕分け](https://tools.techidaily.com/abbyy/products/)、ワークフローのカスタマイズ、オンプレミス対応も可能なため、システムの基盤として利用される[ケース](https://tools.techidaily.com/abbyy/products/)も多くあります。
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * (3) 業務システム、機械のログデータを利用した業務プロセス分析とPCログデータを利用した各自作業の分析  
     
 一連のプロセスにおいて、「いつ」「何に対して」「どうした」のイベントログデータを入力としてプロセスを可視化・分析する、プロセスマイニングツールの活用が[最近のトレンド](https://tools.techidaily.com/abbyy/products/)であり、必須となりつつあります。特に、前章(2)の製造業などの場合、それぞれの製造過程で使用される業務システム・機械から「誰が」「いつ」「何に対して」「どうした」のイベントログを取得し、一連の製造過程業務ログをまとめ上げることで、この業務プロセスにおける労働生産性を簡単に見直すことができるようになります。  
@@ -83,8 +82,9 @@ ABBYYでは、ログデータをアップロードするだけで、25を超え�
 ![persons hands on laptop with ABBYY Timeline dashboard on the screen](https://static1.abbyy.com/abbyycommedia/34149/513686-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 なお、今回ご紹介しました製品についての概要、デモの依頼、お問い合わせは、それぞれの製品紹介ページ、「**お問い合わせ**」ボタンより承っておりますので、お気軽にお問い合わせ下さい。
 
 [AI（人工知能）](https://tools.techidaily.com/abbyy/products/) [DX（デジタルトランスフォーメーション）](https://tools.techidaily.com/abbyy/products/) 
@@ -92,13 +92,15 @@ ABBYYでは、ログデータをアップロードするだけで、25を超え�
 ![ABBYY logo circle](https://static5.abbyy.com/abbyycommedia/29971/abbyy-logo-2021-blog-99x99.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ABBYY Japan エンジニアリングチーム
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### いいね！、シェア、再投稿
 
 シェア 
@@ -153,8 +155,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +162,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-dive-into-360-videos-iphone-edition-for-facebook-posts/"><u>[New] 2024 Approved Dive Into 360 Videos IPhone Edition for Facebook Posts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-tune-in-to-success-the-art-of-audio-amalgamation-for-fb-video-posts/"><u>[New] 2024 Approved Tune in to Success The Art of Audio Amalgamation for FB Video Posts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mcb-channel-background-and-template-set/"><u>[New] MCB Channel Background & Template Set</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-free-download-official-winx-movie-editor-with-dvd-ripping-and-hd-video-conversion/"><u>1. Free Download: Official WinX Movie Editor with DVD Ripping & HD Video Conversion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-clarity-crusade-enhancing-video-in-zoom-meetings/"><u>2024 Approved Clarity Crusade Enhancing Video in Zoom Meetings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvd-windows-1011-mp4aviwmv/"><u>最佳无成本 DVD转换软件: Windows 10/11 MP4/AVI/WMV支持 - 热门推荐</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/are-you-stuck-finding-out-if-playstation-network-is-down-worldwide-or-if-its-a-home-connection-snag/"><u>Are You Stuck? Finding Out if PlayStation Network Is Down Worldwide or If It's a Home Connection Snag</u></a></li>
+<li><a href="https://win-blog.techidaily.com/battlefront-ii-stability-fixes-ensuring-smooth-gameplay-without-any-interruptions-on-windows-1011/"><u>Battlefront II Stability Fixes: Ensuring Smooth Gameplay without Any Interruptions on Windows 10/11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-mobile-apps-for-securely-backing-up-your-pictures-on-iphones-and-ipads/"><u>Best Mobile Apps for Securely Backing Up Your Pictures on iPhones and iPads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/easy-conversion-guide-8-free-tools-to-transform-mts-files-into-mp4-format-on-windowsmac-systems/"><u>Easy Conversion Guide: 8 Free Tools to Transform MTS Files Into MP4 Format on Windows/Mac Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ending-mouse-speed-issues-a-complete-fix-for-acceleration-settings/"><u>Ending Mouse Speed Issues: A Complete Fix for Acceleration Settings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/get-your-hands-on-the-latest-free-hevc-h265-encoder-software-for-ultra-hdultra-wide-screen-viewing/"><u>Get Your Hands on the Latest Free HEVC H.265 Encoder Software for Ultra HD/Ultra Wide Screen Viewing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-tecno-spark-20-proplus-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Tecno Spark 20 Pro+ to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro Max To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-adding-libdvdcss-support-with-handbrake-in-macos-and-windows-10-for-dvd-extraction/"><u>Step-by-Step Guide: Adding Libdvdcss Support with HandBrake in macOS & Windows 10 for DVD Extraction</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/superior-iphoneipad-file-manager-winx-mediatrans-effortless-music-picture-and-video-movement-from-pc/"><u>Superior iPhone/iPad File Manager - WinX MediaTrans™: Effortless Music, Picture, and Video Movement From PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-showdown-is-mkv-or-mp4-the-preferred-choice-for-high-quality-video-content/"><u>The Ultimate Showdown: Is MKV or MP4 the Preferred Choice for High-Quality Video Content?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-picks-unbeatable-laptop-bargains-in-july-2024-insights-from-zdnet/"><u>Top Picks: Unbeatable Laptop Bargains in July 2024 - Insights From ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winx-dvd-copy-pro-facil-copia-de-dvd-a-formato-iso-y-creacion-de-respaldo-para-discos/"><u>WinX DVD Copy Pro: Fácil Cópia De DVD a Formato ISO Y Creación De Respaldo Para Discos</u></a></li>
+</ul></div>
 

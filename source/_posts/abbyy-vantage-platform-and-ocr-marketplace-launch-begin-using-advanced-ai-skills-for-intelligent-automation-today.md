@@ -1,7 +1,7 @@
 ---
 title: ABBYY Vantage Platform & OCR Marketplace Launch - Begin Using Advanced AI Skills for Intelligent Automation Today
-date: 2024-08-21T17:41:09.283Z
-updated: 2024-08-22T17:41:09.283Z
+date: 2025-01-03T19:12:58.442Z
+updated: 2025-01-09T22:14:37.989Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025d46dff0a5963e90a62a92d8.jpg
@@ -11,13 +11,25 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 
 [ニュースルーム](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY、ノーコードのAI OCRプラットフォーム「Vantage」 およびAI OCRコレクション Marketplaceを提供開始 ～インテリジェント オートメーションに向けてすぐに使用できるAIスキルを提供。
 
 7月21日, 2022
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![News 15 Businessbuildings](https://static4.abbyy.com/abbyycommedia/33670/news-15-businessbuildings.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **マーケットプレイスはユーザーのコグニティブスキル試用を可能にし、自動化の取り組みを加速～**
 
@@ -41,6 +53,10 @@ ABBYY Marketplaceの詳細は、[www.abbyy.com/marketplace](https://tools.techid
 
 ABBYY社が提供するインテリジェントプロセスオートメーションソリューションの詳細は、 <https://www.abbyy.com/solutions/intelligent-process-automation-ipa/> をご覧ください。
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### ABBYYについて
 
 ABBYYはインテリジェント・オートメーションを推進するリーディング・カンパニーです。オートメーション・プラットフォームの原動力となるテクノロジーを提供することにより、人々の働き方やビジネス加速の方法に新しいビジョンをもたらしています。ABBYYのソリューションは、企業データを変換し、よりスマートかつ迅速な業務の遂行に必要なインサイトを提供します。 
@@ -54,8 +70,9 @@ ABBYYはインテリジェント・オートメーションを推進するリー
 ABBYYは、登録商標または商標の場合があります。ABBYYグループ企業のロゴ、企業名（またはその一部）、製品名の一部である場合もあり、各所有者の同意なしに使用することは禁じられています。
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 報道関係者お問い合わせ先
 
 #### 株式会社井之上パブリックリレーションズ 
@@ -71,8 +88,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -80,4 +95,17 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-easily-access-igtv-content-download-guide-for-pcmac-users-for-2024/"><u>[New] Easily Access IGTV Content Download Guide for PC/Mac Users for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-learning-the-art-of-softly-amplifying-audio-tracks/"><u>[New] Learning the Art of Softly Amplifying Audio Tracks</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620222644-access-unlimited-streams-daily-free-updates-of-new-iptv-m3u8-content-available-now/"><u>Access Unlimited Streams – Daily Free Updates of New IPTV M3U8 Content Available Now!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/complete-set-of-macxdvd-professional-tools-now-available-at-no-cost-official-unlimited-license-offer/"><u>Complete Set of MacXDVD Professional Tools Now Available at No Cost: Official Unlimited License Offer!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-find-my-friends-work-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/einfach-perfekt-wie-macx-mediatrans-alle-multimedia-inhalte-von-ihrem-iphone-auf-ihren-computer-ubertragen-kann/"><u>Einfach Perfekt: Wie MacX MediaTrans Alle Multimedia-Inhalte Von Ihrem iPhone Auf Ihren Computer Übertragen Kann</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-childrens-films-a-step-by-step-guide-to-streaming-and-downloading-for-offline-viewing/"><u>Free Children's Films: A Step-by-Step Guide to Streaming and Downloading for Offline Viewing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/get-the-latest-zero-cost-version-of-macx-video-converter-pro-instantly/"><u>Get the Latest, Zero Cost Version of MacX Video Converter Pro Instantly!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/protecting-your-files-a-guide-to-reliable-data-backup-techniques-including-5-essential-steps/"><u>Protecting Your Files: A Guide to Reliable Data Backup Techniques (Including 5 Essential Steps)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-wont-your-surface-charge-heres-how-to-fix-it/"><u>Why Won't Your Surface Charge? Here's How to Fix It</u></a></li>
+</ul></div>
 

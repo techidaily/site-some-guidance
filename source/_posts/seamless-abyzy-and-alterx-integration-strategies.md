@@ -1,7 +1,7 @@
 ---
 title: Seamless ABYZY and AlterX Integration Strategies
-date: 2024-08-21T17:42:00.685Z
-updated: 2024-08-22T17:42:00.685Z
+date: 2025-01-08T02:39:45.707Z
+updated: 2025-01-09T16:56:59.886Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f94c96b9949bbc0cc087d2d2.jpg
@@ -39,9 +39,6 @@ Die Prozessanalyse-, Abfrage- und Filterfunktionen von Timeline können Ihre Ana
 
 Das Process Monitoring von Timeline bietet Alteryx-Anwendern eine Möglichkeit, aktuelle Geschäftsprozesse zu überwachen, selbst wenn Prozessschritte über verschiedene Back-End-Systeme hinweg erfolgen. Anwender können auf einfache Weise Geschäftsbedingungen definieren, die einen Alteryx-Analyseprozess auslösen sollen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Vorteile der Integration 
 
 Prozessorientierte Alteryx Analytics Plattform™ 
@@ -63,13 +60,18 @@ Leiten Sie entsprechende Maßnahmen ein. Erkennen Sie Probleme, bevor sie auftre
 Schaffen Sie automatisch eine Grundlage für datengesteuerte Entscheidungen mit quantifizierbaren Prozessmetriken wie Kosten, Dauer und Menge.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Alteryx APA Plattform™ mit Process Intelligence 
 
 Prozessorientierte APA zur Optimierung von End-to-End-Geschäftsprozessergebnissen.
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/all-solutions/connectors/07-alteryx-scheme-de.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ABBYY-Konnektor für Alteryx 
 
@@ -79,9 +81,6 @@ Der ABBYY-Konnektor für Alteryx ermöglicht die Integration der ABBYY Timeline 
 
 ![](https://content.abbyy.com/-/media/feature/basecomponents/clients/alteryx.png?h=40&iar=0&w=120)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 #### Anwendungsszenarien
 
 Kombination von Analyse- und Data Science-Automatisierung mit Process Intelligence zur Beschleunigung der digitalen Transformation.
@@ -103,8 +102,57 @@ Verbessern Sie das Patientenerlebnis, reduzieren Sie Verschwendung, steigern Sie
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/resource-card-icons/solution-brief.svg?h=32&iar=0&w=32)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+##### Lösungsübersicht 
+
+#### ABBYY Timeline-Konnektor für Alteryx 
+
+Dieses Dokument erläutert die wesentlichen Vorteile der Kombination aus ABBYY Timeline und Ihrer Alteryx-Umgebung. 
+
+[Lösungsübersicht herunterladen](https://static3.abbyy.com/abbyycommedia/34329/solutionbrief-timeline-alteryx-connector-en.pdf)
+
+![](https://content.abbyy.com/-/media/feature/basecomponents/assets-thumbnails/abbyy_microscopic_web_photos_2_1486--836.jpg?h=836&iar=0&w=1486)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://content.abbyy.com/-/media/project/abbyy/abbyy/resource-card-icons/infographic.svg?h=32&iar=0&w=32)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+##### Video 
+
+#### Integration von ABBYY Timeline und Alteryx Analytic Plattform™ 
+
+Erfahren Sie, wie Sie durch die Integration von ABBYY Timeline und Alteryx APA™ durchgängige Einsicht in Ihre Prozesse erhalten. 
+
+[Video ansehen](https://www.youtube.com/watch?v=IcuhMXeGpOE)
+
+![](https://content.abbyy.com/-/media/project/abbyy/abbyy/resource-card-icons/webpage.svg?h=32&iar=0&w=32)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+##### Webinar 
+
+#### Analytische Automatisierung und Process Intelligence – zwei Seiten derselben Münze 
+
+Entdecken Sie die Vorteile von Process Intelligence im Vergleich zu herkömmlichen Process Mining-Methoden für eine nachhaltige, das gesamte Unternehmen umfassende Prozessexzellenz. 
+
+[Webinar ansehen](https://tools.techidaily.com/abbyy/products/)
+
+![](https://content.abbyy.com/-/media/project/abbyy/abbyy/resource-card-icons/solution-brief.svg?h=32&iar=0&w=32)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Lösungsübersicht 
 
 #### ABBYY Timeline-Konnektor für Alteryx 
@@ -149,9 +197,6 @@ Dieses Dokument erläutert die wesentlichen Vorteile der Kombination aus ABBYY T
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/resource-card-icons/infographic.svg?h=32&iar=0&w=32)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Video 
 
 #### Integration von ABBYY Timeline und Alteryx Analytic Plattform™ 
@@ -170,54 +215,10 @@ Entdecken Sie die Vorteile von Process Intelligence im Vergleich zu herkömmlich
 
 [Webinar ansehen](https://tools.techidaily.com/abbyy/products/)
 
-![](https://content.abbyy.com/-/media/project/abbyy/abbyy/resource-card-icons/solution-brief.svg?h=32&iar=0&w=32)
-
-##### Lösungsübersicht 
-
-#### ABBYY Timeline-Konnektor für Alteryx 
-
-Dieses Dokument erläutert die wesentlichen Vorteile der Kombination aus ABBYY Timeline und Ihrer Alteryx-Umgebung. 
-
-[Lösungsübersicht herunterladen](https://static3.abbyy.com/abbyycommedia/34329/solutionbrief-timeline-alteryx-connector-en.pdf)
-
-![](https://content.abbyy.com/-/media/feature/basecomponents/assets-thumbnails/abbyy_microscopic_web_photos_2_1486--836.jpg?h=836&iar=0&w=1486)
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-![](https://content.abbyy.com/-/media/project/abbyy/abbyy/resource-card-icons/infographic.svg?h=32&iar=0&w=32)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
-##### Video 
-
-#### Integration von ABBYY Timeline und Alteryx Analytic Plattform™ 
-
-Erfahren Sie, wie Sie durch die Integration von ABBYY Timeline und Alteryx APA™ durchgängige Einsicht in Ihre Prozesse erhalten. 
-
-[Video ansehen](https://www.youtube.com/watch?v=IcuhMXeGpOE)
-
-![](https://content.abbyy.com/-/media/project/abbyy/abbyy/resource-card-icons/webpage.svg?h=32&iar=0&w=32)
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
-##### Webinar 
-
-#### Analytische Automatisierung und Process Intelligence – zwei Seiten derselben Münze 
-
-Entdecken Sie die Vorteile von Process Intelligence im Vergleich zu herkömmlichen Process Mining-Methoden für eine nachhaltige, das gesamte Unternehmen umfassende Prozessexzellenz. 
-
-[Webinar ansehen](https://tools.techidaily.com/abbyy/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ### Möchten Sie mit unserem Expertenteam sprechen?
 
 [Demo vereinbaren](https://tools.techidaily.com/abbyy/products/)[Kontakt aufnehmen](https://tools.techidaily.com/abbyy/products/)
@@ -228,8 +229,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -237,4 +236,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-improving-remote-work-communications-with-4-strategies/"><u>[New] Improving Remote Work Communications with #4 Strategies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/product-name-the-revolutionary-accessory-for-upgrading-to-dual-twin-4k-displays-on-any-laptop-regardless-of-inbuilt-capabilities/"><u>[Product Name]: The Revolutionary Accessory for Upgrading to Dual Twin 4K Displays on Any Laptop, Regardless of Inbuilt Capabilities</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-educational-excellence-through-effective-lecture-audio-documentation-mac/"><u>[Updated] 2024 Approved Educational Excellence Through Effective Lecture Audio Documentation (Mac)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-video-sharing-showdown-20-decoding-the-platform-preferences-vimeo-youtubes-and-dailymotions/"><u>[Updated] 2024 Approved Video Sharing Showdown 2.0 Decoding the Platform Preferences - Vimeo, YouTubes & DailyMotions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-virtual-reality-revolution-which-headset-leads-the-charge/"><u>[Updated] 2024 Approved Virtual Reality Revolution Which Headset Leads the Charge?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-how-to-solve-the-sudo-command-not-found-issue-on-linux-systems-a-simple-guide/"><u>1. How to Solve the 'Sudo: Command Not Found' Issue on Linux Systems – A Simple Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/access-and-interact-with-countless-ai-powered-conversational-agents-on-your-desktop-through-this-innovative-software/"><u>Access and Interact with Countless AI-Powered Conversational Agents On Your Desktop Through This Innovative Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/adding-text-to-files-in-linux-a-comprehensive-guide-7-effective-methods/"><u>Adding Text to Files in Linux: A Comprehensive Guide - 7 Effective Methods</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/apples-m1-chip-vulnerability-understanding-the-recent-hardware-security-flaw/"><u>Apple's M1 Chip Vulnerability: Understanding the Recent Hardware Security Flaw</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-the-best-11-cost-free-word-game-worlds/"><u>Dive Into the Best 11 Cost-Free Word Game Worlds</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-samsung-galaxy-a14-4g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Samsung Galaxy A14 4G Location | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/mejora-de-la-experiencia-del-correo-electronico-con-bandeja-de-entrada-de-hotmail/"><u>Mejora De La Experiencia Del Correo Electrónico Con Bandeja De Entrada De Hotmail</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-efficiency-on-your-mac-with-an-essential-yet-underappreciated-automatic-shortcut-feature/"><u>Unlocking Efficiency on Your Mac with an Essential, Yet Underappreciated, Automatic Shortcut Feature</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-the-basics-a-novices-roadmap-to-configuring-a-windows-pc-with-essential-tips/"><u>Unlocking the Basics: A Novice's Roadmap to Configuring a Windows PC with Essential Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-hidden-costs-of-using-a-linux-powered-computer/"><u>Unveiling the Hidden Costs of Using a Linux-Powered Computer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/week-in-review-upcoming-innovations-from-google-and-samsungs-mobile-line-up/"><u>Week in Review: Upcoming Innovations From Google & Samsung's Mobile Line-Up</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windows-xp-an-irreplaceable-icon-in-computing-history/"><u>Windows XP: An Irreplaceable Icon in Computing History</u></a></li>
+</ul></div>
 

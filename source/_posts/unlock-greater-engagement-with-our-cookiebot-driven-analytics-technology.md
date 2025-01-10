@@ -1,7 +1,7 @@
 ---
 title: Unlock Greater Engagement with Our Cookiebot-Driven Analytics Technology
-date: 2024-08-21T17:43:04.545Z
-updated: 2024-08-22T17:43:04.545Z
+date: 2025-01-04T16:49:59.639Z
+updated: 2025-01-10T02:12:13.109Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b261fbe4ba782432860cba0bd7.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Partners with Alteryx Extending the Alteryx Analytic Process Automation Platform with Deeper Process Intelligence
 
 October 06, 2020
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### _Integrated Solution Accelerates Key Digital Transformation Initiatives_
 
@@ -75,8 +83,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,8 +90,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/updated-professional-photography-enhanced-by-top-luts-in-lightroom/"><u>[Updated] Professional Photography Enhanced by Top LUTs in LightRoom</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725286841482-dvd/"><u>意外な裏技：DVDコピーと変換を効率化するハードウェア・アクセラレーションの仕組み</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-smooth-performance-official-qualcomm-drivers-for-windows-platforms-windows-11-10-8-and-7/"><u>Ensure Smooth Performance: Official Qualcomm Drivers for Windows Platforms - Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gear-up-for-a-techno-literary-adventure-with-phones-tablets-and-books/"><u>Gear Up for a Techno Literary Adventure with Phones, Tablets & Books</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-facile-pour-transformer-des-films-mkv-en-formats-mp4-avec-des-lectures-completement-sans-perte/"><u>Guide Facile Pour Transformer Des Films MKV en Formats MP4 Avec Des Lectures Completement Sans Perte.</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/guide-saving-your-favorite-twitch-streams-by-downloading-past-broadcasts/"><u>Guide: Saving Your Favorite Twitch Streams by Downloading Past Broadcasts</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-your-asus-pce-ac56-wireless-network-card-working-on-windows-7811-fixed/"><u>How to Get Your ASUS PCE-AC56 Wireless Network Card Working on Windows 7/8/11 [FIXED]</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-mastering-your-content-on-vimeo-free-plus-or-pro/"><u>In 2024, Mastering Your Content on Vimeo Free, Plus or Pro?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-itel-p55-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Itel P55 5G FRP Bypass</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/los-mejores-conversores-gratuitos-para-mp4-como-desplazarse-sin-coste-entre-formatos-de-video/"><u>Los Mejores Conversores Gratuitos Para MP4: Cómo Desplazarse Sin Coste Entre Formatos De Vídeo</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/manual-de-uso-facil-y-completo-para-el-programa-winxdvd-una-guia-paso-a-paso/"><u>Manual De Uso Fácil Y Completo Para El Programa WinXDVD: Una Guía Paso a Paso</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-maintaining-high-quality-audio-in-mp3-editing-on-any-device/"><u>Step-by-Step Guide: Maintaining High-Quality Audio in MP3 Editing on Any Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-activating-recovery-mode-on-your-ipad/"><u>Ultimate Guide: Activating Recovery Mode on Your iPad</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winx-platinum-ripper-dvd-techniques-avancees-pour-extraire-des-dvd-en-quelques-minutes-transformez-vos-fichiers-en-format-mp4-et-hevc-rapidement/"><u>WinX Platinum Ripper DVD - Techniques Avancées Pour Extraire Des DVD en Quelques Minutes, Transformez Vos Fichiers en Format MP4 Et HEVC Rapidement !</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725290397758-winxdvd/"><u>WinXDVD 專業指導 - 如何有效利用該產品</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

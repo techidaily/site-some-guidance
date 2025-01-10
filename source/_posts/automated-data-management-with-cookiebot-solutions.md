@@ -1,7 +1,7 @@
 ---
 title: Automated Data Management with Cookiebot Solutions
-date: 2024-08-21T17:44:18.613Z
-updated: 2024-08-22T17:44:18.613Z
+date: 2025-01-05T00:30:11.315Z
+updated: 2025-01-10T01:17:49.514Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/2759ed3d822d64726b5041a7dfa5154bfc20081c37343fab709d27bf02b2be55.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/2759ed3d822d64726b5041a7dfa5154bfc20081c3
 
 [Actualités](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY renforce son équipe dirigeante en nommant Neil Murphy au poste de Chief Sales Officer
 
 23 mars 2023
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Neil Murphy News Abbyy](https://static4.abbyy.com/abbyycommedia/37254/neil-murphy-news-abbyy.jpg) 
 
@@ -33,6 +41,10 @@ _Neil Murphy, CSO chez ABBYY._
 
 Plus d’informations sur les solutions d’Intelligent Automation d’ABBYY, sont disponibles [ici](https://tools.techidaily.com/abbyy/products/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### À propos d’ABBYY
 
 ABBYY est un acteur référent de l’Intelligent Process Automation. L’entreprise ambitionne de réinventer la manière dont ses clients et leurs équipes se développent en leur apportant la connaissance nécessaire au bon fonctionnement des plateformes d’automatisation. Les solutions d’ABBYY transforment les données d’entreprise dans le but de permettre un gain en agilité et en rapidité. ABBYY aide plus de 10 000 clients dans le monde, dont bon nombre des entreprises du Fortune 500, à obtenir un impact positif dans des domaines majeurs tels que l’expérience client, la rentabilité et la compétitivité.
@@ -40,15 +52,17 @@ ABBYY est un acteur référent de l’Intelligent Process Automation. L’entrep
 ABBYY est une multinationale basée aux États-Unis, et dont les bureaux sont répartis au sein de 14 pays. Pour plus d’informations, veuillez consulter le site[https://www.abbyy.com/fr/](https://tools.techidaily.com/abbyy/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Contact presse
 
 ![Bianca 110X110](https://static2.abbyy.com/abbyycommedia/36222/bianca-110x110.png)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### Bianca Stupp
 
 _ABBYY_
@@ -63,8 +77,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,4 +84,19 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mastering-video-file-management-movs-on-windows-10/"><u>[Updated] In 2024, Mastering Video File Management MOVs on Windows 10</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-steps-to-restore-your-youtube-shorts-thumbnails/"><u>[Updated] In 2024, Steps to Restore Your YouTube Shorts' Thumbnails</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-metaversal-musings-a-preamble-of-inspirational-thoughts/"><u>[Updated] Metaversal Musings A Preamble of Inspirational Thoughts</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/budget-friendly-singing-fun-in-america-for-less-than-150/"><u>Budget-Friendly Singing Fun in America for Less than $150</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/easy-and-fast-official-winx-dvd-ripper-platinum-high-quality-mp4-h2-64hevc-ripping-completed-in-just-5-minutes/"><u>Easy and Fast: Official WinX DVD Ripper Platinum – High-Quality MP4 (H.2 64/HEVC) Ripping Completed in Just 5 Minutes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/getting-netflix-functionality-back-after-glitches-on-xbox-platforms/"><u>Getting Netflix Functionality Back After Glitches on Xbox Platforms</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-sony-xperia-5-v-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Sony Xperia 5 V Phone FRP Lock</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-lg-distribution-networks-critical-information-you-should-know/"><u>Mastering LG Distribution Networks: Critical Information You Should Know</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mkv-to-mp4-conversion-for-iphoneandroid-free-tutorial/"><u>MKV to MP4 Conversion for iPhone/Android - Free Tutorial</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-getting-and-setting-up-popcorn-time-on-your-apple-devices/"><u>Step-by-Step Guide: Getting and Setting Up Popcorn Time on Your Apple Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/trouble-free-guide-on-duplicating-your-favorite-peanuts-dvd-series/"><u>Trouble-Free Guide on Duplicating Your Favorite Peanuts DVD Series</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/weekly-essentials-the-best-of-igtv-for-2024/"><u>Weekly Essentials The Best of IGTV for 2024</u></a></li>
+</ul></div>
 

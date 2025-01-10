@@ -1,7 +1,7 @@
 ---
 title: Cutting-Edge ID Validation Technology From ABBYY Lowers Deception Risks and Accelerates Account Signup for Customers
-date: 2024-08-21T17:43:37.189Z
-updated: 2024-08-22T17:43:37.189Z
+date: 2025-01-07T17:10:02.682Z
+updated: 2025-01-09T16:39:36.149Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5f531a542c9f720844c66d4d.jpg
@@ -11,13 +11,25 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Reduces Fraud Losses and Expedites Customer Onboarding with new Proof of Identity Solution
 
 October 11, 2022
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![News Abbyy Poi](https://static2.abbyy.com/abbyycommedia/36116/news-abbyy-poi.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ABBYY is solving the billion-dollar identity fraud problem facing consumers and businesses with the first all-in-one solution that offers instant identity proofing and affirmation anytime, anywhere. No more standing in line or manually completing cumbersome online forms, [ABBYY Proof of Identity](https://tools.techidaily.com/abbyy/products/) simplifies document-centric digital onboarding processes while giving organizations confidence that customers, constituents, employees, and partners are who they say they are.
 
@@ -57,15 +69,17 @@ ABBYY is a US-based global company with offices in 15 countries. For more inform
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY group companies and may not be used without consent of its respective owners.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Editorial Contact
 
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### Gina Ray, APR
 
 _Director of Global Public Relations_
@@ -81,8 +95,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -90,4 +102,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-ultimate-playbook-navigating-youtube-etiquette/"><u>[Updated] 2024 Approved Ultimate Playbook Navigating YouTube Etiquette</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-codecs-and-video-extensions-for-windows-10-handheld-devices/"><u>Best Codecs and Video Extensions for Windows 10 Handheld Devices</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-integrated-solutions-drive-traffic-and-engagement-effortlessly/"><u>Cookiebot Integrated Solutions - Drive Traffic and Engagement Effortlessly!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/freie-konvertierung-von-h265hevc-zu-h264-unter-macos-und-windows-10-keine-lizenz-erforderlich/"><u>Freie Konvertierung Von H.265/HEVC Zu H.264 Unter macOS Und Windows (10): Keine Lizenz Erforderlich</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-i-successfully-fixed-continuous-overwatch-freezes-a-step-by-step-guide/"><u>How I Successfully Fixed Continuous Overwatch Freezes - A Step-by-Step Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-from-your-iphone-15-pro-max-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock from your iPhone 15 Pro Max and iPad?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-samsung-galaxy-z-flip-5-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Samsung Galaxy Z Flip 5 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/recupera-i-tuoi-dati-ssd-perduti-tecniche-avanzate-per-il-ripristino-del-sistema-di-memorizzazione-solido/"><u>Recupera I Tuoi Dati SSD Perduti: Tecniche Avanzate per Il Ripristino Del Sistema Di Memorizzazione Solido</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/schlagartige-umwandlung-lernen-sie-wie-sie-mp4-dateien-einfach-und-kostenlos-in-avi-format-mit-weniger-als-einem-tutorial-umwandeln/"><u>Schlagartige Umwandlung: Lernen Sie, Wie Sie MP4 Dateien Einfach Und Kostenlos in AVI-Format Mit Weniger Als Einem Tutorial Umwandeln</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/setting-up-your-capture-device-on-windows-game-bar-enabling-video-and-audio-recording-via-xboxdvr/"><u>Setting Up Your Capture Device on Windows Game Bar – Enabling Video & Audio Recording via XboxDVR</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-dynamic-brightness-adjustment-in-windows-11/"><u>Unlocking Dynamic Brightness Adjustment in Windows 11</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/verifying-proper-functionality-of-your-cooling-fans-a-guide-by-yl-computing/"><u>Verifying Proper Functionality of Your Cooling Fans: A Guide by YL Computing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Tecno Spark 10 5G? | Dr.fone</u></a></li>
+</ul></div>
 

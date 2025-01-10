@@ -1,7 +1,7 @@
 ---
 title: "Transformer Les Fiches Procès-Verbal De Gaches Chimie : Extraction Des Données Clés Avec Abbey FlexiCapture"
-date: 2024-08-21T17:40:58.372Z
-updated: 2024-08-22T17:40:58.372Z
+date: 2025-01-03T20:07:00.921Z
+updated: 2025-01-09T19:13:03.965Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd4f5906c27990e96a64caabf.jpg
@@ -32,6 +32,11 @@ Dès 2008, la DSI de Gaches Chimie se met en quête d’une solution pour répon
 
 Pour les 2000 types de documents envoyés![CS Gaches Chimie FC F](https://tools.techidaily.com/abbyy/products/)  
 par les fournisseurs de Gaches Chimie, il  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 faut reconnaître automatiquement le document  
 (ex. bulletin d’analyse) et les informations  
 qu’il contient (ex : article, numéro de lot,  
@@ -68,8 +73,9 @@ convivialité de la recherche)
 #### Utilisation de la Solution
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Alimentation de la solution en documents
 
 Les 15 000 documents réception fournisseurs qui arrivent chaque année dans l’entreprise au format papier sont numérisés sur chaque site par les 2 ou 3 personnes habilitées et non informaticiens (magasiniers formés par le service informatique de Gaches Chimie), et intégrés au fil de l’eau. Leur « identité » est automatiquement déterminée par ABBYY Flexicapture: bulletin d'analyse de matières chimiques versus certificat de conformité.
@@ -78,35 +84,22 @@ Les informations qu’ils contiennent sont également reconnues automatiquement 
 
 Les documents clients sont intégrés automatiquement dans la solution depuis l’ERP ; tous les mois, 5 documents sont archivés après avoir été traités dans le logiciel « maison » : bon de livraison client, certificat de conformité Gaches Chimie, facture client, commande fournisseur et réception fournisseur : ils sont exportés au format PDF dans Documind, accompagnés de leurs méta-données et deviennent immédiatement disponibles en consultation.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Stockage
 
 Les documents sont stockés dans Documind Advanced Solution : classés dans un plan de classement métier et indexés par des critères personnalisés selon le type de documents. Alors que le délai de purge est de 30 mois dans l’ERP, les documents sont conservés 10 ans dans Documind, car pendant cette période ils peuvent être demandés par la douane, la police…
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Recherche / Consultation
 
 Tous les profils de collaborateurs sont amenés à rechercher les documents gérés par la solution : les magasiniers, à qui un client peut demander de retrouver « le certificat de conformité de tel lot de janvier 2009 », les comptables à qui un client peut demander une copie de sa dernière facture… Les utilisateurs retrouvent les documents grâce à une recherche plein texte et/ou une exploration de plan de classement et/ou une recherche multicritère sur les index personnalisés par type de documents.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### 4\. Publication
 
 Les documents peuvent être ponctuellement envoyés par mail aux clients et fournisseurs « à la demande » après une recherche dans Documind. En outre, au moment de l’édition du bon de livraison client dans l’ERP, les documents fournisseurs associés (certificat de conformité…) sont automatiquement envoyés.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Données clés
 
 * 150 utilisateurs, de tous les profils (magasiniers, comptables…)
@@ -117,8 +110,9 @@ numérisés et intégrés au fil de l’eau depuis chaque site après traitement
 * Délai de purge des documents: 30 mois dans l’ERP, 10 ans dans Documind.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Bénéfices
 
 La solution mise en place par la DSI de Gaches Chimie permet à l’entreprise :
@@ -141,6 +135,10 @@ Grâce à cette nouvelle solution, Gaches Chimie traite de manière plus efficac
 
 Partager 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Prêt à parler à un expert ?
 
 Nous serions ravis de vous aider tout au long de votre parcours d’automatisation.
@@ -153,8 +151,6 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +158,18 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-essential-phones-for-optimal-gear-vr-performance-update-2023/"><u>[New] 2024 Approved Essential Phones for Optimal Gear VR Performance - Update 2023</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-charting-the-course-to-celebrity-the-9-instagram-techniques-you-must-learn/"><u>[New] Charting the Course to Celebrity The #9 Instagram Techniques You Must Learn</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-essential-tips-building-an-instagram-money-machine/"><u>[New] Essential Tips Building an Instagram Money Machine</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-gratuitous-access-to-top-digital-editing-suites/"><u>[Updated] In 2024, Gratuitous Access to Top Digital Editing Suites</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/alternatives-to-nero-expertly-skip-copyright-restrictions-on-mac-for-legal-media-creation/"><u>Alternatives to Nero: Expertly Skip Copyright Restrictions on Mac for Legal Media Creation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazingly-clear-and-bright-the-highly-budget-friendly-laptop-with-top-notch-display-reviewed-by-zdnet/"><u>Amazingly Clear & Bright: The Highly Budget-Friendly Laptop with Top-Notch Display - Reviewed by ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comprehensive-guide-top-pick-mac-x-dvd-ripper-pro-mac-dvdripper-pro-and-mac-the-ripper-compared/"><u>Comprehensive Guide: Top Pick - Mac X DVD Ripper Pro, Mac DVDRipper Pro & Mac The Ripper Compared</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-the-art-of-screenshot-edits-effortless-cropping-techniques-for-apple-users/"><u>Mastering the Art of Screenshot Edits: Effortless Cropping Techniques for Apple Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/quick-guide-speeding-up-your-vimeo-uploads-with-effective-video-compression-techniques/"><u>Quick Guide: Speeding Up Your Vimeo Uploads with Effective Video Compression Techniques</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-fcpx-shortcut-guide-40-time-saving-keys/"><u>The Ultimate FCPX Shortcut Guide 40 Time-Saving Keys</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-tips-for-resolving-iphoto-malfunctions-after-upgrading-to-the-newest-macos/"><u>Troubleshooting Tips for Resolving IPhoto Malfunctions After Upgrading to the Newest macOS</u></a></li>
+</ul></div>
 

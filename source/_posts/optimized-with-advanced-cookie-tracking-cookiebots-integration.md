@@ -1,7 +1,7 @@
 ---
 title: "Optimized with Advanced Cookie-Tracking: Cookiebot's Integration"
-date: 2024-08-21T17:42:53.913Z
-updated: 2024-08-22T17:42:53.913Z
+date: 2025-01-05T20:11:02.711Z
+updated: 2025-01-09T16:42:52.495Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a2654636b72d1c325e241fdeaf.png
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stadt München setzt bei der Digitalisierung von Bauakten auf ABBYY
 
 10\. Mai 2017
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### _Automatisierte Antragsklassifizierung, -Erfassung und Archivierung verkürzt die Bearbeitungszeit von Bauanträgen signifikant_
 
@@ -70,8 +78,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -79,8 +85,19 @@ Vernetzen Sie sich mit uns
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-top-15-cinematic-tools-for-gopro-videos-and-films/"><u>[New] 2024 Approved Top 15 Cinematic Tools for GoPro Videos and Films</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-unraveling-sharex-professional-perspectives-and-picks/"><u>[New] In 2024, Unraveling ShareX Professional Perspectives & Picks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725288619961-imgburn/"><u>「新版ImgBurnが今日発表! - 日本語ユーザー向けの簡単なインストール手順をご紹介します」</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/die-effektivsten-videokonverter-software-losungen-fur-windows-1011-schnell-and-sicher-ihre-top-liste-der-zehn-besten/"><u>Die Effektivsten Videokonverter-Software Lösungen Für Windows 10/11: Schnell & Sicher – Ihre Top-Liste Der Zehn Besten</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/essential-guide-to-5-windows-11-features-for-audio-recording-professionals-for-2024/"><u>Essential Guide to 5 Windows 11 Features for Audio Recording Professionals for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-easy-steam-capture-for-cyberpunk-2077-adventures/"><u>In 2024, Easy Steam Capture for Cyberpunk 2077 Adventures</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-samsung-galaxy-m14-4g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Samsung Galaxy M14 4G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mp4isodvd-shrink/"><u>MP4をISO形式に変換するためのDVD Shrinkガイドと効果的な代替ソリューション</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-usb-connection-problems-effective-solutions-for-device-descriptor-request-failed-error/"><u>Overcoming USB Connection Problems: Effective Solutions for 'Device Descriptor Request Failed' Error</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-choosing-a-high-quality-laptop-dvd-player-for-seamless-media-playback/"><u>The Ultimate Guide to Choosing a High-Quality Laptop DVD Player for Seamless Media Playback</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-free-hd-video-players-with-hevch265-support-for-windows-11-and-macos-comprehensive-guide-202-similar-instruction/"><u>Top Free HD Video Players with HEVC/H.265 Support for Windows 11 and macOS – Comprehensive Guide 202# Similar Instruction</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Nokia G42 5G | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Chip vonBurg Ascends as New Leader in Strategic Customer Success at ABBYY
-date: 2024-08-21T17:43:15.114Z
-updated: 2024-08-22T17:43:15.114Z
+date: 2025-01-06T02:02:27.444Z
+updated: 2025-01-09T22:40:37.553Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/02374ddd20d049e41c0d0fe41e4dbd023d73e596f3add5f5b8f6d266eddb08ec.png
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/02374ddd20d049e41c0d0fe41e4dbd023d73e596f
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Promotes Chip VonBurg to Head of Strategic Customer Success
 
 September 26, 2019
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
   
 To ensure enterprise customers gain the full benefits of ABBYY Digital IQ technologies and solutions, the company has promoted Chip VonBurg as Head of Strategic Customer Success. In his new role, VonBurg will lead a global team that supports customer relationships by coordinating onboarding processes, assessing customer feedback and engagement data, reporting on customer satisfaction, and promoting enrichment opportunities within existing key strategic customers.
@@ -49,8 +57,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -58,8 +64,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-professional-videographers-guide-to-efficient-color-keying/"><u>[New] In 2024, Professional Videographer's Guide to Efficient Color-Keying</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-peeling-the-onion-understanding-instagram-story-audiences/"><u>[Updated] In 2024, Peeling the Onion Understanding Instagram Story Audiences</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-uncovering-the-intricacies-of-lgs-top-tier-4k-display-for-2024/"><u>[Updated] Uncovering the Intricacies of LG's Top-Tier 4K Display for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/switchyoutube/"><u>「任天堂SwitchにYouTubeが表示しづらい？その理由と解決策」</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-methodologies-for-detaching-audio-elements-from-new-mkv-file-types/"><u>2024 Approved Methodologies for Detaching Audio Elements From New MKV File Types</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-powerful-payload-the-elite-airborne-workhorses/"><u>2024 Approved Powerful Payload The Elite Airborne Workhorses</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/decouvrez-les-top-5-outils-videoprogrammation-sans-frais-pour-enregistrement-dune-qualite-exceptionnelle-en-202n4/"><u>Découvrez Les Top 5 Outils Videoprogrammation Sans Frais Pour Enregistrement D'Une Qualité Exceptionnelle en 202N4</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effizientes-video-konvertieren-mit-handbrake-anleitung-zum-umwandeln-und-rippern-von-dvds/"><u>Effizientes Video-Konvertieren Mit HandBrake - Anleitung Zum Umwandeln Und Rippern Von DVDs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortless-techniques-for-extracting-audio-tracks-from-mkv-files-while-preserving-video-quality/"><u>Effortless Techniques for Extracting Audio Tracks From MKV Files While Preserving Video Quality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gratiskonverter-von-h265hevc-in-h2h64-codec-optimiert-fur-windows-10-and-mac-os-x/"><u>Gratiskonverter Von H.265/HEVC in H.2^[H6]4-Codec, Optimiert Für Windows 10 & Mac OS X</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-simple-pour-transformer-des-fichiers-mkv-en-disques-dvd-gratuits-a-laide-de-winx-dvd-author-sous-windows-10-8-ou/"><u>Guide Simple Pour Transformer Des Fichiers MKV en Disques DVD Gratuits À L'aide De WinX DVD Author Sous Windows 10, 8 Ou</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-amplify-content-with-free-audio-samples/"><u>In 2024, Amplify Content with Free Audio Samples!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oppo-reno-11f-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Oppo Reno 11F 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://games-able.techidaily.com/quicken-gameplay-quality-fixing-low-windows-fps/"><u>Quicken Gameplay Quality: Fixing Low Window's FPS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/steelseries-gaming-mouse-setup-guide-installing-the-correct-drivers/"><u>SteelSeries Gaming Mouse Setup Guide: Installing the Correct Drivers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winx-hd-video-converter-deluxe-gpu-enhanced-transcoding-for-quick-video-size-adjustment-and-editing/"><u>WinX HD Video Converter Deluxe: GPU Enhanced Transcoding for Quick Video Size Adjustment and Editing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winxvideo-artificial-intelligence-masterclass-professional-video-optimization-learn-how-to-elevate-your-content-with-cutting-edge-audio-and-video-processing114/"><u>Winxvideo Artificial Intelligence Masterclass: Professional Video Optimization - Learn How to Elevate Your Content with Cutting-Edge Audio & Video Processing Tools</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Southampton University Enhances Digital Archive with Massive Print Digitization Initiative
-date: 2024-08-21T17:42:57.964Z
-updated: 2024-08-22T17:42:57.964Z
+date: 2025-01-04T22:27:49.336Z
+updated: 2025-01-10T01:08:39.036Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/850c193e7db5e5c0dafad83a501e0d012a7f8ab4be61e59f0459fea3e866d702.png
@@ -13,11 +13,23 @@ thumbnail: https://thmb.techidaily.com/850c193e7db5e5c0dafad83a501e0d012a7f8ab4b
 
 Education & Science | PDF and Document Conversion
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## University of Southampton Improves Access to its Collection by Digitising Vast Quantities of Printed Material
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/abbyy.png?h=40&iar=0&w=120)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## University of Southampton Improves Access to its Collection by Digitising Vast Quantities of Printed Material
 
@@ -28,9 +40,9 @@ The University of Southampton Library supports a community of approximately 35,0
 ABBYY FineReader, a software product designed for ad-hoc scanning and digitisation, had been used by the Library for a number of years to digitise small numbers of pages, and occasionally full books, with the addition of text recognition or OCR (optical character recognition). The Library quickly realised however that in order to automate the OCR process with a high throughput and achieve their goal of digitising half a million pages per year, they would need a more robust product capable of automatically processing large volumes of documents. 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution
 
 In order to find a solution to process printed documents into searchable formats, such as PDF and PDF/A for digitising archives or records creation, the Library evaluated various options on the market. They examined the following criteria across a number of products: Speed and quality of OCR, range of output formats and compressions, and API/workflow integration possibility. After looking at a number of products the Library selected ABBYY Recognition Server as a best-fit solution.
@@ -46,8 +58,9 @@ Digitisation of 18th century Parliamentary Papers: Coverage includes the Journal
 Digitisation of 19th century pamphlets: Over 23,000 19th century pamphlets from UK research libraries that cover the socio-political and economic landscape in Britain were digitised by the LDU and converted into searchable PDFs. Project details and catalogue entry is available at: [www.britishpamphlets.org.uk](http://www.britishpamphlets.org.uk/)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Other in-house projects include:
 
 Digitisation of Doctoral Theses: Scanned copies of 20,000 University of Southampton awarded theses were converted to searchable PDFs and are now being made available through the university’s institutional research repository, Eprints Soton. Eprints Soton contains electronic copies of research output, including journal articles, book chapters, conference papers and theses. It also includes unpublished manuscripts and papers. The full text of many of these items is freely available to be used in accordance with copyright and end-user permissions. [eprints.soton.ac.uk](http://eprints.soton.ac.uk/)
@@ -58,9 +71,6 @@ Digitisation of Course Texts: The Library converts printed items into searchable
 
 The Richard Rutt Collection: A collection of 19th century knitting books from the Winchester School of Art Reference Library have been digitised and made available as searchable PDFs via the web. [www.southampton.ac.uk/library/](http://www.southampton.ac.uk/library/) 
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Conclusion
 
 A powerful and accurate OCR is an integral component of the Library Digitisation Unit’s activities. Thanks to the increased throughput offered by ABBYY Recognition Server, Library staff are freed from the tedious work of manual OCR and millions of pages of documents from the University of Southampton’s collection are available online in digital formats to its students and to the wider world.
@@ -75,10 +85,6 @@ Contact: [www.soton.ac.uk/library/ldu](http://www.soton.ac.uk/library/ldu).
 
 Share 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -91,8 +97,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +104,21 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-insiders-guide-maximizing-windows-11-efficiency/"><u>[New] In 2024, Insider's Guide Maximizing Windows 11 Efficiency</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-quickly-add-speech-overlays-to-your-instagram-posts-for-2024/"><u>[New] Quickly Add Speech Overlays to Your Instagram Posts for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-mystery-reader-fb-narratives-explorer-for-2024/"><u>[Updated] Mystery Reader FB Narratives Explorer for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-streamlining-your-monetization-mastering-youtube-adsense/"><u>[Updated] Streamlining Your Monetization Mastering YouTube AdSense</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvdand/"><u>「全自動DVDダウンロード&コピー！：時間・機能規制なし」</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comprehensive-guide-embedding-subtitles-into-movies-tv-shows-and-online-videos/"><u>Comprehensive Guide: Embedding Subtitles Into Movies, TV Shows, and Online Videos</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-most-recent-drivers-for-nvidia-rtx-2060-on-windows-111087/"><u>Download the Most Recent Drivers for NVIDIA RTX 2060 on Windows 11/10/8/7</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-to-duplicating-and-saving-your-dvds-as-iso-files-with-winx-dvd-copy-pro/"><u>Guide to Duplicating and Saving Your DVDs as ISO Files with WinX DVD Copy Pro</u></a></li>
+<li><a href="https://fox-info.techidaily.com/pixel-perfection-expert-tips-on-iphone-photo-editing-for-2024/"><u>Pixel Perfection Expert Tips on iPhone Photo Editing for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-top-8-benefits-of-integrating-artificial-intelligence-in-education-a-guide-for-teachers/"><u>The Top 8 Benefits of Integrating Artificial Intelligence in Education: A Guide for Teachers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/title-ai-enhanced-drug-discovery-accelerating-time-from-lab-to-patient/"><u>Title: AI-Enhanced Drug Discovery - Accelerating Time From Lab to Patient</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/trasforma-i-tuoi-filmati-con-winxvideo-ai-convergenza-rapida-delle-velocita-dei-videoclip-utilizzando-la-potenza-gpu/"><u>Trasforma I Tuoi Filmati Con Winxvideo AI: Convergenza Rapida Delle Velocità Dei Videoclip Utilizzando La Potenza GPU</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-for-malfunctioning-turtle-audios-xeno-ut-recon-70-mic/"><u>Troubleshooting Guide for Malfunctioning Turtle Audio's Xeno UT Recon 70 Mic</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-wit-within-walls-a-guide-to-crafting-metaverse-jokes-for-2024/"><u>Unleashing Wit Within Walls – A Guide to Crafting Metaverse Jokes for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How ABBYY Became the Pioneering Leader in Intelligent DocuTech for 2N21, According to the ISG Provider Lens™ Study
-date: 2024-08-21T17:41:48.704Z
-updated: 2024-08-22T17:41:48.704Z
+date: 2025-01-08T00:21:30.173Z
+updated: 2025-01-10T00:22:58.138Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff467021d3f18604d423ee17ce346.jpg
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
 ## How ABBYY Became the Pioneering Leader in Intelligent DocuTech for 2N21, According to the ISG Provider Lens™ Study
 
 Report
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ISG Provider Lens™ Intelligent Automation - IDP, 2021
 
@@ -21,44 +25,40 @@ The 2021 ISG Provider Lens™ Intelligent Automation – Solutions and Services 
 
 **ABBYY stands out for its industry proven portfolio of solutions that leverage these technologies coupled with strategic global partnerships with major RPA and other intelligent automation vendors and customer-centric sales teams. ABBYY provides customers with the Content Intelligence they need to maintain a competitive edge and gain business value.**
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### Download it now!
 
 ![](https://static1.abbyy.com/abbyycommedia/35087/intelligent-document-processing-isg-matrix.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ISG Provider Lens™ quadrant focuses on providers that offer proprietary software products or solutions for the automated discovery, analysis and processing of documents across an organization. More than 80 percent of companies have realized that they cannot unlock the true value of intelligent automation without a strong data foundation.
 
 Going beyond traditional optical character recognition (OCR), ISG defines IDP as software that uses artificial intelligence (AI) technologies such as natural language processing (NLP), machine learning (ML), computer vision, and deep learning to filter and analyze large volumes of unstructured data from multiple formats (I.e. emails, PDFs, Excel, Word, or images) for further processing, storage, and use in other applications.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Thank you for your interest in ABBYY.
 
 [Read the report](https://digital.abbyy.com/hubfs/documents/content/analystreport-intelligent-document-processing-isg-provider-lens-en.pdf "Read the report") 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### You might also be interested in...
 
 [![Quadrant Knowledge Solutions SPARK Matrix 2021](https://static3.abbyy.com/abbyycommedia/35006/137-abbyy-is-leader-in-spark-matrix-2021-en-360x232.jpg) ABBYY Named 2021 Technology Leader of IDP in the Quadrant Knowledge Solutions SPARK Matrix See report](https://digital.abbyy.com/hubfs/documents/content/analystreport-intelligentdocumentprocessing-quadrantknowledgesolutions-en.pdf "ABBYY Named 2021 Technology Leader of IDP in the Quadrant Knowledge Solutions SPARK Matrix")[![ABBYY Vantage IDP](https://static4.abbyy.com/abbyycommedia/34808/vantage-new-product-video.jpg) ABBYY Vantage: Intelligent Document Processing Platform for the Digital Workforce Learn more](https://www.abbyy.com/vantage/ "ABBYY Vantage: Intelligent Document Processing Platform for the Digital Workforce")[![Intelligent Document Processing | ABBYY Blog](https://static1.abbyy.com/abbyycommedia/34870/ap-content-2-848x444.jpg) What Is Intelligent Document Processing (IDP), and How Does It Work? Read article](https://www.abbyy.com/blog/intelligent-document-processing/ "What Is Intelligent Document Processing (IDP), and How Does It Work?") 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 #### Have questions? [Contact ABBYY](https://tools.techidaily.com/abbyy/products/)
 
 #### Get your copy by filling in the form.
@@ -119,8 +119,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +126,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-reviews.techidaily.com/fly-high-with-flying-lotus-the-all-in-one-desktop-crafted-from-framework-laptop-and-advanced-3d-components-powered-by-battery/"><u>Fly High with Flying Lotus: The All-in-One Desktop Crafted From Framework Laptop & Advanced 3D Components, Powered by Battery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-activating-and-navigating-the-find-my-device-feature-in-windows-11/"><u>Guide: Activating & Navigating the Find My Device Feature in Windows 11</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-tecno-spark-10-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone 13 mini</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-6-lite-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 6 Lite to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/reducing-decibels-smoothly-with-advanced-mixing-tools-for-2024/"><u>Reducing Decibels Smoothly with Advanced Mixing Tools for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-8-top-collaborative-video-collage-tools-on-android-affordable/"><u>The Ultimate 8 Top Collaborative Video Collage Tools on Android (Affordable)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-infinix-note-30-pro-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Infinix Note 30 Pro for Streaming | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-microsoft-services-by-linking-windows-product-key/"><u>Unlocking Microsoft Services by Linking Windows Product Key</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unmissable-offers-on-gadgets-and-displays-get-your-hands-on-an-apple-pencil-galaxy-s24-4k-tv-marvels-and-more/"><u>Unmissable Offers on Gadgets and Displays: Get Your Hands on an Apple Pencil, Galaxy S24, 4K TV Marvels & More!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/upgrading-made-simple-transition-from-older-os-to-the-latest-windows-11-system/"><u>Upgrading Made Simple: Transition From Older OS to the Latest Windows 11 System</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/when-your-text-cursor-vanishes-a-guide-with-6-effective-solutions-for-a-white-cursor-problem-in-windows-os/"><u>When Your Text Cursor Vanishes: A Guide with 6 Effective Solutions for a White Cursor Problem in Windows OS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windows-11-discontinues-support-for-tips-application/"><u>Windows 11 Discontinues Support for Tips Application</u></a></li>
+</ul></div>
 

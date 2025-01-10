@@ -1,7 +1,7 @@
 ---
 title: "Discover ABBYY's Revolutionary Solutions: Experience Them Live at PegaWorld Inspire 2023!"
-date: 2024-08-21T17:40:13.993Z
-updated: 2024-08-22T17:40:13.993Z
+date: 2025-01-04T16:10:07.091Z
+updated: 2025-01-10T02:14:19.405Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895e91d61d746d246092f66e50.png
@@ -37,6 +37,10 @@ Using Pega in tandem with [intelligent document processing](https://tools.techid
 
 Enhance Pega’s intelligence with ABBYY’s low-code no-code AI-based platform and see how pre-built AI models improve user productivity. Download the [ABBYY Vantage Connector for Pega](https://tools.techidaily.com/abbyy/products/) to reimagine your workflow automation with ABBYY intelligent document processing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Are you attending PegaWorld in Las Vegas?
 
 Schedule a meeting with ABBYY. We look forward to seeing you at PegaWorld iNspire 2023! Find us at booth #25\. 
@@ -47,6 +51,10 @@ Schedule a meeting with ABBYY. We look forward to seeing you at PegaWorld iNspir
 
 ![Bruce Orcutt ABBYY](https://static5.abbyy.com/abbyycommedia/25719/bruceorcutt-99x99.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Bruce Orcutt
 
 Senior Vice President of Product Marketing at ABBYY
@@ -56,22 +64,25 @@ Bruce Orcutt is a veteran Product Marketing and Product Management professional 
 Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Like, share or repost
 
 Share 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Related posts
 
 ![](https://static1.abbyy.com/abbyycommedia/37736/idp-scheme-848x444-b.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [What Is Intelligent Document Processing, and How Does It Work?](https://tools.techidaily.com/abbyy/products/) 
 
 #### Subscribe for blog updates
@@ -124,8 +135,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +142,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-tips-and-tricks-for-successful-social-media-video/"><u>[Updated] In 2024, Tips & Tricks for Successful Social Media Video</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-go-incognito-with-instagram-live-a-comprehensive-guide-to-anonymity/"><u>2024 Approved Go Incognito with Instagram Live A Comprehensive Guide to Anonymity</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/addressing-iphones-persistent-problems-why-apple-must-step-in-and-rectify/"><u>Addressing iPhone's Persistent Problems - Why Apple Must Step In and Rectify</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/average-earnings-per-view-whats-the-income-for-youtubers-per-ad-playback-in-2024/"><u>Average Earnings Per View What's the Income for YouTubers per Ad Playback, In 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-free-platforms-for-streaming-and-downloading-ultra-hd-movies-in-4k-quality/"><u>Best Free Platforms for Streaming and Downloading Ultra HD Movies in 4K Quality</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oppo-a58-4g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Oppo A58 4G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-choose-the-best-macx-dvd-ripper-pro-for-windows-expert-tips-and-purchase-advice/"><u>How to Choose the Best MacX DVD Ripper Pro for Windows – Expert Tips and Purchase Advice</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-lava-agni-2-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Lava Agni 2 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/quirky-and-unique-windows-11-themes-for-you/"><u>Quirky and Unique Windows 11 Themes for You</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/seamless-hd-conversion-made-simple-unveiling-the-best-mac-os-compatible-avchd-converter/"><u>Seamless HD Conversion Made Simple: Unveiling the Best MAC OS Compatible AVCHD Converter</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-guide-how-to-enable-and-watch-hevch265-video-format-on-macos/"><u>Troubleshooting Guide: How to Enable and Watch HEVC/H.265 Video Format on MacOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-the-top-5-most-efficient-ipod-to-mac-conversion-programs/"><u>Ultimate Guide: The Top 5 Most Efficient iPod to Mac Conversion Programs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/understanding-hue-and-saturation-gopro-studio-edition/"><u>Understanding Hue and Saturation GoPro Studio Edition</u></a></li>
+</ul></div>
 

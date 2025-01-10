@@ -1,7 +1,7 @@
 ---
 title: "Pioneering the Future: How ABBYY Fuels Land Registry’s Transformation Into a World-Class Provider of Digital Services"
-date: 2024-08-21T17:44:03.909Z
-updated: 2024-08-22T17:44:03.909Z
+date: 2025-01-09T00:07:07.492Z
+updated: 2025-01-10T02:01:16.413Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e50237396b8522657b45e5482dbe37.jpg
@@ -25,9 +25,17 @@ Government | Forms Processing
 
 ![](https://static1.abbyy.com/abbyycommedia/15360/cs-landregistry-556x303_2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Customer Overview
 
 ![Land Registry](https://static4.abbyy.com/abbyycommedia/14854/land-registry-logo.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 | Name                  | Land Registry                                                       |
 | --------------------- | ------------------------------------------------------------------- |
@@ -82,13 +90,25 @@ Once Land Registry had established a model that worked, the solution was deploye
 
 [![FlexiCapture](https://static2.abbyy.com/abbyycommedia/21380/4-flexicapture.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FlexiCapture](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![Government](https://static2.abbyy.com/abbyycommedia/14361/11-government.jpg)](https://tools.techidaily.com/abbyy/products/) [Government](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![PDF Version](https://static4.abbyy.com/abbyycommedia/15359/cs-landregistry-360x162-2.jpg)](https://static1.abbyy.com/abbyycommedia/1208/cs-land-registry%5Ffc%5Fe.pdf "PDF version") [PDF version](https://static1.abbyy.com/abbyycommedia/1208/cs-land-registry%5Ffc%5Fe.pdf "PDF version") 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [read more](https://static1.abbyy.com/abbyycommedia/1208/cs-land-registry%5Ffc%5Fe.pdf "PDF version") 
 
@@ -100,9 +120,6 @@ Share  True ?  : ""
 
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -115,8 +132,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +139,19 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-boosting-social-reach-top-facebook-video-engagement-techniques/"><u>[New] 2024 Approved Boosting Social Reach Top Facebook Video Engagement Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-command-center-redefined-your-pathway-through-studio-for-2024/"><u>[New] Command Center Redefined Your Pathway Through Studio for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-a-novices-approach-to-acquiring-picture-frames/"><u>[Updated] 2024 Approved A Novice's Approach to Acquiring Picture Frames</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-smart-office-design-a-key-to-unlocking-employee-efficiency/"><u>2024 Approved Smart Office Design A Key to Unlocking Employee Efficiency</u></a></li>
+<li><a href="https://fox-access.techidaily.com/avoid-complexity-easy-video-edits-on-windows-10-for-everyone/"><u>Avoid Complexity Easy Video Edits on Windows 10 for Everyone</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyerdynamic-mmx-200-review-great-sound-but-needs-more-features/"><u>Beyerdynamic MMX 200 Review: Great Sound, But Needs More Features</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comment-reduire-efficacement-le-volume-de-votre-contenu-video-pour-une-diffusion-parfaite-sur-facebook/"><u>Comment Réduire Efficacement Le Volume De Votre Contenu Vidéo Pour Une Diffusion Parfaite Sur Facebook ?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/efficient-techniques-for-transforming-vob-videos-into-high-quality-mp4-on-pcs-windowsmac/"><u>Efficient Techniques for Transforming VOB Videos Into High-Quality MP4 on PCs (Windows/Mac)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guida-passo-passo-come-stabilizzare-i-tuoi-video-su-piattaforme-windows-mac-android-e-iphone/"><u>Guida Passo-Passo: Come Stabilizzare I Tuoi Video Su Piattaforme Windows, Mac, Android E iPhone</u></a></li>
+<li><a href="https://win-bits.techidaily.com/how-to-fix-apricorn-ez-gig-iv-external-hard-drive-copying-issues/"><u>How to Fix Apricorn EZ Gig IV External Hard Drive Copying Issues</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-freely-ripping-audio-from-dvds-with-high-fidelity/"><u>Ultimate Guide to Freely Ripping AUDIO From DVDs with High Fidelity</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-fortnites-pogo-sticking-issues/"><u>Ultimate Guide: Solving Fortnite's Pogo Sticking Issues</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhance User Experience and Analytics Using Cookiebot Technology
-date: 2024-08-21T17:43:46.094Z
-updated: 2024-08-22T17:43:46.094Z
+date: 2025-01-03T17:05:44.153Z
+updated: 2025-01-09T19:26:13.499Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce440fddff39e8b37de541c533.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Launches No-Code Platform Vantage 2 and AI Marketplace to Reimagine Digital Transformation
 
 March 23, 2021
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _Vantage 2 delivers ready-to-use AI skills for intelligent automation. The ABBYY Marketplace allows users to try cognitive skills to accelerate their automation initiatives._ 
 
@@ -72,8 +80,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -81,8 +87,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-screenshot-simplicity-compatible-free-capturing-apps-for-windows/"><u>[New] In 2024, Screenshot Simplicity Compatible Free Capturing Apps for Windows</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-monetary-side-of-podcasting-success/"><u>[New] In 2024, The Monetary Side of Podcasting Success</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-blueprints-for-breaking-ground-in-edu-video-production-on-youtube-channels/"><u>2024 Approved Blueprints for Breaking Ground in Edu-Video Production on YouTube Channels</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725288177312-dvd/"><u>理解しやすく - DVD品質向上のための解像度とビットレートを深掘り</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725285379386-ai/"><u>最新のAI技術で写真拡大法：小像素からクリアなビジュアルへ</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/besonders-beliebte-dvds-mit-synchron-oder-zwangsuntertiteln-fur-internationale-publikum/"><u>Besonders Beliebte DVDs Mit Synchron- Oder Zwangsuntertiteln Für Internationale Publikum</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/comprehensive-guide-for-effective-video-capturing/"><u>Comprehensive Guide for Effective Video Capturing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-rage-quarters-and-swords-nintendo-switch-fighting-classics/"><u>In 2024, Rage Quarters & Swords Nintendo Switch Fighting Classics</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/methode-zum-hochladen-einer-dvd-auf-medienserver-mit-anschliessendem-transfer-zu-plex-nas-oder-roku-uber-dlna-technologie/"><u>Methode Zum Hochladen Einer DVD Auf Medienserver Mit Anschließendem Transfer Zu Plex, NAS Oder Roku Über DLNA-Technologie</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/schutz-vor-raubkopien-professionelle-methoden-zum-sicherung-von-dvd-inhalten/"><u>Schutz Vor Raubkopien: Professionelle Methoden Zum Sicherung Von DVD-Inhalten</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/strategie-facile-per-cambiare-formato-video-da-ts-a-mp4-con-ottima-qualita/"><u>Strategie Facile per Cambiare Formato Video Da TS a MP4 Con Ottima Qualità</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-pip-techniques-for-professional-apple-users/"><u>Unlocking PIP Techniques for Professional Apple Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-rotate-a-video-in-final-cut-pro-a-4-step-guide-for-2024/"><u>Updated Rotate a Video in Final Cut Pro A 4-Step Guide for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->

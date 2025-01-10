@@ -1,7 +1,7 @@
 ---
 title: Enhance Website Analytics Using the Cookiebot Solution
-date: 2024-08-21T17:44:25.058Z
-updated: 2024-08-22T17:44:25.058Z
+date: 2025-01-02T22:36:27.457Z
+updated: 2025-01-10T03:34:37.122Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734ca57b3143f21e9c629c5f8e.jpg
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 ## Enhance Website Analytics Using the Cookiebot Solution
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Process mining and RPA: Achieving Process Excellence
 
@@ -20,6 +24,10 @@ July 23, 2024
 Organizations across industries, from manufacturing to healthcare, are looking to process mining and robotic process automation (RPA) to improve their operational efficiency. Process mining enables you to identify bottlenecks or inefficiencies in your current processes and optimize those workflows. In comparison, RPA automates repetitive tasks, freeing up employees to focus on strategic work. When used together, process mining will turbocharge your process optimization strategy, guiding you to implement RPA technology where it has the greatest potential for ROI.
 
 In this article, we’ll explore both process mining and RPA, including how they work, their uses and the benefits of utilizing them together.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is process mining?
 
@@ -35,9 +43,6 @@ Process mining is leveraged across various industries to model and present proce
 
 ## 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## What is RPA?
 
 **[RPA (Robotic Process Automation)](https://tools.techidaily.com/abbyy/products/) is a technology that uses software robots, or “bots” to automate repetitive tasks that are typically performed by human workers**. RPA equips businesses to perform rule-based tasks faster. Once you’ve trained your bots to perform a task, you can monitor their performance to ensure they continuously improve and adapt to process changes.
@@ -48,9 +53,6 @@ RPA is valuable across all industries, namely:
 * **Transportation and logistics**. RPA is most often used for routine logistics tasks such as order management, invoice processing and data entry. Employing automation in these areas helps to relieve employees to focus on higher-value tasks.
 * **Insurance**. Similarly to financial services, insurance process flows are rife with data-heavy tasks. RPA is used to automate manual tasks such as form processing, claims processing, and policy administration.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 
 
 ## How process mining improves RPA results
@@ -72,9 +74,6 @@ Overall, process mining improves RPA results by establishing a data-driven found
 
 Process mining, paired with RPA, allows businesses to:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Monitor and assess automated process performance regularly
 
 An invaluable facet of process mining is the ability to monitor process improvements. You can specify scenarios or conditions that should trigger real-time alerts for process review. This ensures your processes follow ongoing business compliance.
@@ -84,11 +83,16 @@ An invaluable facet of process mining is the ability to monitor process improvem
 Process mining provides a comprehensive, end-to-end view of actual process execution, spanning multiple applications. These insights will highlight high-value RPA opportunities, considering all process variations, times and cost implications.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Execute RPA at enterprise scale 
 
 Scaling from tens to hundreds, or thousands, of bots requires significant process control at a business-wide level. Process mining provides the aerial performance view you need to ensure automation is synchronized across every business system it touches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Avoid automation of broken or poorly executed processes
 
@@ -98,13 +102,14 @@ Full process visibility allows teams to identify, analyze and correct process ex
 
 By employing process mining to monitor your automation’s upstream and downstream impact, you'll gather daily, quantifiable data on post-implementation impact. You'll also have a clear view on whether your automation investment is operating as expected.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Spot redundant processes
 
 Pairing process mining and RPA helps businesses to accelerate their digital transformation, by spotlighting redundant processes. With a more streamlined operational landscape, you can expand the scope of RPA investments while reducing time to value.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Achieve process excellence by combining process mining and RPA
 
 Accelerate your digital transformation with our end-to-end process intelligence platform, [ABBYY Timeline](https://tools.techidaily.com/abbyy/products/).
@@ -125,9 +130,6 @@ Connect with Tamas on [LinkedIn](https://www.linkedin.com/in/tamasmahr/).
 
 _Editorial note: This blog post was originally published October 8, 2019, and was updated on July 23 to include an FAQ section and an updated definition of how RPA and process mining work together._
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## Frequently asked questions
 
 ##### What is the difference between process mining and robotic process automation?
@@ -154,8 +156,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +163,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/comedy-gold-examining-the-goofy-vhs-experience/"><u>'Comedy Gold' Examining the Goofy VHS Experience</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-recording-your-lol-adventures/"><u>[Updated] 2024 Approved The Ultimate Guide to Recording Your LOL Adventures</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-beware-the-allure-of-sham-youtube-audience-for-2024/"><u>[Updated] Beware the Allure of Sham YouTube Audience for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unleashing-clarity-the-ultimate-video-enhancer-22-techniques-for-2024/"><u>[Updated] Unleashing Clarity The Ultimate Video Enhancer 2.2 Techniques for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-dvd/"><u>「2024新穎無料副本工具集: DVD、主要電影複製最佳選擇」</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-samsung-galaxy-f54-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Samsung Galaxy F54 5G?</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-realme-c53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/choosing-your-format-dvd-blu-ray-or-digital-best-option-for-high-quality-entertainment/"><u>Choosing Your Format: DVD, Blu-Ray or Digital - Best Option for High Quality Entertainment</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comprehensive-guide-to-fixing-handbrake-errors-converting-avi-to-mp4/"><u>Comprehensive Guide to Fixing HandBrake Errors: Converting AVI to MP4</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/conversion-rapida-de-mp4-a-dvd-en-windows-10-paso-a-paso/"><u>Conversión Rápida De MP4 a DVD en Windows 10 – Paso a Paso</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-conversion-techniques-for-dall-e-3-webp-to-jpegpng-formats/"><u>Effortless Conversion Techniques for DALL-E 3 WebP to JPEG/PNG Formats</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/essential-tips-for-sims-4-video-gaming-for-2024/"><u>Essential Tips for Sims 4 Video Gaming for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/grossere-avi-filme-fur-den-freien-umbau-ins-mp4-format-funf-effektive-methoden/"><u>Größere AVI-Filme Für Den Freien Umbau Ins MP4 Format - Fünf Effektive Methoden</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-bypass-dvd-region-code-on-windows-10-8-and-7-for-universal-playback/"><u>How to Bypass DVD Region Code on Windows 10, 8 & 7 for Universal Playback</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-6-best-dvd-copying-software-for-encrypted-disney-and-sony-movies-a-review/"><u>Top 6 Best DVD Copying Software for Encrypted Disney and Sony Movies: A Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforma-tus-dvds-a-formatos-de-alta-calidad-mp4-en-solo-quince-segundos-como-hacerlo-perfectamente/"><u>Transforma Tus DVDs a Formatos De Alta Calidad MP4 en Solo Quince Segundos: Cómo Hacerlo Perfectamente</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-the-2024s-elite-ipads-professional-evaluations-and-comparisons-gizmocentral/"><u>Ultimate Guide to the 2024'S Elite iPads: Professional Evaluations & Comparisons - GizmoCentral</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-resolving-dvd-rip-failures-due-to-system-hangs-and-unexpected-shutdowns/"><u>Ultimate Guide: Resolving DVD Rip Failures Due to System Hangs and Unexpected Shutdowns</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-your-phones-camera-secrets-why-is-my-iphones-dcim-folder-blank/"><u>Unlocking Your Phone's Camera Secrets: Why Is My iPhone's DCIM Folder Blank?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot: The Efficient Driving Force Behind Website Personalization"
-date: 2024-08-21T17:42:28.120Z
-updated: 2024-08-22T17:42:28.120Z
+date: 2025-01-04T00:57:36.959Z
+updated: 2025-01-09T21:39:33.711Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/57b8dccb20eee61b9862d74c48858978ad644b0b3c9c032196c655a977f2efc6.jpg
@@ -11,15 +11,27 @@ thumbnail: https://thmb.techidaily.com/57b8dccb20eee61b9862d74c48858978ad644b0b3
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Understanding the intrinsic value of documents
 
 September 07, 2017
 
 ![Understanding the intrinsic value of documents | ABBYY Blog Post](https://static2.abbyy.com/abbyycommedia/25229/cropblog_0709.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 We have all done it. Spent ages looking for that one document, with the name of that guy from the company with a funny name. Was it an email, a PowerPoint presentation or a PDF?
 
 Why do we search for documents in the first place? Usually it is to discover what information resides _inside_ the document. But if we already have the document, shouldn’t we already know what it contains?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Information buried inside documents
 
@@ -32,8 +44,9 @@ This necessitates that the document be searched for, retrieved and read in order
 Optical Character Recognition technologies have been with us for decades, what is now required is something that can rapidly, cost-effectively and _intelligently_ extract structured business information from these documents.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Improving the total customer experience
 
 If we have immediate access to this business information, we can act on it the moment it is received. This ensures that organizations can provide the fastest and most appropriate response to customer interactions.
@@ -47,17 +60,15 @@ Imagine the improvement in the customers experience if the response automaticall
 Furthermore, by understanding the content of the inquiry it would be possible to automatically identify those issues which are high priority and escalate them accordingly.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Accelerating business transactions and creating new revenue streams
 
 Having the ability to process unstructured information and transforming it into actionable business data, strips away the inherent latency in business operations. This accelerate business transactions and optimizes successful business outcomes.
 
 The insight provided into these interactions can also help identify potential new revenue streams, by providing a level of analytics inaccessible if the information were to remain locked away, bereft of structure, inside isolated pieces of content.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Accounts payable
 
 Every business deals with Accounts Payable. Many small businesses view the accounting function as a necessary evil, but it is the prompt payment of invoices that literally keeps you, and your suppliers, in business.
@@ -66,22 +77,12 @@ Invoices are an example of documents containing critical business information, w
 
 Invoices, while containing much of the same business information, can look very different. What is needed is the ability to not only recognize the machine- (and sometimes hand-) printed characters on the page, but the capability to classify the document as an invoice. Once the document is classified as an invoice, the data contained within it needs to be identified, extracted and passed (along with the captured image) to both the appropriate Financial software applications and ECM repository.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## Putting business information to work
 
 The solution is to integrate capture technologies with embedded AI (Artificial Intelligence) to autonomously classify documents, extract the desired business critical information and seamlessly pass the captured documents along with their accompanying extracted _structured_ business information to ECM, ERP and BPM applications.
 
 [Digital Transformation](https://tools.techidaily.com/abbyy/products/) [Accounts Payable Automation](https://tools.techidaily.com/abbyy/products/) [Finance & Accounting](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
@@ -136,8 +137,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +144,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-a-beginners-guide-to-vimeo-caption-addition-for-2024/"><u>[New] A Beginner's Guide to Vimeo Caption Addition for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-guiding-principles-for-speech-conversion-in-google-translate/"><u>[New] In 2024, Guiding Principles for Speech Conversion in Google Translate</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-optimize-your-social-presence-with-efficient-fb-covers-for-2024/"><u>[New] Optimize Your Social Presence with Efficient FB Covers for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-chuckling-chords-and-clever-cuts-10-parody-classics/"><u>[Updated] Chuckling Chords & Clever Cuts 10 Parody Classics</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-perfecting-the-audio-element-in-instagram-storytelling/"><u>[Updated] Perfecting the Audio Element in Instagram Storytelling</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1-streamline-video-conversion-convert-trp-to-mp4-online-at-no-cost-movavi/"><u>1. Streamline Video Conversion: Convert TRP to MP4 Online at No Cost - Movavi</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/comprehensive-review-of-the-hp-15-with-amd-processor-is-it-a-cost-effective-solution/"><u>Comprehensive Review of the HP 15 with AMD Processor - Is It a Cost-Effective Solution?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-tips-on-closing-distances-in-movies/"><u>Expert Tips on Closing Distances in Movies</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-benq-x500i-assessment-how-to-transform-any-surface-into-an-immersive-game-display/"><u>Ultimate BenQ X500i Assessment: How To Transform Any Surface Into an Immersive Game Display</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-companion-for-your-ipad-a-comprehensive-guide-on-alpaka-go-sling-bags/"><u>Ultimate Companion for Your iPad: A Comprehensive Guide on Alpaka Go Sling Bags</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-dell-xps-13-plus-9320-premium-business-laptop-for-on-the-go-professionals/"><u>Ultimate Guide to Dell XPS 13 Plus (9320): Premium Business Laptop for On-the-Go Professionals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-the-nomad-65w-slender-charger-essential-for-modern-travelers/"><u>Ultimate Guide to the Nomad 65W Slender Charger: Essential for Modern Travelers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unboxing-the-future-with-google-pixel-8-a-visionary-device/"><u>Unboxing the Future with Google Pixel 8: A Visionary Device?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-potential-of-nzxt-funktion-2-in-gaming-comprehensive-review-insights/"><u>Unveiling the Potential of NZXT Funktion 2 in Gaming - Comprehensive Review Insights.</u></a></li>
+</ul></div>
 

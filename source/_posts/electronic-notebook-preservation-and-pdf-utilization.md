@@ -1,7 +1,7 @@
 ---
 title: 「一人だけでもスタートしやすいデジタルノート管理方法：Electronic Notebook Preservation & PDF Utilization」
-date: 2024-08-21T17:44:23.856Z
-updated: 2024-08-22T17:44:23.856Z
+date: 2025-01-03T23:39:51.709Z
+updated: 2025-01-09T19:09:00.721Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4c8d9f631d7921c719a1941a590fa8e1cb22a0616837cda48eb590a45fbdddeb.png
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/4c8d9f631d7921c719a1941a590fa8e1cb22a0616
 
 [全てのブログ](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 今すぐに一人でも始められる電子帳簿保存法への対応と、PDF電子保存の活用
 
 3月4日, 2022
 
 ![](https://static5.abbyy.com/abbyycommedia/35260/electronic-bookeeping-cover-848x444.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1．電子帳簿保存法の背景
 
@@ -24,9 +32,9 @@ thumbnail: https://thmb.techidaily.com/4c8d9f631d7921c719a1941a590fa8e1cb22a0616
 そこで政府は、電子データであっても改ざんされていないことを証明できるような仕組みを考え、電子帳簿保存法として施行しました。これにより、企業の帳簿管理において、様々な税法で原則的に紙での保存が義務付けられている帳簿書類は、電子帳簿保存法によって一定の要件を満たせば、パソコンのファイルとして電子保存しておくことができます。
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ２．電子帳簿保存法に対応するための要件（真実性・可視性）
 
 電子データは紙に比べて簡単に変更できるという特性を持つため、帳簿などの書類に適用する場合は改ざんされていないことを証明する「真実性」が必要になります。国税庁が提示する[真実性の要件](https://www.nta.go.jp/law/joho-zeikaishaku/sonota/jirei/pdf/0021012-095%5F03.pdf)には４つありますが、電子的に対応する方法としてタイムスタンプという暗号化技術を使って文書が変更されていないことを証明するか、もしくは変更があった場合の履歴を残しておくことができるクラウドストレージなどの活用を挙げています。
@@ -35,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/4c8d9f631d7921c719a1941a590fa8e1cb22a0616
 
 ![今すぐに一人でも始められる電子帳簿保存法への対応と、PDF電子保存の活用](https://static1.abbyy.com/abbyycommedia/35261/electronic-content-1b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 図１．索引簿（[国税庁\_電子帳簿保存法一問一答 問](https://www.nta.go.jp/law/joho-zeikaishaku/sonota/jirei/pdf/0021006-031%5F03.pdf)12より引用）
 
 ## ３．各要件（真実性・可視性）への対応方法は？
@@ -47,19 +51,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![今すぐに一人でも始められる電子帳簿保存法への対応と、PDF電子保存の活用](https://static1.abbyy.com/abbyycommedia/35262/electronic-content-2b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 図２．バージョン履歴
 
 次に、可視性の要件を満たす索引簿を作ってみましょう。弊社の[FineReader PDF 15](https://tools.techidaily.com/abbyy/products/)を使うと、OCR機能を使って紙やFAXから生成された画像ファイルを、検索可能なPDFとして電子保存しておくことで、探し出しやすくなり管理上便利になります。また、書類から必要な項目だけを抜き出してCSVファイルとしても出力できます（図3）。
 
 ![今すぐに一人でも始められる電子帳簿保存法への対応と、PDF電子保存の活用](https://static1.abbyy.com/abbyycommedia/35263/electronic-content-3b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 図3．必要項目の抽出設定
 
 これを応用して、複数の書類を月次で自動集計し、索引簿にまとめることができます（図4）。動作については[ビデオ](https://www.youtube.com/watch?v=haKVsCmaJx0)をご覧ください。
@@ -68,11 +65,12 @@ The ultimate burning program for all your needs!</a>
 
 ![今すぐに一人でも始められる電子帳簿保存法への対応と、PDF電子保存の活用](https://static1.abbyy.com/abbyycommedia/35264/electronic-content-4b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 図4．取引書類の一元化と索引簿作成の流れ
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## ４．できるところから始めてみよう！
 
 電子帳簿保存法というキーワードをWebで検索すると、実に多くの情報が返ってきてどれも難しそうに思えますが、上記のポイントを押さえて書類ファイルをOCRし、検索可能なPDFとして電子保存し、整理しておく程度であれば、大規模なシステムを導入する必要が無く、今からでも始められるのではないでしょうか。
@@ -86,8 +84,9 @@ The ultimate burning program for all your needs!</a>
 [エンタープライズ](https://tools.techidaily.com/abbyy/products/) [OCR（文字認識）](https://tools.techidaily.com/abbyy/products/) [支払勘定（Account Payable）](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### いいね！、シェア、再投稿
 
 シェア 
@@ -142,8 +141,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +148,18 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-adopting-the-way-of-google-meet-webinars/"><u>[Updated] In 2024, Adopting the Way of Google Meet Webinars</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-beginners-roadmap-to-utilizing-google-photos/"><u>2024 Approved A Beginner's Roadmap to Utilizing Google Photos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvdwindows1014/"><u>DVD読み込めないWindows10の問題を解決！今すぐ実行可能な14コツ見せます</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effective-techniques-how-to-resize-4k-content-down-to-hd-quality/"><u>Effective Techniques: How to Resize 4K Content Down to HD Quality</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/elite-software-selection-top-editors-for-webcams-for-2024/"><u>Elite Software Selection Top Editors for Webcams for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-itel-s23plus-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-sharefake-location-on-whatsapp-for-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oppo-find-n3-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Oppo Find N3 to Roku | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-the-use-of-handbrake-in-windows-1011-tips-for-easy-configuration-and-functionality/"><u>Mastering the Use of Handbrake in Windows 10/11: Tips for Easy Configuration and Functionality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/schritt-fur-schritt-anleitung-zum-konvertieren-von-blu-rays-mit-handbrake/"><u>Schritt-Für-Schritt-Anleitung Zum Konvertieren Von Blu-Rays Mit HandBrake</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-ranked-gpus-of-2024-choosing-between-nvidia-and-amd-for-optimal-performance-with-plex/"><u>Top-Ranked GPUs of 2024: Choosing Between NVIDIA and AMD for Optimal Performance with Plex</u></a></li>
+</ul></div>
 

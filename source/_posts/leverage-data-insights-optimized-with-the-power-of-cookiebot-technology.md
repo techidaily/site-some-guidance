@@ -1,7 +1,7 @@
 ---
 title: "Leverage Data Insights: Optimized with the Power of Cookiebot Technology"
-date: 2024-08-21T17:40:36.217Z
-updated: 2024-08-22T17:40:36.217Z
+date: 2025-01-07T00:30:20.766Z
+updated: 2025-01-09T21:08:13.759Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5bcf8cebc4ec75a2f2c5443679e92acacca4bb84ee860e6fb058bd25619e5c79.jpg
@@ -26,8 +26,6 @@ Platform Options On-premise Servers SaaS Cloud Picking the perfect platform (for
 From simple documents to valuable intelligence Anyone who has worked with faxed documents in the past can relate to this unfortunate scenario: Staﬀ return to the clinic on Monday morning and ﬁnd documents from the fax machine strewn all over the ﬂoor. Orcutt has witnessed this common occurrence. Electronic transition of referrals can help; however, the electronic documents are still sitting in the queue. “They’re a little neater, but they can still be lost in the digital abyss, and staﬀ members still might transcribe patient and insurance information incorrectly,” he pointed out. Advanced technologies such as IDP and RPA can help healthcare organizations bring referral management to the next level. These technologies can transform data from business and clinical-critical documents into actionable intelligence, driving real-time automation and improved clinical and revenue cycle outcomes. IDP, for example, employs advanced technologies such as optical character recognition, natural language processing and machine learning to automate the extraction, interpretation and processing of data from various documents. By streamlining manual document-related tasks, IDP enhances eﬃciency, accuracy and compliance. The technology also helps add signiﬁcant speed to the referral management process. Consider the following: “If there’s a spreadsheet, the technology could do a thousand checks before our human can do one simple check. There’s logic built into it, so the technology discerns what’s in that spreadsheet and, based on the rules, it knows what to do next,” Rodgers explained. \[With intelligent document processing,\] the technology discerns what’s in that spreadsheet and, based on the rules, it knows what to do next.” ROBERT RODGERS [What is Intelligent Document Processing,](https://tools.techidaily.com/abbyy/products/) [and How Does It Work?](https://tools.techidaily.com/abbyy/products/) Learn what this technology can do for your organization. REFERRAL MANAGEMENT CHALLENGES REMOVING MANUAL PROCESSES USING PROCESS INTELLIGENCE ENSURING COMPLIANCE & SECURITY CHOOSING YOUR PLATFORM STREAMLINING YOUR REFERRALS AUTOMATING YOUR PROCESSES STREAMLINING YOUR REFERRALS 
 
 www.himss.org | ©2024 Produced by About ABBYY ABBYY puts your information to work with purpose-built AI. We combine innovation and experience to transform data from business-critical documents into intelligent actionable outcomes in over 200 languages in real time. We are trusted by more than 10,000 companies globally, including many of the Fortune 500, to drive signiﬁcant impact where it matters most: accelerate the customer experience, operational excellence, and competitive advantage. ABBYY is a global company with headquarters in Milpitas, CA, and oﬃces in 12 countries, and is the [Oﬃcial Intelligent Automation Partner of Arsenal Women Football Club](https://tools.techidaily.com/abbyy/products/). For more information, visit [www.abbyy.com/company/](https://tools.techidaily.com/abbyy/products/) and follow us on LinkedIn, Twitter , Facebook and Instagram. Reaching the holy grail: Straight-through processing for referrals Advanced technologies might be the antidote to long- held referral management challenges and can drive the customer-service mentality many forward-thinking companies have embraced. Indeed, IDP automatically pulls the patient and referral information from the fax or email attachment and populates the electronic health record or appointment system, eliminating the need to manually enter data. Such technology has been shown to save a provider 10 minutes per referral. This technology could potentially result in “straight-through processing,” automating the entire referral process all the way to scheduling an appointment with the specialist. “Sure, some organizations might not use the technology to go all the way to scheduling a patient right away, but they might send the patient an SMS text that links to the specialist’s calendar and enables the patient to set up their appointment,” Rodgers noted. The technology not only results in cost avoidance by eliminating the need to rely on staﬀ to process referrals but can also potentially bring in additional revenue. Consider the following: By leveraging this technology, HCOs could optimize the revenue that they collect from diagnostic services. “If your HCO has an MRI machine, and your equipment is underutilized, the HCO will be missing out on revenue. Being eﬀective at taking in external referrals to ensure you are highly utilizing your MRI machine can result in additional net revenue for many specialists,” he pointed out. The technology also holds signiﬁcant promise for patients like Mary, who could have experienced much less anxiety, not to mention improved clinical results, if she had been able to quickly schedule an appointment with a specialist. These beneﬁts can put HCOs in a position to succeed. “The technology not only closes the gap on the leakage, but it also enables healthcare organizations to get a one-up on competitors. The patient’s only going to wait so long before they’re going to go somewhere else. Organizations risk tarnishing their reputations if they consistently make patients wait,” Rodgers concluded. [Contact us](https://tools.techidaily.com/abbyy/products/) for a demo of referral management. REFERRAL MANAGEMENT CHALLENGES REMOVING MANUAL PROCESSES USING PROCESS INTELLIGENCE ENSURING COMPLIANCE & SECURITY CHOOSING YOUR PLATFORM STREAMLINING YOUR REFERRALS AUTOMATING YOUR PROCESSES AUTOMATING YOUR PROCESSES 
-
-
 
 [abbyy.com](https://tools.techidaily.com/abbyy/products/)
 
@@ -69,8 +67,6 @@ www.himss.org | ©2024 Produced by About ABBYY ABBYY puts your information to wo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -78,8 +74,20 @@ www.himss.org | ©2024 Produced by About ABBYY ABBYY puts your information to wo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-getting-started-with-azure-speech-to-text-service/"><u>[Updated] Getting Started with Azure Speech-to-Text Service</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-ultimate-guide-free-dvd-ripper-apps-for-mac-users/"><u>1. Ultimate Guide: Free DVD Ripper Apps for Mac Users</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snapchat-profitability-techniques/"><u>2024 Approved Snapchat Profitability Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ethical-path-to-engaging-interviews/"><u>2024 Approved The Ethical Path to Engaging Interviews</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/efficient-movie-file-format-converters-beyond-zamzar-a-comprehensive-guide/"><u>Efficient Movie File Format Converters Beyond Zamzar: A Comprehensive Guide</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/optimizing-your-youtube-content-how-to-ensure-full-platform-compatibility-and-overcome-upload-restrictions/"><u>Optimizing Your YouTube Content: How to Ensure Full Platform Compatibility and Overcome Upload Restrictions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-unknown-not-initialized-error-in-windows-os/"><u>Solving 'Unknown Not Initialized' Error in Windows OS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-the-finest-video-converters-on-android-devices-optimize-your-phonetablet-experience/"><u>Ultimate Guide to the Finest Video Converters on Android Devices: Optimize Your Phone/Tablet Experience</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

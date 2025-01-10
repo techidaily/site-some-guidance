@@ -1,7 +1,7 @@
 ---
 title: "New Release Alert: ABBYY's 3M 360 Encompass Suite Adds Advanced Text Recognition Features"
-date: 2024-08-21T17:43:58.584Z
-updated: 2024-08-22T17:43:58.584Z
+date: 2025-01-07T18:15:00.217Z
+updated: 2025-01-09T18:37:35.852Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/bd1f3164b21938808543fb77a181f9a976b01572cf9b49cfe1852edc61f82d53.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/bd1f3164b21938808543fb77a181f9a976b01572c
 
 [Actualités](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Le logiciel 3M 360 Encompass s’équipe de la reconnaissance de texte d’ABBYY
 
 23 mai 2017
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### _Un kit de développement logiciel OCR va élargir le module de codage de 3M basé sur les données à l’hôpital_
 
@@ -78,8 +86,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -87,8 +93,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-optimal-zoom-settings-for-microsoft-teams-communication/"><u>[New] 2024 Approved Optimal Zoom Settings for Microsoft Teams Communication</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/volution-of-engagement-key-post-vidcon-events/"><u>[New] Evolution of Engagement Key Post-VidCon Events</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-12-youtube-gaming-intro-makers-free-and-paid/"><u>[New] In 2024, Best 12 YouTube Gaming Intro Makers - Free and Paid</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725288170598-dvd/"><u>言葉が理解しづらい人でも使える、日本語に対応したDVD録画ソフトの紹介！</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/beliebteste-kostenlose-videobearbeitungssoftware-fur-windows-und-mac-os-x-entferne-unerwunschte-teile-ihrer-videos-einfach/"><u>Beliebteste Kostenlose Videobearbeitungssoftware Für Windows Und Mac OS X - Entferne Unerwünschte Teile Ihrer Videos Einfach!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/clarification-de-la-politica-de-reembolso-para-el-programa-windows-dvd-por-digiarty/"><u>Clarification De La Política De Reembolso Para El Programa Windows DVD Por Digiarty</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/expert-tactics-optimizing-freefire-video-content-for-2024/"><u>Expert Tactics Optimizing FreeFire Video Content for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/fuhrende-kostenfreie-videoschnitttools-fur-windows-1187-and-mac-masterclass-zum-entfernen-von-videobechyspuren-ohne-kosten/"><u>Führende Kostenfreie Videoschnitttools Für Windows (11/8/7) & Mac: Masterclass Zum Entfernen Von Videobechyspuren Ohne Kosten!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-the-broken-spacebar-functionality-in-windows-10-computers/"><u>How to Repair the Broken Spacebar Functionality in Windows 10 Computers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-restore-quality-in-highly-compressed-images-tips-and-tricks/"><u>How to Restore Quality in Highly Compressed Images: Tips and Tricks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-flip-the-script-design-your-own-video-finale-for-free/"><u>In 2024, Flip the Script Design Your Own Video Finale for Free</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimat-konvertera-med-vlc-till-mp4-filer-den-basta-processningsmetoden/"><u>Optimat Konvertera Med VLC Till MP4-Filer - Den Bästa Processningsmetoden</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/pc-top-rated-10/"><u>PC용 Top-Rated 동영상 교육 소프트웨어 - 10대 검색 중</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-for-when-your-google-meet-camera-wont-start-working/"><u>Quick Fixes for When Your Google Meet Camera Won’t Start Working</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-rated-iphone-compatible-mp4-encoder-seamlessly-transform-movies-and-videos/"><u>Top Rated iPhone-Compatible MP4 Encoder: Seamlessly Transform Movies & Videos!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fixing-unexpected-shutdowns-in-final-fantasy-xiv-for-windows-users/"><u>Troubleshooting: Fixing Unexpected Shutdowns in Final Fantasy XIV for Windows Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/android-iphone/"><u>모바일 및 곤콕 태아(Android, iPhone)와 마셜 시스템에서 가능한 모든 비디오 안정화 기술</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->

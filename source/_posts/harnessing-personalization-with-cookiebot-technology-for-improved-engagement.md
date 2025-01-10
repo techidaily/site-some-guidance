@@ -1,7 +1,7 @@
 ---
 title: Harnessing Personalization with Cookiebot Technology for Improved Engagement
-date: 2024-08-21T17:41:46.051Z
-updated: 2024-08-22T17:41:46.051Z
+date: 2025-01-08T02:14:51.656Z
+updated: 2025-01-10T02:42:10.286Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/07fb7fcd35b1838ffdc588256d8ede2b1811ae53f4a1f3aaa3fc523cba06c6cc.jpg
@@ -17,6 +17,10 @@ Other | Forms Processing
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/abbyy.png?h=40&iar=0&w=120)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
 
 ## School photography studio raises efficiency with automated form capture
@@ -25,9 +29,17 @@ Other | Forms Processing
 
 ![](https://static1.abbyy.com/abbyycommedia/15571/20-rolland-studios-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Customer Overview
 
 ![Rolland Studios](https://static3.abbyy.com/abbyycommedia/15408/rolland-studios-logo-155.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 | Name         | Rolland Studios                                                |
 | ------------ | -------------------------------------------------------------- |
@@ -111,6 +123,10 @@ According to Mullally, implementing FlexiCapture was fast and straightforward: �
 
 [![(20) Rolland Studios-2](https://static1.abbyy.com/abbyycommedia/15572/20-rolland-studios-2.png)](https://static3.abbyy.com/abbyycommedia/1234/fс%5Frolland%5Fstudios%5Feducation-and-science%5F2014.pdf "PDF version") [PDF version](https://static3.abbyy.com/abbyycommedia/1234/fс%5Frolland%5Fstudios%5Feducation-and-science%5F2014.pdf "PDF version") 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [read more](https://static3.abbyy.com/abbyycommedia/1234/fс%5Frolland%5Fstudios%5Feducation-and-science%5F2014.pdf "PDF version") 
 
 ###### Like, share or repost
@@ -122,9 +138,9 @@ Share  True ?  : ""
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -137,8 +153,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +160,24 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-action-filming-elevated-in-depth-review-of-sj-cam-s6/"><u>[New] Action Filming Elevated In-Depth Review of SJ-CAM S6</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-how-to-record-steam-gameplay/"><u>[New] How to Record Steam Gameplay</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-in-depth-examination-the-working-of-googles-podcast-application/"><u>[New] In-Depth Examination The Working of Google's Podcast Application</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-money-on-youtube-without-ads/"><u>[Updated] 2024 Approved How to Make Money on YouTube Without Ads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-engaging-reels-adding-music-without-compromise/"><u>[Updated] Crafting Engaging Reels Adding Music without Compromise</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-leading-20-non-copyrighted-pubg-image-sequences/"><u>[Updated] In 2024, Leading 20 Non-Copyrighted PUBG Image Sequences</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-oppo-a78-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Oppo A78 Device SIM</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-the-ultimate-tutorial-on-how-to-openedit-srt-on-mac/"><u>In 2024, The Ultimate Tutorial on How to Open/Edit SRT on Mac</u></a></li>
+<li><a href="https://facebook.techidaily.com/leverage-languages-boosting-social-media-presence-on-facebook/"><u>Leverage Languages: Boosting Social Media Presence on Facebook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/story-3-breaking-the-silence-around-mother-to-child-transmission/"><u>Story 3: Breaking the Silence Around Mother-to-Child Transmission</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/sturdy-and-budget-friendly-storage-options-under-100-find-the-best-deals-now/"><u>Sturdy & Budget-Friendly Storage Options Under $100: Find the Best Deals Now!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/switching-on-and-off-windows-10s-secure-sign-in-feature-a-step-by-step-guide/"><u>Switching On and Off Windows 10'S Secure Sign-In Feature: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-importance-of-saving-local-group-policy-edits-on-windows-tips-and-tricks-for-effective-management/"><u>The Importance of Saving Local Group Policy Edits on Windows - Tips and Tricks for Effective Management</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-methods-for-securing-your-windows-10-system-a-comprehensive-guide/"><u>Top 10 Methods for Securing Your Windows 10 System: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-hidden-evernote-capabilities-to-enhance-your-productivity/"><u>Top Hidden Evernote Capabilities to Enhance Your Productivity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-power-demands-how-i-optimized-my-windows-laptops-battery-life/"><u>Transform Your Power Demands: How I Optimized My Windows Laptop's Battery Life</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-and-repairing-windows-11s-ethernet-connectivity-issues-a-step-by-step-guide/"><u>Troubleshooting and Repairing Windows 11'S Ethernet Connectivity Issues: A Step-by-Step Guide</u></a></li>
+</ul></div>
 

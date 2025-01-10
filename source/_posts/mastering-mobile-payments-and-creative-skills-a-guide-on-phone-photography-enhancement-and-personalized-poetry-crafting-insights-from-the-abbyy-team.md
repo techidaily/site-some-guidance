@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mobile Payments & Creative Skills: A Guide on Phone Photography Enhancement & Personalized Poetry Crafting - Insights From the ABBYY Team"
-date: 2024-08-21T17:42:51.320Z
-updated: 2024-08-22T17:42:51.320Z
+date: 2025-01-03T03:29:03.662Z
+updated: 2025-01-10T02:44:46.462Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/0dd6482f07fc9901f47c9f1a7353b186913c8692e5e96af0d412c737fd97f08d.jpg
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/0dd6482f07fc9901f47c9f1a7353b186913c8692e
 ## Mastering Mobile Payments & Creative Skills: A Guide on Phone Photography Enhancement & Personalized Poetry Crafting - Insights From the ABBYY Team
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Paying With Phone, Editing Photos, and Writing Your Own Poem
 
@@ -31,6 +35,10 @@ All your bank cards are stored in Wallet. The system automatically adds cards th
 
 ![pay with different bank cards Apple Pay](https://static1.abbyy.com/abbyycommedia/30723/3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Let’s see how to add a card to Wallet:
 
 1. Go to **Wallet** and tap **+**.
@@ -40,27 +48,28 @@ Let’s see how to add a card to Wallet:
 
 Still not clear? Watch this [demo](https://www.apple.com/apple-pay/#film-card). As of now, Apple Pay is supported by [the following banks and partners](https://support.apple.com/en-gb/HT206637).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Android Tip: How to Use Google Pay**
 
 Android Pay has been working for more than two years now and Android users are pleased with how practical it is. The payment system can be configured on devices with an NFC chip that run on Android KitKat (4.4) or newer—that would be Lollipop (5.0, 5.1), Marshmallow (6.0), Nougat (7.0, 7.1), Oreo (8.0, 8.1) and Pie (9). Yet, there are a few important reservations: your phone should have an official firmware installed, the device should not be rooted, and bootloader should not be unlocked. These actions are generally performed while changing a firmware.
 
 ![how to use Google Pay](https://static1.abbyy.com/abbyycommedia/30724/4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 To use Google Pay, [download it](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel&hl=en) from Google Play. When you first launch the app, it suggests that you add a card. To do this, place a card in view of the camera so that the service could read its number and its expiration date or enter this info manually. You will also need a CVV code from the back side of the card and a user’s address. While connecting the card to the service, your bank will send you a verification code to confirm the operation. If you already have cards added to your Google account (for example, the cards that you pay with in Google Play), Google Pay will suggest using one of them. To add a card to the app, simply enter a CVV code—it’s this simple.
 
 ![Add card to Google Pay](https://static1.abbyy.com/abbyycommedia/30725/5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To pay with Google Pay, unlock the device and hold it near a reader screen for several seconds. If the operation is successful, the device will show the message and the card that was used. How do you know whether a payment terminal supports contactless payments? Simply look for the following signs:
 
 ![Google Pay logo](https://static1.abbyy.com/abbyycommedia/30730/google-pay.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![Apple Pay logo](https://static1.abbyy.com/abbyycommedia/30729/applepay.jpg)
 
 If you have added several cards, select one of them to be used by default. To pay with a different card, simply select it in the app before the payment. You will be able to mark it as the default one at any time.
@@ -71,9 +80,6 @@ We believe that [Samsung Pay](https://shop-links.co/link/?exclusive=1&publisher_
 
 Here’s a[list of banks](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsamsung-pay%2Fcompatible-cards%2F) that support [Samsung Pay](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsamsung-pay%2F%3Fredir%3Dsamsung%2520pay).
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **ABBYY Tip: How to Support Languages in Business Card Reader**
 
 People are constantly asking us about the number of languages supported in [Business Card Reader](https://bcrfree.app.link/mobilemonday). At the moment, [BCR](https://bcrfree.app.link/mobilemonday) recognizes [25 most spoken languages](https://bcrfree.app.link/mobilemonday). We’ll try to explain why the app supports less languages that other ABBYY solutions and why it is still quite impressive.
@@ -84,14 +90,15 @@ European languages are a bit easier to work with as most of them use Latin alpha
 
 By the way, if you want to help us compiling libraries for [BCR](https://bcrfree.app.link/mobilemonday), drop us an email at [mobile@abbyy.com](https://tools.techidaily.com/abbyy/products/) and we will definitely get back to you.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **App of the Week: VSCOCam**
 
 In the age of Instagram, Tumblr, and Facebook, mobile photography becomes essential. The market of photo apps is oversaturated, but still it lacks truly user-friendly and intuitive solutions designed specifically for the creative industry. [VSCOCam](https://vsco.co/store/app), we believe, is one of the best in photo processing.
 
 ![VSCOCam app](https://static1.abbyy.com/abbyycommedia/30726/7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 There is more to [VSCOCam](https://vsco.co/store/app) than just taking and editing photos—it is like a private Instagram. It allows you to take brilliant photos and fine-tune them, it also features a weekly selection of the best photos and other exciting perks. The app is divided into several tabs: Camera (to take photos), Library (to view all photos), Store (to buy filters), Discover (to discover the latest VSCO news and photos), Profile (your profile), and Settings (well, it speaks for itself).
 
@@ -99,10 +106,6 @@ There is more to [VSCOCam](https://vsco.co/store/app) than just taking and editi
 
 ![VSCOCam editing](https://static1.abbyy.com/abbyycommedia/30727/8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 The app is available on [iOS](https://apps.apple.com/us/app/vsco-photo-video-editor/id588013838)and [Android](https://play.google.com/store/apps/details?id=com.vsco.cam&hl=en).
 
 ## **First-Hand Experience:** Advice From a Colleague
@@ -111,9 +114,6 @@ _Shared by Catherine Kharchenko, presale specialist_
 
 ![Catherine Kharchenko ABBYY](https://static1.abbyy.com/abbyycommedia/30728/11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Have you ever thought of writing a poem? Do you consider yourself a creative personality? In any case, even if it never crossed your mind it is never late to give it a try and discover something new. I’ve noticed that a person might not take interest in poetry or prose because they haven’t found something that agrees with them. School is filled with classical literature but it doesn’t mean teenagers love it.
 
 Therefore, if you want to give poetry a go, find a poem that triggers emotions and try to feel each and every word of it. Looking for a poem will be your **first step**. But where do you find one? Poetry of the silver age, good rap or LiveJournal blogs will do the trick. For those who fancy reading poems in Russian, here’s a nice [website](http://modernpoetry.ru/) with contemporary Russian poetry. You can also try looking for poetry contests on the Web.
@@ -132,6 +132,10 @@ And it doesn’t matter what you will come up with—clumsy phrases, a story, a 
 That’s all for today, guys. See you in the same place, at the same time. 
 
 [Mobile](https://tools.techidaily.com/abbyy/products/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -187,8 +191,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +198,18 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-channel-finale-strategy-plus-best-templates-and-makers/"><u>[New] The Ultimate Channel Finale Strategy + Best Templates & Makers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-comprehensive-examination-videon-x-the-ultimate-video-editor/"><u>[Updated] 2024 Approved Comprehensive Examination Videon X – The Ultimate Video Editor</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-online-media-crafter/"><u>[Updated] Online Media Crafter</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvd-mp3/"><u>专业人士指南：将 DVD 音讯提取并转化为 MP3 - 用户友好的最新工具选项</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comprendre-le-guide-dutilisation-de-winxdvd-un-cours-pratique/"><u>Comprendre Le Guide D'Utilisation De WinXDVD : Un Cours Pratique</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/das-handbuch-zum-schnellen-freischalten-der-region-auf-ihrem-dvd-player-detaillierte-schritt-fur-schritt-anleitung/"><u>Das Handbuch Zum Schnellen Freischalten Der Region Auf Ihrem DVD-Player - Detaillierte Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-on-the-go-tech-support-with-drivereasys-compact-app/"><u>Mastering On-the-Go Tech Support with DriverEasy's Compact App</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/masterpiece-episodes-for-airwaves-for-2024/"><u>Masterpiece Episodes for Airwaves for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/reach-out-to-professionals-discover-how-digiarty-can-help-your-business/"><u>Reach Out to Professionals: Discover How Digiarty Can Help Your Business</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlined-signup-ai-enhanced-onboarding-for-seamless-user-engagement/"><u>Streamlined Signup: AI Enhanced Onboarding for Seamless User Engagement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winx-mediatrans-the-ultimate-photo-and-music-video-transporter-for-iphone-and-ipad-from-pc/"><u>WinX MediaTrans™: The Ultimate Photo & Music Video Transporter for iPhone and iPad From PC</u></a></li>
+</ul></div>
 

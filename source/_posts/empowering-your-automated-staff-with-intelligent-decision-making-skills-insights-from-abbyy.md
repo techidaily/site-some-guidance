@@ -1,7 +1,7 @@
 ---
 title: Empowering Your Automated Staff with Intelligent Decision-Making Skills - Insights From ABBYY
-date: 2024-08-21T17:41:31.267Z
-updated: 2024-08-22T17:41:31.267Z
+date: 2025-01-04T22:56:01.276Z
+updated: 2025-01-09T17:21:49.161Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/26c79816e74e12a8f414621a79d8575a6f7513edd59ad13bbdba2af26e7005b7.jpg
@@ -23,6 +23,10 @@ We have all seen the movies with the guys and their cardboard messages outside, 
 
 ![Digital Intelligence for RPA](https://static1.abbyy.com/abbyycommedia/30322/digital-workers-2.jpg) Luckily, they aren’t that smart just yet, but in today's article, I want to show you what IS possible in the here and now.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 We’re going to have a look at how ABBYY’s Digital Intelligence technologies can give new skills to [digital workers](https://tools.techidaily.com/abbyy/products/), so they know when to act and what steps they need to execute, to improve processes in your organization today.
 
 **Software Robots: The new digital workforce**
@@ -39,13 +43,18 @@ _You can almost hear the days ticking away…_
 
 ![Save time with digital workers](https://static1.abbyy.com/abbyycommedia/30313/enabling-digital-workers-with-skills.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What if a digital worker could do all of this automatically?
 
 That’s exactly what I want to illustrate today. By adding both Process Intelligence and Content Intelligence skills to the digital worker, we can have this hiccup in the process handled on autopilot.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Process aware
 
 Now let’s start by making our digital worker process aware. To do this, we are going to leverage the capabilities of Process Intelligence to trigger the digital worker and have them execute the task whenever needed in the process. Within our process, there are certain steps for this loan approval. One of them being that all the supporting documents are available and that the review process of these documents cannot take longer than 1 hour. We call this a protocol.
@@ -56,9 +65,6 @@ With alerts and active run time operations monitoring using Process Intelligence
 
 The mitigation steps here require the digital worker to be able to understand the document-based content that is presented by the customer and use that to further solve the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Content aware
 
 But how do we make our digital worker do that, you ask? With the easy-to-use Content Intelligence skills, you can enable your digital workers to be content aware.
@@ -66,8 +72,9 @@ But how do we make our digital worker do that, you ask? With the easy-to-use Con
 By adding this skill, the digital worker is able to efficiently process the required documents needed to automatically complete the required loan approval steps. Being able to process and extract business value from any kind of document, with the ease of dropping in a particular Content Intelligence Skill, brings us one step closer to process excellence.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Digital workers aren’t going to take over, but they will grow to help more in the workplace
 
 As we bring more and more skills to digital workers using ABBYY’s Digital Intelligence technologies, we’ll be able to automate more tedious tasks, which in turn provide better customer experiences. The importance of this is paramount, because as traditional services are becoming a commodity, having the better customer experience can make the difference. Let’s all be honest, even if you provide an exceptional service, if the journey to use that service isn’t great, customers will drop and your customer acquisition costs will rise.
@@ -81,17 +88,9 @@ Learn more about getting next-level intelligence for digital workers using ABBYY
 ![](https://static3.abbyy.com/abbyycommedia/37004/maxime-vermeir_110x110-1.png)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Maxime Vermeir
 
 Senior Director of AI Strategy
@@ -100,9 +99,6 @@ With a decade of experience in product and technology, Maxime Vermeir is an entr
 
 Connect with Max on [LinkedIn](https://www.linkedin.com/in/maximevermeir/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
@@ -157,8 +153,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +160,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-blur-the-outside-sharpen-inside-bokeh-balance-guide/"><u>[New] In 2024, Blur the Outside, Sharpen Inside Bokeh Balance Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-how-to-screen-record-netflix-on-mac/"><u>[Updated] 2024 Approved How to Screen Record Netflix on Mac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-an-in-depth-examination-of-samsungs-picture-editing-tech/"><u>[Updated] An In-Depth Examination of Samsung’s Picture Editing Tech</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-creating-a-memorable-and-unique-moniker-for-your-filmora-content/"><u>[Updated] Creating a Memorable and Unique Moniker for Your Filmora Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-simultaneous-screen-and-camera-capture-guide/"><u>[Updated] In 2024, Simultaneous Screen & Camera Capture Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unleash-ps2-gaming-on-ios-the-best-emulators/"><u>[Updated] In 2024, Unleash PS2 Gaming on iOS The Best Emulators</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-guide-to-forging-poetry-with-gpt-3-help/"><u>A Guide to Forging Poetry with GPT-3 Help</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ai-art-algorithms-fall-short-of-capturing-true-human-ingenuity/"><u>AI Art Algorithms Fall Short of Capturing True Human Ingenuity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/amazon-struggles-with-drone-delivery-system-implementation/"><u>Amazon Struggles with Drone Delivery System Implementation</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-motorola-razr-40-ultra-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Motorola Razr 40 Ultra Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ing-convincing-news-final-buzzes-for-2024/"><u>Creating Convincing News Final Buzzes for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/save-big-with-the-latest-rog-strix-g16-limited-offer-at-1164-on-amazon/"><u>Save Big with the Latest ROG Strix G16 - Limited Offer at $1,164 on Amazon</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-reader-favorite-articles-a-comprehensive-selection/"><u>Top 10 Reader-Favorite Articles: A Comprehensive Selection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-electric-car-charger-woes-a-guide-to-identifying-and-fixing-8-common-malfunctions/"><u>Troubleshooting Electric Car Charger Woes: A Guide to Identifying and Fixing 8 Common Malfunctions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-decentralized-applications-a-comprehensive-guide-to-dapp-technology-and-functionality/"><u>Understanding Decentralized Applications: A Comprehensive Guide to dApp Technology & Functionality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-digital-assets-a-comprehensive-guide-to-what-are-crypto-tokens/"><u>Understanding Digital Assets: A Comprehensive Guide to What Are Crypto Tokens?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-additional-free-chatgpt-4o-sessions-a-step-by-step-guide/"><u>Unlocking Additional Free ChatGPT 4O Sessions: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-chatgpt-without-registration-understanding-the-fine-print/"><u>Unlocking ChatGPT without Registration – Understanding the Fine Print</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/why-shifting-data-infrastructure-to-the-cosmos-is-a-game-changer-for-tech-companies/"><u>Why Shifting Data Infrastructure to the Cosmos Is a Game-Changer for Tech Companies</u></a></li>
+</ul></div>
 

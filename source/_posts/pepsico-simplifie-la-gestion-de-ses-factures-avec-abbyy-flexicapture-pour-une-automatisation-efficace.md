@@ -1,7 +1,7 @@
 ---
 title: PepsiCo Simplifie La Gestion De Ses Factures Avec ABBYY FlexiCapture Pour Une Automatisation Efficace
-date: 2024-08-21T17:41:58.020Z
-updated: 2024-08-22T17:41:58.020Z
+date: 2025-01-04T02:50:14.676Z
+updated: 2025-01-09T18:59:18.436Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/dd74ca01dbc641b737d0316c96d8a2db1900c3240cb26343210c013c6153bd21.jpg
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/dd74ca01dbc641b737d0316c96d8a2db1900c3240
 [Retourner aux expériences clients](https://tools.techidaily.com/abbyy/products/)
 
 Food and Beverage | Accounts Payable Automation
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## PepsiCo automatise le traitement de ses factures avec ABBYY FlexiCapture
 
@@ -24,6 +28,10 @@ Food and Beverage | Accounts Payable Automation
 Aliments et boissons | Comptes fournisseurs 
 
 ![](https://static1.abbyy.com/abbyycommedia/15764/pepsico.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Aperçu du client
 
@@ -103,13 +111,25 @@ Et selon R. Kent, ce n'est qu'un début : « Pour nous, cela signiﬁe que la so
 
 [![4-flexicapture](https://static2.abbyy.com/abbyycommedia/21380/4-flexicapture.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FlexiCapture](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [En savoir plus](https://tools.techidaily.com/abbyy/products/) 
 
 [![1-accounts-payable](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://tools.techidaily.com/abbyy/products/) [Dématérialisation des factures](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [En savoir plus](https://tools.techidaily.com/abbyy/products/) 
 
 [![PepsiCo1](https://static2.abbyy.com/abbyycommedia/15765/pepsico1.png)](https://static2.abbyy.com/abbyycommedia/10532/cas-client-pepsico-aliments-boissons-fr.pdf "version PDF") [version PDF](https://static2.abbyy.com/abbyycommedia/10532/cas-client-pepsico-aliments-boissons-fr.pdf "version PDF") 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Accéder au document](https://static2.abbyy.com/abbyycommedia/10532/cas-client-pepsico-aliments-boissons-fr.pdf "version PDF") 
 
@@ -121,9 +141,6 @@ Partager  True ?  : ""
 
 [Tous les sièges d’ABBYY](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Prêt à parler à un expert ?
 
 Nous serions ravis de vous aider tout au long de votre parcours d’automatisation.
@@ -136,8 +153,6 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +160,20 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-ultimate-guide-the-top-11-waterproof-camcorders-for-kids-vloggers/"><u>[New] 2024 Approved Ultimate Guide The Top 11 Waterproof Camcorders For Kids Vloggers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-through-the-best-picks-in-instagram-ringtone-and-exceptional-alerts/"><u>[Updated] Navigating Through the Best Picks in Instagram Ringtone & Exceptional Alerts</u></a></li>
+<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-6-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone 6</u></a></li>
+<li><a href="https://program-issues.techidaily.com/nier-shadow-complexes-stutter-bug-fixed-a-comprehensive-guide/"><u>NieR: Shadow Complexes Stutter Bug Fixed: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/probleme-beim-speichern-von-versionen-in-windows-amo-10-schritt-fur-schritt-losung/"><u>Probleme Beim Speichern Von Versionen in Windows Amo 10 - Schritt-Für-Schritt-Lösung</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-manual-update-process-for-windows-11-systems/"><u>Step-by-Step Guide: Manual Update Process for Windows 11 Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-organizing-your-workspace-with-multi-monitor-setup-in-windows-10/"><u>Step-by-Step Guide: Organizing Your Workspace with Multi-Monitor Setup in Windows 10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-verify-linux-kernel-and-os-release-in-a-jiffy/"><u>Step-by-Step Guide: Verify Linux Kernel and OS Release in a Jiffy!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-solution-for-unresponsive-wireless-mice-on-the-latest-microsoft-operating-system-windows-11/"><u>Step-by-Step Solution for Unresponsive Wireless Mice on the Latest Microsoft Operating System, Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-12-essential-steps-to-take-immediately-after-switching-to-linux/"><u>Top 12 Essential Steps to Take Immediately After Switching to Linux</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-5-expectations-from-nvidias-revolutionary-arm-processors/"><u>Top 5 Expectations From NVIDIA's Revolutionary ARM Processors</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-htc-u23-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For HTC U23? | Dr.fone</u></a></li>
+</ul></div>
 

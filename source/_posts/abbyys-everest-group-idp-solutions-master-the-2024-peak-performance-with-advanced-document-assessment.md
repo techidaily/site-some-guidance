@@ -1,7 +1,7 @@
 ---
 title: "ABBYY's Everest Group IDP Solutions: Master the 2024 Peak Performance with Advanced Document Assessment"
-date: 2024-08-21T17:40:00.076Z
-updated: 2024-08-22T17:40:00.076Z
+date: 2025-01-07T23:15:54.407Z
+updated: 2025-01-09T23:19:56.614Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/58350f5e2ca7fe4c9025e8f16557c12c6fe252de2a7e38b08f655577495f8fd5.jpg
@@ -30,8 +30,6 @@ Proprietary & Confidential. © 2024, Everest Global, Inc. | this document has be
 Proprietary & Confidential. © 2024, Everest Global, Inc. | this document has been licensed to ABBYY Intelligent Document Processing (IDP) Products PEAK Matrix ® Assessment 2024 9 ABBYY profile (page 5 of 6) Capabilities and offerings Available In the roadmap Available via partner Not available Commercial model Perpetual licensing Subscription licensing Fixed capacity-based Usage-based (per document) Usage-based (per page) Per process based Outcome-based Hybrid models 
 
 Proprietary & Confidential. © 2024, Everest Global, Inc. | this document has been licensed to ABBYY Intelligent Document Processing (IDP) Products PEAK Matrix ® Assessment 2024 10 Measure of capability: High Low Market impact Vision and capability Market adoption Portfolio mix Value delivered Overall Vision and strategy Document processing capability Monitoring and improvement Implementation and support Commercial model Overall Overall IDP Strengths  ABBYY's IDP offering, ABBYY Vantage and FlexiCapture, offers the capabilities to process structured and unstructured documents with a no-code/low-code approach. ABBYY also provides its proprietary OCR (FineReader), process intelligence solution (Timeline), and partners with a large number of complementary technology providers  It offers HITL feature for feedback-based learning of the model and has the ability to leverage generative AI for software learning and training and synthetic data generation for training ML models. Clients appreciate its ease of use in terms of training the model  ABBYY provides an online marketplace for pre-built models or skills, custom solution packages, and third- party connectors. Clients have also appreciated the breadth of the marketplace  The solution has the ability to provide domain-specific training data for entity recognition and the ability for business users to add, configure, and manage validation rules using external data  It leverages generative AI to recognize sentiments from text, summarize documents, extract key-value pairs from complex documents, and compare documents. It also offers a pre-built connector with generative AI/LLMs including ChatGPT  It can be deployed on-premises, cloud, and hybrid environments. It is also available as a SaaS offering and supports multi-tenant operations. Clients highlighted its cloud offering as one of its strengths Limitations  ABBYY has rich experience in serving clients from banking and capital markets, public sector, professional services, and manufacturing. Its experience in serving hi-tech and telecom, media and entertainment, CPG and retail, and travel and logistics sectors is relatively low  Though the platform offers semantic search capabilities for scanned documents and PDFs, the ability to query documents in Q&A fashion using generative AI is currently not available and is in the roadmap  Its ability to predict the likelihood of future events (e.g., loan default) based on understanding of the document is in the roadmap  Currently, ABBYY Vantage does not offer a chat interface to answer user queries around analytics and reports generation by leveraging generative AI/LLM  Clients expect ABBYY to improve reporting capabilities, especially for Straight Through Processing (STP) rate, to help users know when manual verification of a document can be skipped  Clients wish to see improvement in its query resolution time and ease of version control. They also expect ABBYY to add more pre-trained models for banking use cases ABBYY profile (page 6 of 6) Everest Group overall IDP assessment – Leader 
-
-
 
 [Everest Group Intelligent Document Processing (IDP) Products PEAK Matrix® Assessment 2024](https://www.abbyy.com/hub/vantage/everest-group-names-abbyy-leader-in-its-2024-peak-matrix-assessment/?page=1 "Page 1")
 
@@ -99,8 +97,6 @@ Proprietary & Confidential. © 2024, Everest Global, Inc. | this document has be
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,8 +104,28 @@ Proprietary & Confidential. © 2024, Everest Global, Inc. | this document has be
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-2023s-ultimate-guide-apeaksoft-screen-capture-tech-unveiled/"><u>[New] In 2024, 2023'S Ultimate Guide Apeaksoft Screen Capture Tech Unveiled</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-key-concepts-of-interactive-storytelling/"><u>[New] In 2024, Key Concepts of Interactive Storytelling</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-elevate-your-profiles-visual-appeal-for-2024/"><u>[Updated] Elevate Your Profile's Visual Appeal for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-becoming-a-star-spectator-on-the-social-stage/"><u>[Updated] In 2024, Becoming a Star Spectator on the Social Stage</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024cprmcopy-one-time/"><u>2024年度更新版：専門的なガイドで「CPRM/Copy One Time」ロックを解除する手順の全容解明</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/alternatives-to-mkv2vob-on-mac-seamless-conversion-from-mkv-to-vob-compatible-with-playstation-5-and-4/"><u>Alternatives to MKV2VOB on Mac: Seamless Conversion From MKV to VOB Compatible with PlayStation 5 and 4</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/comprehensive-guide-top-android-malware-threats-and-prevention-strategies/"><u>Comprehensive Guide: Top Android Malware Threats & Prevention Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/confronting-the-critical-windows-c0000022-bug/"><u>Confronting the Critical Windows C0000022 Bug</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-make-mkv-gratis-su-mac-esegui-facile-le-tue-copie-di-dvd-e-blu-ray/"><u>Download Make MKV Gratis Su Mac – Esegui Facile Le Tue Copie Di DVD E Blu-Ray</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/high-quality-video-transformation-quickly-adapt-hd-movies-and-audio-files-for-your-ipad-apple-tv-and-more-using-the-macx-converter/"><u>High-Quality Video Transformation: Quickly Adapt HD Movies and Audio Files for Your iPad, Apple TV, and More Using the MacX Converter!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-address-a-disk-read-malfunction-on-windows-11-best-practices-and-tips/"><u>How to Correctly Address a Disk Read Malfunction on Windows 11: Best Practices and Tips</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-step-into-fantasy-with-these-samsung-gear-vr-titles/"><u>In 2024, Step Into Fantasy with These Samsung Gear VR Titles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-final-cut-pro-essential-compression-techniques-troubleshooting-strategies-and-solutions/"><u>Mastering Final Cut Pro: Essential Compression Techniques, Troubleshooting Strategies & Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-windows-10-update-issues-fixes-for-stuck-or-non-upgrading-systems/"><u>Resolve Your Windows 10 Update Issues: Fixes for Stuck or Non-Upgrading Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ripper-e-conversione-gratuita-di-dvd-su-macos-passaggio-mp4-senza-spese/"><u>Ripper E Conversione Gratuita Di DVD Su macOS: Passaggio MP4 Senza Spese</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/seamless-format-upgrades-for-ios-devices-and-apple-tv-with-macx-convert-movs-to-mp4m4vmp3aac-on-macos-effortlessly/"><u>Seamless Format Upgrades for iOS Devices & Apple TV with MacX: Convert MOVs to MP4/M4V/MP3/AAC on macOS Effortlessly!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/solving-your-iphone-ringtone-issues-a-comprehensive-guide/"><u>Solving Your iPhone Ringtone Issues: A Comprehensive Guide</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

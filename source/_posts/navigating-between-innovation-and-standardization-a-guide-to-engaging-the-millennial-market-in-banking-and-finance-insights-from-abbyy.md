@@ -1,7 +1,7 @@
 ---
 title: "Navigating Between Innovation and Standardization: A Guide to Engaging the Millennial Market in Banking & Finance - Insights From ABBYY"
-date: 2024-08-21T17:44:34.775Z
-updated: 2024-08-22T17:44:34.775Z
+date: 2025-01-03T21:07:54.096Z
+updated: 2025-01-09T21:15:17.836Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37948432465f45718cb2abd14.jpg
@@ -39,17 +39,26 @@ My house lights and fans are automated through Amazon’s Alexa. My security cam
 
 For millennials, innovative bank or financial service performance is less about the physical branch, and more about premium self-service. We expect 24/7 real-time access and service from the organizations and providers we engage with. Innovation goes beyond the simple automation of processes in the back office, by bringing the front office directly to mobile devices and letting millennials process things on their own time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Intelligent capture drives cost reduction & improved customer services
 
 Sadly, PwC notes that only 7% of US-based CEOs consider themselves [prepared for innovation](https://twitter.com/JimMarous/status/903317465085726720):
 
 ![innovation vs commoditization 3](https://static1.abbyy.com/abbyycommedia/25237/innovation-vs-commoditization-3-1024x688.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Banks and financial services institutions are under increasing pressure to contain costs and improve service quality, but that is difficult to do when the existing infrastructure is dependent on outdated, paper-based workflows. Intelligent data capture, document classification, and unstructured content extraction solutions on mobile, on-site, and in the cloud, enable millennials in real-time.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Author’s note:
 
 _I am currently 28 and my parents are 55\. This places me in the millennial bracket (born 1980-1999) and my parents in the Baby Boomers generation (born 1946-1964), both the two largest segments of the US population as seen in this graph from [CNN Money](http://money.cnn.com/interactive/economy/diversity-millennials-boomers/)._
@@ -59,8 +68,9 @@ Derek Gerber
 ![Derek Gerber](https://static1.abbyy.com/abbyycommedia/25239/derek-gerber.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [@gerbzman38](https://twitter.com/gerbzman38)
 
 [LinkedIn Profile](https://www.linkedin.com/in/derekgerber/)
@@ -68,8 +78,9 @@ Derek Gerber
 [Financial Services](https://tools.techidaily.com/abbyy/products/) [Mobile](https://tools.techidaily.com/abbyy/products/) [OCR](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Like, share or repost
 
 Share 
@@ -124,8 +135,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +142,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-substitutes-to-moviemaker-in-the-windows-realm-for-2024/"><u>[New] Substitutes to MovieMaker in the Windows Realm for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-channel-visualization-selecting-the-ideal-size-and-placement-for-yt/"><u>[Updated] 2024 Approved Channel Visualization Selecting the Ideal Size and Placement for YT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-videography-starter-pack-openers-and-more/"><u>2024 Approved Free Videography Starter Pack Openers & More</u></a></li>
+<li><a href="https://win11.techidaily.com/basics-on-windows-exepe-files-an-overview/"><u>Basics on Windows EXE/PE Files: An Overview</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725286455501-dvdmac/"><u>DVDの完全安全コピー手順：Mac上で確実に守られた複製 - 不正行為無し、権利侵害せず</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dynamic-discussions-how-to-make-your-ig-stories-pop/"><u>Dynamic Discussions How to Make Your IG Stories Pop</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/expert-picks-of-the-15-leading-free-video-converters-for-seamless-pc-and-mac-4k-format-transformation/"><u>Expert Picks of the 15 Leading Free Video Converters for Seamless PC & Mac 4K Format Transformation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-samsung-galaxy-f14-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Samsung Galaxy F14 5G?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-practices-for-free-clipart-use-in-projects/"><u>In 2024, Best Practices for Free Clipart Use in Projects</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/most-popular-tweets-of-2023-viewership-ranked/"><u>Most Popular Tweets of 2023 - Viewership Ranked</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-crucial-system-integrity-faults-in-windows-11-now-solved/"><u>Overcoming Crucial System Integrity Faults in Windows 11 - Now Solved!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/resolving-kernel-security-check-violation-and-blue-screen-of-death-in-windows-11-a-comprehensive-guide/"><u>Resolving Kernel Security Check Violation and Blue Screen of Death in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-your-dvd-player-remove-region-locks-for-dvds-in-windows-os/"><u>Unlocking Your DVD Player: Remove Region Locks for DVDs in Windows OS</u></a></li>
+</ul></div>
 

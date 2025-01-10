@@ -1,7 +1,7 @@
 ---
 title: ABBYY OCR Software Transforms Historical Korean Parliament Records
-date: 2024-08-21T17:42:12.677Z
-updated: 2024-08-22T17:42:12.677Z
+date: 2025-01-04T18:51:30.345Z
+updated: 2025-01-09T20:39:47.983Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/20681dc3787d86713afd2395e0942d0819f5bca12434956d1fe5521df7d6718e.jpg
@@ -13,9 +13,17 @@ thumbnail: https://thmb.techidaily.com/20681dc3787d86713afd2395e0942d0819f5bca12
 
 Other | Digital Archiving
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Recognition Server® digitizes the National Assembly Library of Korea
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/abbyy.png?h=40&iar=0&w=120)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
 
@@ -37,6 +45,10 @@ Other | Library Conversion
 #### Partner Overview
 
 ![ReTIA](https://static1.abbyy.com/abbyycommedia/14440/5-retia_logo.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 | Name         | ReTIA                                           |
 | ------------ | ----------------------------------------------- |
@@ -96,9 +108,17 @@ The easy-to-use search function of the database, as well as the range of voice s
 
 [![ABBYY Recognition Server has rebranded as ABBYY FineReader Server](https://static4.abbyy.com/abbyycommedia/20638/11-frs-casepreview.jpg)](https://tools.techidaily.com/abbyy/products/) ") [ABBYY Recognition Server (now FineReader Server)](https://tools.techidaily.com/abbyy/products/) ") 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [read more](https://tools.techidaily.com/abbyy/products/) ") 
 
 [![15-education](https://static1.abbyy.com/abbyycommedia/14365/15-education.jpg)](https://tools.techidaily.com/abbyy/products/) [Education](https://tools.techidaily.com/abbyy/products/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
@@ -114,9 +134,6 @@ Share  True ?  : ""
 
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -129,8 +146,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +153,18 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-dive-deep-record-well-2023s-best-cameras-for-sea-journeys/"><u>[New] Dive Deep, Record Well 2023'S Best Cameras for Sea Journeys</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-connectivity-at-its-peak-strategies-for-broadcasting-videos-to-friends/"><u>[Updated] Connectivity at Its Peak Strategies for Broadcasting Videos to Friends</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-crafting-an-authentic-online-presence-in-the-world-of-fb/"><u>2024 Approved Crafting an Authentic Online Presence in the World of FB</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/own-catch-more-the-best-url-reducers-for-youtube/"><u>Cut Down, Catch More The Best URL Reducers for YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/explore-enhanced-contact-editing-features-with-microsoft-outlooks-updated-mobile-version/"><u>Explore Enhanced Contact Editing Features with Microsoft Outlook's Updated Mobile Version</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/extend-your-old-android-devices-lifespan-8-essential-tips-for-extra-years/"><u>Extend Your Old Android Device's Lifespan: 8 Essential Tips for Extra Years!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/fatty-necroser/"><u>Fatty Necroser</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/from-nightmare-to-dream-revamping-the-ios-18-photos-app-for-a-smoother-user-journey/"><u>From Nightmare to Dream: Revamping the iOS 18 Photos App for a Smoother User Journey</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-shrinking-down-picture-resolution-on-ios-devices/"><u>Guide: Shrinking Down Picture Resolution on iOS Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/must-have-the-ultimate-list-of-5-key-services-for-twitch-content-creators/"><u>Must-Have: The Ultimate List of 5 Key Services for Twitch Content Creators</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-best-mid-range-tablet-experience-with-samsung-galaxy-tab-s7-for-android-users/"><u>Unveiling the Best Mid-Range Tablet Experience with Samsung Galaxy Tab S7 for Android Users</u></a></li>
+</ul></div>
 

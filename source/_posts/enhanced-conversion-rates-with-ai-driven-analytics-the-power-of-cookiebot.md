@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Conversion Rates with AI-Driven Analytics: The Power of Cookiebot"
-date: 2024-08-21T17:43:47.726Z
-updated: 2024-08-22T17:43:47.726Z
+date: 2025-01-05T02:14:24.410Z
+updated: 2025-01-09T23:41:46.833Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7e3fbcfe204dfbd52573599aedc96b853d77272f3befed715bed50ff29c06e5a.jpg
@@ -18,6 +18,10 @@ ABBYYでの仕事とは
 [募集中のポジション](https://tools.techidaily.com/abbyy/products/)
 
 ![](https://content.abbyy.com/-/media/feature/basecomponents/visuals/careers-visual-abbyy.jpg?h=1000&iar=0&w=5120)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 当社の価値観 
 
@@ -50,6 +54,10 @@ ABBYYのビジョンは、インテリジェント・オートメーションの
 Ulf Persson、ABBYYグループCEOおよび代表取締役 
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/drawer-1.jpg?h=389&iar=0&w=750)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ABBYYの基本指針 
 
@@ -99,13 +107,14 @@ ABBYYでは、フレックスタイム制により、すべての社員にリモ
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/drawer-image-2.jpg?h=389&iar=0&w=750)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 「私たち全体の経験、歴史、経歴、能力、考え方は豊かであり、たとえそれがビジネスの目的で組織されたコミュニティであるにも関わらず、これらが1つのコミュニティの中で大切にされています。 
 
 多くの成功しているビジネスがそうであるように、ABBYYも企業としての個性を重視し、顧客により良いサービスを提供できる製品を作ろうと努力しています。 イノベーションは、挑戦と非線形思考の機能であり、それは異なる視点を反映する個人によって可能になるものなのです。多様な人材を雇用し、維持するためには、何者も排除しない環境、つまり違いが尊重され、誰もが自分の居場所だと感じられるようなコミュニティを提供する必要があります。それがABBYYの願いであり、ビジョンです」 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 環境および社会に対する責任 
 
 ABBYYにおいて、環境および社会的責任への取り組みは、長きにわたって極めて重要なものであり続けています。当社の製品は、世界中の何百ものクライアントが非効率を解消し、資源管理を改善するのに役立っていますが、当社では持続可能性と社会的責任を促進するための独自のイニシアチブも展開しています。 
@@ -113,26 +122,21 @@ ABBYYにおいて、環境および社会的責任への取り組みは、長き
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/2-color-16/_misc_checkmark-64.svg?h=64&iar=0&w=64)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##### 取り引きが1件成立するごとに1本の木を植樹 
 
 新規契約1件につき1本の木をOne Tree Plantedを通じて寄付しています。2021年には2000本以上を植樹しました。 
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/2-color-16/_people_employee-1-64.svg?h=64&iar=0&w=64)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##### 価値ある目的のための有給休暇 
 
 誰もが年2日の有給休暇を取得し、関心のある活動を支援することができます。昨年は40以上の活動に貢献しました。 
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/2-color-16/_misc_mountain-64.svg?h=64&iar=0&w=64)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ##### カーボンニュートラルへの道 
 
 2023年から、ABBYYは出張時の二酸化炭素排出量を測定し、オフセットプログラムに投資しています。 
@@ -140,15 +144,17 @@ ABBYYにおいて、環境および社会的責任への取り組みは、長き
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/2-color-16/_misc_heart-64.svg?h=64&iar=0&w=64)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##### ABBYY Summer Challenge 
 
 毎年、世界的なスポーツコンペティションを開催し、社員が1キロメートル走ったり、サイクリングしたり、歩いたり、泳いだりするごとにチャリティを寄付しています。 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### ABBYYについて詳しく 
 
 AIを活用したインテリジェントオートメーションのリーディング企業
@@ -161,8 +167,6 @@ AIを活用したインテリジェントオートメーションのリーディ
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +174,24 @@ AIを活用したインテリジェントオートメーションのリーディ
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-gamegazers-graphic-guide/"><u>[New] 2024 Approved GameGazer's Graphic Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-the-blueprint-for-building-an-iconic-online-identity-on-youtube/"><u>[New] 2024 Approved The Blueprint for Building an Iconic Online Identity on YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-a-winning-live-broadcast-essentials-and-strategies/"><u>[Updated] Crafting a Winning Live Broadcast Essentials and Strategies</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-apple-device-exclusive-reviews-top-voice-recorders-unveiled/"><u>2024 Approved Apple Device Exclusive Reviews Top Voice Recorders Unveiled</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/approches-pratiques-globales-aux-interrogations-sur-winxvideo-intelligence-artificielle-avec-reponses-efficaces/"><u>Approches Pratiques Globales Aux Interrogations Sur Winxvideo Intelligence Artificielle Avec Réponses Efficaces</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-instructions-setting-up-your-brother-l2absolutely-here-are-five-new-seo-friendly-titles-similar-to-brother-mfc-l2700dw-driver-download-and-ins193/"><u>Comprehensive Instructions: Setting Up Your Brother L2absolutely! Here Are Five New SEO-Friendly Titles Similar to Brother MFC-L2700DW Driver Download & Install for Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/crafting-engaging-main-titles-for-your-dvds-a-fast-track-method-(5-min/"><u>Crafting Engaging Main Titles for Your DVDs - A Fast Track Method (<5 Min)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/easily-convert-wmv-videos-to-mp4-using-a-free-tool-compatible-with-mac-osx-and-windows-10-pcs/"><u>Easily Convert WMV Videos to MP4 Using a Free Tool Compatible with Mac OSX and Windows 10 PCs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/easy-solutions-for-smoothing-out-stuttering-and-lag-in-your-4k-video-streams-on-vlc/"><u>Easy Solutions for Smoothing Out Stuttering and Lag in Your 4K Video Streams on VLC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-do-i-pair-airpods-with-my-nintendo-switch-console/"><u>How Do I Pair AirPods With My Nintendo Switch Console?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-itel-s23-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Itel S23 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-convert-wmv-videos-into-mp4-for-free-using-web-apps-on-mac-and-windows-11-systems/"><u>How to Convert WMV Videos Into MP4 for Free Using Web Apps on Mac and Windows 11 Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-install-handbrake-with-libdvdcss-on-macos-and-windows-10-a-step-by-step-guide/"><u>How to Install HandBrake with Libdvdcss on macOS and Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigate-with-precision-the-complete-guide-to-idevice-podcast-downloads-for-2024/"><u>Navigate with Precision The Complete Guide to iDevice Podcast Downloads for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-2024-alternatives-to-microsoft-office-a-comprehensive-guide/"><u>Top 2024 Alternatives to Microsoft Office: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/topo-8-de-aplicaciones-sin-coste-para-reparar-imagenes-viejas-con-inteligencia-artificial/"><u>Topo 8 De Aplicaciones Sin Coste Para Reparar Imágenes Viejas Con Inteligencia Artificial</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winx-dvd-ripper-platinum-faq/"><u>WinX DVD Ripper Platinum FAQ - 一般的な技術対応と問い合わせ回答</u></a></li>
+</ul></div>
 

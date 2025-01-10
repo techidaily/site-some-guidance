@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot: The Secret Sauce Behind Advanced Web Personalization"
-date: 2024-08-21T17:42:30.821Z
-updated: 2024-08-22T17:42:30.821Z
+date: 2025-01-06T21:06:45.888Z
+updated: 2025-01-09T22:49:57.462Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/eab7c14eabafe1a185466727235bc20b8846ab28dbbd2f320ca581d507972f83.jpg
@@ -19,15 +19,27 @@ Other | Digital Archiving
 
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Recognition Server® digitizes the National Assembly Library of Korea
 
 Other | Library Conversion 
 
 ![](https://static1.abbyy.com/abbyycommedia/15018/library-pic1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Customer Overview
 
 ![National Assembly Library of Korea](https://static1.abbyy.com/abbyycommedia/15025/library-logo.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 | Name         | National Assembly Library of Korea |
 | ------------ | ---------------------------------- |
@@ -100,9 +112,17 @@ The easy-to-use search function of the database, as well as the range of voice s
 
 [![15-education](https://static1.abbyy.com/abbyycommedia/14365/15-education.jpg)](https://tools.techidaily.com/abbyy/products/) [Education](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![library-pic2](https://static1.abbyy.com/abbyycommedia/15019/library-pic2.jpg)](https://static2.abbyy.com/abbyycommedia/9010/case-study-national-assembly-library-of-korea-education-en.pdf "PDF version") [PDF version](https://static2.abbyy.com/abbyycommedia/9010/case-study-national-assembly-library-of-korea-education-en.pdf "PDF version") 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [read more](https://static2.abbyy.com/abbyycommedia/9010/case-study-national-assembly-library-of-korea-education-en.pdf "PDF version") 
 
@@ -114,10 +134,6 @@ Share  True ?  : ""
 
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -130,8 +146,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +153,21 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/hort-film-synopsis-must-know-points/"><u>[New] Short Film Synopsis Must-Know Points</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-balanced-flights-7-leading-gimbals-reviewed/"><u>[Updated] In 2024, Balanced Flights 7 Leading Gimbals Reviewed</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-secrets-unlocked-banishing-instagram-video-fails/"><u>[Updated] In 2024, Secrets Unlocked Banishing Instagram Video Fails</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-iphone-lens-magic-perfecting-close-up-and-macro-shots/"><u>[Updated] IPhone Lens Magic Perfecting Close-Up and Macro Shots</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-enhancing-your-mac-installation-manual-for-sierra-version/"><u>2024 Approved Enhancing Your Mac Installation Manual for Sierra Version</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/easy-to-install-motorized-roller-blinds-guide-a-step-by-step-tutorial-for-your-smart-home-upgrade/"><u>Easy-to-Install Motorized Roller Blinds Guide: A Step-by-Step Tutorial for Your Smart Home Upgrade</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/elevate-your-gameplay-with-sony-pulse-explore-top-tier-wireless-gaming-headphones-reviewed/"><u>Elevate Your Gameplay with Sony Pulse Explore: Top-Tier Wireless Gaming Headphones Reviewed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/evaluating-the-autonomous-ergochair-curve-fairly-functional-office-chair-needs-more-cushioning/"><u>Evaluating the Autonomous ErgoChair Curve: Fairly Functional Office Chair Needs More Cushioning</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/experience-precise-audio-fidelity-a-comprehensive-guide-to-the-beyerdynamic-mmx-wireless-gaming-headsets-robust-performance-in-simplistic-packaging/"><u>Experience Precise Audio Fidelity: A Comprehensive Guide to the Beyerdynamic MMX Wireless Gaming Headset's Robust Performance in Simplistic Packaging</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/expert-review-on-nomad-tracker-cards-the-perfect-alternative-to-an-airtag-in-pocket/"><u>Expert Review on Nomad Tracker Cards: The Perfect Alternative to an AirTag in Pocket</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-lava-blaze-2-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Lava Blaze 2 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-gear-to-ensure-smooth-video-recording/"><u>In 2024, Premium Gear to Ensure Smooth Video Recording</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-how-to-adjust-audio-volume-in-videos-4-ways/"><u>New In 2024, How to Adjust Audio Volume in Videos 4 Ways</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-future-of-office-productivity-chatgpt-in-word/"><u>The Future of Office Productivity: ChatGPT in Word</u></a></li>
+</ul></div>
 

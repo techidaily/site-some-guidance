@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Driven Data Collection: Optimized Site Analytics & Personalization"
-date: 2024-08-21T17:43:21.714Z
-updated: 2024-08-22T17:43:21.714Z
+date: 2025-01-05T23:28:39.605Z
+updated: 2025-01-09T18:15:42.075Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/dcd52c68a0261301dc49a434565ff933798115ab3a2be4caf338af3c874b626b.jpg
@@ -13,15 +13,27 @@ thumbnail: https://thmb.techidaily.com/dcd52c68a0261301dc49a434565ff933798115ab3
 
 CASE STUDY | TECHNOLOGY
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Nagarro Invoice Scanner for SAP S/4HANA® Delivers Impressive ROI, Powered by ABBYY
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/customer-stories/white-logos/nagarro_logo_new_white.png?h=30&iar=0&w=120)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Nagarro ES GmbH, a global digital product engineering and technology consulting firm, helps clients become innovative, digital-first companies. Nagarro’s global SAP unit’s Invoice Scanner for SAP S/4HANA® leverages ABBYY intelligent document processing (IDP) to enhance customers’ visibility, like at one of Germany’s largest vehicle manufacturers, into the invoice processing lifecycle with real-time updates for better decision-making and cash flow. 
 
 Since adopting ABBYY Vantage, we’ve seen remarkable improvements. The improved browser UI and very good scanning results have significantly improved our document processing, saving time and resources.
 
 Ulrich Winter, Head of Application Development, Nagarro ES GmbH
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Challenge
 
@@ -35,9 +47,6 @@ Requirements:
 * Interpret this content accurately
 * Create an invoice object in SAP S/4HANA®
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution
 
 Nagarro used ABBYY Vantage to power the recognition within their Invoice Scanner.
@@ -47,8 +56,9 @@ Vantage applies artificial intelligence technology to accurately extract data fr
 Customers can use Nagarro’s ROI calculator to see the amount of money saved using their Invoice Scanner over manual methods.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Value
 
 * Nagarro processes 700 invoices per month
@@ -62,18 +72,12 @@ Customers can use Nagarro’s ROI calculator to see the amount of money saved us
 
 ![FC_1](https://content.abbyy.com/-/media/project/abbyy/abbyy/products/flexicapture/fc_1.jpg?h=392&iar=0&w=696)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 #### ABBYY Solutions for Accounts Payable Automation
 
 [Learn more](https://tools.techidaily.com/abbyy/products/)
 
 ![overview image](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/ap-automation/overview-image.jpg?h=800&iar=0&w=1392)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 #### PDF Version
 
 [Read the document](https://content.abbyy.com/-/media/Project/Abbyy/Abbyy/Insights/Customer-Stories/PDFs/nagarro-case-study-intelligent-document-processing-en.pdf)
@@ -81,11 +85,9 @@ Customers can use Nagarro’s ROI calculator to see the amount of money saved us
 ![laptop mug](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/newsroom/news-images/laptop-mug.jpg?h=836&iar=0&w=1486)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
+
 ### Ready to speak with an expert?
 
 [Contact us](https://tools.techidaily.com/abbyy/products/)
@@ -96,8 +98,6 @@ Customers can use Nagarro’s ROI calculator to see the amount of money saved us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +105,24 @@ Customers can use Nagarro’s ROI calculator to see the amount of money saved us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-premium-ways-to-broadcast-and-record-athletic-competitions-live/"><u>[New] Premium Ways to Broadcast & Record Athletic Competitions Live</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-experts-path-to-masterful-discord-screen-broadcasting/"><u>[New] The Expert's Path to Masterful Discord Screen Broadcasting</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-level-up-with-no-hassle-the-prime-free-voice-change-for-valorant-gamers/"><u>[Updated] In 2024, Level Up with No Hassle The Prime Free Voice Change for Valorant Gamers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-top-5-mac-cam-alternatives-to-elevate-your-digital-screens/"><u>[Updated] Top 5 Mac Cam Alternatives to Elevate Your Digital Screens</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725288240676-android/"><u>動画がAndroidデバイス上で再生しない問題 -原因分析と修正手順</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/bending-words-altering-text-images-for-2024/"><u>Bending Words Altering Text Images for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/diy-iphone-ringtone-creation-without-itunes-a-simple-tutorial/"><u>DIY iPhone Ringtone Creation Without iTunes: A Simple Tutorial</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725284941701-dvddvd/"><u>DVDをビデオファイルにするための優れた変換ツールとテクニック！市販、レンタルDVDでも完璧!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-fix-connectivity-errors-with-your-lg-usb-driver-in-windows-1087-environments/"><u>How to Fix Connectivity Errors with Your LG USB Driver in Windows 10/8/7 Environments</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/professional-dvd-creator-with-winx-the-ultimate-free-and-reliable-dvd-burning-tool-for-modern-windows/"><u>Professional DVD Creator with WinX: The Ultimate Free and Reliable DVD Burning Tool for Modern Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/resolving-dvd-shrink-malfunction-in-windows-10-a-comprehensive-guide/"><u>Resolving DVD Shrink Malfunction in Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/secretly-capturing-skype-conversations-on-your-pc-or-mac/"><u>Secretly Capturing Skype Conversations on Your PC or Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-adding-unwanted-or-preferred-captions-to-your-dvds/"><u>Step-by-Step Guide: Adding Unwanted or Preferred Captions to Your DVDs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-choosing-superior-dvd-editors-on-windows-11-or-mac-for-flawless-video-edits/"><u>Ultimate Guide to Choosing Superior DVD Editors on Windows 11 or Mac for Flawless Video Edits</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valorant-game-stalling-solve-the-persistent-pc-freezes-and-play-smoothly/"><u>Valorant Game Stalling? Solve the Persistent PC Freezes and Play Smoothly!</u></a></li>
+</ul></div>
 

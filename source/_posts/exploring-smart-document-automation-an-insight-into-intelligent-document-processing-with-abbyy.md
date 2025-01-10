@@ -1,7 +1,7 @@
 ---
 title: "Exploring Smart Document Automation: An Insight Into Intelligent Document Processing with ABBYY"
-date: 2024-08-21T17:45:07.649Z
-updated: 2024-08-22T17:45:07.649Z
+date: 2025-01-08T21:41:46.196Z
+updated: 2025-01-09T17:05:32.475Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3ba69f4885da8723ba49d2002.jpg
@@ -32,6 +32,10 @@ Jump to:
 [How to choose the right IDP software](https://tools.techidaily.com/abbyy/products/)  
 [Frequently asked questions](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is intelligent document processing (IDP)?
 
 **[Intelligent document processing (IDP)](https://www.abbyy.com/vantage/?itm%5Fsource=coprblog-en "Intelligent document processing (IDP)") applies artificial intelligence (AI) and machine learning techniques to process structured, semi-structured, and unstructured documents that enable technology to read and process content in documents like a human.**
@@ -52,25 +56,13 @@ In understanding what IDP is and how it benefits businesses, it's equally import
 ## The evolution of IDP  
 ![What is intelligent document processing, and how is it different from legacy approaches?](https://static1.abbyy.com/abbyycommedia/34935/14000_what-is-intelligent-document-processing-blog-post-scheme-graphics.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How does intelligent document processing work?
 
 IDP uses natural language processing (NLP) techniques and contextual data in the surrounding text for entity extraction that automatically and with a high degree of accuracy determines which entities are being referred to. For example, is the word “jaguar” referring to a large cat or a car? OR is the word ‘Sue’ referring to a person or a legal action? By applying NLP, an unprecedented recognition of unstructured data is identified and extracted, and can operate like a human brain, quickly adapting to changing input, and generating the best possible result.
 
 ![](https://static1.abbyy.com/abbyycommedia/37735/idp-scheme-1b.png)  
 With [FastML](https://tools.techidaily.com/abbyy/products/), a new client-side learning mechanism, visual and textual methods of extraction are applied, thus enabling even greater accuracy of data extraction. Organizations that are looking to maintain competitive advantage can do so by shifting away the cumbersome, transactional, and high-volume content-driven workload to intelligent document processing and intelligent automation solutions, thus freeing up time for human workers to be engaged in more rewarding work and drive better customer experiences.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What are the benefits of intelligent document processing?
 
 Across all industries, businesses are facing pressure to do more—and do it faster—with fewer skilled resources. At the same time, more organizations are focusing on improving experiences for customers and employees as a key to improving revenue, margins, and retention. [Intelligent document processing (IDP)](https://www.abbyy.com/vantage/?itm%5Fsource=coprblog-en "Intelligent document processing (IDP)") can deliver significant benefits on both counts. By applying document skills in a way that closely supports the way humans understand and manage content, IDP provides the following benefits:
@@ -81,6 +73,10 @@ Across all industries, businesses are facing pressure to do more—and do it fas
 * **Scalability**: IDP is scalable and can expand cross function: IDP software can be trained to process one document type (for example: invoices) and process as little as 100 documents per day, or it can be trained to ingest one hundred different document types (invoices, claims, bank statement, onboarding, receipt, etc.) and process thousands of documents per minute.
 
 **[Related content: State of Intelligent Automation Report on Customer Onboarding Drivers and Pain Points](https://tools.techidaily.com/abbyy/products/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How does combining process mining & IDP provide greater value?
 
@@ -98,8 +94,9 @@ As the basis for successful automation, [process mining](https://tools.techidail
 * Apply the document skills needed to optimize content processing.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## IDP use cases: Digitally master your data and processes
 
 The versatility of intelligent document processing applications means documents of any language, any format and at any time can be utilized in intelligent automation solutions. We’ll explore four use cases in insurance, customer onboarding/KYC, logistics, loan processing to show examples of how IDP can be leveraged.
@@ -142,8 +139,9 @@ Depending on your industry, the type of data and documents you need to process w
 Once you have assessed your specific needs it will be easier to find a solution to meet your requirements. For example, you may have data in different languages that will need to be translated before being analyzed or forwarded to another system. There may be strict privacy guidelines about using the data so authentication and validation features in your IDP software platform will be a top priority. Data classification and integration is also an important factor for automatic transfer into existing workflows. IDP can categorize documents into predefined classes helping to organize and prioritize workload, for example sorting applications in date order or emails into different folders, depending on their content.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The future of document processing
 
 Intelligent document processing offers businesses a host of bottom-line advantages—if it's implemented strategically as an essential participant in customer experience, and processes are built for it. By first leveraging process mining and creating a solid foundation for implementation, organizations can realize the full benefits of IDP, including reduced costs and improved efficiency, regulatory compliance, and employee and customer experiences.
@@ -193,6 +191,10 @@ _Editorial note: This blog post was originally published on December 8, 2021, an
 [Intelligent Document Processing (IDP)](https://www.abbyy.com/blog/intelligent-document-processing-idp/ "Intelligent Document Processing (IDP)") [Intelligent Automation](https://tools.techidaily.com/abbyy/products/) [Digital Transformation](https://tools.techidaily.com/abbyy/products/) [Robotic Process Automation (RPA)](https://www.abbyy.com/blog/robotic-process-automation-rpa/ "Robotic Process Automation (RPA)") 
 
 ![](https://static3.abbyy.com/abbyycommedia/37004/maxime-vermeir_110x110-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Maxime Vermeir
 
@@ -256,8 +258,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -265,4 +265,18 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/tep-by-step-guide-to-earning-through-mobile-content-on-youtube/"><u>[New] Step-by-Step Guide to Earning Through Mobile Content on YouTube</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-respectful-approach-to-enhancing-your-tiktok-presence/"><u>[Updated] 2024 Approved Respectful Approach to Enhancing Your TikTok Presence</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-dissecting-iconic-discord-emoticons-and-their-designers/"><u>2024 Approved Dissecting Iconic Discord Emoticons and Their Designers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-detailed-guide-on-making-gifs-into-stickers-whatsapp-discord-and-telegram-edition/"><u>A Detailed Guide on Making GIFs Into Stickers WhatsApp, Discord & Telegram Edition</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/exploring-top-cryptocurrency-trading-platforms-insights-from-yl-computing/"><u>Exploring Top Cryptocurrency Trading Platforms: Insights From YL Computing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/frei-verfugbare-losungen-zum-umwandeln-von-mts-zu-mp4-so-andern-sie-format-schnell-und-effizient/"><u>Frei Verfügbare Lösungen Zum Umwandeln Von MTS Zu MP4 - So Ändern Sie Format Schnell Und Effizient</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/handbrake-tutorials-losungen-fur-die-nicht-erkennbaren-dvd-titelfehler/"><u>HandBrake Tutorials - Lösungen Für Die Nicht Erkennbaren DVD-Titelfehler</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/kinemasters-dominance-in-the-android-gaming-arena-reviewed/"><u>KineMaster's Dominance in the Android Gaming Arena Reviewed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mp4hevcdvd/"><u>MP4/HEVC格式转换及错误修复：亲切易用的DVD转换解决方案</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-hardware-acceleration-on-windows-10-essential-insights-and-tips/"><u>Understanding Hardware Acceleration on Windows 10: Essential Insights and Tips</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/wasteland-2-directors-cut-critique-immersive-and-engaging-roleplaying-game-masterpiece/"><u>Wasteland 2 Director's Cut Critique: Immersive and Engaging Roleplaying Game Masterpiece</u></a></li>
+</ul></div>
 

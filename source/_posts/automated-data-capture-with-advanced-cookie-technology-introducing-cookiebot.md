@@ -1,7 +1,7 @@
 ---
 title: "Automated Data Capture with Advanced Cookie Technology: Introducing Cookiebot"
-date: 2024-08-21T17:41:11.956Z
-updated: 2024-08-22T17:41:11.956Z
+date: 2025-01-04T21:05:08.277Z
+updated: 2025-01-09T18:25:21.522Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6f106f3aad361adc4196159e.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
 
 [Actualités](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Étude ABBYY : plus de la moitié des Français souhaite déléguer du travail à des robots
 
 27 mars 2019
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * _58 % des Français souhaitent déléguer une partie de leurs tâches quotidiennes en entreprise aux robots_
 * _La participation à des réunions spécifiques, la relecture de longs documents et l’enregistrement manuel du temps de travail sont les trois tâches les moins appréciées par les Français_
@@ -83,8 +91,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,8 +98,22 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-analyzing-user-interface-and-features-in-youtube-mobile-app/"><u>[New] In 2024, Analyzing User Interface and Features in YouTube Mobile App</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-diving-into-digital-delights-facebook-video-repository/"><u>[New] In 2024, Diving Into Digital Delights Facebook Video Repository</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-reviving-the-full-screen-in-obs/"><u>[New] Reviving the Full Screen in OBS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-simplifying-the-screen-recording-process-for-dell-users/"><u>[New] Simplifying the Screen-Recording Process for Dell Users</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-viral-video-vanguard-top-ten-in-one-hour-one-day-on-yt/"><u>[Updated] Viral Video Vanguard Top Ten in One Hour, One Day on YT</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-financial-scale-of-mr-beast/"><u>2024 Approved The Financial Scale of Mr. Beast</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/all-about-rivian-unveiling-insights-into-the-groundbreaking-r2s-and-r2t-suvs/"><u>All About Rivian - Unveiling Insights Into the Groundbreaking R2S and R2T SUVs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/atomi-alpha-electric-scooter-examined-a-blend-of-performance-and-panache/"><u>Atomi Alpha Electric Scooter Examined: A Blend of Performance and Panache</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/compatibility-guide-which-electric-vehicle-chargers-work-with-your-ev/"><u>Compatibility Guide: Which Electric Vehicle Chargers Work With Your EV?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/consistent-pricing-for-oculus-quest-2-securing-the-vr-market-at-just-199/"><u>Consistent Pricing for Oculus Quest 2: Securing the VR Market at Just $199</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/crafting-ideal-google-snippet-summaries-without-compulsory-ai-intervention/"><u>Crafting Ideal Google Snippet Summaries without Compulsory AI Intervention</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/die-allerbesten-yogalehrerinnen-and-lehrern-im-video-professionelle-rezension-von-yoga-dvds/"><u>Die Allerbesten Yogalehrerinnen & -Lehrern Im Video: Professionelle Rezension Von Yoga DVDs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/softening-audio-levels-alives-approach/"><u>Softening Audio Levels Alive’s Approach</u></a></li>
+<li><a href="https://win-dash.techidaily.com/upgrade-your-printing-experience-with-new-epson-wf-7710-drivers-on-win-1181-8-and-7-platforms/"><u>Upgrade Your Printing Experience with New Epson WF-7710 Drivers on Win 11/8.1, 8 & 7 Platforms</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->

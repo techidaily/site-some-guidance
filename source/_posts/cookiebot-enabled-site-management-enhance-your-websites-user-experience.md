@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enabled Site Management: Enhance Your Website's User Experience"
-date: 2024-08-21T17:44:53.259Z
-updated: 2024-08-22T17:44:53.259Z
+date: 2025-01-07T18:05:46.351Z
+updated: 2025-01-09T20:15:08.851Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/6e8a41ece450d9380c701774f844497938589115375c3e1f4cbaa1de7ab99a22.jpg
@@ -25,6 +25,10 @@ Ulf took some time out of his schedule to tell us about his path to becoming the
 
 **[Follow us on Instagram and get to know the people at ABBYY](https://www.instagram.com/abbyyglobal/ "Instagram")**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What attracted you to ABBYY, and what is your role?
 
 My first interaction with ABBYY was as an investor back in 2002\. After that, I went from being a board member to chairman of the board to CEO. It’s an odd route to take (mostly it’s the other way around), but one that has allowed me to gain a different perspective, which has helped drive change and development for the company. In my view, ABBYY has always stood out as a unique company, so when I was asked to take on the CEO role, it was an easy decision. A decision guided by two main factors: our amazing people and the tremendous growth opportunity. While it wasn’t entirely obvious in early 2017 that there would be a market called _Intelligent Automation_, it was clear that ABBYY had the right technology ingredients to become a leading player in this field. I wanted to be a part of that and was intrigued to see how far we could go.
@@ -36,45 +40,43 @@ I’m based in London. One part of my role is to help ABBYY set ambitious goals 
 It’s hard to give one single piece of advice. To me, it’s all about trust and people focus. I always aim to have the best possible people around me. People who are much better at their roles than I could ever be, and then trust these people to do their job while making sure we all pull in the same direction. To do this, you first must understand your own strengths and weaknesses. While listening to other opinions before moving forward with a decision is important for the quality and subsequent acceptance, speed is also of the essence. Most of the time, we base decisions on imperfect information. Better to make a call and then correct if it was wrong.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Do you have any hobbies or fun interests?
 
 When I was a boy, I wanted to be a professional athlete. I played ice hockey and football, but soon realized I wasn’t good enough. However, I’m still an avid football fan, supporting Arsenal in the English Premier League and Richmond Park FC, where my daughter plays. My position on the football pitch was central midfield, and I was a goal-keeper when playing hockey. I can relate both those roles to my role as CEO at ABBYY; I’m there to direct the game and help others, not necessarily scoring the goals myself (I’ll score some), and to make sure we are solid at the back.
 
 ![Ulf Persson family](https://static1.abbyy.com/abbyycommedia/35267/ulfpersson-wife-458.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Nowadays, to keep in shape and clear my brain, I go for a run. During the lockdown, I was working inside too much, as most of us were, and began walking a lot with my wife and our dog, sometimes ten kilometers or more. I also make family time a priority. We have three daughters, and the whole family enjoys good food, togetherness, and discussions around the dinner table. We also try to make use of the multitude of things that London has to offer.
 
 ![Ulf Persson family](https://static1.abbyy.com/abbyycommedia/35266/ulfpersson-daughters-458.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ### If you had one wish come true, what would it be?
 
 That we as humans were better at weighing short-term satisfaction and benefits with long-term effects and sustainability. This would help improve consumption patterns, drive different individual, governmental, and corporate behavior, and ultimately help us solve the big issues such as climate change and societal health.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What’s your pet peeve?
 
 I get really frustrated when we, for one reason or the other, don’t live up to our customers’ expectations, but I am not sure if that would fall in the pet peeve category, so here’s another one: when someone shares a document or presentation with me, whether for internal or external consumption, that contains silly mistakes and spelling errors, my blood pressure builds up. To me, quality is not a selective game. You play it all the time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What was the last book you read?
 
 I am currently reading the first book in the Wolf Hall trilogy by Hilary Mantel. It describes life in London under Henry VIII and, specifically, the rise to power of the protagonist Thomas Cromwell from a modest family of blacksmiths to the king’s closest advisor.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### What’s next for ABBYY, what does the future hold?
 
 I am very proud of the team and what we have created in the last few years, but now we are on the cusp of something much bigger. At ABBYY, we have a real opportunity to lead in the [Intelligent Document Processing](https://tools.techidaily.com/abbyy/products/) and [Intelligent Process Automation](https://tools.techidaily.com/abbyy/products/) markets through innovation and a zealous focus on customer excellence. We have all the building blocks–products, people, and customers. It’s now down to us to build on our growth and execute on a daily basis. Frankly, I have never been as excited about the company’s prospects as I am now.
@@ -139,8 +141,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +148,20 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-prime-selection-instagrams-top-8-ae-designs/"><u>[New] Prime Selection Instagram's Top 8 AE Designs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-revamping-your-snapchat-speech-two-straightforward-steps/"><u>[Updated] Revamping Your Snapchat Speech Two Straightforward Steps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725287917021-winx-dvd-ripper-platinum/"><u>【公式】WinX DVD Ripper Platinum - 信頼できるセキュリティが保証されたオンライン販売サイト</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725289906096-best-18-video-player-apps-compatible-with-macos-windows-11-ios-and-android/"><u>Best 18 Video Player Apps Compatible with macOS, Windows 11, iOS & Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/convert-your-vob-videos-to-high-quality-mp4-with-these-simple-steps-compatible-on-windows-11-macos-and-more/"><u>Convert Your VOB Videos to High-Quality MP4 with These Simple Steps - Compatible on Windows 11, macOS & More!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customize-classroom-feel-in-win-11-ui/"><u>Customize Classroom Feel in Win 11 UI</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-gt-neo-5-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from GT Neo 5</u></a></li>
+<li><a href="https://win-able.techidaily.com/mount-and-blade-ii-bannerlord-game-crashing-issues-solved/"><u>Mount & Blade II: Bannerlord Game Crashing Issues Solved</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/solving-the-windows-11-dvd-drive-issue-error-code-0x8e10bc6-step-by-step-tutorial/"><u>Solving the Windows 11 DVD Drive Issue (Error Code 0X8^E10BC6) Step-by-Step Tutorial</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sony-a6400-video-vanishing-how-to-stop-it/"><u>Sony A6400 Video Vanishing - How to Stop It?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oppo-k11-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Oppo K11 5G FRP</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-selection-top-18-streaming-mkv-players-for-cross-platform-use-on-mac-pc-mobile-and-tablet/"><u>Ultimate Selection: Top 18 Streaming MKV Players for Cross-Platform Use on Mac, PC, Mobile & Tablet</u></a></li>
+<li><a href="https://win-studio.techidaily.com/wie-man-windows-881-von-einer-hdd-auf-ein-ssd-ubertragt-schritt-fur-schritt-anleitung/"><u>Wie Man Windows 8/8.1 Von Einer HDD Auf Ein SSD Überträgt - Schritt-Für-Schritt-Anleitung</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Optimisez Vos Récépissés Automatiquement Avec AbbyY: La Révolution Du Traitement Intellectuel Des Documents"
-date: 2024-08-21T17:44:37.448Z
-updated: 2024-08-22T17:44:37.448Z
+date: 2025-01-02T21:40:08.009Z
+updated: 2025-01-09T21:46:58.108Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a678efc068af4239160ee06bb.jpg
@@ -11,17 +11,30 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
 Brochure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Capturer, Suivre et Gérer les dépenses en toute simplicité
 
 ![Capture, Track, and Manage Expenses the Easy Way - ABBYY Brochure](https://static1.abbyy.com/abbyycommedia/35134/77c-capture-track-and-manage-expenses-the-easy-way-fr-262x340.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Éliminez le traitement manuel des reçus grâce au Traitement Intelligent des Documents
 
 Le traitement des pièces justificatives ne devrait pas gâcher le temps et les ressources précieuses de la comptabilité. Lorsque les reçus pour les notes de frais des salariés sont traités à la main, cela se traduit souvent par des erreurs telles que des paiements en doublon, ce qui ralentit les audits et expose votre entreprise à de potentielles fraudes. La solution ABBYY de gestion des dépenses rationalise et améliore les processus de remboursement des dépenses. Il s’agit d’une solution prête à l’emploi pour traiter automatiquement les reçus et en extraire les précieuses données dont vous avez besoin pour une gestion exacte des dépenses.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Télécharger maintenant!
 
 Téléchargez cette brochure pour savoir comment la solution ABBYY de traitement intelligent des documents vous aide à capturer, suivre et gérer les dépenses en toute simplicité :
@@ -33,21 +46,15 @@ Téléchargez cette brochure pour savoir comment la solution ABBYY de traitement
 * Maîtrise totale du budget dépensé
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Merci de votre intérêt pour ABBYY.
 
 [Lire la brochure](https://digital.abbyy.com/hubfs/documents/content/brochure-ap-expense-management-fr.pdf "Lire la brochure") 
 
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 #### Vous avez des questions ? [Contactez ABBYY](https://tools.techidaily.com/abbyy/products/)
 
 #### Get your copy by filling in the form.
@@ -108,8 +115,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +122,17 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-instantaneous-inspector-of-images-on-windows/"><u>[New] Instantaneous Inspector of Images on Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-experience-cutting-edge-editing-with-windows-xp/"><u>[Updated] Experience Cutting-Edge Editing with Windows XP</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-digiarty-softwares-compliance-with-specific-trade-regulations-an-in-depth-guide/"><u>1. Digiarty Software's Compliance with Specific Trade Regulations: An In-Depth Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-blueprint-to-blockbuster-scriptwriting-for-films/"><u>2024 Approved Blueprint to Blockbuster Scriptwriting for Films</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-innovative-boomers-for-dynamic-snaps-on-snapchat/"><u>2024 Approved Innovative Boomers for Dynamic Snaps on Snapchat</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guida-completa-per-il-rovesciamento-di-file-video-mp4-a-rotazioni-multiple-senza-compromettere-la-qualita/"><u>Guida Completa per Il Rovesciamento Di File Video MP4 a Rotazioni Multiple Senza Compromettere La Qualità</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-from-gameplay-to-video-full-guide-on-ps4-with-obs/"><u>In 2024, From Gameplay to Video Full Guide on PS4 with OBS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/optimisez-la-qualite-et-reduisez-les-tailles-de-fichiers-mp4-avec-notre-methode-avancee/"><u>Optimisez La Qualité Et Réduisez Les Tailles De Fichiers MP4 Avec Notre Méthode Avancée</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-list-of-free-video-editor-apps-discover-the-best-5-options/"><u>The Ultimate List of Free Video Editor Apps – Discover the Best 5 Options</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-shift-from-standard-definition-to-dynamic-range-brilliance/"><u>The Ultimate Shift From Standard Definition to Dynamic Range Brilliance</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot: Your Partner in Personalized Marketing Automation Solutions"
-date: 2024-08-21T17:42:32.023Z
-updated: 2024-08-22T17:42:32.023Z
+date: 2025-01-03T00:04:17.756Z
+updated: 2025-01-09T23:05:13.990Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/80d3fa767f44fdaa6b3c03730260a31e590107858e011b7c1ceac58f39d7b6f4.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/80d3fa767f44fdaa6b3c03730260a31e590107858
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Real-Time Recognition SDK Elevates Mobile User Experience with Free OCR
 
 December 01, 2016
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _New mobile SDK with ABBYY OCR enables developers to create mobile apps that leverage text recognition directly on a smartphone camera preview screen._
 
@@ -51,8 +59,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -60,8 +66,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-the-full-picture-a-review-of-dji-inspire-1/"><u>[Updated] 2024 Approved The Full Picture A Review of DJI Inspire 1</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-top-mp4-to-fb-transcoder/"><u>[Updated] 2024 Approved Top MP4-to-FB Transcoder</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-elevating-your-youtube-profile-with-high-impact-artwork-guide/"><u>[Updated] In 2024, Elevating Your YouTube Profile with High-Impact Artwork Guide</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/error-404-the-missing-webpage-hasnt-returned-yet/"><u>Error 404: The Missing Webpage Hasn't Returned Yet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/game-changer-in-comfort-secretlabs-titan-evo-softweave-plus-xl-gaming-chair-exclusive-review/"><u>Game Changer in Comfort: SecretLab's TITAN Evo Softweave Plus XL Gaming Chair - Exclusive Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/high-quality-low-cost-the-impressive-performance-of-the-oneodio-a10-earbuds-reviewed/"><u>High-Quality, Low-Cost: The Impressive Performance of the OneOdio A10 Earbuds Reviewed</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>Identify malfunctioning your hardware drivers with Windows Device Manager in Windows 10</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-beginners-guide-to-the-top-10-filmmaking-cameras/"><u>In 2024, Beginner's Guide to the Top 10 Filmmaking Cameras</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-shorts-music-things-you-need-to-know/"><u>In 2024, YouTube Shorts Music - Things You Need to Know</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/lightweight-and-portable-the-perfect-travel-companion-bluetooth-speaker/"><u>Lightweight and Portable: The Perfect Travel Companion Bluetooth Speaker</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/long-lasting-entertainment-a-comprehensive-panic-playdate-assessment-after-two-years/"><u>Long-Lasting Entertainment: A Comprehensive Panic Playdate Assessment After Two Years</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/professional-typewriters-dream-the-ultimate-guide-to-the-lofree-flow-mechanical-keyboard-review/"><u>Professional Typewriter's Dream: The Ultimate Guide to the Lofree Flow Mechanical Keyboard Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/rad-power-radwagon-4-analysis-replacing-your-vehicle-with-a-sustainable-commuter-bike/"><u>Rad Power RadWagon 4 Analysis: Replacing Your Vehicle with a Sustainable Commuter Bike</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/review-of-infinacore-t3-wireless-charger-the-ultimate-3-in-1-portable-power-solution/"><u>Review of Infinacore T3 Wireless Charger: The Ultimate 3-in-1 Portable Power Solution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/swift-fix-for-intel-graphics-on-windows-11/"><u>Swift Fix for Intel Graphics on Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/syncing-stride-with-innovation-the-gadgets-that-power-my-monthly-marathon-of-100-miles/"><u>Syncing Stride with Innovation: The Gadgets that Power My Monthly Marathon of 100 Miles</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->

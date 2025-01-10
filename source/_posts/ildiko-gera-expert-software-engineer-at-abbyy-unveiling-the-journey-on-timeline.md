@@ -1,7 +1,7 @@
 ---
 title: "Ildikó Gera: Expert Software Engineer at ABBYY - Unveiling the Journey on Timeline"
-date: 2024-08-21T17:43:52.988Z
-updated: 2024-08-22T17:43:52.988Z
+date: 2025-01-07T02:57:32.943Z
+updated: 2025-01-09T20:59:25.677Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c2364ce1ce1631cf3307292a0e382081e93d8f200b22ab446d3c669b5473d173.jpg
@@ -23,6 +23,10 @@ One of our software engineers is Ildikó Gera, based in Budapest, Hungary. When 
 
 **[Follow us on Instagram and get to know the people at ABBYY](https://www.instagram.com/abbyyglobal/ "Instagram")**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What attracted you to ABBYY, and what is your role?
 
 The first thing that really attracted me was that the ABBYY Timeline team planned to start using the React JavaScript library for development. At that time, I had just started to build an interest in learning it myself, so it was a big incentive for me to join ABBYY. Another attractive part of the job was that it’s a full stack position, and previously I had only worked on the frontend. I felt like this would be a great steppingstone for my career, and I was right because I have learned more in the last two years than I did the entire time at my previous workplace.
@@ -31,20 +35,26 @@ I work as a software engineer on the task mining functionality of ABBYY Timeline
 
 ![ABBYY engineer workspace with a cat on the desk](https://static1.abbyy.com/abbyycommedia/35808/idliko-gera-resize-41.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What was your previous experience before ABBYY?
 
 After completing my degree in molecular bionics, I transitioned my career to computer programming. I started at EPAM Szeged in a student program, which meant 20 hours of work while I was still attending university. First, I was on a team that was responsible for the landing page; we developed new features working with UX (user experience) designers and project managers from the customer side, while also maintaining the current feature set. Then I moved to Budapest, and I was transferred to a new team that worked on a library tracking user interactions site wide.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Your top advice to women working in software development?
 
 I don't have specific advice for women because I don't feel there is much of a difference between how I work compared to my male co-workers. So, this advice is for everyone in the IT field. Don't be afraid to ask questions, this is how you will improve your skills! Also, if someone asks you a question, and you know the answer, then take the time to explain it in detail; chances are you only need to explain once, and it will make a huge difference.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Do you have any hobbies or fun interests?
 
 I work from home and my three cats are always begging for attention, so I do reserve some time to play with them. After work, I like to meet up with friends or work in the garden. When I was in high school, I was heavily into online MMORPG (Massively Multiplayer Online Role-Playing Game) games such as LineageII and TERA, but as I got older, I realized it consumes too much time to be good at it, so I switched to MMO (Massively Multiplayer Online) games like Grim Dawn and Warhammer Vermintide—it's always great to end the day with friends killing monsters!
@@ -56,15 +66,13 @@ Recently, I picked up a new interest playing Dungeons and Dragons with my co-wor
 ![Minature figurines and paint set](https://static1.abbyy.com/abbyycommedia/35813/idiko-gera-figures.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### If you had one wish come true, what would it be?
 
 If I can ask for something that is not possible, then I would say that we don't need to sleep anymore. More realistically, I would like scientists to discover a cheap and more effective way to store energy, because that will solve a lot of problems humanity will face in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### What’s your pet peeve?
 
 When somebody tries to tell me how to cook or asks if I measured the ingredients. When I learned how to cook from my mother, we never really used recipes, so I don't need them now. Of course, there are exceptions. If I try something new, I usually follow the instructions, but after that I just memorize the ratio, and I'm good to go for the next time.
@@ -73,18 +81,12 @@ When somebody tries to tell me how to cook or asks if I measured the ingredients
 
 I recently watched the movie 'Don't Look Up', and it had a real impact on me. It was really frightening to think how we ignore alarm bells from the scientific community, just like they ignored them in the movie. It was funny, but an eye-opener.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### Interested in joining the ABBYY team? Please check the vacancies below and apply!
 
 [See all open positions](https://boards.eu.greenhouse.io/abbyy/?itm%5Fsource=corpblog)
 
 [Meet Our Team](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
@@ -139,8 +141,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +148,26 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-become-a-vr-pro-ios-devices-guide-to-vr-viewing/"><u>[New] Become a VR Pro IOS Device's Guide to VR Viewing</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-from-bland-to-breathtaking-craft-captivating-content-on-tiktok-quickly/"><u>[Updated] In 2024, From Bland to Breathtaking Craft Captivating Content on TikTok Quickly</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-practical-ways-to-save-and-download-vimeo-footage/"><u>[Updated] Practical Ways to Save and Download Vimeo Footage</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-unlocking-visual-potential-perfect-aspect-ratios-revealed/"><u>[Updated] Unlocking Visual Potential Perfect Aspect Ratios Revealed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/descargue-el-codec-h265-gratis-para-mejora-de-video-4k-y-8k/"><u>Descargue El Códec H.265 Gratis Para Mejora De Video 4K Y 8K</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/discover-the-ultimate-5-substitutes-for-wondershares-uniconverter-efficient-videodvd-editing-solutions/"><u>Discover the Ultimate 5 Substitutes for Wondershare's Uniconverter - Efficient Video/DVD Editing Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-libdvdcss-2dll-driver-for-all-windows-versions-including-111087-64-and-32-bit-supported/"><u>Download libdvdcss-2.dll Driver for All Windows Versions Including 11/10/8/7 (64 and 32-Bit Supported)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dvd-gratis-a-penna-usb-il-tuo-passaggio-definitivo-per-i-trasferimenti-di-file-fatti-bene/"><u>DVD Gratis a Penna USB: Il Tuo Passaggio Definitivo per I Trasferimenti Di File Fatti Bene</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725287505098-dvd-shrinkiso/"><u>DVD ShrinkによるISOフォーマットへの変換問題とその解決策</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvdmpegdvdmpeg2mpeg4/"><u>DVDから高精度MPEGコンバートガイド：DVDをMPEG2、MPEG4フォーマットに変換する方法</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gratis-download-per-il-centro-ufficiale-di-windows-estrai-e-converti-i-file-multimediali-con-dvd-ripper-and-hd-video-converter/"><u>Gratis Download per Il Centro Ufficiale Di Windows: Estrai E Converti I File Multimediali Con DVD Ripper & HD Video Converter</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-fix-connectivity-woes-with-your-lg-devices-usb-driver-in-windows-operating-systems/"><u>How to Fix Connectivity Woes with Your LG Device's USB Driver in Windows Operating Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-optimize-and-compress-video-files-for-seamless-sharing-on-whatsapp-across-devices/"><u>How to Optimize and Compress Video Files for Seamless Sharing on WhatsApp Across Devices</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/kostenlose-windows-11-klon-software-ohne-installations-oder-startprobleme/"><u>Kostenlose Windows 11 Klon-Software Ohne Installations- Oder Startprobleme</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/los-top-12-reproductores-y-grabadores-de-video-4k-sin-coste-para-computadora-o-mac/"><u>Los Top 12 Reproductores Y Grabadores De Video 4K Sin Coste Para Computadora O Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/obtenir-la-licence-entiere-de-lia-winx-video-en-solde-beneficiez-dune-actualisation-gratuite/"><u>Obtenir La Licence Entière De L'IA Winx Video en Solde – Bénéficiez D'une Actualisation Gratuite !</u></a></li>
+<li><a href="https://program-issues.techidaily.com/samurai-warriors-5-pc-troubles-diagnosis-and-repair-strategies-for-stable-gameplay/"><u>Samurai Warriors 5 PC Troubles: Diagnosis & Repair Strategies for Stable Gameplay</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-3-complimentary-windows-11-media-converters-for-dvds-and-blu-rays-get-the-full-versions-now/"><u>Top 3 Complimentary Windows 11 Media Converters for DVDs and Blu-Rays - Get the Full Versions Now!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/transform-your-zoom-presentations-with-stunning-visuals/"><u>Transform Your Zoom Presentations with Stunning Visuals</u></a></li>
+</ul></div>
 

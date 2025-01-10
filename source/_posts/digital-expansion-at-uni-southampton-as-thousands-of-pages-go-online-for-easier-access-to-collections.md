@@ -1,7 +1,7 @@
 ---
 title: Digital Expansion at Uni Southampton as Thousands of Pages Go Online for Easier Access to Collections
-date: 2024-08-21T17:43:39.881Z
-updated: 2024-08-22T17:43:39.881Z
+date: 2025-01-06T16:58:13.503Z
+updated: 2025-01-10T03:15:23.644Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b29050cd2236573beb2ecb06.jpg
@@ -13,11 +13,23 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
 
 Education & Science | PDF and Document Conversion
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## University of Southampton Improves Access to its Collection by Digitising Vast Quantities of Printed Material
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/abbyy.png?h=40&iar=0&w=120)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## University of Southampton Improves Access to its Collection by Digitising Vast Quantities of Printed Material
 
@@ -28,8 +40,9 @@ The University of Southampton Library supports a community of approximately 35,0
 ABBYY FineReader, a software product designed for ad-hoc scanning and digitisation, had been used by the Library for a number of years to digitise small numbers of pages, and occasionally full books, with the addition of text recognition or OCR (optical character recognition). The Library quickly realised however that in order to automate the OCR process with a high throughput and achieve their goal of digitising half a million pages per year, they would need a more robust product capable of automatically processing large volumes of documents. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution
 
 In order to find a solution to process printed documents into searchable formats, such as PDF and PDF/A for digitising archives or records creation, the Library evaluated various options on the market. They examined the following criteria across a number of products: Speed and quality of OCR, range of output formats and compressions, and API/workflow integration possibility. After looking at a number of products the Library selected ABBYY Recognition Server as a best-fit solution.
@@ -44,23 +57,6 @@ Digitisation of 18th century Parliamentary Papers: Coverage includes the Journal
 
 Digitisation of 19th century pamphlets: Over 23,000 19th century pamphlets from UK research libraries that cover the socio-political and economic landscape in Britain were digitised by the LDU and converted into searchable PDFs. Project details and catalogue entry is available at: [www.britishpamphlets.org.uk](http://www.britishpamphlets.org.uk/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ### Other in-house projects include:
 
 Digitisation of Doctoral Theses: Scanned copies of 20,000 University of Southampton awarded theses were converted to searchable PDFs and are now being made available through the university’s institutional research repository, Eprints Soton. Eprints Soton contains electronic copies of research output, including journal articles, book chapters, conference papers and theses. It also includes unpublished manuscripts and papers. The full text of many of these items is freely available to be used in accordance with copyright and end-user permissions. [eprints.soton.ac.uk](http://eprints.soton.ac.uk/)
@@ -72,8 +68,9 @@ Digitisation of Course Texts: The Library converts printed items into searchable
 The Richard Rutt Collection: A collection of 19th century knitting books from the Winchester School of Art Reference Library have been digitised and made available as searchable PDFs via the web. [www.southampton.ac.uk/library/](http://www.southampton.ac.uk/library/) 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Conclusion
 
 A powerful and accurate OCR is an integral component of the Library Digitisation Unit’s activities. Thanks to the increased throughput offered by ABBYY Recognition Server, Library staff are freed from the tedious work of manual OCR and millions of pages of documents from the University of Southampton’s collection are available online in digital formats to its students and to the wider world.
@@ -88,9 +85,6 @@ Contact: [www.soton.ac.uk/library/ldu](http://www.soton.ac.uk/library/ldu).
 
 Share 
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -103,8 +97,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +104,24 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-magix-video-pro-x-a-deep-dive/"><u>[New] 2024 Approved Magix Video Pro X - A Deep Dive</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-expert-advice-on-valheim-seed-selection/"><u>[New] Expert Advice on Valheim Seed Selection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725286426309-dvd/"><u>「パソコンまたは空白DVDでデータのバックアップ手順」</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-phantom-replay-masterclass/"><u>2024 Approved Phantom Replay Masterclass</u></a></li>
+<li><a href="https://win-online.techidaily.com/comment-resoudre-limpossibilite-de-restaurer-ou-dextraire-des-fichiers-lors-du-demarrage-sous-windows-10/"><u>Comment Résoudre L'impossibilité De Restaurer Ou D'extraire Des Fichiers Lors Du Démarrage Sous Windows 10 ?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/compatibilidad-de-av1-con-plex-como-empezar/"><u>Compatibilidad De AV1 Con Plex - Cómo Empezar</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comprendre-lutilisation-de-winxdvd-un-guide-complet/"><u>Comprendre L'Utilisation De WinXDVD: Un Guide Complet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/desktoponline-passport-photo-crafting-secure-your-documents-with-free-images/"><u>Desktop/Online Passport Photo Crafting - Secure Your Documents with Free Images</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/kostenlose-dvd-regionskonvertierung-auf-windows-10-8-oder-7-freischalten-ohne-geld-ausgeben/"><u>Kostenlose DVD-Regionskonvertierung Auf Windows 10, 8 Oder 7 - Freischalten Ohne Geld Ausgeben</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/simple-guide-building-a-music-playlist-on-your-iphone-15-pro-or-max-without-using-itunes/"><u>Simple Guide: Building a Music Playlist on Your iPhone 15, Pro, or Max Without Using iTunes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-3-free-video-converter-software-for-windows-10-in-2020-high-quality-hd4k-video-conversion/"><u>Top 3 FREE Video Converter Software for Windows 10 in 2020: High-Quality HD/4K Video Conversion</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-your-gamesplay-fullscreen-mastery-on-pc/"><u>Transforming Your Gamesplay: FullScreen Mastery on PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tricks-and-treats-with-winxdvd-a-terrifyingly-delightful-halloween-selection/"><u>Tricks & Treats with WinXDVD: A Terrifyingly Delightful Halloween Selection!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlock-the-potential-of-youtube-videos-with-smart-tags-for-2024/"><u>Unlock the Potential of YouTube Videos with Smart Tags for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ursachen-behebung-und-vorbeugung-von-itunes-problemen-eine-umfassende-antwortliste-fur-das-jahr-2021/"><u>Ursachen, Behebung Und Vorbeugung Von iTunes-Problemen: Eine Umfassende Antwortliste Für Das Jahr 2021</u></a></li>
+<li><a href="https://techtrends.techidaily.com/usb-20-demystified-an-in-depth-look-at-transfer-rates-cord-types-and-plug-ins/"><u>USB 2.0 Demystified: An In-Depth Look at Transfer Rates, Cord Types & Plug-Ins</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Realme C67 5G | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhancing Efficiency in AP Operations - Fender Partners with ABBYY for Automated Solutions
-date: 2024-08-21T17:43:50.372Z
-updated: 2024-08-22T17:43:50.372Z
+date: 2025-01-05T16:00:13.906Z
+updated: 2025-01-09T19:12:25.482Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8f68fe379c1fc55633560bfb567af056a8ac88cb060c4006d4413191770c2a7d.png
@@ -13,9 +13,17 @@ thumbnail: https://thmb.techidaily.com/8f68fe379c1fc55633560bfb567af056a8ac88cb0
 
 Other | Accounts Payable Automation
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fender Chooses ABBYY Intelligent Automation to Transform the Accounts Payable Process and Increase Employee Job Satisfaction
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/en/134471.png?h=40&iar=0&w=120)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
 
@@ -24,6 +32,10 @@ Other | Accounts Payable Automation
 Other | Accounts Payable Automation 
 
 ![Costain Transforms Its Finance Department Using ABBYY Content Intelligence](https://static3.abbyy.com/abbyycommedia/32956/15-fender-cover2-556x303.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Customer Overview
 
@@ -38,6 +50,10 @@ Other | Accounts Payable Automation
 #### Partner Overview
 
 ![Formtran](https://static1.abbyy.com/abbyycommedia/29978/formtran-logo-172x24.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 | Name         | Formtran                                      |
 | ------------ | --------------------------------------------- |
@@ -96,12 +112,12 @@ Staff time is now redirected to activities that optimize operations and strength
 
 [![Download the PDF version](https://static4.abbyy.com/abbyycommedia/32957/15c-fender-cover2-360x162.jpg)](https://static3.abbyy.com/abbyycommedia/32958/fender-musical-instrument-manufacture-case-study-en.pdf "PDF Version") [PDF Version](https://static3.abbyy.com/abbyycommedia/32958/fender-musical-instrument-manufacture-case-study-en.pdf "PDF Version") 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Read the document](https://static3.abbyy.com/abbyycommedia/32958/fender-musical-instrument-manufacture-case-study-en.pdf "PDF Version") 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### Ready to talk to an expert?
 
 We'd love to help you along your automation journey.
@@ -114,8 +130,6 @@ We'd love to help you along your automation journey.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +137,17 @@ We'd love to help you along your automation journey.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-digital-directors-diary-an-in-depth-look-at-capturing-live-tv-on-windows-pc/"><u>[New] 2024 Approved Digital Director's Diary An In-Depth Look at Capturing Live TV on Windows PC</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-step-by-step-obtaining-no-cost-photo-frames/"><u>2024 Approved Step-by-Step Obtaining No-Cost Photo Frames</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-nokia-g42-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Nokia G42 5G</u></a></li>
+<li><a href="https://common-error.techidaily.com/correcting-windows-steamapidll-error/"><u>Correcting Windows SteamAPI_dll Error</u></a></li>
+<li><a href="https://media-tips.techidaily.com/guide-to-transforming-video-content-into-mp4-on-a-mac-a-step-by-step-process/"><u>Guide to Transforming Video Content Into MP4 on a Mac - A Step-by-Step Process</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-creating-and-using-temporary-sharing-features-within-an-excel-spreadsheet/"><u>Guide: Creating and Using Temporary Sharing Features Within an Excel Spreadsheet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-the-audio-and-video-format-capabilities-of-the-samsung-galaxy-s20/"><u>Understanding the Audio and Video Format Capabilities of the Samsung Galaxy S20</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/vier-effiziente-techniken-zum-sicherstellen-ihres-dvd-inhalts-auf-der-festplatte/"><u>Vier Effiziente Techniken Zum Sicherstellen Ihres DVD-Inhalts Auf Der Festplatte</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winxdvd-software-how-to-guide-and-complete-instructional-guide/"><u>WinXDVD Software, How to Guide, and Complete Instructional Guide.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/44k544oe44ob44or44ov44o844ks5yplusw44kk5oi744gb77ya5a656yep5lin6laz44go5yuv5l2c44gu6ygf44gv44o744ov44oq44o844k66kej5rai5pa55rov/"><u>スマホパワーを取り戻せ：容量不足と動作の遅さ・フリーズ解消方法</u></a></li>
+</ul></div>
 

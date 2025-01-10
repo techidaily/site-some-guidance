@@ -1,7 +1,7 @@
 ---
 title: Enhance Website Performance Using the State-of-the-Art Cookiebot Solution
-date: 2024-08-21T17:41:33.954Z
-updated: 2024-08-22T17:41:33.954Z
+date: 2025-01-04T19:16:31.358Z
+updated: 2025-01-09T22:51:50.372Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8dec14c118d7ee81f46eabd3dcf3a5188bbf56bf80fdef23b5e5cacf3addecc5.jpg
@@ -19,6 +19,10 @@ June 07, 2022
 
 ![](https://static3.abbyy.com/abbyycommedia/35718/everest-2022-blog-cover2-848x444.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### New innovative capabilities drive greater process efficiencies across all business areas for automating document processes
 
 When discussing intelligent automation with our customers, one key challenge that rises to the top of the conversation is how the data trapped in their documents is the lifeline to many of their processes. They lack the ability to automatically identify the documents, extract the data, and connect it to their employees and processes, and they’re feeling the pain both in back-office operations and on the customer experience.
@@ -29,9 +33,6 @@ There’s something in this release for all users, whether you’re a non-coder 
 
 ## Check out the ABBYY Vantage 2.2 highlight recording
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## An ever-growing catalog of ready-to-go document automations
 
 Last year, [we introduced the ABBYY Marketplace,](https://tools.techidaily.com/abbyy/products/) providing every user with access to a catalog of trained skills and other intelligent document process assets like connectors. In this release, we’re excited to let you know that the marketplace has now grown to over 100 assets, including 15 new document skills that jumpstart automation projects to process a variety of different document types.
@@ -40,9 +41,6 @@ All document skill automations, connectors, and other assets are built by ABBYY 
 
 ![](https://static1.abbyy.com/abbyycommedia/35730/scanning.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The latest set of automations include document skills that are production ready:
 
 * [**Remittance Advice**](https://tools.techidaily.com/abbyy/products/)– process proof of payment documents sent by a customer to a business, including capturing all header, footer, and line-item details.
@@ -73,6 +71,10 @@ Skill Designer users can leverage the following activities to tackle documents t
 
 **Scripting activity** – a low-code design that allows users to add another layer of validation checks to the extracted data.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Improved accuracy for all document types and languages
 
 At the core of what ABBYY has been building for years that thousands of enterprises use today is our optical character recognition (OCR) technology. Some might try to say it’s old, but at ABBYY, we like to say it is PROVEN.
@@ -96,8 +98,9 @@ Built to connect into [ABBYY Timeline](https://tools.techidaily.com/abbyy/produc
 * Get an end-to-end view by combining document transactional process data with other key systems
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get started today!
 
 At ABBYY we are moving fast, and we continue to focus on advancing our core AI technology and deliver the best no-code / low-code IDP platform. It’s why our IDP solutions have been [recognized as a leader by Everest Group’s IDP PEAK Matrix 2022, read about it here](https://tools.techidaily.com/abbyy/products/).
@@ -110,9 +113,6 @@ If you have a trial of [Vantage](https://tools.techidaily.com/abbyy/products/) i
 
 ![Bill Galusha ABBYY](https://static5.abbyy.com/abbyycommedia/25718/billgalusha-99x99.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 Bill Galusha
 
 ### Like, share or repost
@@ -163,13 +163,8 @@ Page URL
 
 Connect with us
 
-
-
 ![](https://static3.abbyy.com/abbyycommedia/35718/everest-2022-blog-cover2-848x444.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### New innovative capabilities drive greater process efficiencies across all business areas for automating document processes
 
 When discussing intelligent automation with our customers, one key challenge that rises to the top of the conversation is how the data trapped in their documents is the lifeline to many of their processes. They lack the ability to automatically identify the documents, extract the data, and connect it to their employees and processes, and they’re feeling the pain both in back-office operations and on the customer experience.
@@ -181,8 +176,9 @@ There’s something in this release for all users, whether you’re a non-coder 
 ## Check out the ABBYY Vantage 2.2 highlight recording
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## An ever-growing catalog of ready-to-go document automations
 
 Last year, [we introduced the ABBYY Marketplace,](https://tools.techidaily.com/abbyy/products/) providing every user with access to a catalog of trained skills and other intelligent document process assets like connectors. In this release, we’re excited to let you know that the marketplace has now grown to over 100 assets, including 15 new document skills that jumpstart automation projects to process a variety of different document types.
@@ -190,6 +186,10 @@ Last year, [we introduced the ABBYY Marketplace,](https://tools.techidaily.com/a
 All document skill automations, connectors, and other assets are built by ABBYY or certified partners so that your business can easily download and get started quickly, while at the same time further training and customizing the skills to meet your business needs.
 
 ![](https://static1.abbyy.com/abbyycommedia/35730/scanning.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The latest set of automations include document skills that are production ready:
 
@@ -204,8 +204,9 @@ The latest set of automations include document skills that are production ready:
 Additionally, a new set of framework skills for processing 1040 ([Schedule C](https://tools.techidaily.com/abbyy/products/), [Schedule E](https://tools.techidaily.com/abbyy/products/), [Schedule F](https://tools.techidaily.com/abbyy/products/), Schedule K-1), [lease agreements](https://tools.techidaily.com/abbyy/products/), [W8-BEN](https://tools.techidaily.com/abbyy/products/), and [Sick Notes (German)](https://marketplace.abbyy.com/root/german-sick-note-arbeitsunfahigkeitsbescheinigung/) are available in the ABBYY Marketplace for users to try out.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Introducing ID Skill to accelerate client onboarding and servicing
 
 Every business wants to deliver a seamless online mobile experience to customers. The ability to verify the identity of an individual is becoming increasingly important. With the new Identity Document (ID) skill, ABBYY is delivering the most comprehensive trained model that extracts information from passports, US driver licenses, and many more. In fact, the new ID skill recognizes and extracts information from 10,000 different document types in 248 countries. 
@@ -215,8 +216,9 @@ Using the Vantage Mobile App, users can snap a photo of the ID (front and back) 
 To request a license and try out the new ID Skill, visit the [ABBYY Marketplace](https://tools.techidaily.com/abbyy/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## More flexibility and higher accuracy with document training
 
 In this release, we have introduced several capabilities designed to give users more control over training document skills using the Vantage Advanced Designer. The result is more advanced flexibility in how you can combine activities in the training pipeline to get the optimal extraction results from even the most complex unstructured documents.
@@ -238,8 +240,9 @@ For businesses in Japan, you will be excited to know OCR improvements have been 
 Finally, image quality is a challenge, and we see early AI vendor companies struggling to find the right solution. Through pretrained models, we’ve overcome challenges related to documents with complex backgrounds like birth certificates, IDs, or any document that embeds watermarks and other types of document marks that make it difficult to recognize the data.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Monitor and optimize document processes
 
 If data is the lifeline to your business, then second up is knowing that operationally the systems and processes are performing optimally. To have that visibility we have introduced a new data warehouse into Vantage that stores all process transactional data, and in the future, quality analytics data will be available.
@@ -266,9 +269,6 @@ If you have a trial of [Vantage](https://tools.techidaily.com/abbyy/products/) i
 
 Bill Galusha
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share
@@ -279,8 +279,6 @@ Share
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -288,4 +286,19 @@ Share
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-dissecting-video-platform-distinctions-youtube-vs-dailymention-for-2024/"><u>[New] Dissecting Video Platform Distinctions YouTube Vs. DailyMention for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fast-track-converting-your-srt-files-to-text-format-today/"><u>[New] Fast Track Converting Your SRT Files to Text Format Today</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-realizing-potential-in-presentations-leveraging-webcams-for-2024/"><u>[New] Realizing Potential in Presentations Leveraging Webcams for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-mastering-youtube-video-transformation-into-animated-gifs-no-save/"><u>2024 Approved Mastering YouTube Video Transformation Into Animated GIFs (No Save)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/clearing-past-data-from-the-clipboard-on-windows-11-a-complete-tutorial/"><u>Clearing Past Data From the Clipboard on Windows 11 - A Complete Tutorial</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/command-prompt-mastery-quick-and-easy-ways-to-lock-your-windows-10-computer/"><u>Command Prompt Mastery: Quick and Easy Ways to Lock Your Windows 10 Computer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-redirecting-powershell-command-results-into-files/"><u>Guide: Redirecting PowerShell Command Results Into Files</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-moto-g14-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Moto G14 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/impending-discontinuation-of-the-windows-11-copilot-quick-access-feature/"><u>Impending Discontinuation of the Windows 11 Copilot Quick Access Feature</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/installing-a-universal-color-picker-tool-for-all-windows-10-applications/"><u>Installing a Universal Color Picker Tool for All Windows 10 Applications</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/oculus-rift-s-audio-problems-fast-remedies-and-how-to-guide/"><u>Oculus Rift S Audio Problems: Fast Remedies and How-To Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-the-new-york-times-network-mystery/"><u>Unraveling The New York Times Network Mystery</u></a></li>
+</ul></div>
 

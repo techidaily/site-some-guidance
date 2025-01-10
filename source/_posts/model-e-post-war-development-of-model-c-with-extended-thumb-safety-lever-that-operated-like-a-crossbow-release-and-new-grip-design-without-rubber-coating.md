@@ -1,7 +1,7 @@
 ---
 title: Model E - Post War Development of Model C with Extended Thumb Safety Lever that Operated Like a Crossbow Release and New Grip Design without Rubber Coating
-date: 2024-08-21T17:40:41.647Z
-updated: 2024-08-22T17:40:41.647Z
+date: 2025-01-03T00:57:01.066Z
+updated: 2025-01-10T00:43:13.102Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/0d31f5646fe3a9a749251ddb64d10288427198f92e87a603dc09ffcf334ba8c5.jpg
@@ -31,6 +31,10 @@ Perhaps, it’s the main iOS 14 innovation. Previously you had to swipe right to
 
 Smart Stack is a part of new widgets. It’s a dynamic widget that displays relevant information for current conditions. For example, you’ll see the weather forecast in the morning, and today’s physical activity in the evening. Smart Stack can also be scrolled manually.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Compact Siri
 
 Before iOS 14, Siri opened in a fullscreen mode. Now Siri, as well as it’s text replies, will be displayed at the bottom of the screen. Other requests will be displayed at the top of the screen as a widget. You can still use Siri to work with our apps. For example, [open documents](https://tools.techidaily.com/abbyy/products/) in [FineScanner](https://go.onelink.me/0oMB/2b084a0a) or [open business cards](https://tools.techidaily.com/abbyy/products/) in [Business Card Reader](https://go.onelink.me/LuYz/ca107d7).
@@ -38,8 +42,13 @@ Before iOS 14, Siri opened in a fullscreen mode. Now Siri, as well as it’s tex
 ![iOS 14 Siri](https://static1.abbyy.com/abbyycommedia/29629/siri-ios14.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Call Notifications
 
 Apple did what users wanted for years. You will no longer be interrupted by an incoming call. Instead of a fullscreen view, the incoming call will show up as a notification window at the top of your screen.
@@ -47,14 +56,13 @@ Apple did what users wanted for years. You will no longer be interrupted by an i
 ![Calls notification iOS 14](https://static1.abbyy.com/abbyycommedia/29626/звонки-ios14.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Updated Messages
 
 Slowly, but surely, Apple turns the Messages app into a great messenger. In iOS 14, you can pin chats, tag people in group chats, add a photo to group chats, and follow a chain of replies.
@@ -65,30 +73,18 @@ Slowly, but surely, Apple turns the Messages app into a great messenger. In iOS 
 
 You will now be notified if the app uses a camera or a microphone. In case the camera is active, the green dot will appear near a battery icon. If the microphone is turned on, the orange dot will appear. iPhone will also notify you if the app you’re using copies a text to the clipboard. 
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Picture in Picture
 
 One iOS 14 feature, Picture in Picture mode, migrated from iPadOS. You can now watch videos and, for example, use Safari at the same time. The video will be displayed in the small window above other content.
 
 ![Picture in picture iOS 14](https://static1.abbyy.com/abbyycommedia/29627/картинка-в-картинке-ios-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### App Library
 
 There’s a new way to sort your apps. All apps will be automatically added to specific folders according to their functionality. There will also be an additional folder for recently updated and installed apps.
 
 ![app library iOS 14](https://static1.abbyy.com/abbyycommedia/29623/библиотека-приложений-ios14.jpg) The App Library screen will be the rightmost on your Home screen.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Third-party Apps by Default
 
 If you don’t like Safari or Apple Mail, no problem. iOS 14 allows you to set any other browser or the mail agent as a default app, for example, Chrome and Gmail.
@@ -100,15 +96,17 @@ App Clips feature eases the workflow on-the-go. You can run some apps even witho
 ![App Clips iOS 14](https://static1.abbyy.com/abbyycommedia/29624/блиц-приложения-ios14.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Emoji Search
 
 It will be easier to use emojis because you can now type an emotion or an object you’re looking for—no need to scroll through hundreds of emojis. 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### AirPods
 
 Happy owners of one of the most popular wireless headphones will find something awesome in iOS 14\. AirPods can now automatically switch between your devices with the same Apple ID. If someone calls on your iPhone, while you’re watching a video on an iPad, headphones will switch to an iPhone. This feature is available for all AirPods. AirPods Pro users will get Spatial audio. The headphones will dynamically track the position of your head to provide you with a theatre-like sound. The sound channels will always be at the right place, even if you move your head or a device. 
@@ -191,8 +189,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,4 +196,24 @@ Connect with us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-epilogue-sounds-personalization-free-of-charge/"><u>[New] In 2024, Epilogue Sounds Personalization - Free of Charge</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-complete-manual-taking-editing-and-sharing-display-images/"><u>2024 Approved The Complete Manual Taking, Editing, and Sharing Display Images</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windowsmac3/"><u>最高の無料ビデオコンバーター：WindowsとMac両方に対応した人気ツールベスト3 - 使いやすさで選ぶ!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-personal-take-on-the-downside-of-gaming-laptops-my-decision-to-avoid-them-regardless-of-their-improved-features-today/"><u>A Personal Take on the Downside of Gaming Laptops - My Decision to Avoid Them Regardless of Their Improved Features Today</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/choose-your-winner-dji-gopro-max-instax-x3-for-2024/"><u>Choose Your Winner DJi, GoPro Max, Instax X3 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-premium-quality-karaoke-music-videos-for-free-from-youtube/"><u>Download Premium-Quality Karaoke Music Videos for Free From YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/fixes-implemented-popcorn-time-overcomes-previous-black-screen-and-load-failures-for-optimal-streaming-experience/"><u>Fixes Implemented: Popcorn Time Overcomes Previous Black Screen and Load Failures for Optimal Streaming Experience</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-infinix-note-30-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Infinix Note 30 5G Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-tecno-pop-7-pro-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Tecno Pop 7 Pro to Gmail | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/introducing-the-groundbreaking-macx-mediatrans-revolutionary-iphone-and-ipad-control-by-macxdvd/"><u>Introducing the Groundbreaking MacX MediaTrans: Revolutionary iPhone and iPad Control by MacXDVD</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macx-dvd-ripper-pro-how-to-create-iso-images-and-burn-dvds-on-a-mac/"><u>MacX DVD Ripper Pro: How to Create ISO Images and Burn DVDs on a Mac</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/online-cr2-tiff-converter-vrijgevende-gratiswaarde-movavi-online-service/"><u>Online CR2-TIFF Converter - Vrijgevende Gratiswaarde - Movavi Online Service</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/resolving-disk-utility-cannot-duplicate-dvd-files-proven-techniques/"><u>Resolving 'Disk Utility Cannot Duplicate DVD Files': Proven Techniques</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/simplified-techniques-for-converting-vimeo-media-for-2024/"><u>Simplified Techniques for Converting Vimeo Media for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/snag-your-complimentary-macxdvd-bonanza-free-top-apps-for-effortless-disk-ripping-and-data-rescue/"><u>Snag Your Complimentary MacXDVD Bonanza - FREE Top Apps for Effortless Disk Ripping and Data Rescue!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-motorola-razr-40-ultra-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Motorola Razr 40 Ultra Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-dvds-editing-compressing-and-converting-content-for-iosmac-os-x-playback/"><u>Transform Your DVDs: Editing, Compressing, and Converting Content for iOS/Mac OS X Playback</u></a></li>
+</ul></div>
 

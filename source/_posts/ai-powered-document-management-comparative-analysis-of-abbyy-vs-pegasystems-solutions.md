@@ -1,13 +1,17 @@
 ---
 title: "AI-Powered Document Management: Comparative Analysis of ABBYY Vs. Pegasystems Solutions"
-date: 2024-08-21T17:44:17.159Z
-updated: 2024-08-22T17:44:17.159Z
+date: 2025-01-04T16:45:08.107Z
+updated: 2025-01-10T00:49:46.447Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/40d90e2c4b27120737f9ba85a0971ad5a38bc547da98ccb626a6263a5742c752.jpg
 ---
 
 ## AI-Powered Document Management: Comparative Analysis of ABBYY Vs. Pegasystems Solutions
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 
 
@@ -24,8 +28,13 @@ Pegaのテクノロジーパートナーとして、ABBYYはインテリジェ�
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/digital-onboarding/overview-image.jpg?h=716&iar=0&w=1272)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 統合するメリット 
 
 ##### 文書処理が可能なPegaのプロセス 
@@ -48,12 +57,6 @@ ABBYY FlexiCapture Connector for Pegaは、カスタマサービスや操作性�
 
 ![](https://content.abbyy.com/-/media/feature/basecomponents/clients/pegasystems_logo_rev_120px.png?h=26&iar=0&w=120)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### ユースケース 
 
 ##### 保険業における文書処理の自動化
@@ -77,11 +80,13 @@ FlexiCaptureをPegaの買掛金処理業務プロセスに簡単に統合する�
 ![](https://content.abbyy.com/-/media/feature/basecomponents/assets-thumbnails/abbyy_microscopic_web_photos_2_1486--836.jpg?h=836&iar=0&w=1486)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 専門家に相談してみませんか？
 
 [デモを予約する](https://tools.techidaily.com/abbyy/products/)[お問い合わせ](https://tools.techidaily.com/abbyy/products/)
@@ -92,8 +97,6 @@ FlexiCaptureをPegaの買掛金処理業務プロセスに簡単に統合する�
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,4 +104,18 @@ FlexiCaptureをPegaの買掛金処理業務プロセスに簡単に統合する�
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-essential-list-premier-online-church-service-sites-for-2024/"><u>[New] Essential List Premier Online Church Service Sites for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-mastering-the-art-of-comfortable-virtual-experiences/"><u>[New] Mastering the Art of Comfortable Virtual Experiences</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-parrot-playfulness-explored-in-bebop-2/"><u>[Updated] Parrot Playfulness Explored in Bebop 2</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comment-et-pourquoi-transformez-vous-rapidement-un-fichier-ts-en-mp4-sans-perdre-la-qualite/"><u>Comment Et Pourquoi Transformez-Vous Rapidement Un Fichier TS en MP4 Sans Perdre La Qualité ?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/converti-rapidamente-una-immagine-iso-in-formato-mp4-guida-completa/"><u>Converti Rapidamente Una Immagine ISO in Formato MP4 - Guida Completa</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/easy-guide-transform-your-dvd-video-to-mp4-using-windows-1011-or-mac-discover-10-ways/"><u>Easy Guide: Transform Your DVD Video to MP4 Using Windows 10/11 or Mac - Discover 10 Ways!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/end-spammy-sms-troubles-a-quick-guide-for-iphone-users/"><u>End Spammy SMS Troubles: A Quick Guide for iPhone Users</u></a></li>
+<li><a href="https://discover-data.techidaily.com/gratis-terugnaar-inkompatibele-zip-bestanden-in-windows-10-and-11-steps-voor-herstel/"><u>Gratis Terugnaar Inkompatibele ZIP-Bestanden In Windows 10 & 11: Steps Voor Herstel</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/hands-on-review-of-the-apple-studio-display-attractive-design-overpriced-at-500-more-than-rivals-for-pros-on-mac-cnet/"><u>Hands-On Review of the Apple Studio Display: Attractive Design, Overpriced at $500 More Than Rivals for Pros on Mac | CNET</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/implementing-captions-in-mp4-files-easy-techniques-for-multilingual-accessibility/"><u>Implementing Captions in MP4 Files: Easy Techniques for Multilingual Accessibility</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-perfect-blend-of-strength-and-ease-dive-into-the-kensun-tire-air-bottle-review/"><u>The Perfect Blend of Strength and Ease - Dive Into the Kensun Tire Air Bottle Review</u></a></li>
+</ul></div>
 
