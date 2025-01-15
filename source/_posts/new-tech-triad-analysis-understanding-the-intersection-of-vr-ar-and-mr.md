@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Tech Triad Analysis  Understanding the Intersection of VR, AR & MR\""
-date: 2024-08-10T21:20:23.401Z
-updated: 2024-08-11T21:20:23.401Z
+date: 2025-01-09T17:47:36.695Z
+updated: 2025-01-15T16:17:17.729Z
 tags: 
   - screen-recording
   - ai video
@@ -32,8 +32,9 @@ thumbnail: https://www.lifewire.com/thmb/30_UtySXFzg-c_agAsN_YiH3fWI=/400x300/fi
 )
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## About VR
 
  VR stands for Virtual Reality which basically means that it is able to draw the user into an immersive simulation. The real environment can be totally replaced with the sounds and sights giving you the feel as though you are actually present in the digital world and part of it.
@@ -56,6 +57,10 @@ thumbnail: https://www.lifewire.com/thmb/30_UtySXFzg-c_agAsN_YiH3fWI=/400x300/fi
 
 ![virtual-reality](https://images.wondershare.com/filmora/article-images/virtual-reality.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## About Augmented Reality
 
 * Features
@@ -75,6 +80,14 @@ thumbnail: https://www.lifewire.com/thmb/30_UtySXFzg-c_agAsN_YiH3fWI=/400x300/fi
  We are already seeing augmented reality being used to day in real life situations such as training. It is also being used in gaming and more recently with mobile technology using GPS signals to add more realism and accuracy.
 
 ![augmented-reality](https://images.wondershare.com/filmora/article-images/augmented-reality.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## About MR
 
@@ -111,9 +124,6 @@ Follow @Benjamin Arango
 ![difference between VR AR MR]( https://images.wondershare.com/filmora/article-images/difference-between-vr-ar-mr.jpg
 )
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## About VR
 
  VR stands for Virtual Reality which basically means that it is able to draw the user into an immersive simulation. The real environment can be totally replaced with the sounds and sights giving you the feel as though you are actually present in the digital world and part of it.
@@ -134,14 +144,12 @@ Follow @Benjamin Arango
 
  Flight and scenario simulation has already been able to utilize virtual reality as a tool for training without actually having to be in a real life situation. In the gaming world it takes people out of their real world and gives them a totally different experience. 360 degree videos have often been confused with virtual reality however because there is no interaction and the scenario has been prerecorded it is not thought to be in the same category. Although virtual reality has been around a long time it is still a great way to escape from the real world altogether and be totally immersed in another.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![virtual-reality](https://images.wondershare.com/filmora/article-images/virtual-reality.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## About Augmented Reality
 
 * Features
@@ -162,9 +170,6 @@ Follow @Benjamin Arango
 
 ![augmented-reality](https://images.wondershare.com/filmora/article-images/augmented-reality.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## About MR
 
 * Features
@@ -183,9 +188,6 @@ Follow @Benjamin Arango
 
  Holograms have been used more recently to make the user feel as though an object or character is actually there. Synthetic content is being improved all of the time, which shows that the future of mixed reality is not as far away as we may think. It’s the closest that technology has been so far to creating a new age experience.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -193,7 +195,6 @@ Benjamin Arango
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -217,8 +218,22 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-a-step-by-step-approach-for-using-zoom-in-email-apps-like-gmail/"><u>[New] A Step-by-Step Approach for Using Zoom in Email Apps Like Gmail</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unearthing-vivas-video-capabilities/"><u>[New] Unearthing Viva's Video Capabilities</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-15-simple-vlog-inspirations-today/"><u>[New] Unlock 15 Simple Vlog Inspirations Today</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehensive-analysis-hero4-black-overview/"><u>2024 Approved Comprehensive Analysis Hero4 Black Overview</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-filmmakers-dilemma-picking-between-filmora-and-democracy-creator/"><u>2024 Approved Filmmaker's Dilemma Picking Between Filmora & Democracy Creator</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-securing-every-frame-best-practices-for-vimeo-record-use/"><u>2024 Approved Securing Every Frame Best Practices for Vimeo Record Use</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-syncing-audiovideo-online-collective/"><u>2024 Approved Syncing Audio/Video Online Collective</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/head-to-head-review-sonys-ps5-slim-versus-full-sized-console-battle/"><u>Head-to-Head Review: Sony's PS5 Slim Versus Full-Sized Console Battle</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-shutter-societys-top-six-elite-4k-dslr-picks/"><u>In 2024, Shutter Society's Top Six Elite 4K DSLR Picks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-uncover-the-10-most-trusted-wedding-timer-apps-androidios-of-2023/"><u>In 2024, Uncover the 10 Most Trusted Wedding Timer Apps (Android/iOS) of 2023</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-the-full-potential-of-your-iphone-photos/"><u>In 2024, Unlock the Full Potential of Your iPhone Photos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-a-stuck-laptop-or-tower-steps-you-need-to-know/"><u>Reviving a Stuck Laptop or Tower: Steps You Need to Know</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essential-guide-to-custom-voices-how-to-alter-game-character-sounds-in-free-fire-no-cost/"><u>The Essential Guide to Custom Voices How to Alter Game Character Sounds in Free Fire (No Cost!)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tips-for-resolving-issues-with-hidden-or-lost-youtube-video-comments/"><u>Tips for Resolving Issues with Hidden or Lost YouTube Video Comments</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-list-top-frame-addition-services-for-images-for-2024/"><u>Updated List Top Frame Addition Services for Images for 2024</u></a></li>
+</ul></div>
 

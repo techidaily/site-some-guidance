@@ -1,7 +1,7 @@
 ---
 title: "\"The Smartphone Lens  Creating Sweeping Panos for 2024\""
-date: 2024-08-10T21:16:43.343Z
-updated: 2024-08-11T21:16:43.343Z
+date: 2025-01-10T21:18:43.065Z
+updated: 2025-01-15T17:40:21.020Z
 tags: 
   - screen-recording
   - ai video
@@ -20,15 +20,6 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
 
 # How to Shoot Vertical Panorama Photos with Your Smartphone Android/iOS
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -43,14 +34,19 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
 
  However, you will need to use a few but simple techniques to efficiently capture the vertical panoramic view. In this article, we’ll explain you how you can carry out those extraordinary views with your Android or iOS device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to take vertical panorama photography with your respective Smartphone
 
 * [Part 1: For iPhone Users](#part1)
 * [Part 2: For Android Users](#part2)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### For iPhone users
 
  The iPhone users can follow the steps given below to execute vertorama.
@@ -58,10 +54,11 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
 * Launch Camera app in your device and initiate a right swipe to the "PANO" mode.
 * Make sure to hold the device horizontally and hit the camera button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/iphone-panorama-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image source: mac-fusion
 
@@ -69,22 +66,9 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
 * Once finished and satisfied, just tap on "Done" option.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### For Android users
 
  To capture vertical panorama on Android, the steps are given just below.
@@ -101,8 +85,9 @@ Key features:
 * Tap on "Done" when completed.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Some Beneficial Tips for shooting vertical panorama photo
 
 * Firstly, we would suggest you using a tripod when you need to take **vertical panorama on iPhone** or Android smoothly i.e. to avoid shakiness.
@@ -110,9 +95,6 @@ Key features:
 * For better shoot of vertical panorama on Android as well as iPhone, make sure to stand close to the subject to be captured. This way will intensify the tall subjects rather than giving more highlight to the foreground.
 * Leaving some space is another beautiful tip especially if you are a graphic designer and want to add some text into the picture. The panorama shot will look perfectly enhanced this way.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -121,8 +103,6 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -130,5 +110,24 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-art-of-audience-engagement-emulate-your-idols-online/"><u>[New] In 2024, The Art of Audience Engagement Emulate Your Idols Online</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-top-25-mentors-in-modern-social-media-mastery-on-instagram-for-2024/"><u>[New] Top 25 Mentors in Modern Social Media Mastery on Instagram for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-speech-recognition-made-accessible-transforming-audio-to-text-with-ease-in-microsoft-word-for-2024/"><u>[Updated] Speech Recognition Made Accessible Transforming Audio to Text with Ease in Microsoft Word for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1726226013629-m4aaac-movavi/"><u>「オンラインで簡単アクセス! M4AファイルをAACに自由転送 - MOVAVI」</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-journey-through-colors-leading-tutorials-for-grading-and-correction/"><u>A Journey Through Colors Leading Tutorials for Grading & Correction</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/becoming-a-color-connoisseur-top-techniques-for-2024/"><u>Becoming a Color Connoisseur Top Techniques for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/buy-movavi-business-video-editor-now-ultimate-toolset-for-professional-videography/"><u>Buy Movavi Business Video Editor Now: Ultimate Toolset for Professional Videography</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/converter-arquivos-gratis-on-line-de-tiff-para-pdf-por-movavi-sem-custo/"><u>Converter Arquivos Grátis On-Line: De Tiff Para Pdf Por Movavi Sem Custo</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/keeping-the-connection-strong-avoiding-livestream-interruptions-on-facebook/"><u>Keeping the Connection Strong Avoiding Livestream Interruptions on Facebook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/les-secrets-de-la-creation-danimation-comment-concevoir-votre-video-en-beton/"><u>Les Secrets De La Création D'Animation : Comment Concevoir Votre Vidéo en Béton</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/online-free-converter-convert-aifc-to-m4a-format-with-movavi/"><u>Online Free Converter - Convert AIFC to M4A Format with Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-obstacles-understanding-teredos-road-to-qualification-difficulties/"><u>Overcoming Obstacles: Understanding Teredo's Road to Qualification Difficulties</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-the-frustrating-error-code-224003-preventing-video-playback/"><u>Step-by-Step Fix for the Frustrating Error Code 224003 Preventing Video Playback</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tecnicas-faciles-para-editar-y-convertir-videos-en-movavi/"><u>Técnicas Fáciles Para Editar Y Convertir Videos en Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-6-innovative-applications-to-revolutionize-your-personal-blogging/"><u>Top 6 Innovative Applications to Revolutionize Your Personal Blogging</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transfiere-archivos-de-ape-a-formato-aac-sin-costo-con-el-convertidor-online-gratuito-de-movavi/"><u>Transfiere Archivos De APE a Formato AAC Sin Costo Con El Convertidor Online Gratuito De Movavi</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/swf-mpeg-movavi/"><u>온라인 SWF MPEG 최신 변환 소프트웨어: 영상 유형 토금표 제공 – Movavi 가이드</u></a></li>
+</ul></div>
 
