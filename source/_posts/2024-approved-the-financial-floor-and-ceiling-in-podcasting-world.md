@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Financial Floor and Ceiling in Podcasting World\""
-date: 2024-08-17T18:37:19.522Z
-updated: 2024-08-18T18:37:19.522Z
+date: 2025-01-21T02:10:30.367Z
+updated: 2025-01-21T21:57:28.017Z
 tags: 
   - screen-recording
   - ai video
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/bae70dc1da321109f70e787435e8a7bf8638e9926
 
 ## The Financial Floor and Ceiling in Podcasting World
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![podcasters](https://images.wondershare.com/filmora/article-images/2022/11/how-much-do-podcasters-make-1.jpg)
 
 The number of podcasters, the growth of podcasting, and how much podcasters make are all topics that come up frequently on Quora. It's no secret that podcasting is on the rise—more than 2.6 billion people in the world today consume audio content regularly.
@@ -68,9 +65,6 @@ If you have 5000 download/listeners per episode:
 * $2450/month from course sale
 * **Total = $5000/month**
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** These numbers are only speculative and assumptions. Depending on various factors, you could make anywhere from $1,000-$50,000 or more. That includes your reputation, strategy, and niche.
@@ -78,8 +72,9 @@ If you have 5000 download/listeners per episode:
 An example of this could include things like how much you want to charge to Patreon or possibly having a higher CPM sponsorship offer, or cost per thousand listeners based on expected performance and other factors.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: All Possible Income Sources for Podcasters
 
 Many people would love to get paid to talk about their passions. That's pretty much how it started for every podcaster. Yet, even though it may be easy to start a podcast, it's not always so easy to make a living at it.
@@ -87,8 +82,9 @@ Many people would love to get paid to talk about their passions. That's pretty m
 We'll show you a bunch of ways podcasters earn a living doing something they love. Let's take a look…
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Sponsorship
 
 In a podcast, a sponsor is the first thing you need to think about when seeking to make money from your podcast. With so many podcast ad networks, there are many options for advertisers wanting to advertise on podcasts. Podcasters hire networks, negotiate terms, and secure content on their behalf.
@@ -98,8 +94,9 @@ You need at least 5,000 listeners per month to be accepted by Midroll or Authent
 ![marketing charts](https://images.wondershare.com/filmora/article-images/2022/11/how-much-do-podcasters-make-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Complementary products
 
 As a podcaster, you are your merchant. There are some obvious items that you need to sell, such as t-shirts, caps, mugs and more.
@@ -111,8 +108,9 @@ It’s important to know the best ways to market your brand through various plat
 One thing to keep in mind when selling merchandising is that the more niche your podcast is, the less likely you will be able to sell a lot of it. Instead, focus on making quality items that appeal to your target audience.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Listeners' donations
 
 If you don’t have any other income sources, consider crowdfunding and/or donations to help you keep producing high-quality content. Crowdfunding is the act of funding a project or venture by raising funds from a large group of people.
@@ -131,10 +129,11 @@ You could sell a related product, share your affiliate link through social media
 
 In addition to the many affiliate marketing programs, some are specifically for podcasting, such as Amazon and ShareASale.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![amazon affiliate program commission rate](https://images.wondershare.com/filmora/article-images/2022/11/how-much-do-podcasters-make-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Popular Podcasts Earnings in 2024
 
@@ -187,8 +186,16 @@ Part 1: Are Podcasts Profitable?
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-flashframe-crafter-for-2024/"><u>[New] FlashFrame Crafter for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-virtual-reality-wonders-uncovering-the-leading-vr-gear/"><u>[New] Virtual Reality Wonders Uncovering the Leading VR Gear</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-premier-destinations-amplifying-youtube-videos/"><u>[Updated] Premier Destinations Amplifying YouTube Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-digital-artisans-guide-mastering-screen-recordings-in-macos/"><u>[Updated] The Digital Artisan's Guide Mastering Screen Recordings in macOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-compilation-of-hd-android-video-apps/"><u>[Updated] The Ultimate Compilation of Hd Android Video Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-checklist-for-compelling-audio-intros/"><u>2024 Approved The Ultimate Checklist for Compelling Audio Intros</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-asus-rog-phone-8-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Asus ROG Phone 8 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tutorial-windows-movie-maker-for-effective-animation-designs/"><u>In 2024, Tutorial Windows Movie Maker for Effective Animation Designs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/safeguard-your-system-with-these-15-fantastic-free-antivirus-bootables/"><u>Safeguard Your System with These 15 Fantastic Free Antivirus Bootables</u></a></li>
+</ul></div>
 
