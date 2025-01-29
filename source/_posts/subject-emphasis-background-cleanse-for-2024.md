@@ -1,7 +1,7 @@
 ---
 title: "\"Subject Emphasis  Background Cleanse for 2024\""
-date: 2024-08-17T18:42:59.069Z
-updated: 2024-08-18T18:42:59.069Z
+date: 2025-01-25T16:24:39.871Z
+updated: 2025-01-29T14:23:31.823Z
 tags: 
   - screen-recording
   - ai video
@@ -22,10 +22,6 @@ Affinity Photo is an image editor developed by Serif Ltd. in 2009 and is used by
 
 No matter you are a professional content creator or a newbie, we'll be discussing how to remove background in Affinity Photo. Let's explore how to use the good editing tool to be free of the stressful editing process.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## How to Remove Affinity Photo to Remove Image's Background
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
@@ -40,16 +36,21 @@ Now access the **Pixel Persona** section in the left corner of the software scre
 
 ![accessing the pixel persona in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-pixel-persona-in-affinity-designer.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
 
@@ -57,18 +58,16 @@ Step4 Next, zoom in on your subject. Press & hold the ALT key on your keyboard, 
 
 Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** menu. A red mask will be applied to your subject, giving you an idea of how your image will look once you remove the background. Zoom in and if any details are excluded, paint them over. Once you are satisfied, click **"Apply"** to save your changes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![refining the outline around the image to remove background in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/refining-the-outline-around-the-image-to-remove-background-in-affinity-designer.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Remove a Busy Background in Affinity Designer
 
 If you want to remove a busy background of an image in the Affinity Designer software, follow these steps carefully:
@@ -99,18 +98,20 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
 
@@ -138,7 +139,6 @@ And if you have any interests in finding free images to expand your resource, yo
 
 Hopefully, this article and video can help you create ideal images!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -161,8 +161,26 @@ Hopefully, this article and video can help you create ideal images!
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-proiphone-techniques-capturing-perfect-close-up-and-macro-shots/"><u>[New] In 2024, Proiphone Techniques Capturing Perfect Close-Up and Macro Shots</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-complete-guide-to-applying-vhs-filters-on-pconline-sites/"><u>[New] The Complete Guide to Applying VHS Filters on PC/Online Sites</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-unlocking-the-potential-of-slug-line-formats-in-screenplays/"><u>[Updated] 2024 Approved Unlocking the Potential of Slug Line Formats in Screenplays</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-which-video-sharing-app-should-i-pick-tiktok-or-youtube-shorts-perspective/"><u>[Updated] 2024 Approved Which Video-Sharing App Should I Pick? TikTok or YouTube Shorts Perspective</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-debating-platform-preferences-igtv-versus-youtube-video-sharing/"><u>[Updated] In 2024, Debating Platform Preferences IGTV Versus YouTube Video Sharing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-nocturnal-narrative-videos-analysis/"><u>[Updated] Nocturnal Narrative Videos Analysis</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-storyboard-designers-den/"><u>[Updated] Ultimate Storyboard Designer's Den</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-fcp-freebies/"><u>2024 Approved The Ultimate Guide to FCP Freebies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-guide-to-repairing-ntdlldll-faults-on-windows-operating-systems-version-11-and-10/"><u>Comprehensive Guide to Repairing ntdll.dll Faults on Windows Operating Systems (Version 11 & 10)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-updates-for-your-brother-mfc-l2690dw-printer-driver/"><u>Get the Latest Updates for Your Brother MFC-L2690DW Printer Driver</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tailor-your-own-outro-with-free-sound-samples/"><u>In 2024, Tailor Your Own Outro with Free Sound Samples</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-significance-of-video-in-client-promotional-power/"><u>In 2024, The Significance of Video in Client Promotional Power</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/microsoft-innovates-with-ai-discover-the-revolutionary-features-of-the-new-surface-pro-10-and-laptop-6-insights/"><u>Microsoft Innovates with AI: Discover the Revolutionary Features of the New Surface Pro 10 and Laptop 6 | Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixing-fallout-3-crashes-in-windows-10/"><u>Resolved: Fixing Fallout 3 Crashes in Windows 10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-future-is-now-transformative-metaverse-techniques-for-2024/"><u>The Future Is Now Transformative Metaverse Techniques for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-notch-voice-alteration-for-valorant-players-available-at-zero-cost-for-2024/"><u>Top Notch Voice Alteration for Valorant Players - Available at Zero Cost for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleash-creativity-with-iphone-burst-photography-for-2024/"><u>Unleash Creativity with iPhone Burst Photography for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-secrets-of-montage-image-assembly-for-2024/"><u>Unveiling the Secrets of Montage Image Assembly for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723009120190-warcraft-online-issues-resolved-reconnect-to-battle-for-azeroth-server-now/"><u>Warcraft Online Issues Resolved - Reconnect to Battle for Azeroth Server Now!</u></a></li>
+</ul></div>
 

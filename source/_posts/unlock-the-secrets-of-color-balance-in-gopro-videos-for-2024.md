@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Secrets of Color Balance in GoPro Videos for 2024"
-date: 2024-08-17T18:43:04.239Z
-updated: 2024-08-18T18:43:04.239Z
+date: 2025-01-22T18:11:42.113Z
+updated: 2025-01-29T13:18:35.731Z
 tags: 
   - screen-recording
   - ai video
@@ -44,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
 **Step 2:** Split the Image- On the right of the screen there is a split button. You need to shift the point almost halfway. Doing this would split the window in ½ though you will not be able to see that. When the color profile of the image is changed the right side is going to change without affecting the left side. This would allow you to compare the image as it was before and after correcting the color. In order to view the original image or the edited one you have to draw the pointer to the right or left.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Color correction in GoPro Studio](https://images.wondershare.com/filmora/article-images/color-correction-in-gopro-studio-0.jpg)
 
 **Step 3:** Color Correction- On the right hand side of your window the color correction can be done just by hitting on the arrow beside the White Balance button and the Image button. Now you can see the options which needed to be changed in order to correct the color. You will be able to view all the options like temperature, exposure, sharpness, contrast, tint and saturation. You can also choose to apply different preset overlays to give the footage a special filter.
@@ -55,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
  The GoPro Studio is very user friendly and effective video editing software but in order to use it you need to convert the format of your video before you start to edit. There aren't many options especially when you require enhanced controls on the GoPro recordings. This is why we would recommend you to use the [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) editing software. It is equipped with a special action cam tool which not only allows the user to alter the color by changing the brightness, saturation, vignette, tint or temp but even comes with loads of 3D LUT filters which adds a nice effect.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
  The all new version of the Wondershare Filmora editing software for Windows and Mac is packed with exciting features meant exclusively for action cameras. These features include:
@@ -65,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 1. [Video stabilization](https://tools.techidaily.com/wondershare/filmora/download/), advanced speed control (slow motion, fast motion, replay, freeze frame and reverse), audio de-noise, along with color correction features (3D, white balance, LUT etc).
 2. The Instant Cutter tool would give the users the option of trimming and merging video files without any loss of quality. It would allow you to cut a 8GB footage within just a minutes time.
 3. It fully supports  encoded MP4 format, MTS and Mov videos shot on any action cams, camcorders and phones.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## GoPro Footage Color Correction in Wondershare Filmora
 
@@ -74,16 +72,14 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
 ![color correction](https://images.wondershare.com/filmora/guide/1-action-cam-tool-fix-entrance.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Color Tuning. Now you need to choose the Color Tab on the left of your control panel. Here you will be able to drag the individual slider so as to alter the contrast, brightness, tint, vignette and saturation.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![correct gopro footage color](https://images.wondershare.com/filmora/article-images/color-corretion-in-gopro-studio-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  The compare button located on the top right lets you check all the segments before and after the correction simultaneously. While the Reset button ![color-tuning-reset-button](https://images.wondershare.com/filmora/guide/color-tuning-reset-button.png) would allow you to clear all the color corrections anytime.
 
 **Step 3:** Save and Share- Once the edit is finished you need to hit the Export button in order to save the edited clip as MOV or MP4 format. You can also alter the video res and the frames per sec. Now just hit the OK button to start the export.
@@ -91,13 +87,11 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 ![Export](https://images.wondershare.com/filmora/guide/8-action-cam-tool-export.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -116,6 +110,10 @@ Follow @Max Wales
 
 [Color Grading and Correction in Final Cut Pro >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Color Correction in GoPro Studio
 
  One of the easiest and most convenient ways of making the most out of your action camera is to use the ["Protune"](https://gopro.com/support/articles/how-to-use-protune) setting. The Protune among other things is capable of enhancing the dynamic recording range. The enhanced dynamic range would offer you a flat log like image which appears more vigorous while during color grading.
@@ -128,21 +126,18 @@ Follow @Max Wales
 
 **Step 2:** Split the Image- On the right of the screen there is a split button. You need to shift the point almost halfway. Doing this would split the window in ½ though you will not be able to see that. When the color profile of the image is changed the right side is going to change without affecting the left side. This would allow you to compare the image as it was before and after correcting the color. In order to view the original image or the edited one you have to draw the pointer to the right or left.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Color correction in GoPro Studio](https://images.wondershare.com/filmora/article-images/color-correction-in-gopro-studio-0.jpg)
 
 **Step 3:** Color Correction- On the right hand side of your window the color correction can be done just by hitting on the arrow beside the White Balance button and the Image button. Now you can see the options which needed to be changed in order to correct the color. You will be able to view all the options like temperature, exposure, sharpness, contrast, tint and saturation. You can also choose to apply different preset overlays to give the footage a special filter.
 
 ![how to do color correction in GoPro Studio](https://images.wondershare.com/filmora/article-images/color-correction-in-gopro-studio-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The GoPro Studio is very user friendly and effective video editing software but in order to use it you need to convert the format of your video before you start to edit. There aren't many options especially when you require enhanced controls on the GoPro recordings. This is why we would recommend you to use the [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) editing software. It is equipped with a special action cam tool which not only allows the user to alter the color by changing the brightness, saturation, vignette, tint or temp but even comes with loads of 3D LUT filters which adds a nice effect.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
  The all new version of the Wondershare Filmora editing software for Windows and Mac is packed with exciting features meant exclusively for action cameras. These features include:
@@ -151,18 +146,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. The Instant Cutter tool would give the users the option of trimming and merging video files without any loss of quality. It would allow you to cut a 8GB footage within just a minutes time.
 3. It fully supports  encoded MP4 format, MTS and Mov videos shot on any action cams, camcorders and phones.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## GoPro Footage Color Correction in Wondershare Filmora
 
  In order to do the color correction in Filmora you just need to follow the 3 easy steps.
 
 **Step 1:** Import the file. After opening the Filmora app go to the Action Cam Tool right on the interface of the software. Now click on the import button or just drag and drop your clip shot on any action cam into the middle of your timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![color correction](https://images.wondershare.com/filmora/guide/1-action-cam-tool-fix-entrance.jpg)
 
 **Step 2:** Color Tuning. Now you need to choose the Color Tab on the left of your control panel. Here you will be able to drag the individual slider so as to alter the contrast, brightness, tint, vignette and saturation.
@@ -171,23 +160,31 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  The compare button located on the top right lets you check all the segments before and after the correction simultaneously. While the Reset button ![color-tuning-reset-button](https://images.wondershare.com/filmora/guide/color-tuning-reset-button.png) would allow you to clear all the color corrections anytime.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Save and Share- Once the edit is finished you need to hit the Export button in order to save the edited clip as MOV or MP4 format. You can also alter the video res and the frames per sec. Now just hit the OK button to start the export.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![Export](https://images.wondershare.com/filmora/guide/8-action-cam-tool-export.jpg)
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -211,8 +208,20 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-enlightening-epics-and-epochs-the-leading-storytelling-institutions-top-8/"><u>[New] 2024 Approved Enlightening Epics and Epochs The Leading Storytelling Institutions (Top 8)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-essence-of-depth-crafting-3d-text-art/"><u>[New] In 2024, The Essence of Depth Crafting 3D Text Art</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-elevate-your-video-watchlist-activate-av1-on-youtube/"><u>2024 Approved Elevate Your Video Watchlist - Activate AV1 on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-syncopated-soundscapes-logic-pros-fading-artistry/"><u>2024 Approved Syncopated Soundscapes - Logic Pro's Fading Artistry</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-secret-ingredient-to-learning-top-ideas-for-combining-tasks-with-talk-shows/"><u>2024 Approved The Secret Ingredient to Learning Top Ideas for Combining Tasks with Talk Shows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-video-upgrade-pathway-sdr-to-hdri-transformation-techniques/"><u>2024 Approved The Ultimate Video Upgrade Pathway SDR to HDRI Transformation Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-secrets-to-choosing-movie-trailers-music/"><u>2024 Approved Unveiling the Secrets to Choosing Movie Trailers' Music</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/complete-guide-step-by-step-methods-to-wipe-all-information-from-your-iphone/"><u>Complete Guide: Step-by-Step Methods to Wipe All Information From Your iPhone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tial-steps-for-seamless-youtube-video-loops/"><u>Essential Steps for Seamless YouTube Video Loops</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://program-issues.techidaily.com/sea-of-thieves-crash-free-gaming-solutions-to-the-common-stalling-issues/"><u>Sea of Thieves Crash-Free Gaming: Solutions to the Common Stalling Issues</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/superior-2-written-by-robert-littell-for-2024/"><u>Superior 2 Written by Robert Littell for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlocking-the-gpeditmsc-tool-for-windows-home-users-a-step-by-step-guide/"><u>Unlocking the gpedit.msc Tool for Windows Home Users – A Step-by-Step Guide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 10 iPhone Lens Capabilities in iOS 11"
-date: 2024-08-21T17:46:07.621Z
-updated: 2024-08-22T17:46:07.621Z
+date: 2025-01-25T02:00:08.455Z
+updated: 2025-01-29T01:28:11.607Z
 tags: 
   - screen-recording
   - ai video
@@ -40,15 +40,16 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 
 ![](https://images.wondershare.com/filmora/article-images/grid-mode-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: Macworld
 
  If you want to improve your photo taking skills, you must start paying attention to picture composition. Fortunately, the iPhone camera app offers the Grid Mode that divides the screen into nine equal parts. The grid will provide assistance in placing the subjects of your photos at the very center of the picture or when learning how to use the rule of thirds, one of the most basic composition techniques in photography.
 
 #### 2\. Set the Focus and Exposure manually
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/set-focus-iphone.jpg)
 
  Image resource: iPhone Photography School
@@ -65,10 +66,11 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 
 #### 4\. Use the Timer to Stabilize Your Shots
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/use-timer-on-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  iPhone X weighs only 174 grams, which makes it nearly impossible to hold perfectly still. This complicates things even further in difficult light conditions, but the Timer feature on iPhone X can help you solve this problem. You can compose your shot and set the Timer for 3 or 10 seconds and the device will take ten photos in a row, which will enable you to select the sharpest photo and delete the others.
 
@@ -80,15 +82,16 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 
 ![](https://images.wondershare.com/filmora/article-images/qr-detection-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: 9to5Mac
 
  QR codes are actually quite convenient because they save you the trouble of typing the URL by yourself. The iOS 11 is the first iPhone OS with the ability to read QR codes. All you need to do is open your camera app and point it in the direction of the QR code you want to view, and your iPhone X will do the rest.
 
 #### 7\. Take Selfies in Portrait Mode - Only for iPhone X
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/selfie-portrait-mode-iphone.jpg)
 
  Image resource: Tom's Guide
@@ -101,9 +104,6 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 
 #### 9\. Dual Optical Image Stabilization Lets you Take Better Photos - iPhone X/8
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/dual-image-stabilization-iphone.jpg)
 
  Keeping the moving objects in focus is a major concern regardless of the camera you are using. We were excited about the [dual camera feature in iPhone 7](https://tools.techidaily.com/wondershare/filmora/download/), now the Dual Optical Image Stabilization feature in iOS 11 reduces motion blur and it also decreases the impact the camera shakes have on your photos. iPhone 8's Optical Image Stabilization has been improved on iPhone X and it works alongside the image sensor to ensure that all pictures taken with this device are razor sharp.
@@ -112,6 +112,10 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
 
 ![](https://images.wondershare.com/filmora/article-images/portrait-lighting-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  iPhone 8 Plus and iPhone X offer a new feature, specifically designed to let you find the perfect lighting for the subject of your photos. This feature doesn't work like a filter, but rather like a real-time light meter, that calculates the optimum light values on the face of the person or persons depicted in a photo.
 
 ## Post Production Software for iPhone photography
@@ -119,6 +123,10 @@ thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36
  iPhone photographers, who would like to take their photos and videos a step further will unquestionably benefit from using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). The editor lets you create 9:16 aspect ratio images, designed to help mobile users who don't want to have the black bars alongside the edges of their vertically oriented photos and videos. Adding blur effects to your photos or videos, enhancing the colors or applying effects to your videos are just a few out of many possibilities provided by the Wondershare's software.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
@@ -137,6 +145,10 @@ Follow @Ollie Mattison
 **You may also like:** [Best Camera Apps for iPhone X/10/8 Plus/7 Plus](https://tools.techidaily.com/wondershare/filmora/download/)
 
  Each iPhone photographer has to ask themselves the same question: 'Am I really using the full capacity of my camera?'If the answer is no, maybe these iPhone camera features can help you improve the quality of your photos.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10 iPhone Camera Features You Should Know in iOS 11
 
@@ -160,9 +172,6 @@ Follow @Ollie Mattison
 
 #### 3\. HDR Photos Have More Balanced Lightning
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/turn-on-hdr.jpg)
 
  Image resource: Gadget Bistro Malaysia
@@ -171,10 +180,11 @@ Follow @Ollie Mattison
 
 #### 4\. Use the Timer to Stabilize Your Shots
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/use-timer-on-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  iPhone X weighs only 174 grams, which makes it nearly impossible to hold perfectly still. This complicates things even further in difficult light conditions, but the Timer feature on iPhone X can help you solve this problem. You can compose your shot and set the Timer for 3 or 10 seconds and the device will take ten photos in a row, which will enable you to select the sharpest photo and delete the others.
 
@@ -184,9 +194,6 @@ Follow @Ollie Mattison
 
 #### 6\. QR Codes Detection
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/qr-detection-iphone.jpg)
 
  Image resource: 9to5Mac
@@ -195,18 +202,6 @@ Follow @Ollie Mattison
 
 #### 7\. Take Selfies in Portrait Mode - Only for iPhone X
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/selfie-portrait-mode-iphone.jpg)
 
  Image resource: Tom's Guide
@@ -225,30 +220,20 @@ Follow @Ollie Mattison
 
 #### 10\. Portrait Lighting Lets You Adjust Light to Best Fit Your Subject - iPhone X/8
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/portrait-lighting-iphone.jpg)
 
  iPhone 8 Plus and iPhone X offer a new feature, specifically designed to let you find the perfect lighting for the subject of your photos. This feature doesn't work like a filter, but rather like a real-time light meter, that calculates the optimum light values on the face of the person or persons depicted in a photo.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Post Production Software for iPhone photography
 
  iPhone photographers, who would like to take their photos and videos a step further will unquestionably benefit from using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). The editor lets you create 9:16 aspect ratio images, designed to help mobile users who don't want to have the black bars alongside the edges of their vertically oriented photos and videos. Adding blur effects to your photos or videos, enhancing the colors or applying effects to your videos are just a few out of many possibilities provided by the Wondershare's software.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -256,7 +241,6 @@ Ollie Mattison
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -280,8 +264,21 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-10-finest-fee-free-lut-options-reviewed-and-accessible-here/"><u>[New] 10 Finest, Fee-Free LUT Options Reviewed & Accessible Here</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-exciting-vlog-subjects-daily-selection/"><u>[New] In 2024, Exciting Vlog Subjects Daily Selection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-editors-guide-to-top-10-fcp-plug-ins/"><u>[New] The Ultimate Editor's Guide to Top 10 FCP Plug-Ins</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unlock-social-potential-xbox-games-via-facebook-livestream-for-2024/"><u>[New] Unlock Social Potential Xbox Games via Facebook Livestream for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-footage-to-film-how-to-make-a-dvd-with-the-best-software/"><u>2024 Approved From Footage to Film How to Make a DVD with the Best Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-strategies-for-winning-on-spotifys-ad-platform/"><u>2024 Approved Strategies for Winning on Spotify's Ad Platform</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/1725290565611-dvd/"><u>家庭でのDVDコピーが上手く行かず、無料ソフトのエラーをどう修正するか？ 詳しい指南記事</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-special-role-in-enterprise-settings/"><u>ChatGPT's Special Role in Enterprise Settings</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-vivo-y55s-5g-2023-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Vivo Y55s 5G (2023) Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unbeatable-prices-for-top-6-action-cams-under-100/"><u>In 2024, Unbeatable Prices for Top 6 Action Cams Under $100</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-online-convertir-contenido-multimedia-facilmente-desde-mp3-hasta-flv-sin-costo-alguno/"><u>Movavi Online: Convertir Contenido Multimedia Fácilmente Desde MP3 Hasta FLV Sin Costo Alguno</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/superior-webcams-for-professional-podcasting-for-2024/"><u>Superior Webcams for Professional Podcasting for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshoot-wordle-app-crashes-effectively/"><u>Troubleshoot Wordle App Crashes Effectively</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-approaches-to-clearer-zoomed-video-on-online-platforms-for-2024/"><u>Ultimate Approaches to Clearer Zoomed Video on Online Platforms for 2024</u></a></li>
+</ul></div>
 
