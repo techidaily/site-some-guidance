@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Guide to Adding Time Markers on YouTubes"
-date: 2024-08-21T17:51:16.572Z
-updated: 2024-08-22T17:51:16.572Z
+date: 2025-02-03T17:09:58.661Z
+updated: 2025-02-09T17:45:53.045Z
 tags: 
   - screen-recording
   - ai video
@@ -28,10 +28,11 @@ A YouTube timestamp is a way to link to a specific moment in your video. When vi
 
 * [Part 2\. How to add a timestamp in YouTube comments or description](#part2)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1\. How to add a timestamp to YouTube video?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Using Built-in function - copy video URL at current time (Most Recommended)
 
@@ -39,12 +40,13 @@ A YouTube timestamp is a way to link to a specific moment in your video. When vi
 2. Locate the time in video you want to share.
 3. Right-click the video and select _**“Copy video URL video at current time.”**_
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![youtube timestamp](https://images.wondershare.com/filmora/article-images/2022/08/youtube-timestamp-1.jpg)
 
 You can then share the link as you wish.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Using the Video Sharing Button to Share Timestamps
 
@@ -56,23 +58,18 @@ You can then share the link as you wish.
 
 1. Check the _**“Start at \[time slot\]”**_ box in the popup menu that appears.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![popup menu](https://images.wondershare.com/filmora/article-images/2022/08/youtube-timestamp-3.jpg)
 
 1. If you need to adjust the time marker manually, tap the _**“time”**_ and enter a new value.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![enter a new value](https://images.wondershare.com/filmora/article-images/2022/08/youtube-timestamp-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Highlight the _**“URL,”**_ then _**“Right-click”**_ (Windows) or _**“two-finger tap”**_ (Mac) and select _**“Copy.”**_
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![select copy](https://images.wondershare.com/filmora/article-images/2022/08/youtube-timestamp-5.jpg)
 
 Viewers are taken immediately to the desired timestamp when they click the copied link. The video starts to play at that point.
@@ -91,23 +88,29 @@ When sharing (email, Facebook, Twitter, etc.), the URL is "<https://youtu.be/>"
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** When manually linking to a timestamp, always omit the zeros and include only whole numbers. For example, use 8 instead of 08.
 
 It is also important to note that referring to a specific timestamp does not mean that one cannot watch earlier video segments. They can move the time slider in any direction.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Using the YouTube app for Android or iPhone, link to a particular time slot
 
 1. Launch the _**“YouTube App”**_ and find the video you'd like to share where it starts playing at a specific timeslot.
 2. Pause the video to your starting point or pause and use the **_“Seek”_** option by holding down on the video and sliding right or left.
 3. Click on the _**“Share”**_ button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![click on the share button](https://images.wondershare.com/filmora/article-images/2022/08/youtube-timestamp-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. To save the timeslot URL to use for multiple apps or for later use, select "Copy Link" and paste it where you can retrieve it as needed. You can edit the time period in the URL later.
 2. Edit the URL you saved in step 4\. For short URLs (youtu.be) use "?t=Xs" where X=seconds or "?t=XmYs" where X=minutes and S= seconds. Replace “?” with “&” for long URLs (youtube.com/watch?v=). Adjust the "X" and "Y" values to your specified pause time.
@@ -123,9 +126,6 @@ Link generators allow you to not only share specific parts of videos from YouTub
 
 1. Go to [Farotech timestamp link generator](https://farotech.com/youtube-timestamp-link-generator/), paste the URL of the YouTube video you want to share, and edit the time.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![edit the time](https://images.wondershare.com/filmora/article-images/2022/08/youtube-timestamp-7.jpg)
 
 1. To confirm whether the jump time is right, you can simply click on the generated link. If the verification is successful, you can then copy the address.
@@ -178,8 +178,21 @@ Part 1\. How to add a timestamp to YouTube video?
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/fixed-destiny-2-wont-launch-pc/"><u>[Fixed] Destiny 2 Won’t Launch PC</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-optimizing-screen-captures-expert-techniques-for-hp-laptops/"><u>[New] 2024 Approved Optimizing Screen Captures Expert Techniques for HP Laptops</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-your-blueprint-for-downloading-youtube-srt-in-3-steps/"><u>[New] 2024 Approved Your Blueprint for Downloading YouTube SRT in 3 Steps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-precision-at-a-glance-elevate-your-hp-laptop-recording-skills/"><u>[New] Precision at a Glance Elevate Your HP Laptop Recording Skills</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamline-your-information-with-mematics-app/"><u>[New] Streamline Your Information with Mematic's App</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-innovators-choice-best-gimbal-systems-for-video-creators/"><u>In 2024, The Innovator’s Choice Best Gimbal Systems for Video Creators</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-path-to-effective-marketing-best-practices-for-health-promos/"><u>In 2024, The Path to Effective Marketing Best Practices for Health Promos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/key-insights-into-virtual-tale-crafting-for-2024/"><u>Key Insights Into Virtual Tale Crafting for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/pc-compatible-sony-ps3-mimicry-tools-top-picks-for-2024/"><u>PC-Compatible Sony PS3 Mimicry Tools Top Picks for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-apple-tv-controls-discover-the-latest-accessory-for-adding-airtags/"><u>Revolutionize Your Apple TV Controls: Discover the Latest Accessory for Adding AirTags</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/tecnicas-simplificadas-para-la-sincronizacion-perpetua-de-archivos-en-windows-una-guia-completa/"><u>Técnicas Simplificadas Para La Sincronización Perpetua De Archivos en Windows: Una Guía Completa</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-complete-blueprint-for-iphone-podcast-downloads-for-2024/"><u>The Complete Blueprint for iPhone Podcast Downloads for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-edge-of-innovation-secure-these-7-must-have-devices-for-2024/"><u>The Edge of Innovation Secure These 7 Must-Have Devices for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-picture-in-picture-how-to-use-it-for-youtube-for-2024/"><u>Understanding Picture In Picture How to Use It for YouTube for 2024</u></a></li>
+</ul></div>
 

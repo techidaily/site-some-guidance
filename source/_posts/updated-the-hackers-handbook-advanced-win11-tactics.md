@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Hacker's Handbook  Advanced Win11 Tactics\""
-date: 2024-08-21T17:52:57.445Z
-updated: 2024-08-22T17:52:57.445Z
+date: 2025-02-03T18:25:45.974Z
+updated: 2025-02-09T22:54:43.930Z
 tags: 
   - screen-recording
   - ai video
@@ -30,18 +30,12 @@ Windows is nowhere to rock the world! If you are so excited about updating your 
 
 #### 1. Personalize the Start Menu
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![a8](https://images.wondershare.com/windows10/a8.png)
 
 The start menu of Windows 10 is now resizable. It can be quote odd for many but it is really surprising to know that with Windows 10, you can now customize the start menu and change its size to the extent you want. You now have the option to make it taller or wider as you like. If you wish to have the start menu taking up the whole left portion of the screen of your laptop or you want a thin strip transversely the taskbar, well that is now possible with Windows 10\. The taskbar is also resizable and that means you have the ability to some weird and pretty cool stuff with your device. You will surely find that having a resizable Start Menu is cool.
 
 #### 2. Using Cortana in Windows 10
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update win10 13](https://images.wondershare.com/windows10/update-win10-13.png)
 
 Cortana is finally here in Windows 10, taking control of the search functions as well as dishing out as much sass of the operating system in the same way with Windows Phone edition. On the other hand, by default, it will never listen and follow your commands.
@@ -52,9 +46,6 @@ While you are poking around the Cortana’s options, you may dive in the Noteboo
 
 #### 3. Additional Apps you should try
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![xbox games windows10](https://images.wondershare.com/windows10/xboy-games-windows10-1.png)
 
 The current Windows 10’s preview comes with some interesting apps like the new Xbox app, Insider Hub, Project Spartan web browser, Windows Feedback and a lot more. Though they are good apps to use when you want to get started in using Windows 10, Microsoft is likewise making available the preview of touch-friendly editions of Microsoft Word, Excel as well as the PowerPoint. All of these are known to be universal apps and that means similar code is running on the phones, PCs and tablets.
@@ -79,9 +70,6 @@ With Windows 10, it is now easy to create several desktops as well as run applic
 
 #### 6. New Mail App
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![a7](https://images.wondershare.com/windows10/a7.png)
 
 This is quite simple yet most people make use of the very capable contemporary email client that has been included in the latest editions of Windows. The email client that has been included in Windows 10 now comes with collapsible conversation view and email preview panel. Plus, it integrates the buttons for new contact and calendar apps. You could simply add different mail accounts from various providers.
@@ -92,9 +80,6 @@ This is quite simple yet most people make use of the very capable contemporary e
 
 Most users were tired and sick of the Internet Explorer’s incompatibility with a few newer websites. They also hate the sluggish performance of the previous versions. While the latest editions of Internet Explorer have created some significant gains in these aspects, the new Edge Browser of Windows 10 can make a neat and perfect break and it also offers better speed as well as new compatibility which is likely to surprise you. Besides, it now comes with a number of tools that are not available in Internet Explorer and these include the site annotation, extensions and reading view.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -127,9 +112,6 @@ While you are poking around the Cortana’s options, you may dive in the Noteboo
 
 #### 3. Additional Apps you should try
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![xbox games windows10](https://images.wondershare.com/windows10/xboy-games-windows10-1.png)
 
 The current Windows 10’s preview comes with some interesting apps like the new Xbox app, Insider Hub, Project Spartan web browser, Windows Feedback and a lot more. Though they are good apps to use when you want to get started in using Windows 10, Microsoft is likewise making available the preview of touch-friendly editions of Microsoft Word, Excel as well as the PowerPoint. All of these are known to be universal apps and that means similar code is running on the phones, PCs and tablets.
@@ -138,13 +120,6 @@ On the other hand, Microsoft did not release similar apps that are optimized for
 
 #### 4. New Keyboard Shortcuts
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![Windows 10 keyboard shortcuts](https://images.wondershare.com/filmora/article-images/Windows-10-keyboard-shortcuts.png)
 
 Most of them include the Windows key. The New window-snapping choices allow you not just to fill partially the screen on one side but also the screen quadrant. Also, you may tap the Windows key downward and hit “Right Arrow” and the “Up Arrow”. With that, the program window would move to the top quadrant at the right side of the screen.
@@ -167,9 +142,6 @@ This is quite simple yet most people make use of the very capable contemporary e
 
 #### 7. New Edge Browser
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![edge](https://images.wondershare.com/filmora/article-images/edge.jpg)
 
 Most users were tired and sick of the Internet Explorer’s incompatibility with a few newer websites. They also hate the sluggish performance of the previous versions. While the latest editions of Internet Explorer have created some significant gains in these aspects, the new Edge Browser of Windows 10 can make a neat and perfect break and it also offers better speed as well as new compatibility which is likely to surprise you. Besides, it now comes with a number of tools that are not available in Internet Explorer and these include the site annotation, extensions and reading view.
@@ -181,7 +153,6 @@ Max Wales
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -205,8 +176,30 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-nano-drones-10-your-next-flight-companion/"><u>[New] 2024 Approved Nano Drones 10 - Your Next Flight Companion?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-6-fiscal-picks-in-the-4k-projector-market/"><u>[New] Top 6 Fiscal Picks in the 4K Projector Market</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-the-potential-of-slug-line-formats-in-screenplays/"><u>[New] Unlocking the Potential of Slug Line Formats in Screenplays</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-navigating-youtubes-tagging-system-tips-for-finding-prime-video-labels/"><u>[Updated] 2024 Approved Navigating YouTube's Tagging System Tips for Finding Prime Video Labels</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-complete-blueprint-to-record-hulu-playback/"><u>[Updated] 2024 Approved The Complete Blueprint to Record Hulu Playback</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-mastering-video-content-conversion-xml-ssa-and-ttml-to-srt-guide/"><u>[Updated] Mastering Video Content Conversion XML, SSA & TTML to SRT Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-maximizing-engagement-the-power-of-tailored-cards-and-ends-on-yt-for-2024/"><u>[Updated] Maximizing Engagement The Power of Tailored Cards & Ends on YT for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-virtual-reality-vr-bikes-to-check-out/"><u>2024 Approved Top Virtual Reality (VR) Bikes to Check Out</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-8-substitutes-to-microsoft-images-tools-for-easy-viewing-and-video-editing/"><u>Best 8 Substitutes to Microsoft Images: Tools for Easy Viewing and Video Editing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-webp-to-jpgpng-a-guide-for-dall-e-outputs/"><u>From WebP to JPG/PNG: A Guide for DALL-E Outputs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-blaze-2-pro-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Lava Blaze 2 Pro Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-ultimate-fidelity-in-mac-screen-and-audio-recording/"><u>In 2024, Ultimate Fidelity in Mac Screen & Audio Recording</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-the-best-top-9-gamers-hubs/"><u>In 2024, Unlock the Best Top 9 Gamers' Hubs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/pro-grade-gopro-comparison-hero5-b-and-sessions-for-2024/"><u>Pro-Grade GoPro Comparison Hero5 B & Sessions for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-samsung-galaxy-s23plus-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Samsung Galaxy S23+ Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/sync-your-storytelling-iphone-captures-words-and-pictures-for-2024/"><u>Sync Your Storytelling IPhone Captures Words and Pictures for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/title-your-photos-quickly-captioning-techniques-in-photos-app-win-11-for-2024/"><u>Title Your Photos Quickly Captioning Techniques in Photos App Win 11 for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-premium-5g-notebooks-reviewed-by-tech-experts/"><u>Top 5 Premium 5G Notebooks Reviewed by Tech Experts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/uplifting-screen-stories-the-ultimate-empowerment-list-for-2024/"><u>Uplifting Screen Stories The Ultimate Empowerment List for 2024</u></a></li>
+</ul></div>
 
-
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

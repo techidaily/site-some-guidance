@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Tune & Time Lapses  Creating Music Videos with Your Phone\""
-date: 2024-08-21T17:54:09.942Z
-updated: 2024-08-22T17:54:09.942Z
+date: 2025-02-07T16:56:17.767Z
+updated: 2025-02-09T19:56:33.010Z
 tags: 
   - screen-recording
   - ai video
@@ -34,22 +34,21 @@ thumbnail: https://thmb.techidaily.com/99131a0c0da4530303a8f3d5a541a1cf2cb9af3e3
 * [Part 4: Edit on your computer](#part4)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: Using a tripod
 
  Footage shot with hand-held iPhones can be jerky, blurry and difficult to watch. To achieve the required level of stability, it’s a great idea to use a tripod. A tripod will help you produce a high-quality music video with a stable picture. Make sure you use a compact tripod that is easy to carry and operate to get the best results.
 
  A tripod will help you if you are shooting static footage, but if you wish to move around whilst you are recording and still obtain outstanding footage you can use a gimbal. Gimbals are much more affordable than they once were and are ideal for vloggers in particular as well as those shooting action-fuelled scenes.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![tripod](https://images.wondershare.com/filmora/article-images/jellyfish-metal-spring-tripod.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: Know the technical details of your iPhone
 
  You can record HD video with your rear-facing camera once you have read up on how to do so. The iPhone allows you to shoot 4K video, and you can even determine the number of frames per second you want to capture, in order to create smooth, hi-resolution footage. As long as you have the iPhone 6 or above and it is running on at least iOS 9, you’ll be able to capture 4K footage.
@@ -58,10 +57,11 @@ thumbnail: https://thmb.techidaily.com/99131a0c0da4530303a8f3d5a541a1cf2cb9af3e3
 
  If you wish to opt for slo-mo video recording, you can shoot in 1080p HD at 120fps (170MB per min) or 240fps (480MB). Whichever option you choose, make sure your device has sufficient space to avoid missing out on the exceptional footage that you require.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone technical details](https://images.wondershare.com/filmora/article-images/Shooting-iPhone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: If possible, hire a video director
 
@@ -69,22 +69,20 @@ thumbnail: https://thmb.techidaily.com/99131a0c0da4530303a8f3d5a541a1cf2cb9af3e3
 
 ![director](https://images.wondershare.com/filmora/article-images/director.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4: Edit on your computer
 
  The hard work isn’t over once the shoot has come to an end. By using professional editing software, you can add all sorts of dazzling effects and edit the final piece together in a way that just won’t be possible when using your iPhone alone. Editing software solutions like Filmore offer a range of features to boost the quality of your video including inbuilt audio synthesisers and special video effects, enabling you to match your music with your images perfectly. There are many exceptional music video editing software packages on the market that are simple to use and easy to get to grips with, even if you have little or no existing editing experience. You will almost certainly achieve better results by editing your video using your PC rather than your iPhone.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
  Many of us have dreamed of creating our own music videos to bring songs to life. Advancements in iPhone technology have made it much easier to turn your music video dreams to reality, whether you’re taking inspiration from the videos of modern stars like Kanye West, Taylor Swift and Rihanna or classic artists such as Madonna, Prince or Michael Jackson. You may be amazed to see the quality of what has been achieved in the world music video by people using little more than an iPhone and professional editing software. You are only limited by your imagination, so why not start thinking about ideas for music videos and plan a shoot today?
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -113,8 +111,9 @@ Follow @Ollie Mattison
 ![tripod](https://images.wondershare.com/filmora/article-images/jellyfish-metal-spring-tripod.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: Know the technical details of your iPhone
 
  You can record HD video with your rear-facing camera once you have read up on how to do so. The iPhone allows you to shoot 4K video, and you can even determine the number of frames per second you want to capture, in order to create smooth, hi-resolution footage. As long as you have the iPhone 6 or above and it is running on at least iOS 9, you’ll be able to capture 4K footage.
@@ -125,15 +124,16 @@ Follow @Ollie Mattison
 
 ![iphone technical details](https://images.wondershare.com/filmora/article-images/Shooting-iPhone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: If possible, hire a video director
 
  No matter how confident you are working without a director, you can enhance the quality of your music video even further when you do hire one. A director can help you derive more value from your iPhone and use their knowledge of angles, lighting effects and much more to make the end results surpass your expectations. As you’ll be saving money by shooting your video with your iPhone, you can use the cash you have saved to send your video to the next level and make the outcome truly breathtaking.
 
 ![director](https://images.wondershare.com/filmora/article-images/director.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Edit on your computer
 
  The hard work isn’t over once the shoot has come to an end. By using professional editing software, you can add all sorts of dazzling effects and edit the final piece together in a way that just won’t be possible when using your iPhone alone. Editing software solutions like Filmore offer a range of features to boost the quality of your video including inbuilt audio synthesisers and special video effects, enabling you to match your music with your images perfectly. There are many exceptional music video editing software packages on the market that are simple to use and easy to get to grips with, even if you have little or no existing editing experience. You will almost certainly achieve better results by editing your video using your PC rather than your iPhone.
@@ -141,15 +141,13 @@ Follow @Ollie Mattison
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  Many of us have dreamed of creating our own music videos to bring songs to life. Advancements in iPhone technology have made it much easier to turn your music video dreams to reality, whether you’re taking inspiration from the videos of modern stars like Kanye West, Taylor Swift and Rihanna or classic artists such as Madonna, Prince or Michael Jackson. You may be amazed to see the quality of what has been achieved in the world music video by people using little more than an iPhone and professional editing software. You are only limited by your imagination, so why not start thinking about ideas for music videos and plan a shoot today?
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -157,7 +155,6 @@ Ollie Mattison
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -181,8 +178,19 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-decoding-the-detailed-workings-of-samsung-photo-editor-app/"><u>[New] Decoding the Detailed Workings of Samsung Photo Editor App</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-metaverse-versus-multi-meva-unraveling-their-differences/"><u>[New] The Metaverse Versus Multi-Meva Unraveling Their Differences</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-essential-blueprint-for-srt-file-adaptability/"><u>2024 Approved The Essential Blueprint for SRT File Adaptability</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-potential-secrets-for-career-growth-in-designing/"><u>2024 Approved Unleash Potential Secrets for Career Growth in Designing</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/fy-watcher-count-simplified-tactics-exposed-for-2024/"><u>Amplify Watcher Count Simplified Tactics Exposed for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-add-on-features-justifying-price-increase-for-switch/"><u>Are Add-On Features Justifying Price Increase for Switch?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-oppo-reno-11f-5g-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Oppo Reno 11F 5G.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superior-screenplays-distributed-among-classified-types/"><u>In 2024, Superior Screenplays Distributed Among Classified Types</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-motorola-moto-g23-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Motorola Moto G23 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-infinix-note-30-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Infinix Note 30 5G Device</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-depth-examination-of-the-garmin-vivosmart-4s-advanced-health-monitoring-capabilities-and-energy-level-tracking/"><u>In-Depth Examination of the Garmin Vivosmart 4'S Advanced Health Monitoring Capabilities and Energy Level Tracking</u></a></li>
+<li><a href="https://fox-links.techidaily.com/swap-periscope-leading-video-apps-for-iphoneandroid-devices/"><u>Swap Periscope Leading Video Apps for iPhone/Android Devices</u></a></li>
+</ul></div>
 
