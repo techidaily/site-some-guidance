@@ -1,7 +1,7 @@
 ---
 title: "[New] Understanding Invisible Social Signals in Online Media"
-date: 2024-08-21T17:59:15.357Z
-updated: 2024-08-22T17:59:15.357Z
+date: 2025-02-17T18:59:43.407Z
+updated: 2025-02-19T22:53:44.302Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,10 @@ People can watch, like, share, comment on, and upload videos using the YouTube s
 * Share, like, and comment on other YouTube videos
 * Users can follow or subscribe to other YouTube channels.
 * To arrange videos and combine them together, make playlists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Use YouTube?
 
@@ -63,9 +67,6 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 ## How to See Liked Comments on YouTube?
@@ -86,34 +87,39 @@ Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
 ![find your data in youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-your-data-in-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Scroll down a little bit and click the **More** button.
 
 ![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
 
 Step3 Click the **Comments** section.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![your youtube comments date](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-comments-date.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To see videos/comments you liked or disliked, please follow these steps as continuation:
 
 Step4 In the **Google My Activity** tab, click **Other activity**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![other activity youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/other-activity-youtube-comments.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
 
@@ -121,9 +127,6 @@ Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Cl
 
 Now you will see the videos you liked or disliked and also the comments you liked or disliked, including the date when you liked or disliked the video/comment.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![date likes videos youtube](https://images.wondershare.com/filmora/article-images/2022/11/date-likes-videos-youtube.jpg)
 
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
@@ -132,9 +135,6 @@ This article tells you that you can't see who liked or disliked a comment, but y
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -167,9 +167,6 @@ Because understanding how to comment is only one aspect of the issue; very impor
 
 Try making a joke, pointing out something amusing, providing helpful information, or expressing sympathy or concern for a fan. Additionally, a simple thumbs-up or heart can go a long way to demonstrate that you are paying attention even if you aren't feeling very friendly (we all have bad days, it's OK!).
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Did you know what a Highlighted comment is?
 
 A highlighted comment on YouTube aims to draw the content creator's attention with an automated feature.
@@ -183,7 +180,6 @@ Additionally, video creators can manually highlight commenters to mark them for 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -207,8 +203,24 @@ Additionally, video creators can manually highlight commenters to mark them for 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-belly-laughs-ledger-no-fee-funny-templates/"><u>[New] Belly Laughs Ledger No-Fee Funny Templates</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-making-a-mark-with-google-slides-by-adding-youtube-videos/"><u>[New] In 2024, Making a Mark with Google Slides by Adding YouTube Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-5-android-photo-enhancers/"><u>[New] Top 5 Android Photo Enhancers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-venturing-into-vector-world-starting-point-and-top-tools-for-2024/"><u>[New] Venturing Into Vector World Starting Point and Top Tools for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-easy-to-follow-steps-for-adding-vimeo-clips-to-ppts/"><u>[Updated] In 2024, Easy-to-Follow Steps for Adding Vimeo Clips to PPTs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamlining-your-drone-footage-with-advanced-techniques/"><u>[Updated] Streamlining Your Drone Footage with Advanced Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-unrestricted-data-saver-solutions/"><u>[Updated] Top Unrestricted Data Saver Solutions</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/2-step-by-step-guide-downloading-sue-bryces-learning-videos-as-mp4-files-for-pc-and-mac-users/"><u>2. Step-by-Step Guide: Downloading Sue Bryce's Learning Videos as MP4 Files for PC & Mac Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unpacking-the-enhancements-in-sony-s6500-bdp/"><u>2024 Approved Unpacking the Enhancements in Sony S6500 BDP</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-2023s-enhanced-sony-s3700-overview/"><u>2024 Approved Unveiling 2023'S Enhanced Sony S3700 Overview</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-adobe-premiere-from-dropping-dead-in-windows-11-or-10-fixes-and-best-practices/"><u>Stop Adobe Premiere From Dropping Dead in Windows 11 or 10: Fixes and Best Practices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamsurf-skimming-above-dacast-for-2024/"><u>StreamSurf Skimming Above DaCast for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-clock-companion-for-wedding-planners-and-couples-for-2024/"><u>The Ultimate Clock Companion for Wedding Planners & Couples for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-cloud-hosting-solutions-industry-experts-choice-techradar/"><u>Top-Rated Cloud Hosting Solutions : Industry Experts' Choice | TechRadar</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transforma-tu-contenido-video-m4v-en-la-web-sin-coste-usando-el-servicio-de-conversion-de-archivos-moviabl/"><u>Transforma Tu Contenido Vídeo M4V en La Web Sin Coste Usando El Servicio De Conversión De Archivos Moviabl</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/utilizing-b-roll-enhancing-video-quality-for-2024/"><u>Utilizing B Roll Enhancing Video Quality for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/magiya-seo-pervye-resursy-v-ispanii-s-powersuite-plyusom-luchshie-optimizatory-dlya-vashej-biznes-platformy/"><u>Магия SEO: Первые Ресурсы В Испании С PowerSuite Плюсом - Лучшие Оптимизаторы Для Вашей Бизнес-Платформы</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Nostalgia Edition  Revisiting Goofy Film\""
-date: 2024-08-21T18:00:28.008Z
-updated: 2024-08-22T18:00:28.008Z
+date: 2025-02-17T21:32:01.150Z
+updated: 2025-02-20T00:48:56.829Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,6 @@ Some movies have this aura that leaves a lasting impression on you. Certain film
 
 This movie was an adventure that resonated with many kids of that era. Moreover, the movie's edits and visual effects added to its charm. If 90s kids want to recreate the movie's nostalgic feel can create using certain effects. You can use **a Goofy Movie VHS effect** to take yourself back to the fun-filled days of the 90s.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Reviewing The Goofy Movie 1995
 
 The Goofy Movie is a heartwarming film about the father-son bond. When Max gets into trouble due to a school prank, his dad, Goofy, decides to take him on a trip. However, Max faces a dilemma as he has to miss his first date with Roxanne, the girl he likes. Max lies to Roxanne to avoid disappointment, claiming that he and his father are going to a concert instead.
@@ -33,9 +30,6 @@ Throughout their journey, Goofy and Max learn to communicate and understand each
 
 The movie brings joy and laughter to viewers of all ages. It teaches us that love and understanding can bridge the gap between generations. Furthermore, we can solve problems and even misunderstandings through communication. This timeless classic reminds us of the significance of cherishing our relationships. Lastly, Goofy and his son attended the rock music concert at the movie's end.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![goofy movie poster](https://images.wondershare.com/filmora/article-images/2023/goofy-vhs-movie-poster.jpg)
 
 **Add VHS Effect to Video**
@@ -46,12 +40,21 @@ Simply add video effects on Video with [Filmora Video Effect Editor](https://too
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How Was VHS Technology Used in Old Movies?
 
@@ -99,20 +102,17 @@ If you don't feel like applying in-built overlays from the 100+ collection of [V
 
 Launch Wondershare Filmora and open the “Stock Media” tab. Locate “Solid Colors” in the “Filmstock” section and drag the black image onto your project timeline. Adjust its duration as needed, and then open the "Effects" tab and type "VHS" in the search box. Choose the "VHS Distortion Bad" effect and drag it onto the timeline. Set the alpha value to 25 and press "OK." Proceed next to open the "Effects" tab and select the "VHS Distortion" effect. Place it on the previous layer and adjust its value to 35.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add distortion effect and adjust](https://images.wondershare.com/filmora/article-images/2023/add-distortion-effect-and-adjust.jpg)
 
 ##### Step 2Add the VHS Rewind and Glitch Effect
 
 Drag and drop the "VHS Rewind" effect from the same tab onto the timeline. Further, place the effect over the previous layer and change its alpha value to 10\. Next, place the "Strong Glitch" effect over the previous layer, adjust its alpha value to 25, and click "OK."
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![add rewind and glitch](https://images.wondershare.com/filmora/article-images/2023/add-rewind-and-glitch.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 3Apply the Chromatic Aberration and VCR Distortion Effect
 
@@ -124,9 +124,6 @@ Continue to drag and place the "Chromatic Aberration" effect over the previous l
 
 Proceed to drag and drop the "Glitch Distortion" effect and place it over the previous layer. Also, adjust the alpha value of the effect to 30\. Continue to drag and drop the "Distort" effect to the timeline, and repeat the same process. However, set the following parameters Amplitude to 15, Frequency to 17, and “Opacity” to 0.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add glitch distortion to preset](https://images.wondershare.com/filmora/article-images/2023/add-glitch-distortion-to-preset.jpg)
 
 ##### Step 5Export Your Edited Video
@@ -135,10 +132,13 @@ After finishing your editing, click on the Export button and export your video w
 
 ![export entire vhs preset](https://images.wondershare.com/filmora/article-images/2023/export-entire-vhs-preset.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In conclusion, The Goofy Movie holds a special place in the hearts of 90s kids. Its lighthearted storyline, memorable characters, and catchy songs made it a beloved film of that era. You can take yourself back to the era by using **a Goofy Movie 1995 VHS effect** in your videos. To do so, Wondershare Filmora is a tool that can bring a touch of 90s to your video projects.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -162,8 +162,24 @@ In conclusion, The Goofy Movie holds a special place in the hearts of 90s kids. 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-subscribers-guide-to-effective-dialogue-on-youtube/"><u>[New] The Subscriber's Guide to Effective Dialogue on YouTube</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-top-5-podcast-apps-for-listening-to-podcasts-on-an-iphone-for-2024/"><u>[New] Top 5 Podcast Apps for Listening to Podcasts on an iPhone for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-facebook-video-extractor-mp3-format-support-for-2024/"><u>[Updated] Facebook Video Extractor – MP3 Format Support for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/12-moglichkeiten-warum-ihr-windows-system-nicht-ordnungsgemass-geladen-wird/"><u>12 Möglichkeiten, Warum Ihr Windows System Nicht Ordnungsgemäß Geladen Wird</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/building-tailored-apple-playlists-with-ease-for-ios-devices/"><u>Building Tailored Apple Playlists with Ease for iOS Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/fixing-imovies-audio-video-desynchronization-problem-a-step-by-step-guide-including-visual-assistance/"><u>Fixing iMovie's Audio-Video Desynchronization Problem: A Step-by-Step Guide Including Visual Assistance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-hp-elitebook-x360-1030-g2-system-drivers/"><u>Free Download: HP EliteBook X360 1030 G2 System Drivers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-easily-transfer-and-backup-your-ios-data-by-turning-your-iphone-into-a-storage-drive/"><u>Guide: Easily Transfer and Backup Your iOS Data by Turning Your iPhone Into a Storage Drive</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-dive-into-picsart-comprehensive-analysis-release/"><u>In 2024, Dive Into PicsArt - Comprehensive Analysis Release</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/introducing-efficient-speech-to-text-utilization-in-powerpoint/"><u>Introducing Efficient Speech-to-Text Utilization in PowerPoint</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/lossless-conversion-tactics-transforming-hd-m2ts-files-into-high-quality-mkv-format/"><u>Lossless Conversion Tactics: Transforming HD M2TS Files Into High-Quality MKV Format</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macx-hd-master-converter-tool-for-windows-10-seamless-mkvavchdmp4-transformation-upload-ready-videos-for-all-devices/"><u>MacX HD Master Converter Tool for Windows 10 - Seamless MKV/AVCHD/MP4 Transformation, Upload-Ready Videos for All Devices!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macx-ultimate-video-transcoder-activation-codes-and-serial-keys-2022/"><u>MacX Ultimate Video Transcoder: Activation Codes and Serial Keys 2022</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macxdvds-festive-bonanza-score-20k-free-copies-of-the-pro-version-of-macx-dvd-ripper-this-thanksgiving-holiday-season/"><u>MacXDVD's Festive Bonanza: Score 20K Free Copies of the Pro Version of MacX DVD Ripper This Thanksgiving Holiday Season!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/modern-solutions-for-older-usb-composite-device-troubles/"><u>Modern Solutions for Older USB Composite Device Troubles</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-lava-blaze-curve-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Lava Blaze Curve 5G</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transfer-your-memories-top-10-methods-for-shifting-pictures-from-iphone-to-mac/"><u>Transfer Your Memories: Top 10 Methods for Shifting Pictures From iPhone to Mac</u></a></li>
+</ul></div>
 

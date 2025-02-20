@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unveiling Photoshop's Image Curve Secrets"
-date: 2024-08-21T18:01:31.817Z
-updated: 2024-08-22T18:01:31.817Z
+date: 2025-02-18T20:45:44.685Z
+updated: 2025-02-20T01:24:45.454Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/4d7dde3a99efac5f6bdb879d88148e0d5b48fb102
 
 In this Photoshop tutorial, we're going to carve an image using four simple steps. Curving an image can be a great way to add some extra visual interest and dimension, and it's a technique that can be used with a wide range of images. So, let's get started!
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/curve-image-photoshop.jpg)
 
 ## Simple Steps to Curve an Image in Photoshop
@@ -35,33 +32,31 @@ To keep things simple, let's start with a white canvas. Let's open a new documen
 
 After creating the new document, open the image that you want to curve. You may do so by going to File > Open in the menu bar or pressing Ctrl+O or Command+O on your keyboard. Once the image is open, go to Edit in the menu bar and select Place Embedded from the drop-down menu that appears. Select your image and click Place. The image will be placed on the canvas. If the document's size does not match that of the image, you will see a transformation box surrounding the image.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![place image in photoshop](https://images.wondershare.com/filmora/article-images/2022/09/place-image-in-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step3Warp the Image
 
 Now we'll curve the image using the Warp Tool. Select the Warp Tool by clicking and holding on the Transform Tool in the toolbar. The Warp Tool is located at the bottom of the Transform Tool's fly-out menu. Alternatively, you may press Ctrl+T or Command+T on your keyboard to open the Transform Tool's fly-out menu and then select the Warp Tool from there.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![wrap image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/wrap-image-photoshop.jpg)
 
 With the Warp Tool selected, hover your cursor over the image. You'll see a grid appear over the image. Click and drag one of the middle nodes in the horizontal direction to begin curving the image. As you drag, you'll see the image curve along with your cursor. If you want to increase or decrease the amount of curvature, simply press and hold the Shift key while dragging the node.
 
 Play around with the settings in the options bar. There are quite a few different looks you can achieve just by adjusting these.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![change image height photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-image-height-photoshop.jpg)
 
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
 
 ![change horizontal distortion photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-horizontal-distortion-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Vertical Distortion** makes the image look as if it's leaning backward.
 
@@ -69,21 +64,14 @@ Play around with the settings in the options bar. There are quite a few differen
 
 The **Bend Direction** option rotates the angle of the bend.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![bend direction image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/bend-direction-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![flip effect image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/flip-effect-image-photoshop.jpg)
 
 ##### Step4Save the Image
@@ -91,6 +79,14 @@ Flip any of these effects in the opposite direction by placing a negative sign i
 Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
 
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -124,8 +120,26 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/obile-guide-kickstarting-your-youtube-entrepreneurial-venture/"><u>[New] Mobile Guide Kickstarting Your YouTube Entrepreneurial Venture</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-optimizing-youtube-content-for-instagram-platforms/"><u>[New] Optimizing YouTube Content for Instagram Platforms</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-virtual-voyages-101-starting-your-journey-with-vr-tours/"><u>[Updated] 2024 Approved Virtual Voyages 101 Starting Your Journey with VR Tours</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-galaxy-s8-review-a-new-era-for-superior-smartphones/"><u>[Updated] Galaxy S8 Review - A New Era for Superior Smartphones</u></a></li>
+<li><a href="https://win-premium.techidaily.com/macgoogle-drive/"><u>如何在 Mac上顺利使用Google Drive同步服务—详解指南</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvdmac-iphoneipadandroid2024/"><u>市販DVDをMacから取り込んで、無料でリッピング! IPhone、iPad、Androidで再生する方法2024年版指南</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/are-your-windows-apps-struggling-to-connect-to-the-internet-try-these-fixes/"><u>Are Your Windows Apps Struggling to Connect to the Internet? Try These Fixes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortless-guide-top-10-methods-to-shift-images-from-iphone-to-your-mac/"><u>Effortless Guide: Top 10 Methods to Shift Images From iPhone to Your Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-xbox-controller-setup-for-personal-computers-157-chars-slight-overage-allowed-due-to-importance-of-message-content/"><u>Effortless Xbox Controller Setup for Personal Computers (157 Chars) - Slight Overage Allowed Due to Importance of Message Content.</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-androidios-montages-top-8-tools-for-dynamic-media-blends/"><u>In 2024, Android/iOS Montages Top 8 Tools for Dynamic Media Blends</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/massive-savings-macx-all-in-one-multimedia-suite-at-a-steal-with-65-off-this-holiday-season/"><u>Massive Savings: MacX All-in-One Multimedia Suite at a Steal with 65% Off This Holiday Season!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-mavericks-os-x-the-best-way-to-edit-mp4-videos/"><u>New 2024 Approved Mavericks OS X The Best Way to Edit MP4 Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/resolved-insufficient-storage-issue-in-ios-applications-like-imovie-on-your-mac-iphone-or-ipad/"><u>Resolved: Insufficient Storage Issue in iOS Applications Like iMovie on Your Mac, iPhone, or iPad</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/telechargement-gratuit-de-mac-x-dvd-ripper-professional-sur-internet/"><u>Téléchargement Gratuit De Mac X DVD Ripper Professional Sur Internet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-top-5-guide-high-efficiency-video-coding-players-for-enjoying-4k-movies-on-pc-and-mac-systems/"><u>The Ultimate Top 5 Guide: High-Efficiency Video Coding Players for Enjoying 4K Movies on PC and Mac Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-macx-dvd-to-avi-transcoder-seamless-mac-based-dvd-to-avi-conversion-experience/"><u>Top MacX DVD to AVI Transcoder: Seamless Mac-Based DVD to AVI Conversion Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/trois-convertisseurs-de-videos-premium-gratuits-sur-mac-boostez-vos-videos-facilement/"><u>Trois Convertisseurs De Vidéos Premium Gratuits Sur Mac : Boostez Vos Vidéos Facilement !</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-audiovideo-bitrate-modifier-speed-up-conversion-of-mp4s-audios-with-ease/"><u>Ultimate Audio/Video Bitrate Modifier - Speed Up Conversion of MP4s, Audios with Ease</u></a></li>
+</ul></div>
 

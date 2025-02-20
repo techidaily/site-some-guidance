@@ -1,7 +1,7 @@
 ---
 title: "[New] The Complete Blueprint for Effective LUT Usage in Editing"
-date: 2024-08-21T18:00:35.298Z
-updated: 2024-08-22T18:00:35.298Z
+date: 2025-02-15T23:38:55.185Z
+updated: 2025-02-19T17:09:17.578Z
 tags: 
   - screen-recording
   - ai video
@@ -23,8 +23,9 @@ Whether you're working on a personal project or a business campaign, the procedu
 you grab the camera, follow your idea, and acquire your pictures, then transfer the movie to your computer and start editing. In this protracted creative process, color grading is typically the final and possibly at least one of the most crucial processes. We all hoped there's a way to speed up this procedure, and fortunately there is! Let's start!
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. How to install LUTs in Premiere Pro
 
 LUTs can be applied in Premiere Pro in two different ways. Utilizing LUTs through the Creative tab of the Lumetri Color Panel is the simplest method. However, it does not make the LUTs a permanent part of the collection.
@@ -36,12 +37,9 @@ Step2Locate the Lumetri LUTs folder in your Premiere Pro installation directory 
 Step3Paste all of your fresh LUTs in this folder at this time. Your new LUTs will now show up in the Lumetri Color Panel when you launch Premiere Pro (or restart the software if it was already open). Innovative >> Looks
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. How to add LUTs to your footage
 
 Step1Choose the Color Workspace at the top after your clip is in the timeline and prepared for grading.
@@ -52,9 +50,6 @@ Step3The first Basic Correction option in the right-hand panel of Lumetri Color 
 
 Step4Double-click the LUT you wish to use once you've located it, and it will be applied immediately.A tiny tip I like to use occasionally is to find the Effect Controls panel on the left side, then click the drop-down arrow next to Opacity, and make adjustments if you input your LUT and feel that it's too intense.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## 3\. Why use LUTs in your project?
 
 When there is no time limit or restriction on when to submit the result file, it is fun to edit your own clips because you have complete creative control over the process. Because of this, Color Grading is a rather unimportant aspect to worry about. After making a few adjustments to the Exposure and Contrast settings, you should be good to go.
@@ -66,8 +61,9 @@ Because of this, some designers employ look-up tables (LUTs) that they have crea
 When it comes to working on a project for a customer that has a stringent deadline to fulfill, poor color grading could result in a negative impression of your work. This is the case even if everything from the sound effects to the video effects is done to a high standard and is done well.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Can you adjust the strength of the LUT?
 
 There are no such modifications that can be made in a certain LUT or Look, and there is no reason to adjust them because there is no need to. However, you may change its strength, which is essentially the same thing as the opacity of the LUT that was applied, and there are still choices to color grade the entire movie after the LUT has been applied.
@@ -77,8 +73,9 @@ The entire color panel in Premiere Pro is packed with all of the color grading t
 The end outcome does not vary by a substantial amount, but how it looks can change depending on the LUT you use. In the event that something seems to be lacking, you can always modify the color grading.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Export LUTs
 
 An awesome feature of Premiere Pro enables you store and reuse your color modifications in multiple projects or programs. You have the option of exporting color grading information as either a.look file or a .cube LUT file, which may then be used in Adobe Premiere Pro or another application. Here's how you export them:
@@ -92,8 +89,9 @@ Step2Export ".cube" This function exports lookup tables in the.cube format so th
 Step3Store Preset: You can personalize the settings for each color effect, then save the resulting combinations as presets. Within the Save Preset dialog box, give your preset the name you want it to have. If desired, enter a description. Please visit the article on how to create and store an effect preset for further details.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Where can you find LUTs?
 
 You might be asking, "Now that I've learned more about LUTs (Lookup Tables), where can I get even more LUTs?" since you've gained some new knowledge. In the end, being able to use the built-in LUTs in Luminar is a nice feature, but these are merely samples of the thousands upon thousands of LUTs that are accessible, both for free and for purchase.
@@ -141,8 +139,21 @@ Sometimes, some of them are out there to steal your money rather than provide th
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/upercharge-your-channels-a-guide-to-the-best-keyword-research-software/"><u>[New] Supercharge Your Channels A Guide to the Best Keyword Research Software</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-elevate-your-youtube-presence-the-art-of-seo-optimization-for-2024/"><u>[Updated] Elevate Your YouTube Presence The Art of SEO Optimization for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-assessing-the-usefulness-of-instas-verified-posts/"><u>[Updated] In 2024, Assessing the Usefulness of Insta’s Verified Posts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/bypassing-the-complete-itunes-backup-error-with-clever-solutions/"><u>Bypassing the Complete iTunes Backup Error with Clever Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvd-in-mkv-konvertieren-fur-mac-nutzer-einfache-und-qualitatssichernde-methoden-erklart/"><u>DVD in MKV Konvertieren Für Mac Nutzer – Einfache Und Qualitätssichernde Methoden Erklärt</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/les-meilleurs-lecteurs-gratuit-de-fichiers-mkv-pour-mac-top-6-telechargez-maintenant/"><u>Les Meilleurs Lecteurs Gratuit De Fichiers Mkv Pour Mac : Top 6 Téléchargez Maintenant !</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/struggling-with-mkv-video-playback-on-ipad-master-the-technique-to-enjoy-high-definition-content-smoothly/"><u>Struggling with MKV Video Playback on iPad? Master the Technique to Enjoy High-Definition Content Smoothly!</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-digital-tide-shift-4-groundbreaking-modifications-in-online-networks/"><u>The Digital Tide Shift: 4 Groundbreaking Modifications in Online Networks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-invisible-hand-decoding-instagrams-update-effects/"><u>The Invisible Hand Decoding Instagram’s Update Effects</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-top-picks-excellent-fb-lite-video-downloaders-of-2023/"><u>The Top Picks Excellent FB Lite Video Downloaders of 2023</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-18-unbeatable-prime-day-offers-on-hp-apple-razer-and-other-brands-exclusive-deals-from-zdnet/"><u>Top 18 Unbeatable Prime Day Offers on HP, Apple, Razer & Other Brands - Exclusive Deals From ZDNet!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-free-mac-software-options-for-hd-video-conversion-anynydvd-alternatives-by-open-source-creators/"><u>Top Free Mac Software Options for HD Video Conversion: AnynyDVD Alternatives by Open Source Creators</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-safety-aspects-of-craving-explorer-pre-use-guide/"><u>Understanding Safety Aspects of Craving Explorer – Pre-Use Guide!</u></a></li>
+</ul></div>
 

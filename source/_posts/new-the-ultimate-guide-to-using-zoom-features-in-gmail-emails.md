@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate Guide to Using Zoom Features in Gmail Emails"
-date: 2024-08-21T18:00:40.356Z
-updated: 2024-08-22T18:00:40.356Z
+date: 2025-02-12T21:42:22.040Z
+updated: 2025-02-19T17:15:01.793Z
 tags: 
   - screen-recording
   - ai video
@@ -38,27 +38,22 @@ The procedures for installing the Zoom for G Suite plugin are as follows:
 
 Install the Zoom for Gmail add-on via the G Suite Marketplace as your first step. Click Install, continue, and then Allow to get started (when giving Zoom access to your Google account).
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![zoom for gmail](https://images.wondershare.com/filmora/article-images/2022/07/zoom-for-gmail.jpg)
 
 ##### Step2Press "Install"
 
 There is no need to log into Zoom or look through emails to get access. Both choices may be used for free. You can quickly book, join, and manage Zoom meetings from the mobile or desktop versions of your personal Gmail and Google Calendar by using the Zoom for G-Suite add-on. You'll get a popup on your screen stating "Zoom for Gmail has been installed" when the installation is complete.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![install zoom for gmail](https://images.wondershare.com/filmora/article-images/2022/07/install-zoom-for-gmail.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step3Log into your own Google Account
 
 Launch your web browser and open Gmail. A new Zoom icon with the text "Zoom for Gmail was installed" will appear on the right sidebar. Log into your Zoom account when the new tab has opened, then select Authorize to provide Gmail access.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose account to continue zoom](https://images.wondershare.com/filmora/article-images/2022/07/choose-account-to-continue-zoom.jpg)
 
 ##### Step4Press "Allow"
@@ -67,9 +62,6 @@ You will need your account administrator's prior consent if your Gmail account i
 
 ![allow zoom meetings google account](https://images.wondershare.com/filmora/article-images/2022/07/allow-zoom-meetings-google-account.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. How to start a meeting from Zoom for Gmail
 
 G Suite and Zoom may be integrated in both ways. Therefore, each meeting you schedule on Zoom will have an invite link that is instantly posted to your Google Calendar. Install it after logging out of all other Google accounts and signing into the one you wish to add it to. Another feature of the Zoom for Gmail add-on is the ability to book a Zoom conference directly from Gmail. The meeting subject will automatically be pulled from the email subject line into the Google Calendar event. Simply login into Gmail in your browser and start a new email message to begin organizing Zoom meetings. Here's how to set up a Zoom meeting on your Google Calendar and invite participants:
@@ -78,9 +70,6 @@ G Suite and Zoom may be integrated in both ways. Therefore, each meeting you sch
 
 Step1 Install the "Zoom for G-Suite" plugin, that is free, from the official G-Suite store after logging into your Google account.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![install zoom for gsuite](https://images.wondershare.com/filmora/article-images/2022/07/install-zoom-for-gsuite.jpg)
 
 To get install rights if you are using an enterprise account, get in touch with your IT administrator. A lot of rights, including complete access to your whole contact list, are also required by the add-on. Skip this technique and look at Method 2, which does not need the add-on, if that makes you uncomfortable.
@@ -89,26 +78,33 @@ Step2 Now open Google Calendar, and on the right side of the window, locate the 
 
 ![zoom in google calendar](https://images.wondershare.com/filmora/article-images/2022/07/zoom-in-google-calendar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Turn on "Pre-approve" and adhere to the on-screen instructions to provide the app access to your Google account information.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enable pre approve](https://images.wondershare.com/filmora/article-images/2022/07/enable-pre-approve.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 Next, check for the "Add Conferencing" box when creating a new Google Calendar event. Then, pick "Zoom Meeting" from the list of possibilities by clicking on the drop-down menu. At the bottom, click "Preserve" to save your selection.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add conference google calendar](https://images.wondershare.com/filmora/article-images/2022/07/add-conference-google-calendar.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5 The Meeting ID, password, and passcode will now be automatically filled in by the add-on in the Calendar event. Additionally, it will provide a link with joining instructions, which should be helpful for anyone who are unfamiliar with Zoom. You may now invite people to the meeting by clicking on the freshly created event in Google Calendar and using the "Add Guests" section. Finally, choose the "envelope" symbol to send guests an email invitation.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add guests zoom meeting](https://images.wondershare.com/filmora/article-images/2022/07/add-guests-zoom-meeting.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. Tips to Use Zoom for Gmail
 
@@ -123,6 +119,10 @@ Without the add-on, you may still include a link to a Zoom meeting in a Google C
 * Create a new meeting by using the Zoom client on your PC (or Android or iOS phone). Then, on the Meetings page, select the "Copy Invitation" option.
 * Open a web browser and log in to Google. After that, enter Google Calendar and manually paste the meeting details into the "Notes" area at the bottom before adding the Zoom invite link. Finally, choose "Save." As previously mentioned, you may now use the email link to add guests and send invitations.
 * After accepting the invitation, the participants will see the meeting link in their Google Calendar and be able to join by clicking the link or the "Join Zoom Meeting" option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Make a Video Recording of the Call
 
@@ -143,8 +143,9 @@ With one URL and preserved settings, create recurring meetings. You may set up a
 ![create zoo mmeeting template](https://images.wondershare.com/filmora/article-images/2022/07/create-zoom-meeting-template.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 In a nutshell, so that everyone can arrive on time, you would be able to easily choose "Zoom Meeting" inside your Google Calendar event and create a link to join it. When you include a Zoom meeting in your calendar invitation, all participants may join the meeting by simply clicking the meeting's details and then clicking again. There is no need to log into Zoom or look through emails to get access. In addition to providing capabilities that let you fully manage the screen recording process, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is also video editing software that enables you to edit your recordings anyway you see fit. That is why we recommend going for [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) in order to use Zoom in Gmail as it will not only record but also let you edit the recorded content as per your desire.
@@ -173,8 +174,21 @@ In a nutshell, so that everyone can arrive on time, you would be able to easily 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-essential-mac-screen-recorder-alternatives-to-bandicam-for-2024/"><u>[New] Essential Mac Screen Recorder Alternatives to Bandicam for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-youtube-channel-perfecting-video-scriptwriting-skills-for-2024/"><u>[Updated] Elevate Your YouTube Channel Perfecting Video Scriptwriting Skills for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-get-into-the-game-starting-an-apple-powered-sports-network-for-2024/"><u>[Updated] Get Into the Game Starting an Apple-Powered Sports Network for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-natures-canvas-your-ultimate-guide-to-free-screen-template-downloads/"><u>[Updated] In 2024, Nature's Canvas Your Ultimate Guide to Free Screen Template Downloads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-shrinking-high-definition-mp4-mkv-and-avi-videos-a-comprehensive-guide/"><u>1. Shrinking High-Definition MP4, MKV, and AVI Videos: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mac-x-psp-mac/"><u>無料 Mac X 動画変換 - PSP 対応の最新版 Macアプリでビデオを簡単に変換</u></a></li>
+<li><a href="https://fox-links.techidaily.com/boosting-video-conference-quality-a-guide-to-using-zoom-and-skype/"><u>Boosting Video Conference Quality A Guide to Using ZOOM & SKYPE</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/convertir-des-gif-vers-des-fichiers-swf-gratuitement-avec-la-solution-web-de-movavi-guide-detaille/"><u>Convertir Des GIF Vers Des Fichiers SWF Gratuitement Avec La Solution Web De Movavi - Guide Détaillé</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-the-best-4k-movies-for-free-top-picks-from-hollywood-and-bollywood-cinemas/"><u>Download the Best 4K Movies for FREE: Top Picks From Hollywood & Bollywood Cinemas</u></a></li>
+<li><a href="https://fox-http.techidaily.com/essential-strategies-for-epic-android-time-lapses-2024/"><u>Essential Strategies for Epic Android Time-Lapses 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-fixes-for-unstable-performance-ensuring-a-smooth-genshin-impact-experience-on-desktop-computers/"><u>Expert Fixes for Unstable Performance - Ensuring a Smooth Genshin Impact Experience on Desktop Computers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/imovie-export-woes-heres-how-to-fix-improper-video-exporting-on-your-apple-devices/"><u>IMovie Export Woes? Here’s How to Fix Improper Video Exporting on Your Apple Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/pcdvd-dvd-rental-copying-tips/"><u>PC不要のレンタルDVDコピー手順ガイド | DVD Rental Copying Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-itunes-error-14-during-ios-device-updates-essential-tips-and-solutions/"><u>Troubleshooting iTunes Error 14 During iOS Device Updates – Essential Tips and Solutions</u></a></li>
+</ul></div>
 
